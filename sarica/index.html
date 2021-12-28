@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>
+    <script src='./ar-components.js'></script>
+    <script src='./data.js'></script>
+
+    <script>
+        const people = {};
+
+        let i = 0;
+        let di = {};
+        function correctData(data, depth = 0) {
+            if (!data) return;
+
+            if (data.marriedTo && typeof data.marriedTo == 'string') {
+                // console.log(data.marriedTo)
+                data.marriedTo = {
+                    person: {
+                        name: data.marriedTo
+                    },
+                };
+            }
+
+            di[depth] = di[depth] !== undefined ? di[depth] + 1 : 0;
+
+            data.index = i;
+            data.hIndex = di[depth];
+            data.depth = depth;
+
+            data.spaceNeeds = getNeededSpace(data);
+            people[i] = data;
+
+            i++;
+
+            if (!data.children) return;
+
+            data.children.forEach((c, idx) => {
+                // console.log(c, typeof c);
+                if (typeof c == 'string') {
+                    data.children[idx] = {
+                        person: {
+                            name: c,
+                        },
+                    };
+
+                    c = data.children[idx];
+                }
+                correctData(c, depth + 1);
+            });
+        }
+        correctData(familyData);
+
+        // console.log(people);
+
+        function getNeededSpace(data) {
+            if (!data.children) return 1;
+
+            let space = 0;
+            for (let c of data.children) {
+                space += getNeededSpace(c);
+            }
+
+            return space;
+        }
+
+        function addLoc() {
+            let m = {};
+            let prevD = 0;
+
+            for (let p of Object.values(people)) {
+                let depth = p.depth;
+                if (!m[depth]) {
+                    m[depth] = 0;
+                }
+
+                if (depth <= prevD) {
+                    let depthMax = Math.max(...Object.keys(m))
+                    let max = 0;
+                    for (let ii = depth; ii <= depthMax; ii++) {
+                        max = Math.max(max, m[ii] || 0);
+                    }
+                    for (let ii = depth; ii <= depthMax; ii++) {
+                        m[ii] = max;
+                    }
+                }
+                // console.log(m);
+                p.loc = m[depth] + (p.spaceNeeds / 2);
+                m[depth] += p.spaceNeeds;
+
+                prevD = p.depth;
+            }
+        }
+        addLoc();
+
+        function getRndBetween(min, max) {
+            return (Math.random() * (max - min)) + min;
+        }
+
+        AFRAME.registerComponent('setup', {
+            /**
+             * Code within this function will be called when everything in <a-scene> is ready and loaded.
+             */
+            init: function () {
+                // console.log('test')
+                const scene = document.querySelector('a-scene');
+
+                const familyTree = scene.querySelector('#familyTree');
+                const board = document.querySelector('#boardText');
+
+                const space = 1.5;
+
+                const totalSpace = people[0].spaceNeeds * space;
+                const half = totalSpace / 2;
+
+                function createPerson(branch, person, depth, loc) {
+                    let { x, y, z } = loc;
+
+                    const p = document.createElement('a-plane');
+                    p.setAttribute('class', 'person');
+                    // p.setAttribute('material', 'src: ' + person.image);
+                    p.setAttribute('position', {
+                        x,
+                        y,
+                        z: z + getRndBetween(-0.1, 0.1)
+                    });
+                    p.setAttribute('width', '1');
+                    p.setAttribute('height', '1');
+
+                    const imgUrl = !!person.image ? person.image : undefined
+                    const img = `./assets/${imgUrl}.png`
+                    p.setAttribute('src', img)
+
+                    p.addEventListener('mouseenter', () => {
+                        p.setAttribute('scale', '1.1 1.1 1');
+                    });
+                    p.addEventListener('mouseleave', () => {
+                        p.setAttribute('scale', '1 1 1');
+                    });
+                    p.addEventListener('click', () => {
+                        console.log(person);
+
+                        board.setAttribute('text', `anchor: center; width: 1.7; lineHeight: 50; color: black; value: ${person.name}\n ${person.dob} - ${person.dod}\n ${person.description}\n30 Ağustos yaklaşmıştı, okula bayrak siparişi vermiştik, okulun yan yüzeyini kaplayacak kadar büyük bayraklar. Bir taraftanda bahçede Atatürk büstü için kaide yapılıyordu, velimizin tanıdığı bağış olarak yaptırıyordu, başka bir veli de bağış büst hediye etmişti, kaide genelde bitmişti, biraz eksikleri olduğu için büstte monte edilmemişti. Eşref her gün büstü sabah erkenden yerine koyuyor akşam içeri alıyordu. 29 Ağustos akşamından okulu bayraklarla donattık. Ben de eve artık 11.00 den önce gidemiyordum.
+Sabah 8.30 civarında okula geldiğimde büyük bayraklardan bir kaçı yerinde yoktu. Eşref'i çağırdım onunda haberi yok, okulda bir kaç işçi kalıyordu, onları odama çağırdım, biraz araştırdım, o çocuklardan biri yapmış, bazıları da mani olmaya çalışmış ama içlerinden biri bayrağı oradan indirmiş. Odam da bu çocuklara(yaşları 18-20-23), bayrak hepimizin bayrağı... minvalinde biraz kızdım biraz da nasihat ettim, o çocuklara bizim hizmetlileri de katarak yeniden astırdım. İlginç bir olaydı.
+Okulumuz 30 derslikten oluşuyordu, her sınıftan 3 şube açmayı planlıyorduk, bu standardımız olacak, İki sınıfı da anasınıfı olarak tasarlamış, fen labaratuvarı, öğretmenler odası için bir sınıf, müdür odası ve sanırım iş atölyesi içinde bir sınıf tasarlayarak 30 sınıfı da kullanmış olacaktık, ama o yıl birinci ve altıncı sınıf üçer şube diğerleri de geldiği kadar açmayı düşünüyorduk. Akşam saat 10.00 civarında odamda çalışıyordum, yanımda bir kişi daha vardı, karşı apartman da bizim ışığımızın yandığını gören Halil bey ve eşi bir çaydanlık çay ve yanında bir şeyler ile geldiler, tüm yorgunluğum huzura dönmüştü...; `)
+                        // branch.setAttribute('visible', false);
+                    });
+
+                    return p;
+                }
+
+                function traverse(rootbranch, personInfo, depth) {
+                    let branch = rootbranch;
+                    // let branch = document.createElement('a-entity');
+                    // branch.setAttribute('position', {
+                    //     x: loc.x,
+                    //     y: loc.y,
+                    //     z: loc.z
+                    // });
+                    // rootbranch.appendChild(branch);
+
+                    let spaceNeeded = personInfo.loc * space;
+                    let x = (spaceNeeded) - half;
+                    let y = personInfo.depth * 1.5;
+                    let z = -1;
+
+                    let p;
+
+                    if (personInfo.marriedTo) {
+
+                        p = createPerson(branch, personInfo.person, depth, { x: x - 0.5, y, z });
+
+                        const w = createPerson(branch, personInfo.marriedTo, depth, {
+                            x: x + 0.5,
+                            y: y - 0.01,
+                            z: z - 0.3
+                        });
+
+                        branch.appendChild(w);
+
+                    } else {
+                        p = createPerson(branch, personInfo.person, depth, { x, y, z });
+                    }
+
+                    branch.appendChild(p);
+
+
+                    // console.log('*'.repeat(depth), personInfo.person.name, '-', personInfo.marriedTo?.name);
+
+                    if (personInfo.children) {
+
+                        personInfo.children.forEach((pp, i) => {
+                            traverse(branch, pp, depth + 1);
+                        });
+                    }
+                }
+
+                traverse(familyTree, familyData, 0);
+
+            }
+        });
+    </script>
+
+</head>
+
+<body>
+    <a-scene setup webxr='optionalFeatures: hit-test;'>
+        <!-- vr-mode-ui="enterVRButton: #myEnterVRButton; enterARButton: #myEnterARButton" -->
+        <!-- <a id="myEnterVRButton" visible='false' href="#"></a> 
+        <a id="myEnterARButton" class="a-enter-ar-button" href="#"></a> -->
+
+        <a-assets>
+            <!-- <a-asset-item id="treeImg" src="./assets/t.png"></a-asset-item> -->
+
+            <!-- <a-asset-item id="treeObj" src="./assets/tree.gltf"></a-asset-item> -->
+            <img id="tree" crossorigin="anonymous"
+                src="https://media.istockphoto.com/photos/old-wood-tree-texture-pattern-background-in-sunny-day-picture-id1011899006" />
+
+
+            <audio id="click-sound" crossorigin="anonymous"
+                src="https://cdn.aframe.io/360-image-gallery-boilerplate/audio/click.ogg"></audio>
+        </a-assets>
+
+        <!-- <a-entity id='world' scale='0.1 0.1 0.1'>
+            <a-box position="-1 0.5 0" rotation="0 45 0" color="#4CC3D9"></a-box>
+            <a-sphere position="0 1.25 -2" radius="1.25" color="#EF2D5E"></a-sphere>
+            <a-cylinder position="1 0.75 0" radius="0.5" height="1.5" color="#FFC65D"></a-cylinder>
+            <a-plane position="0 0 -1" rotation="-90 0 0" width="4" height="4" color="#7BC8A4"></a-plane>
+        </a-entity>
+
+        <a-entity ar-hit-test="target:#familyTree;"> 
+
+            <a-ring color="teal" radius-inner="0.15" radius-outer="0.2" rotation="-90 0 0"></a-ring>
+        </a-entity> -->
+
+        <a-entity ar-vr-only>
+
+            <a-entity id='board' position='-5 0 2' rotation='0 145 0'>
+                <a-plane height='4' width='2' id='boardText' material='color: lightgray; opacity: 0.7;'></a-plane>
+            </a-entity>
+
+            <a-entity>
+                <a-plane id='ar_person' height='4' width='1.5' position='-3 0 0' rotation='0 90 0' transparent=true
+                    src="./assets/babam_ar.png"></a-plane>
+
+            </a-entity>
+
+            <!-- <a-entity id='tree' gltf-model="#treeObj" position="0 0 -2" scale='100 10 10'></a-entity> -->
+            <!-- <a-plane position="0 0 -5" rotation="0 0 0" width="10" height="10" src="./assets/oak.png"></a-plane> -->
+            <a-entity id='familyTree' position="0 0 -5" scale="0.5 0.5 0.5">
+                <!-- <a-cylinder position="0 0 -5" radius="0.5" height="2" src="#tree"></a-cylinder>
+                <a-cylinder position="-0.7 1. -5" radius="0.45" rotation='0 0 45' height="2" src="#tree"></a-cylinder>
+                <a-cylinder position="0.7 1. -5" radius="0.45" rotation='0 0 -45' height="2" src="#tree"></a-cylinder> -->
+
+            </a-entity>
+        </a-entity>
+
+        <!-- Camera + cursor. -->
+        <a-entity camera look-controls>
+            <a-cursor id="cursor"
+                animation__click="property: scale; startEvents: click; from: 0.1 0.1 0.1; to: 1 1 1; dur: 150"
+                animation__fusing="property: fusing; startEvents: fusing; from: 1 1 1; to: 0.1 0.1 0.1; dur: 1500"
+                event-set__mouseenter="_event: mouseenter; color: springgreen"
+                event-set__mouseleave="_event: mouseleave; color: black" raycaster="objects: .person"></a-cursor>
+        </a-entity>
+
+
+        <a-sky color="#ECECEC" hide-in-ar-mode src="https://live.staticflickr.com/5585/14870724023_0f1989c539_b.jpg">
+        </a-sky>
+        <!-- <a-sky color="#ECECEC"></a-sky> -->
+    </a-scene>
+</body>
+
+</html>
