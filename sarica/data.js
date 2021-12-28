@@ -2,6 +2,8 @@ const description = ``;
 
 const dedem = {
     name: 'Mehmet Sarica',
+    image: 'dedem',
+    ar: 'dedem_ar',
     dob: '1928',
     dod: '2014',
     description,
@@ -16,6 +18,8 @@ const babaannem = {
 
 const emetullah = {
     name: 'Emetullah Sarica',
+    image: 'emetullah',
+    ar: 'emetullah_ar',
     dob: '',
     dod: '',
     description,
