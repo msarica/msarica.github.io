@@ -191,7 +191,7 @@ const annem = {
 const ben = {
     name: 'Mehmet Sarica',
     image: 'mehmet',
-    ar: 'mehmet_ar',
+    ar: 'ben_ar',
     dob: '',
     dod: '',
     description,
