@@ -163,6 +163,7 @@ const fatma = {
 const babam = {
     name: 'Mustafa Sarica',
     image: 'babam',
+    ar: 'babam_ar',
     dob: '1964',
     dod: '',
     description,
@@ -186,6 +187,7 @@ const annem = {
 const ben = {
     name: 'Mehmet Sarica',
     image: 'mehmet',
+    ar: 'mehmet_ar',
     dob: '',
     dod: '',
     description,

@@ -108,6 +108,9 @@
 
                 const familyTree = scene.querySelector('#familyTree');
                 const board = document.querySelector('#boardText');
+                const ar_image = document.querySelector('#ar_person');
+
+
 
                 const space = 1.5;
 
@@ -143,6 +146,16 @@
 
                         board.setAttribute('text', `anchor: center; width: 1.7; lineHeight: 50; color: black; value: ${person.name}\n ${person.dob} - ${person.dod}\n ${person.description}\n`)
                         // branch.setAttribute('visible', false);
+
+                        if (!person.ar) {
+                            ar_image.setAttribute('visible', false);
+                        } else {
+                            const img = `./assets/${person.ar}.png`
+                            ar_image.setAttribute('src', img);
+
+                            ar_image.setAttribute('visible', true);
+
+                        }
                     });
 
                     return p;
@@ -232,15 +245,15 @@
             <a-ring color="teal" radius-inner="0.15" radius-outer="0.2" rotation="-90 0 0"></a-ring>
         </a-entity> -->
 
-        <a-entity ar-vr-only>
+        <a-entity>
 
-            <a-entity id='board' position='-5 0 2' rotation='0 145 0'>
+            <a-entity id='board' position='-5 0 2' rotation='0 110 0'>
                 <a-plane height='4' width='2' id='boardText' material='color: lightgray; opacity: 0.7;'></a-plane>
             </a-entity>
 
             <a-entity>
                 <a-plane id='ar_person' height='4' width='1.5' position='-3 0 0' rotation='0 90 0' transparent=true
-                    src="./assets/babam_ar.png"></a-plane>
+                    visible='false'></a-plane>
 
             </a-entity>
 
