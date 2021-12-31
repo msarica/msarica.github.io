@@ -5,6 +5,16 @@
     <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>
     <script src='./ar-components.js'></script>
     <script src='./data.js'></script>
+    <style>
+        .a-enter-vr {
+            /* visibility: collapse; */
+            display: none;
+        }
+
+        .a-enter-ar {
+            right: 20px;
+        }
+    </style>
 
     <script>
         const people = {};
@@ -15,11 +25,8 @@
             if (!data) return;
 
             if (data.marriedTo && typeof data.marriedTo == 'string') {
-                // console.log(data.marriedTo)
                 data.marriedTo = {
-                    person: {
-                        name: data.marriedTo
-                    },
+                    name: data.marriedTo
                 };
             }
 
@@ -62,7 +69,7 @@
                 space += getNeededSpace(c);
             }
 
-            return space;
+            return space + 0.5;
         }
 
         function addLoc() {
@@ -98,6 +105,53 @@
             return (Math.random() * (max - min)) + min;
         }
 
+        // // obj - your object (THREE.Object3D or derived)
+        // // point - the point of rotation (THREE.Vector3)
+        // // axis - the axis of rotation (normalized THREE.Vector3)
+        // // theta - radian value of rotation
+        // // pointIsWorld - boolean indicating the point is in world coordinates (default = false)
+        // function rotateAboutPoint(obj, point, axis, theta, pointIsWorld) {
+        //     pointIsWorld = (pointIsWorld === undefined) ? false : pointIsWorld;
+
+        //     if (pointIsWorld) {
+        //         obj.parent.localToWorld(obj.position); // compensate for world coordinate
+        //     }
+
+        //     obj.position.sub(point); // remove the offset
+        //     obj.position.applyAxisAngle(axis, theta); // rotate the POSITION
+        //     obj.position.add(point); // re-add the offset
+
+        //     if (pointIsWorld) {
+        //         obj.parent.worldToLocal(obj.position); // undo world coordinates compensation
+        //     }
+
+        //     obj.rotateOnAxis(axis, theta); // rotate the OBJECT 
+        // }
+
+        let board, person_ar;
+
+        function showPersonInfo(person) {
+            console.log(person);
+
+            const name = person.name;
+            const dob = person.dob || '';
+            const dod = person.dod || '';
+            const description = person.description || '';
+
+            board.setAttribute('text', `anchor: center; width: 1.7; lineHeight: 50; color: black; value: ${name}\n ${dob} - ${dod}\n ${description}\n`)
+            // branch.setAttribute('visible', false);
+
+            if (!person.ar) {
+                ar_image.setAttribute('visible', false);
+            } else {
+                const img = `./assets/${person.ar}.png`
+                ar_image.setAttribute('src', img);
+
+                ar_image.setAttribute('visible', true);
+
+            }
+        }
+
         AFRAME.registerComponent('setup', {
             /**
              * Code within this function will be called when everything in <a-scene> is ready and loaded.
@@ -105,35 +159,41 @@
             init: function () {
                 // console.log('test')
                 const scene = document.querySelector('a-scene');
+                const camera = document.querySelector('#camera');
+
 
                 const familyTree = scene.querySelector('#familyTree');
-                const board = document.querySelector('#boardText');
-                const ar_image = document.querySelector('#ar_person');
+                board = document.querySelector('#boardText');
+                ar_image = document.querySelector('#ar_person');
 
-
-
-                const space = 1.5;
+                const space = 1.2;
 
                 const totalSpace = people[0].spaceNeeds * space;
                 const half = totalSpace / 2;
 
                 function createPerson(branch, person, depth, loc) {
-                    let { x, y, z } = loc;
+                    let { x, y, z, rotateY } = loc;
+
+                    const pb = document.createElement('a-entity');
+                    pb.setAttribute('position', '0 0 0');
+                    pb.setAttribute('rotation', {
+                        y: rotateY
+                    });
 
                     const p = document.createElement('a-plane');
                     p.setAttribute('class', 'person');
-                    // p.setAttribute('material', 'src: ' + person.image);
                     p.setAttribute('position', {
                         x,
                         y,
-                        z: z + getRndBetween(-0.1, 0.1)
+                        z
                     });
+
                     p.setAttribute('width', '1');
                     p.setAttribute('height', '1');
 
                     const imgUrl = !!person.image ? person.image : undefined
                     const img = `./assets/${imgUrl}.png`
-                    p.setAttribute('src', img)
+                    p.setAttribute('src', img);
 
                     p.addEventListener('mouseenter', () => {
                         p.setAttribute('scale', '1.1 1.1 1');
@@ -142,62 +202,48 @@
                         p.setAttribute('scale', '1 1 1');
                     });
                     p.addEventListener('click', () => {
-                        console.log(person);
 
-                        board.setAttribute('text', `anchor: center; width: 1.7; lineHeight: 50; color: black; value: ${person.name}\n ${person.dob} - ${person.dod}\n ${person.description}\n`)
-                        // branch.setAttribute('visible', false);
-
-                        if (!person.ar) {
-                            ar_image.setAttribute('visible', false);
-                        } else {
-                            const img = `./assets/${person.ar}.png`
-                            ar_image.setAttribute('src', img);
-
-                            ar_image.setAttribute('visible', true);
-
-                        }
+                        showPersonInfo(person);
                     });
 
-                    return p;
+                    // p.object3D.lookAt(camera.object3D.position);
+                    pb.appendChild(p);
+
+                    return pb;
+                    // return p;
                 }
 
                 function traverse(rootbranch, personInfo, depth) {
                     let branch = rootbranch;
-                    // let branch = document.createElement('a-entity');
-                    // branch.setAttribute('position', {
-                    //     x: loc.x,
-                    //     y: loc.y,
-                    //     z: loc.z
-                    // });
-                    // rootbranch.appendChild(branch);
 
                     let spaceNeeded = personInfo.loc * space;
                     let x = (spaceNeeded) - half;
                     let y = personInfo.depth * 1.5;
-                    let z = -1;
+                    let z = -10;
+                    let rotateY = -x * 5;
+                    // console.log(x, rotateY)
+                    x = 0;
 
                     let p;
 
                     if (personInfo.marriedTo) {
 
-                        p = createPerson(branch, personInfo.person, depth, { x: x - 0.5, y, z });
+                        p = createPerson(branch, personInfo.person, depth, { x: x - 0.5, y, z, rotateY });
 
                         const w = createPerson(branch, personInfo.marriedTo, depth, {
-                            x: x + 0.5,
+                            x: x + 0.3,
                             y: y - 0.01,
-                            z: z - 0.3
+                            z: z - 0.3,
+                            rotateY
                         });
 
                         branch.appendChild(w);
 
                     } else {
-                        p = createPerson(branch, personInfo.person, depth, { x, y, z });
+                        p = createPerson(branch, personInfo.person, depth, { x, y, z, rotateY });
                     }
 
                     branch.appendChild(p);
-
-
-                    // console.log('*'.repeat(depth), personInfo.person.name, '-', personInfo.marriedTo?.name);
 
                     if (personInfo.children) {
 
@@ -217,9 +263,6 @@
 
 <body>
     <a-scene setup webxr='optionalFeatures: hit-test;'>
-        <!-- vr-mode-ui="enterVRButton: #myEnterVRButton; enterARButton: #myEnterARButton" -->
-        <!-- <a id="myEnterVRButton" visible='false' href="#"></a> 
-        <a id="myEnterARButton" class="a-enter-ar-button" href="#"></a> -->
 
         <a-assets>
             <!-- <a-asset-item id="treeImg" src="./assets/t.png"></a-asset-item> -->
@@ -247,19 +290,20 @@
 
         <a-entity ar-vr-only>
 
-            <a-entity id='board' position='-5 0 2' rotation='0 110 0'>
-                <a-plane height='4' width='2' id='boardText' material='color: lightgray; opacity: 0.7;'></a-plane>
-            </a-entity>
+            <a-entity id='infoBox' position="0 0 0" rotation='0 -130 0'>
+                <a-entity id='board' position='2 0 -4'>
+                    <a-plane height='4' width='2' id='boardText' material='color: lightgray; opacity: 0.7;'></a-plane>
+                </a-entity>
 
-            <a-entity>
-                <a-plane id='ar_person' height='4' width='2' position='-3 0 0' rotation='0 90 0' transparent=true
-                    visible='false'></a-plane>
+                <a-entity position='0 0 -3'>
+                    <a-plane id='ar_person' height='4' width='2' transparent=true visible='false'></a-plane>
 
+                </a-entity>
             </a-entity>
 
             <!-- <a-entity id='tree' gltf-model="#treeObj" position="0 0 -2" scale='100 10 10'></a-entity> -->
             <!-- <a-plane position="0 0 -5" rotation="0 0 0" width="10" height="10" src="./assets/oak.png"></a-plane> -->
-            <a-entity id='familyTree' position="0 0 -5" scale="0.5 0.5 0.5">
+            <a-entity id='familyTree' position="0 0 0" scale="0.5 0.5 0.5">
                 <!-- <a-cylinder position="0 0 -5" radius="0.5" height="2" src="#tree"></a-cylinder>
                 <a-cylinder position="-0.7 1. -5" radius="0.45" rotation='0 0 45' height="2" src="#tree"></a-cylinder>
                 <a-cylinder position="0.7 1. -5" radius="0.45" rotation='0 0 -45' height="2" src="#tree"></a-cylinder> -->
@@ -268,13 +312,22 @@
         </a-entity>
 
         <!-- Camera + cursor. -->
-        <a-entity camera look-controls>
+        <a-entity camera look-controls id='camera'>
             <a-cursor id="cursor"
                 animation__click="property: scale; startEvents: click; from: 0.1 0.1 0.1; to: 1 1 1; dur: 150"
                 animation__fusing="property: fusing; startEvents: fusing; from: 1 1 1; to: 0.1 0.1 0.1; dur: 1500"
                 event-set__mouseenter="_event: mouseenter; color: springgreen"
                 event-set__mouseleave="_event: mouseleave; color: black" raycaster="objects: .person"></a-cursor>
         </a-entity>
+
+
+        <!-- <a-text position="0 -1 -5" value="Hello, World!" geometry="primitive:plane; material: src: black;"></a-text> -->
+        <a-plane hide-in-ar-mode height='5' width='7' position='0 0 -5' material='color: lightgray; opacity: 0.7;'>
+            <a-text position='0 2 0' wrap-count="20" text='align: center; width: 6; color: black; value:Soy Agacimiz'>
+            </a-text>
+            <a-text
+                text="align: center; width: 6; color: black; value: Arttirilmis gerceklik(AR) modune gecmek icin AR butonuna basiniz.\nBu mode gectiginizde kamerayi acmak icin izin isteyecek. Izin verin.\nOnunuzde aileye ait bireyler belirecek.\n Aile bireyinin resmi ustune baktiginizda o kisi secilecektir.\nKisi hakkindaki bilgileri sag tarafiniza bakarsaniz gorebilirsiniz.\n(Eger AR butonunu goremiyorsaniz telefonunuz bu modu desteklemiyor demektir.)">
+        </a-plane>
 
 
         <a-sky color="#ECECEC" hide-in-ar-mode src="https://live.staticflickr.com/5585/14870724023_0f1989c539_b.jpg">
