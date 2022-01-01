@@ -11,6 +11,8 @@ const dedem = {
 
 const babaannem = {
     name: 'Naile Sarica',
+    image: 'naile_babane',
+    ar: 'naile_babane_ar',
     dob: '1928',
     dod: '1970',
     description,
@@ -19,7 +21,7 @@ const babaannem = {
 const emetullah = {
     name: 'Emetullah Sarica',
     image: 'emetullah',
-    ar: 'emetullah_ar',
+    ar: 'emetullah_osman_dag_ar',
     dob: '',
     dod: '',
     description,
@@ -27,6 +29,8 @@ const emetullah = {
 
 const osman_dag = {
     name: 'Osman Dag',
+    image: 'osman_dag',
+    ar: 'emetullah_osman_dag_ar',
     dob: '',
     dod: '',
     description,
@@ -71,13 +75,6 @@ const yasin_dag = {
     description,
 };
 
-const bedriye_dag = {
-    name: 'Bedriye Dag',
-    dob: '',
-    dod: '',
-    description,
-};
-
 const rukiye_dag = {
     name: 'Rukiye Dag',
     dob: '',
@@ -87,13 +84,6 @@ const rukiye_dag = {
 
 const mustafa_ulualan = {
     name: 'Mustafa Ulualan',
-    dob: '',
-    dod: '',
-    description,
-};
-
-const sevdesena = {
-    name: 'Sevde Sena',
     dob: '',
     dod: '',
     description,
@@ -155,8 +145,6 @@ const ahsen_bayhan_jr = {
     description,
 };
 
-
-
 const fatma = {
     name: 'Fatma Sarica',
     dob: '',
@@ -183,7 +171,8 @@ const hatice = {
 const annem = {
     name: 'Emine Bayhan',
     image: 'annem',
-    dob: '1964',
+    ar: 'emine_sarica_ar',
+    dob: '1965',
     dod: '',
     description,
 };
@@ -191,7 +180,7 @@ const annem = {
 const ben = {
     name: 'Mehmet Sarica',
     image: 'mehmet',
-    ar: 'ben_ar',
+    ar: 'ben_ar2',
     dob: '',
     dod: '',
     description,
@@ -207,6 +196,7 @@ const zehra = {
 
 const omer_kaplan = {
     name: 'Omer Kaplan',
+    image: 'omer_kaplan',
     dob: '',
     dod: '',
     description,
@@ -231,6 +221,7 @@ const eslem = {
 const mesud = {
     name: 'Mesud Sarica',
     image: 'mesud',
+    ar: 'mesud_berk_ar',
     dob: '',
     dod: '',
     description,
@@ -239,6 +230,7 @@ const mesud = {
 const mustafa = {
     name: 'Mustafa Sarica',
     image: 'mustafa',
+    ar: 'mustafa_baby_ar',
     dob: '',
     dod: '',
     description,
@@ -266,38 +258,36 @@ var familyData = {
                     children: [
                         {
                             person: sefa,
-                            marriedTo: ben
+                            marriedTo: ben,
                         },
                         {
                             person: hakan_demirkollu,
-                            marriedTo: 'gul',
-                            children: [
-                                'metehan demirkollu'
-                            ]
-                        }, {
-                            person: osman_demirkollu
-                        }
-                    ]
+                            marriedTo: 'Gul',
+                            children: ['Metehan Demirkollu'],
+                        },
+                        {
+                            person: osman_demirkollu,
+                        },
+                    ],
                 },
                 {
                     person: yasin_dag,
-                    marriedTo: 'mukerrem',
-                    children: [
-                        'sedanur',
-                        'sevde'
-                    ]
+                    marriedTo: 'Mukerrem',
+                    children: ['Sedanur Dag', 'Ebrar Dag'],
                 },
                 {
-                    person: bedriye_dag,
+                    person: 'Bedriye',
+                    marriedTo: 'Fatih Sahma',
+                    children: ['Ayse Esma', 'Ebubekir', 'Talha'],
                 },
                 {
                     person: rukiye_dag,
                     marriedTo: mustafa_ulualan,
                     children: [
-                        {
-                            person: sevdesena
-                        }
-                    ]
+                        'Beyza Ulualan',
+                        'Sevde Sena Ulualan',
+                        'Elif Huma Ulualan',
+                    ],
                 },
             ],
         },
@@ -306,23 +296,26 @@ var familyData = {
             marriedTo: yunus_bayhan,
             children: [
                 {
-                    person: halime_bayhan
+                    person: halime_bayhan,
+                    marriedTo: 'Mumin',
+                    children: ['Talha', 'Ruveyda', 'Rumeysa'],
                 },
                 {
-                    person: rahime_bayhan
+                    person: rahime_bayhan,
+                    marriedTo: 'Hasan Atik',
+                    children: ['??', 'Talha', '??'],
                 },
                 {
                     person: salih_bayhan,
                     marriedTo: kubra__,
-                    children: [
-                        { person: yunus_bayhan_jr },
-                        { person: ahsen_bayhan_jr }
-                    ]
-                }
-            ]
+                    children: [{ person: yunus_bayhan_jr }, { person: ahsen_bayhan_jr }],
+                },
+            ],
         },
         {
             person: fatma,
+            marriedTo: 'Ibrahim Sarica',
+            children: ['Ismail Sarica', 'Zeynep Sarica', 'Enes Sarica'],
         },
         {
             person: babam,
@@ -345,9 +338,9 @@ var familyData = {
                     marriedTo: omer_kaplan,
                     children: [
                         {
-                            person: mirza_kaplan
-                        }
-                    ]
+                            person: mirza_kaplan,
+                        },
+                    ],
                 },
                 {
                     person: eslem,
@@ -356,6 +349,22 @@ var familyData = {
         },
         {
             person: hatice,
+            marriedTo: 'Ali Demirtas',
+            children: [
+                {
+                    person: 'Hale Demirtas',
+                    marriedTo: 'Fatih',
+                    children: ['??', '??', '??'],
+                },
+                {
+                    person: 'Meryem Demirtas',
+                    marriedTo: '??',
+                    children: ['??', '??'],
+                },
+                {
+                    person: 'Sami Demirtas',
+                },
+            ],
         },
     ],
 };

@@ -252,3 +252,14 @@ AFRAME.registerPrimitive('a-hit-test', {
         target: 'ar-hit-test.target',
     }
 });
+
+AFRAME.registerComponent('look-at', {
+    schema: { type: 'selector' },
+
+    init: function () { },
+
+    tick: function () {
+        console.log(this.data.object3D.position)
+        this.el.object3D.lookAt(this.data.object3D.position);
+    }
+})
