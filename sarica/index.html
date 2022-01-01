@@ -148,8 +148,10 @@
             const dod = person.dod || '';
             const description = person.description || '';
 
-            boardTitle.setAttribute('text', `align: center; color: black; value: ${name}\n ${dob} - ${dod}\n`);
-            board.setAttribute('text', `anchor: center; width: 1.7; lineHeight: 50; color: black; value: ${description}\n`)
+            // boardTitle.setAttribute('text', `align: center; color: black; value: ${name}\n ${dob} - ${dod}\n`);
+            // board.setAttribute('text', `anchor: center; width: 1.7; lineHeight: 50; color: black; value: ${description}\n`)
+            board.setAttribute('text', `anchor: center; width: 1.7; lineHeight: 50; color: black; value:  ${name}\n ${dob} - ${dod}\n${description}\n`)
+
             // branch.setAttribute('visible', false);
 
             if (!person.ar) {
@@ -175,7 +177,7 @@
 
                 const familyTree = scene.querySelector('#familyTree');
                 board = document.querySelector('#boardText');
-                boardTitle = document.querySelector('#boardTitle');
+                // boardTitle = document.querySelector('#boardTitle');
                 ar_image = document.querySelector('#ar_person');
 
                 const space = 1.2;
@@ -305,7 +307,7 @@
             <a-entity id='infoBox' position="0 0 0" rotation='0 -125 0'>
                 <a-entity id='board' position='2 0 -4' height='4' width='2'>
 
-                    <a-text id='boardTitle' position='0 1.7 0.1' wrap-count="50" text=''></a-text>
+                    <!-- <a-text id='boardTitle' position='0 1.7 0.1' wrap-count="50" text=''></a-text> -->
 
                     <a-plane height='4' width='2' id='boardText'></a-plane>
                 </a-entity>
