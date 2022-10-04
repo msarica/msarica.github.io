@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Halloween AR</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css">
+
+    <!-- import the webpage's javascript files -->
+    <script src="https://aframe.io/releases/1.0.3/aframe.min.js"></script>
+    <script src="https://unpkg.com/aframe-extras@3.3.0/dist/aframe-extras.min.js"></script>
+
+    <script>
+        AFRAME.registerComponent('show-in-ar-mode', {
+            // Set this object invisible while in AR mode.
+            init: function () {
+                // return;
+                const isVisible = this.el.getAttribute('visible');
+
+                if (isVisible) {
+                    this.el.setAttribute('visible', false);
+                }
+
+                this.el.sceneEl.addEventListener('enter-vr', (ev) => {
+                    console.log('ar mode enter')
+                    if (this.el.sceneEl.is('ar-mode')) {
+                        this.el.setAttribute('visible', true);
+                    }
+                });
+                this.el.sceneEl.addEventListener('exit-vr', (ev) => {
+                    console.log('ar mode exit')
+
+                    if (this.el.getAttribute('visible')) this.el.setAttribute('visible', false);
+                });
+            }
+        });
+
+        AFRAME.registerComponent('hide-in-ar-mode', {
+            // Set this object invisible while in AR mode.
+            init: function () {
+                this.el.sceneEl.addEventListener('enter-vr', (ev) => {
+                    this.wasVisible = this.el.getAttribute('visible');
+                    if (this.el.sceneEl.is('ar-mode')) {
+                        this.el.setAttribute('visible', false);
+                    }
+                });
+                this.el.sceneEl.addEventListener('exit-vr', (ev) => {
+                    if (this.wasVisible) this.el.setAttribute('visible', true);
+                });
+            }
+        });
+
+        AFRAME.registerComponent('ar-shadows', {
+            // Swap an object's material to a transparent shadows-only material while
+            // in AR mode. Intended for use with a ground plane. The object is also
+            // set visible while in AR mode, this is useful if it's hidden in other
+            // modes due to them using a 3D environment.
+            schema: {
+                opacity: { default: 0.3 }
+            },
+            init: function () {
+                this.el.sceneEl.addEventListener('enter-vr', (ev) => {
+                    this.wasVisible = this.el.getAttribute('visible');
+                    if (this.el.sceneEl.is('ar-mode')) {
+                        this.savedMaterial = this.el.object3D.children[0].material;
+                        this.el.object3D.children[0].material = new THREE.ShadowMaterial();
+                        this.el.object3D.children[0].material.opacity = this.data.opacity;
+                        this.el.setAttribute('visible', true);
+                    }
+                });
+                this.el.sceneEl.addEventListener('exit-vr', (ev) => {
+                    if (this.savedMaterial) {
+                        this.el.object3D.children[0].material = this.savedMaterial;
+                        this.savedMaterial = null;
+                    }
+                    if (!this.wasVisible) this.el.setAttribute('visible', false);
+                });
+            }
+        });
+
+
+    </script>
+
+</head>
+
+<body>
+
+    <a-scene vr-mode-ui="enterVRButton: #myEnterVRButton; ">
+        <a id="myEnterVRButton" href="#"></a>
+
+        <a-assets timeout="10000">
+
+            <a-asset-item id="halloween_pumpkin" src="./assets/halloween_pumpkin/scene.gltf"
+                response-type="arraybuffer">
+            </a-asset-item>
+
+            <!-- <a-asset-item id="halloween_knight" src="./assets/halloween_knight/scene.gltf" response-type="arraybuffer">
+            </a-asset-item> -->
+
+            <!-- <a-asset-item id="dark_knight" src="./assets/dark_knight/scene.gltf" response-type="arraybuffer">
+            </a-asset-item> -->
+
+            <a-asset-item id="zombie" src="./assets/zombie_character/scene.gltf" response-type="arraybuffer">
+            </a-asset-item>
+
+            <a-asset-item id="zombie_walk" src="./assets/zombie_walk_test/scene.gltf" response-type="arraybuffer">
+            </a-asset-item>
+
+            <a-asset-item id="pirate" src="./assets/pirate/scene.gltf" response-type="arraybuffer">
+            </a-asset-item>
+
+            <img id="background" src="./assets/halloween.jpeg">
+
+        </a-assets>
+
+
+        <a-entity show-in-ar-mode id="pumpkin" position="0 1 -2" scale="0.004 0.004 0.004">
+            <a-entity position="0 0 0" rotation="0 0 0" gltf-model="#halloween_pumpkin"></a-entity>
+        </a-entity>
+
+        <a-entity show-in-ar-mode id="zombie" position="1 0 -3" scale="0.04 0.04 0.04">
+            <a-entity rotation="0 -20 0" gltf-model="#zombie">
+            </a-entity>
+        </a-entity>
+
+        <a-entity show-in-ar-mode id="zombie" position="-1 0 -3" scale="0.04 0.04 0.04">
+            <a-entity rotation="0 20 0" gltf-model="#zombie">
+            </a-entity>
+        </a-entity>
+
+        <a-entity show-in-ar-mode id="zombie_walk_right" position="5 0 0" scale="1 1 1">
+            <a-entity rotation="0 -90 0" gltf-model="#zombie_walk" animation-mixer>
+            </a-entity>
+        </a-entity>
+
+        <a-entity show-in-ar-mode id="zombie_walk_left" position="-5 0 0" scale="1 1 1">
+            <a-entity rotation="0 90 0" gltf-model="#zombie_walk" animation-mixer>
+            </a-entity>
+        </a-entity>
+
+        <a-entity show-in-ar-mode id="pirate" position="0 0 3" scale="0.001 0.001 0.001">
+            <a-entity position="0 0 0" rotation="0 180 0" gltf-model="#pirate" animation-mixer></a-entity>
+        </a-entity>
+
+        <a-sky hide-in-ar-mode opacity="0.3" id="background" src="#background">
+        </a-sky>
+    </a-scene>
+
+    <div id="text">
+        <h1>Happy Halloween AR</h1>
+
+        <p>
+            This requires browser support for WebXR's AR mode, for example an
+            <a href="https://developers.google.com/ar/discover/supported-devices">ARCore-compatible</a>
+            Android phone with Chrome version 81 or higher.
+        </p>
+
+    </div>
+
+</body>
+
+</html>

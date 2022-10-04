@@ -1,0 +1,11 @@
+Model Information:
+* title:	Zombie Character
+* source:	https://sketchfab.com/3d-models/zombie-character-b2ba38c067e44972bd9f2223194e8306
+* author:	NZP3D (https://sketchfab.com/NatPlatt)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Zombie Character" (https://sketchfab.com/3d-models/zombie-character-b2ba38c067e44972bd9f2223194e8306) by NZP3D (https://sketchfab.com/NatPlatt) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

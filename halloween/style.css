@@ -1,0 +1,29 @@
+.a-enter-ar-button {
+    /* background: url('https://d29fhpw069ctt2.cloudfront.net/icon/image/85188/preview.svg') !important; */
+}
+
+/* CSS files add styling rules to your content */
+
+/* body {
+    font-family: helvetica, arial, sans-serif;
+    margin: 2em;
+  }
+  
+  h1 {
+
+    font-size: 1.35em;
+  } */
+  
+  div#text {
+    position: absolute;
+    text-align: center;
+    left: 6px; 
+    top: 6px;
+    right: 6px;
+    padding: 6px;
+    /*
+    text-shadow: 0 0 5px white;
+    */
+    width: 97%;
+    background-color: rgba(214, 115, 16, 0.7)
+  }
