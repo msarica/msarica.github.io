@@ -16,6 +16,10 @@
 
     function getUrlPart() {
       try {
+        if (window.location.href.includes('localhost')) {
+          return window.location.href.split('8100')[1];
+        }
+
         return window.location.href.split('scv')[1];
       } catch (err) {
 
@@ -37,7 +41,7 @@
 
 <body>
   <app-root></app-root>
-<script src="runtime.1308d1044b2d5e31.js" type="module"></script><script src="polyfills.a20780bee94baa08.js" type="module"></script><script src="main.c1ddce314ff6bc10.js" type="module"></script>
+<script src="runtime.1308d1044b2d5e31.js" type="module"></script><script src="polyfills.a20780bee94baa08.js" type="module"></script><script src="main.c1d8264c1eb7bf42.js" type="module"></script>
 
 
 </body></html>
