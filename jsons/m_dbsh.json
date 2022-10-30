@@ -1,0 +1,269 @@
+{
+    "name": "Oyun",
+    "description": "Merhaba, bakalim bilmeceleri bilip, gizli cumleyi bulabilecek misin?",
+    "location": [
+        39.169761,
+        -76.845057
+    ],
+    "zoom": 18,
+    "points": [
+        {
+            "name": "point1",
+            "title": "Baslangic",
+            "visible": true,
+            "location": [
+                39.169761,
+                -76.845057
+            ],
+            "body": {
+                "type": "shortanswer",
+                "title": "Bilmece",
+                "text": "Rekatı var abdesti var\n        Vakti var secdesi var\n        ",
+                "possibleAnswers": [
+                    "namaz"
+                ],
+                "messageIfCorrect": "",
+                "messageIfIncorrect": "ipucu: gunde 5 defa yapilir",
+                "afterExplored": "you found me!",
+                "enables": [
+                    "point2"
+                ],
+                "disables": [
+                    "point1"
+                ]
+            }
+        },
+        {
+            "name": "point2",
+            "title": "2.",
+            "visible": true,
+            "location": [
+                39.17018040682484,
+                -76.84575154165451
+            ],
+            "body": {
+                "type": "shortanswer",
+                "title": "Bilmece",
+                "text": "Niyeti var sabrı var\n        Sahuru var iftarı var\n        ",
+                "possibleAnswers": [
+                    "oruc"
+                ],
+                "messageIfCorrect": "",
+                "messageIfIncorrect": "",
+                "afterExplored": "you found me!",
+                "enables": [
+                    "point3"
+                ],
+                "disables": [
+                    "point2"
+                ]
+            }
+        },
+        {
+            "name": "point3",
+            "title": "3.",
+            "visible": true,
+            "location": [
+                39.16994352016005,
+                -76.8453345618387
+            ],
+            "body": {
+                "type": "shortanswer",
+                "title": "Bilmece",
+                "text": "İçimizdeki en güzel duygu\n        Kalbimdeki canı kim koydu?\n        ",
+                "possibleAnswers": [
+                    "allah"
+                ],
+                "messageIfCorrect": "",
+                "messageIfIncorrect": "",
+                "afterExplored": "you found me!",
+                "enables": [
+                    "point4"
+                ],
+                "disables": [
+                    "point3"
+                ]
+            }
+        },
+        {
+            "name": "point4",
+            "title": "4.",
+            "visible": false,
+            "location": [
+                39.17006815503103,
+                -76.84473531384063
+            ],
+            "body": {
+                "type": "shortanswer",
+                "title": "Bilmece",
+                "text": "Mekke’de siyah bir oda\n        Hacilar tavaf eder orada\n        ",
+                "possibleAnswers": [
+                    "kabe"
+                ],
+                "messageIfCorrect": "",
+                "messageIfIncorrect": "",
+                "afterExplored": "you found me!",
+                "enables": [
+                    "point5"
+                ],
+                "disables": [
+                    "point4"
+                ]
+            }
+        },
+        {
+            "name": "point5",
+            "title": "5.",
+            "visible": false,
+            "location": [
+                39.17044853702177,
+                -76.84550250860983
+            ],
+            "body": {
+                "type": "shortanswer",
+                "title": "Bilmece",
+                "text": "Müslümanların kıblesidir.\n        Orası Allah’ın evidir\n        ",
+                "possibleAnswers": [
+                    "kabe"
+                ],
+                "messageIfCorrect": "",
+                "messageIfIncorrect": "",
+                "afterExplored": "you found me!",
+                "enables": [
+                    "point6"
+                ],
+                "disables": [
+                    "point5"
+                ]
+            }
+        },
+        {
+            "name": "point6",
+            "title": "6.",
+            "visible": false,
+            "location": [
+                39.170189028002454,
+                -76.8457537082716
+            ],
+            "body": {
+                "type": "shortanswer",
+                "title": "Bilmece",
+                "text": "O  kutlu bir şehirdir\n        Ondaki mescit ilk kıblemizdir.\n        ",
+                "possibleAnswers": [
+                    "kudus"
+                ],
+                "messageIfCorrect": "",
+                "messageIfIncorrect": "",
+                "afterExplored": "you found me!",
+                "enables": [
+                    "point7"
+                ],
+                "disables": [
+                    "point6"
+                ]
+            }
+        },
+        {
+            "name": "point7",
+            "title": "7.",
+            "visible": false,
+            "location": [
+                39.170083046536206,
+                -76.84559018757392
+            ],
+            "body": {
+                "type": "shortanswer",
+                "title": "Bilmece",
+                "text": "5 vakitte saflar kurar\n        İnsanlarla dolup Taşar\n        ",
+                "possibleAnswers": [
+                    "cami"
+                ],
+                "messageIfCorrect": "",
+                "messageIfIncorrect": "",
+                "afterExplored": "you found me!",
+                "enables": [
+                    "point8"
+                ],
+                "disables": [
+                    "point7"
+                ]
+            }
+        },
+        {
+            "name": "point8",
+            "title": "8.",
+            "visible": false,
+            "location": [
+                39.17018685855473,
+                -76.8457522671519
+            ],
+            "body": {
+                "type": "shortanswer",
+                "title": "Bilmece",
+                "text": "Allah’ımın sözüdür\n        Ruhumun özüdür\n        ",
+                "possibleAnswers": [
+                    "kuran"
+                ],
+                "messageIfCorrect": "",
+                "messageIfIncorrect": "",
+                "afterExplored": "you found me!",
+                "enables": [
+                    "point9"
+                ],
+                "disables": [
+                    "point8"
+                ]
+            }
+        },
+        {
+            "name": "point9",
+            "title": "9.",
+            "visible": false,
+            "location": [
+                39.16978532603858,
+                -76.8450773920095
+            ],
+            "body": {
+                "type": "shortanswer",
+                "title": "Bilmece",
+                "text": "Renk renk paketler\n        Çocukları mutlu eder\n        ",
+                "possibleAnswers": [
+                    "seker",
+                    "bayram sekeri"
+                ],
+                "messageIfCorrect": "",
+                "messageIfIncorrect": "",
+                "afterExplored": "you found me!",
+                "enables": [
+                    "point10"
+                ],
+                "disables": [
+                    "point9"
+                ]
+            }
+        },
+        {
+            "name": "point10",
+            "title": "10.",
+            "visible": false,
+            "location": [
+                39.169981429002604,
+                -76.84485539136088
+            ],
+            "body": {
+                "type": "shortanswer",
+                "title": "Bilmece",
+                "text": "İlk peygamber ilk insan\n        İnsanlığın atası\n        Ona secde etmemek\n        İblisin bir hatası\n        ",
+                "possibleAnswers": [
+                    "adem",
+                    "hz adem",
+                    "hz. adem",
+                    "hz.adem"
+                ],
+                "messageIfCorrect": "",
+                "messageIfIncorrect": "",
+                "afterExplored": "you found me!"
+            }
+        }
+    ]
+}
