@@ -1,0 +1,363 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$ref": "#/definitions/GamePoint",
+  "definitions": {
+    "GamePoint": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "location": {
+          "$ref": "#/definitions/Location"
+        },
+        "img": {
+          "type": "string"
+        },
+        "enabled": {
+          "type": "boolean"
+        },
+        "selectable": {
+          "type": "boolean"
+        },
+        "body": {
+          "$ref": "#/definitions/BodyTypes"
+        }
+      },
+      "required": [
+        "id",
+        "title",
+        "location",
+        "enabled",
+        "body"
+      ],
+      "additionalProperties": false
+    },
+    "Location": {
+      "type": "array",
+      "items": {
+        "type": "number"
+      },
+      "minItems": 2,
+      "maxItems": 2
+    },
+    "BodyTypes": {
+      "anyOf": [
+        {
+          "$ref": "#/definitions/Note"
+        },
+        {
+          "$ref": "#/definitions/ChoiceQuestion"
+        },
+        {
+          "$ref": "#/definitions/MultipleChoiceQuestion"
+        },
+        {
+          "$ref": "#/definitions/ShortAnswerQuestion"
+        }
+      ]
+    },
+    "Note": {
+      "type": "object",
+      "properties": {
+        "type": {
+          "type": "string",
+          "const": "note"
+        },
+        "text": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          ]
+        },
+        "action": {
+          "$ref": "#/definitions/ChoiceAction"
+        }
+      },
+      "required": [
+        "text",
+        "type"
+      ],
+      "additionalProperties": false
+    },
+    "ChoiceAction": {
+      "type": "object",
+      "properties": {
+        "enables": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "array",
+              "items": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "$ref": "#/definitions/EnablesPointAction"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "disables": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          ]
+        },
+        "gameCompleted": {
+          "$ref": "#/definitions/GameCompleted"
+        }
+      },
+      "additionalProperties": false
+    },
+    "EnablesPointAction": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "selectable": {
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "id",
+        "selectable"
+      ],
+      "additionalProperties": false
+    },
+    "GameCompleted": {
+      "type": "object",
+      "properties": {
+        "finishMessage": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "finishMessage",
+        "title"
+      ],
+      "additionalProperties": false
+    },
+    "ChoiceQuestion": {
+      "type": "object",
+      "properties": {
+        "type": {
+          "type": "string",
+          "const": "choice"
+        },
+        "text": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          ]
+        },
+        "action": {
+          "$ref": "#/definitions/ChoiceAction"
+        },
+        "options": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/ChoiceQuestionItem"
+          }
+        }
+      },
+      "required": [
+        "options",
+        "text",
+        "type"
+      ],
+      "additionalProperties": false
+    },
+    "ChoiceQuestionItem": {
+      "type": "object",
+      "properties": {
+        "text": {
+          "type": "string"
+        },
+        "item": {
+          "$ref": "#/definitions/ChoiceQuestionSub"
+        },
+        "action": {
+          "$ref": "#/definitions/ChoiceAction"
+        }
+      },
+      "required": [
+        "text"
+      ],
+      "additionalProperties": false
+    },
+    "ChoiceQuestionSub": {
+      "type": "object",
+      "properties": {
+        "type": {
+          "type": "string",
+          "const": "choice"
+        },
+        "text": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          ]
+        },
+        "action": {
+          "$ref": "#/definitions/ChoiceAction"
+        },
+        "options": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/ChoiceQuestionItem"
+          }
+        }
+      },
+      "required": [
+        "text"
+      ],
+      "additionalProperties": false
+    },
+    "MultipleChoiceQuestion": {
+      "type": "object",
+      "properties": {
+        "type": {
+          "type": "string",
+          "const": "multiplechoice"
+        },
+        "text": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          ]
+        },
+        "action": {
+          "$ref": "#/definitions/ChoiceAction"
+        },
+        "possibleAnswers": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "messageIfCorrect": {
+          "type": "string"
+        },
+        "messageIfIncorrect": {
+          "type": "string"
+        },
+        "cannotGiveUp": {
+          "type": "boolean"
+        },
+        "maxTries": {
+          "type": "number"
+        },
+        "choices": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "choices",
+        "possibleAnswers",
+        "text",
+        "type"
+      ],
+      "additionalProperties": false
+    },
+    "ShortAnswerQuestion": {
+      "type": "object",
+      "properties": {
+        "type": {
+          "type": "string",
+          "const": "shortanswer"
+        },
+        "text": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          ]
+        },
+        "action": {
+          "$ref": "#/definitions/ChoiceAction"
+        },
+        "possibleAnswers": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "messageIfCorrect": {
+          "type": "string"
+        },
+        "messageIfIncorrect": {
+          "type": "string"
+        },
+        "cannotGiveUp": {
+          "type": "boolean"
+        },
+        "maxTries": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "possibleAnswers",
+        "text",
+        "type"
+      ],
+      "additionalProperties": false
+    }
+  }
+}
