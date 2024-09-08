@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+  </head>
+  <body>
+    <h1>Email Agent</h1>
+    <button id="counter" type="button" onclick="connect()">Connect</button> <br>
+    modelFileId
+    <input type="text" name="fileId" id="modelFileId" style="width: 500px;" value="40f82d07b036126ae48fb6cd5f31c3b4b57ddd05c2afd60c2e937dc5df64f7c8"><br>
+    <button id="counter" type="button" onclick="checkModelIfExistsDownloadIfNot()">Check Model & Load</button> <br>
+    <button id="counter" type="button" onclick="listModels()">listModels</button> <br>
+    <!-- <button id="counter" type="button" onclick="loadModel()">LoadModel</button> <br> -->
+
+    <!-- <button id="counter" type="button" onclick="getNews()">Get Emails</button> <br> -->
+
+    <button id="counter" type="button" onclick="summarize()">Summarize</button> <br>
+
+
+    <textarea name="content" id="content"></textarea> <br>
+    <div name="summary" id="summary"></div> <br>
+
+
+
+    <pre id="logs"></pre>
+    <script>
+        // const fileId = "9b8c2778cb5a3303c7a8e16f6e1c8647c403ca131f87a739e85b7b500f79b6c5"; // tinyllama 4
+        const appId = "test-agent";
+        const port = 3000;
+        const endpoint = `http://localhost:${port}/agent`;
+        let speaker;
+
+        if (speechSynthesis.onvoiceschanged !== undefined) {
+            speechSynthesis.onvoiceschanged = ()=>{
+                const voices = window.speechSynthesis.getVoices();
+                // console.log(voices);
+
+                const  voice = voices.find(i=> i.voiceURI === "Google US English");
+                // console.log(voice);
+
+                speaker = new SpeechSynthesisUtterance();
+                speaker.voice = voice;
+
+            };
+        }
+
+        function getModelFileId() {
+            return document.getElementById('modelFileId').value;
+        }
+
+        function addLog(text) {
+            // text = typeof text == 'string' ? text: JSON.stringify(text);
+            // document.getElementById('logs').append(text + '\n')
+        }
+
+        function post(body) {
+            return fetch(endpoint, {
+            method: 'POST',
+            body: JSON.stringify(body),
+            headers: {
+                'Content-Type': 'application/json',
+                Accept: '*/*',
+            },
+            })
+            .then((response) => response.json())
+            .then((response) => {
+                console.log(response);
+                addLog(response);
+                return response;
+            })
+            .catch((error) => console.error('Error:', error));
+        }
+
+        function connect() {
+            post({
+                action: 'CONNECT',
+                appId,
+                accessList: ['MODEL_DOWNLOAD', 'MODEL_LOAD', 'INFERENCE'],
+            });
+        }
+
+        async function listModels() {
+            const models = await post({
+                action: 'LIST_LOCAL_MODELS',
+                appId,
+            });
+           
+            // console.log(models);
+            // const exists = models.find(i=>i.fileId=== fileId);
+            // if(exists) {
+            //     console.log('exists');
+            // } else {
+            //     console.log('does NOT exist... download');
+            // }
+        }
+
+        async function checkIfModelExists(fileId) {
+
+            const exists = await post({
+                action: 'MODEL_EXISTS',
+                appId,
+                fileId
+            });
+           
+            // console.log(exists)
+            return exists;
+        }
+
+        async function downloadModel(fileId) {
+
+            const exists = await post({
+                action: 'DOWNLOAD_MODEL',
+                appId,
+                fileId
+            });
+
+            // console.log(exists)
+            return exists;
+        }
+
+        async function checkModelIfExistsDownloadIfNot() {
+            const fileId = getModelFileId();
+            console.log('modelfileId', fileId);
+
+            let exists = await checkIfModelExists(fileId);
+
+            if(!exists) { 
+                
+                await downloadModel(fileId);
+    
+                do {
+                    await new Promise(resolve=> setTimeout(resolve, 2000));
+                    exists = await checkIfModelExists(fileId);
+                    console.log('completed', exists);
+                } while(!exists);
+    
+                console.log('finished')
+            }
+
+            loadModel(fileId);
+
+        }
+
+        async function loadModel(fileId) {
+            const result = post({
+                action: 'LOAD_MODEL',
+                appId,
+                fileId
+            });
+        }
+
+        async function getNews() {
+            const sampleEmails = `
+Subject - Meeting Reminder for Project Kickoff
+Body -
+Hi Team,
+Just a reminder that our project kickoff meeting is scheduled for tomorrow at 10 AM. Please come prepared with any questions or concerns regarding the project timeline.
+
+Best regards,
+John
+-------------
+Subject - Update on Development Progress
+Body -
+Hello Joe,
+I wanted to update you on the progress of the development. We've completed the core functionality and are now focusing on testing. We're on track to meet the deadline for next week.
+
+Regards,
+Joseph
+-------------
+Subject - Invitation to Webinar on Cloud Computing
+Body -
+Dear Joe,
+You are invited to attend our upcoming webinar on the latest trends in cloud computing. The event will take place on September 15th at 2 PM. Register now to secure your spot!
+
+Best regards,
+
+-------------
+Subject - Action Required: Document Submission for Test1
+Body -
+Hi Joe,
+Please ensure that all required documents for Test1 are submitted by the end of the week. If you have any questions or need assistance, feel free to reach out.
+
+Thank you,
+Marry
+-------------
+Subject - Feedback Request: New Feature Deployment
+Body -
+Hello Joe,
+We’ve recently deployed a new feature to the platform, and we’d love to hear your feedback. Please take a few minutes to share your thoughts or report any issues you've encountered.
+
+Thank you,
+Mike
+-------------
+
+`
+
+            document.getElementById('content').value = sampleEmails;
+        }
+
+
+        async function inference(prompt) {
+            return post({
+                action: 'INFERENCE',
+                appId,
+                prompt
+            })
+        }
+
+        async function summarize() {
+
+            await getNews();
+
+            const content = document.getElementById('content').value;
+            // console.log(content)
+
+            const response = (await inference(`${content}\n\ncreate a summary of the important emails as a list`)).content;
+
+            document.getElementById('summary').innerHTML = response;
+
+            response.split('.').map(speakQueue);
+        }
+
+        async function speak(text) {
+            return new Promise(resolve=>{
+                speaker.text = text;
+                speaker.onend = () => {
+                    speaker.onend = null;
+                    return resolve();
+                };
+                window.speechSynthesis.speak(speaker);
+            });
+        }
+
+        const queue = [];
+        let finished;
+        async function speakQueue(text) {
+            if(text?.length) {
+                queue.push(text);
+            }
+
+            if(finished) return finished;
+
+            finished = new Promise(async resolve=>{
+                while(queue.length) {
+                    const first = queue.shift();
+                    await speak(first);
+                }
+                finished = null;
+                return resolve();
+            });
+
+            return finished;
+        }
+    </script>
+  </body>
+</html>
