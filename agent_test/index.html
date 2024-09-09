@@ -75,7 +75,13 @@
             post({
                 action: 'CONNECT',
                 appId,
-                accessList: ['MODEL_DOWNLOAD', 'MODEL_LOAD', 'INFERENCE'],
+                accessList: [
+                    "LIST_LOCAL_MODELS",
+                    "MODEL_EXISTS",
+                    "DOWNLOAD_MODEL",
+                    "LOAD_MODEL",
+                    "INFERENCE",
+                ],
             });
         }
 
