@@ -23,15 +23,15 @@
       </div>
       <button id="toggleButton" class="btn btn-primary mb-3">Toggle</button>
 
-      <button id="cancelButton" class="btn btn-danger mb-3">Stop</button>
-
-      <button id="listenButton" class="btn btn-success mb-3">Listen</button>
-
       <div id="responseDiv" class="mt-3">
         <ul id="responseList" class="list-group">
           <!-- Responses will be added here -->
         </ul>
       </div>
+
+      <button id="cancelButton" class="btn btn-danger mb-3">Stop</button>
+
+      <button id="listenButton" class="btn btn-success mb-3">Listen</button>
     </div>
 
     <script>
@@ -255,20 +255,33 @@
 
       let controller; // To store the AbortController
 
-      document
-        .getElementById("listenButton")
-        .addEventListener("click", async () => {
-          const result = await speaker.listen();
-          console.log(result);
-          // const result = 'hello';
-          const listItem = addLiItem(true);
+      const listenButton = document.getElementById("listenButton");
 
-          const responseContent = listItem.querySelector(".response-content");
+      function listening(listening) {
+        if (listening) {
+          listenButton.disabled = true;
+        } else {
+          listenButton.disabled = false;
+        }
+      }
 
-          responseContent.textContent = "USER: " + result;
+      listenButton.addEventListener("click", async () => {
+        listening(true);
+        const result = await speaker.listen();
+        console.log(result);
+        
+        listening(false);
 
-          ask(result);
-        });
+        if(!result) return;
+
+        const listItem = addLiItem(true);
+
+        const responseContent = listItem.querySelector(".response-content");
+
+        responseContent.textContent = "USER: " + result;
+
+        ask(result);
+      });
 
       const inputTxt = document.getElementById("inputText");
       const responseList = document.getElementById("responseList");
