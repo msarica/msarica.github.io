@@ -29,6 +29,15 @@
         </ul>
       </div>
 
+      <hr>
+      <textarea
+        class="form-control"
+        id="queryText"
+        rows="4"
+        placeholder="Type something here..."
+      ></textarea>
+      <button id="submitButton" class="btn btn-success mb-3">Submit</button>
+
       <button id="cancelButton" class="btn btn-danger mb-3">Stop</button>
 
       <button id="listenButton" class="btn btn-success mb-3">Listen</button>
@@ -265,14 +274,27 @@
         }
       }
 
+      document.getElementById("submitButton").addEventListener("click", () => {
+        const queryText = document.getElementById("queryText");
+        let val = queryText.value;
+      
+        addUserInput(val);
+
+        queryText.value = '';
+      });
+
       listenButton.addEventListener("click", async () => {
         listening(true);
         const result = await speaker.listen();
         console.log(result);
-        
+
         listening(false);
 
-        if(!result) return;
+        addUserInput(result);
+      });
+
+      function addUserInput(result) {
+        if (!result) return;
 
         const listItem = addLiItem(true);
 
@@ -281,7 +303,7 @@
         responseContent.textContent = "USER: " + result;
 
         ask(result);
-      });
+      }
 
       const inputTxt = document.getElementById("inputText");
       const responseList = document.getElementById("responseList");
