@@ -29,7 +29,7 @@
         </ul>
       </div>
 
-      <hr>
+      <hr />
       <textarea
         class="form-control"
         id="queryText"
@@ -277,10 +277,10 @@
       document.getElementById("submitButton").addEventListener("click", () => {
         const queryText = document.getElementById("queryText");
         let val = queryText.value;
-      
+
         addUserInput(val);
 
-        queryText.value = '';
+        queryText.value = "";
       });
 
       listenButton.addEventListener("click", async () => {
@@ -417,9 +417,9 @@
               if (done) {
                 console.log("Stream complete");
 
-                speaker.speak(
-                  responseContent.textContent.replace("ASSISTANT:", "")
-                );
+                speaker
+                  .speak(responseContent.textContent.replace("ASSISTANT:", ""))
+                  .finally(() => this.stopAction());
                 return;
               }
 
@@ -475,7 +475,7 @@
           localStorage.setItem("prompt", inputText);
         });
 
-      const stopGeneration = function () {
+      const stopAction = function () {
         if (controller) {
           controller.abort(); // Abort the fetch request
         }
@@ -485,7 +485,7 @@
       // Handle cancel button click
       document
         .getElementById("cancelButton")
-        .addEventListener("click", stopGeneration);
+        .addEventListener("click", stopAction);
     </script>
 
     <!-- Bootstrap JS and dependencies -->
