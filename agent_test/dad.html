@@ -419,7 +419,7 @@
 
                 speaker
                   .speak(responseContent.textContent.replace("ASSISTANT:", ""))
-                  .finally(() => this.stopAction());
+                  .finally(() => stopAction());
                 return;
               }
 
@@ -480,6 +480,7 @@
           controller.abort(); // Abort the fetch request
         }
         speaker.stopSpeaking();
+        listening(false);
       };
 
       // Handle cancel button click
