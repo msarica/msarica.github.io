@@ -6,13 +6,24 @@
   <link rel="icon" type="image/svg+xml" href="./puzzle.svg" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Letter Puzzle Generator</title>
-  <script type="module" crossorigin src="./assets/index-D5OGFtS0.js"></script>
-  <link rel="stylesheet" crossorigin href="./assets/index-Y2UijF9s.css">
+  <script type="module" crossorigin src="./assets/index-D5lS4bLU.js"></script>
+  <link rel="stylesheet" crossorigin href="./assets/index-7N8wxJy7.css">
 </head>
 
 <body>
   <div id="app">
     <h1>Puzzle Generator</h1>
+    <div class="instructions-section" aria-label="How to use the puzzle generator">
+      <h2 class="instructions-title">How to Play</h2>
+      <ul class="instructions-list">
+        <li>Type a message in the box above.</li>
+        <li>Add a hint to help solvers</li>
+        <li>Click <b>Generate Puzzle</b> to create your ciphered puzzle.</li>
+        <li>Each letter is replaced by a unique number. Spaces and punctuation stay the same.</li>
+        <li>Kids can use the letter map at the bottom to match numbers to letters as they solve!</li>
+        <li>Print it!</li>
+      </ul>
+    </div>
     <div class="input-section">
       <label for="puzzle-input">Enter your puzzle text:</label>
       <textarea id="puzzle-input" maxlength="300" rows="3" placeholder="Type your secret message...">
