@@ -1,0 +1,22 @@
+(function(){const l=document.createElement("link").relList;if(l&&l.supports&&l.supports("modulepreload"))return;for(const e of document.querySelectorAll('link[rel="modulepreload"]'))r(e);new MutationObserver(e=>{for(const t of e)if(t.type==="childList")for(const s of t.addedNodes)s.tagName==="LINK"&&s.rel==="modulepreload"&&r(s)}).observe(document,{childList:!0,subtree:!0});function n(e){const t={};return e.integrity&&(t.integrity=e.integrity),e.referrerPolicy&&(t.referrerPolicy=e.referrerPolicy),e.crossOrigin==="use-credentials"?t.credentials="include":e.crossOrigin==="anonymous"?t.credentials="omit":t.credentials="same-origin",t}function r(e){if(e.ep)return;e.ep=!0;const t=n(e);fetch(e.href,t)}})();window.addEventListener("DOMContentLoaded",()=>{const i=document.getElementById("print-btn");i&&i.addEventListener("click",()=>{i.disabled||window.print()})});const a=document.getElementById("puzzle-input"),p=document.getElementById("generate-btn"),o=document.getElementById("cipher-output"),d=document.getElementById("letter-map");function u(i){const l=Array.from(new Set(i.toUpperCase().replace(/[^A-Z]/g,""))),n=Array.from({length:26},(t,s)=>s+1);for(let t=n.length-1;t>0;t--){const s=Math.floor(Math.random()*(t+1));[n[t],n[s]]=[n[s],n[t]]}const r={};let e=0;for(const t of l)r[t]=n[e++];return r}function m(i,l,n=[]){const r=new Set(n.map(e=>e.toUpperCase()));return i.trim().toUpperCase().split(/\s+/).map(e=>`<div class='printable-word'>${e.split("").map(s=>{if(l[s]){const c=r.has(s)?s:"";return`<div class='print-cell'>
+          <div class='print-num'>${l[s]}</div>
+          <div class='print-box'>${c}</div>
+        </div>`}else return/[^A-Z]/.test(s)?`<div class='print-cell'>
+          <div class='print-num'>&nbsp</div>
+          <div class='print-punct'>${s}</div>
+        </div>`:`<div class='print-cell'>
+          <div class='print-num'>?</div>
+          <div class='print-box'></div>
+        </div>`}).join("")}</div>`).join('<div class="print-space"></div>')}function f(i,l){const n=Object.keys(i).reduce((e,t)=>{const s=i[t];return l.includes(t)&&(e[s]=t),e},{});let r='<div class="letter-map-grid">';for(let e=0;e<26;e++){const t=e+1,s=n[t]??"";r+=`<div class="letter-cell">
+      <span class="letter">${t}</span>
+      <div class='print-box'>${s}</div>
+    </div>`}return r+="</div>",r}function v(i,l){const n=l.toUpperCase().replace(/[^A-Z]/g,"").split("");if(n.length===0)return"";let r='<div class="cipher-key-table-horizontal"><table><tr>';return n.forEach(e=>{r+=`<th>${e}</th>`}),r+="</tr><tr>",n.forEach(e=>{r+=`<td>${i[e]||""}</td>`}),r+="</tr></table></div>",r}function h(i){const l=Object.keys(i).sort();if(l.length===0)return"";let n='<div class="full-cipher-map-table"><table><tr>';return l.forEach(r=>{n+=`<th>${r}</th>`}),n+="</tr><tr>",l.forEach(r=>{n+=`<td>${i[r]}</td>`}),n+="</tr></table></div>",n}document.getElementById("toggle-cipher-map").addEventListener("change",function(){const i=document.getElementById("full-cipher-map-table");i.style.display=this.checked?"":"none"});p.addEventListener("click",()=>{const i=a.value,l=document.getElementById("hint-input").value,n=document.getElementById("print-btn");if(!i.trim()){o.innerHTML="<em>Please enter some text.</em>",document.getElementById("cipher-key-table").innerHTML="",document.getElementById("full-cipher-map-table").innerHTML="",d.innerHTML="",n&&(n.disabled=!0,n.classList.add("disabled"));return}const r=u(i),e=l.toUpperCase().replace(/[^A-Z]/g,"").split(""),t=`
+    <div class="printable-instructions" style="background:#fffbe6;border:2px solid #6a5acd;border-radius:10px;padding:1em 1.5em;margin:0 auto 1.5em auto;max-width:600px;font-size:0.7em;color:#333;text-align:left;">
+      <b>How to Solve:</b>
+      <ul style="margin:0.5em 0 0 1.2em;padding:0;">
+        <li>Each letter is a number. Write the matching letter in each box.</li>
+        <li>Use the map at the bottom to help you solve!</li>
+        <li>Have fun!</li>
+      </ul>
+    </div>
+  `;o.innerHTML=`${t}<div class='puzzle-title'>Secret Text</div><div class='printable-puzzle'>${m(i,r,e)}</div>`,document.getElementById("cipher-key-table").innerHTML=v(r,l),document.getElementById("full-cipher-map-table").innerHTML=h(r),document.getElementById("full-cipher-map-table").style.display=document.getElementById("toggle-cipher-map").checked?"":"none",d.innerHTML=f(r,e),n&&(n.disabled=!1,n.classList.remove("disabled"))});
