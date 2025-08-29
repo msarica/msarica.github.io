@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Star Trek Battle Game</title>
+  <script type="module" crossorigin src="/start_trek/assets/index.DffQWwLS.js"></script>
+  <link rel="stylesheet" crossorigin href="/start_trek/assets/index.CwOeqiAS.css">
+</head>
+<body>
+    <!-- Startup Screen -->
+    <div id="startupScreen" class="startup-screen">
+        <div class="startup-content">
+            <h1 class="game-title">STAR TREK</h1>
+            <h2 class="game-subtitle">BATTLE SIMULATOR</h2>
+            <div class="startup-info">
+                <p>Prepare for combat, Captain!</p>
+                <p>Use your weapons wisely! Repair your ship and weapon systems using your engineering skills.</p>
+            </div>
+            <button id="startGameBtn" class="start-btn">
+                <span class="start-text">BEGIN MISSION</span>
+            </button>
+        </div>
+    </div>
+
+    <div class="game-container" id="gameContainer" style="display: none;">
+        <canvas id="gameCanvas" width="800" height="600"></canvas>
+        
+        <div class="control-panel">
+            <div class="enemy-status-panel">
+                <div class="status-item">
+                    <span class="enemy-label">Enemy (Level 1):</span>
+                    <div class="progress-bar">
+                        <div class="progress-fill enemy-health" style="width: 100%"></div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="status-panel">
+                <h3>Your Ship Status</h3>
+                <div class="status-item">
+                    <span>Hull Integrity:</span>
+                    <div class="status-row">
+                        <div class="progress-bar">
+                            <div class="progress-fill hull-integrity" style="width: 100%"></div>
+                        </div>
+                        <button id="repairHullBtn" class="repair-btn" title="Complete math challenge to repair hull">
+                            <span class="repair-icon">🔧</span>
+                        </button>
+                    </div>
+                </div>
+                <div class="status-item">
+                    <span>Energy Reserves:</span>
+                    <div class="status-row">
+                        <div class="progress-bar">
+                            <div class="progress-fill energy-reserves" style="width: 100%"></div>
+                        </div>
+                        <button id="repairEnergyBtn" class="repair-btn" title="Complete math challenge to recharge energy">
+                            <span class="repair-icon">⚡</span>
+                        </button>
+                    </div>
+                </div>
+
+            </div>
+            
+            <!-- Math Challenge Panel -->
+            <div id="mathChallengePanel" class="math-challenge-panel" style="display: none;">
+                <h3>ENGINEERING CHALLENGE</h3>
+                <div class="math-description">
+                    <p id="mathDescription">Complete this calculation to proceed</p>
+                </div>
+                <div class="math-question-display">
+                    <span id="mathQuestion">8 × 9 = ?</span>
+                </div>
+                <div class="math-options">
+                    <button id="optionA" class="math-option-btn">
+                        <span class="option-letter">A</span>
+                        <span class="option-value">72</span>
+                    </button>
+                    <button id="optionB" class="math-option-btn">
+                        <span class="option-letter">B</span>
+                        <span class="option-value">64</span>
+                    </button>
+                    <button id="optionC" class="math-option-btn">
+                        <span class="option-letter">C</span>
+                        <span class="option-value">81</span>
+                    </button>
+                    <button id="optionD" class="math-option-btn">
+                        <span class="option-letter">D</span>
+                        <span class="option-value">56</span>
+                    </button>
+                </div>
+                <div id="mathFeedback" class="math-feedback"></div>
+                <button id="cancelMathBtn" class="cancel-math-btn">CANCEL</button>
+            </div>
+            
+            <div class="weapons-panel">
+                <h3>Weapons Control</h3>
+                <div class="weapon-section">
+                    <button id="phaserBtn" class="weapon-btn phaser-btn">
+                        <span class="weapon-name">Phasers</span>
+                        <span class="weapon-status">Ready</span>
+                    </button>
+                    
+                    <button id="photonBtn" class="weapon-btn photon-btn">
+                        <span class="weapon-name">Photon Torpedoes</span>
+                        <span class="weapon-status">Ready</span>
+                    </button>
+                    
+                    <button id="quantumBtn" class="weapon-btn quantum-btn">
+                        <span class="weapon-name">Quantum Torpedoes</span>
+                        <span class="weapon-status">Ready</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Restart button (hidden by default) -->
+        <div id="restartContainer" class="restart-container" style="display: none;">
+            <button id="restartBtn" class="restart-btn">
+                <span class="restart-text">RESTART MISSION</span>
+            </button>
+        </div>
+        
+        <!-- Continue to Next Level button (hidden by default) -->
+        <div id="continueContainer" class="continue-container" style="display: none;">
+            <button id="continueBtn" class="continue-btn">
+                <span class="continue-text">CONTINUE TO NEXT LEVEL</span>
+            </button>
+        </div>
+    </div>
+
+
+    
+</body>
+</html>
