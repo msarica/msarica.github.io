@@ -15,23 +15,23 @@
 
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: #f8f9fa;
             min-height: 100vh;
             padding: 20px;
+            margin: 0;
         }
 
         .container {
             max-width: 1200px;
             margin: 0 auto;
             background: white;
-            border-radius: 20px;
-            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+            border-radius: 16px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
             overflow: hidden;
         }
 
-
         .content {
-            padding: 30px;
+            padding: 40px;
             background: white;
             min-height: 600px;
         }
@@ -56,25 +56,6 @@
             opacity: 0.9;
         }
 
-        .youtube-button {
-            background: #ff6b6b;
-            color: white;
-            border: none;
-            padding: 8px 16px;
-            border-radius: 20px;
-            font-weight: 600;
-            font-size: 0.9rem;
-            cursor: pointer;
-            transition: all 0.3s ease;
-            text-decoration: none;
-            display: inline-block;
-        }
-
-        .youtube-button:hover {
-            background: #ee5a24;
-            transform: translateY(-1px);
-            box-shadow: 0 3px 10px rgba(255, 107, 107, 0.3);
-        }
 
         .refresh-button {
             background: #28a745;
@@ -196,6 +177,106 @@
             cursor: not-allowed;
             transform: none;
             box-shadow: none;
+        }
+
+        /* Simplified Header Styles */
+        .header-section {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 30px;
+            padding-bottom: 20px;
+            border-bottom: 2px solid #e9ecef;
+        }
+
+        .header-main {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+
+        .header-main h2 {
+            color: #2c3e50;
+            margin: 0;
+            font-size: 2rem;
+            font-weight: 700;
+        }
+
+        .movie-count {
+            background: #17a2b8;
+            color: white;
+            padding: 6px 16px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            font-weight: 600;
+        }
+
+        .header-actions {
+            display: flex;
+            gap: 12px;
+            align-items: center;
+        }
+
+        .primary-button {
+            background: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 25px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-size: 0.9rem;
+            min-width: 120px;
+            text-align: center;
+        }
+
+        .primary-button:hover {
+            background: #0056b3;
+            transform: translateY(-1px);
+            box-shadow: 0 3px 10px rgba(0, 123, 255, 0.3);
+        }
+
+        .secondary-button {
+            background: #6c757d;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 25px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-size: 0.9rem;
+            min-width: 120px;
+            text-align: center;
+        }
+
+        .secondary-button:hover {
+            background: #545b62;
+            transform: translateY(-1px);
+            box-shadow: 0 3px 10px rgba(108, 117, 125, 0.3);
+        }
+
+        .youtube-button {
+            background: #ff6b6b;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 25px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 0.9rem;
+            min-width: 120px;
+            text-align: center;
+        }
+
+        .youtube-button:hover {
+            background: #ee5a24;
+            transform: translateY(-1px);
+            box-shadow: 0 3px 10px rgba(255, 107, 107, 0.3);
         }
 
         .modal {
@@ -407,30 +488,31 @@
         }
 
         .movie-item {
-            background: #f8f9fa;
+            background: white;
             border-radius: 12px;
-            padding: 15px;
-            border-left: 4px solid #ff6b6b;
+            padding: 20px;
+            border: 1px solid #e9ecef;
             transition: all 0.3s ease;
             cursor: pointer;
             display: flex;
-            gap: 15px;
+            gap: 20px;
             align-items: flex-start;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
         }
 
         .movie-item:hover {
-            transform: translateX(5px);
-            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
-            background: #e9ecef;
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+            border-color: #007bff;
         }
 
         .movie-thumbnail {
             flex-shrink: 0;
-            width: 80px;
-            height: 60px;
+            width: 100px;
+            height: 75px;
             border-radius: 8px;
             overflow: hidden;
-            background: #e9ecef;
+            background: #f8f9fa;
         }
 
         .movie-thumbnail img {
@@ -442,14 +524,13 @@
         .movie-info {
             flex: 1;
             min-width: 0;
-            max-width: 250px;
         }
 
         .movie-title {
-            font-weight: 600;
+            font-weight: 700;
             color: #2c3e50;
-            margin-bottom: 5px;
-            font-size: 1.1rem;
+            margin-bottom: 8px;
+            font-size: 1.2rem;
             line-height: 1.3;
             overflow: hidden;
             text-overflow: ellipsis;
@@ -458,56 +539,96 @@
 
         .movie-details {
             display: flex;
-            flex-direction: column;
-            gap: 3px;
+            flex-wrap: wrap;
+            gap: 12px;
+            margin-bottom: 8px;
         }
 
-        .movie-duration,
-        .movie-year,
-        .movie-genre,
-        .movie-rating {
+        .movie-detail-item {
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            font-size: 0.9rem;
             color: #6c757d;
-            font-size: 0.85rem;
-            line-height: 1.2;
         }
 
-        .movie-year {
+        .movie-detail-item.year {
             color: #28a745;
             font-weight: 500;
         }
 
-        .movie-genre {
+        .movie-detail-item.genre {
             color: #17a2b8;
             font-weight: 500;
         }
 
-        .movie-rating {
-            color: #ffc107;
-            font-weight: 600;
-        }
-
-        .movie-imdb-score {
+        .movie-detail-item.imdb {
             color: #f39c12;
             font-weight: 600;
-            background: linear-gradient(135deg, #f39c12, #e67e22);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
         }
 
         .movie-plot {
             color: #6c757d;
             font-size: 0.9rem;
             line-height: 1.5;
-            padding: 0;
-            background: transparent;
-            border: none;
             font-style: italic;
-            flex: 2;
-            min-width: 300px;
-            max-width: none;
-            max-height: none;
-            overflow: visible;
+            margin-bottom: 12px;
+        }
+
+        .movie-plot.collapsed {
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        .movie-plot.expanded {
+            display: block;
+        }
+
+        .movie-actions {
+            display: flex;
+            gap: 8px;
+            margin-top: 8px;
+        }
+
+        .watch-button,
+        .expand-button {
+            background: #007bff;
+            color: white;
+            border: none;
+            padding: 6px 12px;
+            border-radius: 15px;
+            font-size: 0.8rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            white-space: nowrap;
+        }
+
+        .watch-button:hover {
+            background: #0056b3;
+            transform: translateY(-1px);
+            box-shadow: 0 2px 8px rgba(0, 123, 255, 0.3);
+        }
+
+        .expand-button {
+            background: #6c757d;
+        }
+
+        .expand-button:hover {
+            background: #545b62;
+            transform: translateY(-1px);
+            box-shadow: 0 2px 8px rgba(108, 117, 125, 0.3);
+        }
+
+        .expand-button.expanded {
+            background: #28a745;
+        }
+
+        .expand-button.expanded:hover {
+            background: #218838;
         }
 
         .loading {
@@ -529,23 +650,24 @@
         /* Filter Styles */
         .filters-section {
             background: #f8f9fa;
-            border-radius: 15px;
-            padding: 20px;
-            margin-bottom: 20px;
-            border: 2px solid #e9ecef;
+            border-radius: 12px;
+            padding: 24px;
+            margin-bottom: 24px;
+            border: 1px solid #e9ecef;
         }
 
         .filters-header {
             display: flex;
             justify-content: space-between;
             align-items: center;
-            margin-bottom: 15px;
+            margin-bottom: 20px;
         }
 
         .filters-header h3 {
             color: #2c3e50;
             margin: 0;
-            font-size: 1.3rem;
+            font-size: 1.2rem;
+            font-weight: 600;
         }
 
         .toggle-filters-btn {
@@ -967,69 +1089,125 @@
         }
 
         @media (max-width: 768px) {
-            .youtube-link-section {
-                padding: 15px;
-            }
-
-            .youtube-link-section h3 {
-                font-size: 1.3rem;
+            body {
+                padding: 10px;
             }
 
             .content {
                 padding: 20px;
             }
 
+            .header-section {
+                flex-direction: column;
+                gap: 20px;
+                align-items: stretch;
+            }
+
+            .header-main {
+                justify-content: center;
+                text-align: center;
+            }
+
+            .header-actions {
+                justify-content: center;
+                flex-wrap: wrap;
+            }
+
             .filter-row {
                 grid-template-columns: 1fr;
-                gap: 15px;
+                gap: 20px;
             }
 
             .filters-header {
                 flex-direction: column;
-                gap: 10px;
+                gap: 15px;
                 align-items: stretch;
             }
 
             .filter-actions {
                 flex-direction: column;
+                gap: 12px;
             }
 
             .movie-item {
                 flex-direction: column;
                 align-items: stretch;
+                padding: 16px;
             }
 
-            .movie-info {
-                max-width: none;
+            .movie-thumbnail {
+                width: 100%;
+                height: 120px;
+                margin-bottom: 12px;
             }
 
-            .movie-plot {
-                min-width: unset;
-                max-width: none;
-                margin-top: 8px;
-                flex: none;
-            }
-
-            .sort-controls-container {
-                flex-direction: column;
-                gap: 15px;
-            }
-
-            .sorting-section {
-                padding: 15px;
-            }
-
-            .sort-buttons {
+            .movie-details {
                 justify-content: center;
+                margin-bottom: 12px;
             }
 
-            .sort-button {
-                flex: 1;
-                min-width: 0;
+            .movie-detail-item {
+                font-size: 0.85rem;
+            }
+
+            .movie-actions {
+                flex-direction: column;
+                gap: 6px;
+            }
+
+            .watch-button,
+            .expand-button {
+                width: 100%;
+                padding: 8px 12px;
+                font-size: 0.85rem;
+            }
+
+            .search-input {
+                font-size: 16px;
+                /* Prevents zoom on iOS */
+            }
+
+            .modal-content {
+                width: 95%;
+                margin: 10% auto;
+                padding: 20px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .header-main h2 {
+                font-size: 1.5rem;
+            }
+
+            .movie-count {
+                font-size: 0.8rem;
+                padding: 4px 12px;
+            }
+
+            .primary-button,
+            .secondary-button,
+            .youtube-button {
+                padding: 8px 16px;
+                font-size: 0.85rem;
+                min-width: 100px;
+            }
+
+            .movie-title {
+                font-size: 1.1rem;
+            }
+
+            .movie-detail-item {
+                font-size: 0.8rem;
+            }
+
+            .watch-button,
+            .expand-button {
+                font-size: 0.8rem;
+                padding: 6px 10px;
             }
         }
     </style>
-  <script type="module" crossorigin src="/youtube_movie_picker/assets/index-DpNy6i1d.js"></script>
+  <script type="module" crossorigin src="/youtube_movie_picker/assets/index-D2EJCcDS.js"></script>
 </head>
 
 <body>
@@ -1038,20 +1216,16 @@
         <div class="content">
 
             <div class="movies-section">
-                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
-                    <div style="display: flex; align-items: center; gap: 15px;">
-                        <h2>Available Movies</h2>
-                        <span id="movie-count"
-                            style="background: #17a2b8; color: white; padding: 4px 12px; border-radius: 15px; font-size: 0.9rem; font-weight: 600;">0
-                            movies</span>
+                <div class="header-section">
+                    <div class="header-main">
+                        <h2>Movie Picker</h2>
+                        <span id="movie-count" class="movie-count">0 movies</span>
                     </div>
-                    <div style="display: flex; gap: 10px;">
-                        <button id="paste-content-button" class="paste-button">📋 Paste Content</button>
-                        <button id="sample-button" class="sample-button">🧪 Parse Sample</button>
-                        <button id="api-key-button" class="api-key-button">🔑 API Key</button>
-                        <button id="clear-cache-button" class="clear-cache-button">🗑️ Clear Cache</button>
+                    <div class="header-actions">
+                        <button id="paste-content-button" class="primary-button">Add Movies</button>
+                        <button id="api-key-button" class="secondary-button">Settings</button>
                         <a href="https://www.youtube.com/feed/storefront?bp=ogUCKAY%3D" target="_blank"
-                            class="youtube-button">🎬 Open YouTube Movies</a>
+                            class="youtube-button">YouTube Movies</a>
                     </div>
                 </div>
                 <div class="search-container">
@@ -1059,10 +1233,10 @@
                         placeholder="🔍 Search movies by title, genre, year, rating, IMDB score, or plot...">
                 </div>
 
-                <!-- Filter Section -->
+                <!-- Simplified Filter Section -->
                 <div class="filters-section">
                     <div class="filters-header">
-                        <h3>🎯 Filters</h3>
+                        <h3>Filters & Sort</h3>
                         <button id="toggle-filters" class="toggle-filters-btn">Show Filters</button>
                     </div>
 
@@ -1080,7 +1254,7 @@
                         <div class="filter-row">
                             <!-- Genre Filter -->
                             <div class="filter-group">
-                                <label class="filter-label">🎭 Genres</label>
+                                <label class="filter-label">Genre</label>
                                 <div class="genre-dropdown">
                                     <button id="genre-dropdown-btn" class="dropdown-btn">
                                         <span id="genre-selected-count">All Genres</span>
@@ -1101,7 +1275,7 @@
 
                             <!-- Year Range Filter -->
                             <div class="filter-group">
-                                <label class="filter-label">📅 Year Range</label>
+                                <label class="filter-label">Year Range</label>
                                 <div class="year-range-container">
                                     <input type="number" id="year-from" class="year-input" placeholder="From" min="1900"
                                         max="2030">
@@ -1111,31 +1285,9 @@
                                 </div>
                             </div>
 
-                            <!-- Rating Filter -->
-                            <div class="filter-group">
-                                <label class="filter-label">⭐ Rating</label>
-                                <div class="rating-dropdown">
-                                    <button id="rating-dropdown-btn" class="dropdown-btn">
-                                        <span id="rating-selected-count">All Ratings</span>
-                                        <span class="dropdown-arrow">▼</span>
-                                    </button>
-                                    <div id="rating-dropdown-content" class="dropdown-content">
-                                        <div class="dropdown-actions">
-                                            <button id="select-all-ratings" class="dropdown-action-btn">Select
-                                                All</button>
-                                            <button id="clear-all-ratings" class="dropdown-action-btn">Clear
-                                                All</button>
-                                        </div>
-                                        <div id="rating-checkboxes" class="checkbox-container">
-                                            <!-- Rating checkboxes will be populated dynamically -->
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
                             <!-- IMDB Score Filter -->
                             <div class="filter-group">
-                                <label class="filter-label">🎬 IMDB Score</label>
+                                <label class="filter-label">IMDB Score</label>
                                 <div class="imdb-range-container">
                                     <input type="range" id="imdb-min" class="imdb-slider" min="0" max="10" step="0.1"
                                         value="0">
@@ -1148,29 +1300,19 @@
                                 </div>
                             </div>
 
-                        </div>
-
-                        <div class="filter-actions">
-                            <button id="clear-all-filters" class="clear-filters-btn">Clear All Filters</button>
-                            <button id="apply-filters" class="apply-filters-btn">Apply Filters</button>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Sorting Section -->
-                <div class="sorting-section">
-                    <div class="sorting-header">
-                        <h3>📊 Sort Movies</h3>
-                    </div>
-                    <div class="sorting-content">
-                        <div class="sort-controls-container">
-                            <div class="sort-control-group">
-                                <label class="sort-label">Sort by:</label>
+                            <!-- Sort Options -->
+                            <div class="filter-group">
+                                <label class="filter-label">Sort by</label>
                                 <div class="sort-buttons">
                                     <button class="sort-button" data-field="year">Year</button>
                                     <button class="sort-button active" data-field="imdbScore">IMDB Score ↓</button>
                                 </div>
                             </div>
+                        </div>
+
+                        <div class="filter-actions">
+                            <button id="clear-all-filters" class="clear-filters-btn">Clear All</button>
+                            <button id="apply-filters" class="apply-filters-btn">Apply</button>
                         </div>
                     </div>
                 </div>
@@ -1202,28 +1344,47 @@
         </div>
     </div>
 
-    <!-- API Key Modal -->
+    <!-- Settings Modal -->
     <div id="api-key-modal" class="modal">
         <div class="modal-content">
             <div class="modal-header">
-                <h3>🔑 OMDB API Key Settings</h3>
+                <h3>⚙️ Settings</h3>
                 <span class="close">&times;</span>
             </div>
             <div class="modal-body">
-                <p>Enter your OMDB API key to fetch IMDB scores for movies. You can get a free API key from <a
-                        href="https://www.omdbapi.com/apikey.aspx" target="_blank" style="color: #17a2b8;">OMDB API</a>.
-                </p>
-                <div style="margin: 20px 0;">
-                    <label for="api-key-input"
-                        style="display: block; font-weight: 600; color: #2c3e50; margin-bottom: 8px;">API Key:</label>
-                    <input type="password" id="api-key-input" class="content-textarea"
-                        style="height: 50px; font-family: monospace;" placeholder="Enter your OMDB API key here...">
+                <!-- API Key Section -->
+                <div style="margin-bottom: 30px;">
+                    <h4 style="color: #2c3e50; margin-bottom: 15px; font-size: 1.1rem;">🔑 OMDB API Key</h4>
+                    <p style="color: #6c757d; margin-bottom: 15px; font-size: 0.9rem;">Enter your OMDB API key to fetch
+                        IMDB scores for movies. You can get a free API key from <a
+                            href="https://www.omdbapi.com/apikey.aspx" target="_blank" style="color: #17a2b8;">OMDB
+                            API</a>.
+                    </p>
+                    <div style="margin: 15px 0;">
+                        <label for="api-key-input"
+                            style="display: block; font-weight: 600; color: #2c3e50; margin-bottom: 8px;">API
+                            Key:</label>
+                        <input type="password" id="api-key-input" class="content-textarea"
+                            style="height: 50px; font-family: monospace;" placeholder="Enter your OMDB API key here...">
+                    </div>
+                    <div id="api-key-status"
+                        style="margin-top: 10px; padding: 10px; border-radius: 5px; display: none;">
+                    </div>
                 </div>
-                <div id="api-key-status" style="margin-top: 10px; padding: 10px; border-radius: 5px; display: none;">
+
+                <!-- Cache Management Section -->
+                <div style="border-top: 1px solid #e9ecef; padding-top: 20px;">
+                    <h4 style="color: #2c3e50; margin-bottom: 15px; font-size: 1.1rem;">🗑️ Cache Management</h4>
+                    <p style="color: #6c757d; margin-bottom: 15px; font-size: 0.9rem;">Clear stored data to free up
+                        space or start fresh. This will remove all movies, IMDB data, and app settings.</p>
+                    <button id="clear-cache-button" class="modal-button warning"
+                        style="width: 100%; margin-bottom: 10px;">Clear All Data</button>
+                    <div id="cache-status" style="margin-top: 10px; padding: 10px; border-radius: 5px; display: none;">
+                    </div>
                 </div>
             </div>
             <div class="modal-footer">
-                <button id="api-key-cancel-button" class="modal-button secondary">Cancel</button>
+                <button id="api-key-cancel-button" class="modal-button secondary">Close</button>
                 <button id="api-key-clear-button" class="modal-button warning">Clear Key</button>
                 <button id="api-key-test-button" class="modal-button secondary">Test Key</button>
                 <button id="api-key-save-button" class="modal-button primary">Save Key</button>
