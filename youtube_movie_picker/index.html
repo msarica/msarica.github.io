@@ -6,7 +6,7 @@
     <link rel="icon" type="image/svg+xml" href="./movie.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Movie Picker</title>
-  <script type="module" crossorigin src="/youtube_movie_picker/assets/index-Pmfl-Spn.js"></script>
+  <script type="module" crossorigin src="/youtube_movie_picker/assets/index-Cms18-zO.js"></script>
   <link rel="stylesheet" crossorigin href="/youtube_movie_picker/assets/index-D6aXNvbk.css">
 </head>
 
@@ -196,11 +196,34 @@
 
                 <!-- Cache Management Section -->
                 <div style="border-top: 1px solid #e9ecef; padding-top: 20px;">
-                    <h4 style="color: #2c3e50; margin-bottom: 15px; font-size: 1.1rem;">🗑️ Cache Management</h4>
+                    <h4 style="color: #2c3e50; margin-bottom: 15px; font-size: 1.1rem;">🗄️ Data Management</h4>
                     <p style="color: #6c757d; margin-bottom: 15px; font-size: 0.9rem;">Clear stored data to free up
-                        space or start fresh. This will remove all movies, IMDB data, and app settings.</p>
-                    <button id="clear-cache-button" class="modal-button warning"
-                        style="width: 100%; margin-bottom: 10px;">Clear All Data</button>
+                        space or start fresh.</p>
+
+                    <div style="margin-bottom: 20px;">
+                        <p style="color: #6c757d; margin-bottom: 15px; font-size: 0.9rem; font-weight: 500;">Selective
+                            Data Clearing:</p>
+                        <div style="display: flex; gap: 10px; margin-bottom: 15px;">
+                            <button id="clear-movies-button" class="modal-button secondary"
+                                style="flex: 1; font-size: 0.85rem;" title="Clear only movie list">Clear Movies</button>
+                            <button id="clear-imdb-button" class="modal-button secondary"
+                                style="flex: 1; font-size: 0.85rem;"
+                                title="Clear only IMDB data (scores, plots, etc.)">Clear IMDB</button>
+                            <button id="clear-vectordb-button" class="modal-button secondary"
+                                style="flex: 1; font-size: 0.85rem;"
+                                title="Clear only vector database data (AI embeddings)">Clear Vector DB</button>
+                        </div>
+                    </div>
+
+                    <div style="margin-bottom: 15px;">
+                        <p style="color: #6c757d; margin-bottom: 10px; font-size: 0.9rem; font-weight: 500;">Clear
+                            Everything:</p>
+                        <button id="clear-cache-button" class="modal-button warning"
+                            style="width: 100%; margin-bottom: 10px;">Clear All Data</button>
+                        <p style="color: #dc3545; margin: 5px 0 0 0; font-size: 0.8rem;">⚠️ This will remove all movies,
+                            IMDB data, embeddings, and app settings</p>
+                    </div>
+
                     <div id="cache-status" style="margin-top: 10px; padding: 10px; border-radius: 5px; display: none;">
                     </div>
                 </div>
