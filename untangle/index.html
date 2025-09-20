@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Untangle Game</title>
+  <script type="module" crossorigin src="/untangle/assets/index-BxpZC81n.js"></script>
+  <link rel="stylesheet" crossorigin href="/untangle/assets/index-xguCaSC_.css">
+</head>
+
+<body>
+    <div id="app">
+        <div id="header">
+            <div id="game-info">
+                <div id="level-display">Level 1</div>
+            </div>
+            <div id="header-buttons">
+                <button id="new-game-btn">New Game</button>
+                <button id="restart-btn">Restart</button>
+            </div>
+        </div>
+        <div id="game-container">
+            <div id="congratulations">
+                🎉 Congratulations! 🎉<br>
+                <small>Level completed!</small><br>
+                <button id="next-level-btn">Next Level</button>
+            </div>
+        </div>
+
+        <!-- New Game Confirmation Dialog -->
+        <div id="new-game-dialog" class="dialog-overlay">
+            <div class="dialog-content">
+                <h3>Start New Game?</h3>
+                <p>This will reset your progress and start from Level 1.</p>
+                <div class="dialog-buttons">
+                    <button id="confirm-new-game-btn">Yes, Start New Game</button>
+                    <button id="cancel-new-game-btn">Cancel</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
