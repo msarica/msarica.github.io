@@ -1,13 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Star Trek Battle Game</title>
-  <script type="module" crossorigin src="/star_trek/assets/index.DMRTe3F7.js"></script>
-  <link rel="stylesheet" crossorigin href="/star_trek/assets/index.CwOeqiAS.css">
+  <script type="module" crossorigin src="/star_trek/assets/index.BZzRGTz0.js"></script>
+  <link rel="stylesheet" crossorigin href="/star_trek/assets/index.CM3BflnG.css">
 </head>
-<body>
+
+<body class="credit-display-hidden">
+    <!-- Credit Display -->
+    <div id="creditDisplay" class="credit-display hidden">
+        <div class="credit-content">
+            <span class="credit-label">CREDITS:</span>
+            <span id="creditAmount" class="credit-amount">1000</span>
+        </div>
+    </div>
+
     <!-- Startup Screen -->
     <div id="startupScreen" class="startup-screen">
         <div class="startup-content">
@@ -17,15 +27,17 @@
                 <p>Prepare for combat, Captain!</p>
                 <p>Use your weapons wisely! Repair your ship and weapon systems using your engineering skills.</p>
             </div>
-            <button id="startGameBtn" class="start-btn">
-                <span class="start-text">BEGIN MISSION</span>
-            </button>
+            <div class="startup-buttons">
+                <button id="startGameBtn" class="start-btn">
+                    BEGIN MISSION
+                </button>
+            </div>
         </div>
     </div>
 
     <div class="game-container" id="gameContainer" style="display: none;">
         <canvas id="gameCanvas" width="800" height="600"></canvas>
-        
+
         <div class="control-panel">
             <div class="enemy-status-panel">
                 <div class="status-item">
@@ -35,7 +47,7 @@
                     </div>
                 </div>
             </div>
-            
+
             <div class="status-panel">
                 <h3>Your Ship Status</h3>
                 <div class="status-item">
@@ -55,14 +67,15 @@
                         <div class="progress-bar">
                             <div class="progress-fill energy-reserves" style="width: 100%"></div>
                         </div>
-                        <button id="repairEnergyBtn" class="repair-btn" title="Complete math challenge to recharge energy">
+                        <button id="repairEnergyBtn" class="repair-btn"
+                            title="Complete math challenge to recharge energy">
                             <span class="repair-icon">⚡</span>
                         </button>
                     </div>
                 </div>
 
             </div>
-            
+
             <!-- Math Challenge Panel -->
             <div id="mathChallengePanel" class="math-challenge-panel" style="display: none;">
                 <h3>ENGINEERING CHALLENGE</h3>
@@ -93,35 +106,48 @@
                 <div id="mathFeedback" class="math-feedback"></div>
                 <button id="cancelMathBtn" class="cancel-math-btn">CANCEL</button>
             </div>
-            
+
             <div class="weapons-panel">
                 <h3>Weapons Control</h3>
                 <div class="weapon-section">
                     <button id="phaserBtn" class="weapon-btn phaser-btn">
                         <span class="weapon-name">Phasers</span>
                         <span class="weapon-status">Ready</span>
+                        <div class="weapon-loading-bar"></div>
                     </button>
-                    
+
                     <button id="photonBtn" class="weapon-btn photon-btn">
                         <span class="weapon-name">Photon Torpedoes</span>
                         <span class="weapon-status">Ready</span>
+                        <div class="weapon-loading-bar"></div>
                     </button>
-                    
+
                     <button id="quantumBtn" class="weapon-btn quantum-btn">
                         <span class="weapon-name">Quantum Torpedoes</span>
                         <span class="weapon-status">Ready</span>
+                        <div class="weapon-loading-bar"></div>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Game Controls Panel -->
+            <div class="game-controls-panel">
+                <h3>Game Controls</h3>
+                <div class="game-control-section">
+                    <button id="pauseBtn" class="weapon-btn pause-btn" title="Pause/Resume Game">
+                        <span class="weapon-name pause-text">PAUSE</span>
                     </button>
                 </div>
             </div>
         </div>
-        
+
         <!-- Restart button (hidden by default) -->
         <div id="restartContainer" class="restart-container" style="display: none;">
             <button id="restartBtn" class="restart-btn">
                 <span class="restart-text">RESTART MISSION</span>
             </button>
         </div>
-        
+
         <!-- Continue to Next Level button (hidden by default) -->
         <div id="continueContainer" class="continue-container" style="display: none;">
             <button id="continueBtn" class="continue-btn">
@@ -130,7 +156,225 @@
         </div>
     </div>
 
+    <!-- Settings Page -->
+    <div id="settingsPage" class="page-container" style="display: none;">
+        <div class="page-header">
+            <h1>GAME SETTINGS</h1>
+            <button id="settingsBackBtn" class="back-btn">← BACK</button>
+        </div>
 
-    
+        <div class="settings-content">
+            <div class="settings-section">
+                <h3>Audio Settings</h3>
+                <div class="setting-item">
+                    <label>Master Volume</label>
+                    <input type="range" id="masterVolumeSlider" min="0" max="1" step="0.1">
+                    <span id="masterVolumeSliderDisplay">80%</span>
+                </div>
+                <div class="setting-item">
+                    <label>Music Volume</label>
+                    <input type="range" id="musicVolumeSlider" min="0" max="1" step="0.1">
+                    <span id="musicVolumeSliderDisplay">70%</span>
+                </div>
+                <div class="setting-item">
+                    <label>SFX Volume</label>
+                    <input type="range" id="sfxVolumeSlider" min="0" max="1" step="0.1">
+                    <span id="sfxVolumeSliderDisplay">90%</span>
+                </div>
+            </div>
+
+            <div class="settings-section">
+                <h3>Graphics Settings</h3>
+                <div class="setting-item">
+                    <label>Particle Effects</label>
+                    <input type="checkbox" id="particleEffectsToggle" checked>
+                </div>
+                <div class="setting-item">
+                    <label>Screen Shake</label>
+                    <input type="checkbox" id="screenShakeToggle" checked>
+                </div>
+                <div class="setting-item">
+                    <label>Fullscreen</label>
+                    <input type="checkbox" id="fullscreenToggle">
+                </div>
+            </div>
+
+            <div class="settings-section">
+                <h3>Gameplay Settings</h3>
+                <div class="setting-item">
+                    <label>Difficulty</label>
+                    <select id="difficultySelect">
+                        <option value="easy">Easy</option>
+                        <option value="normal" selected>Normal</option>
+                        <option value="hard">Hard</option>
+                    </select>
+                </div>
+                <div class="setting-item">
+                    <label>Auto Save</label>
+                    <input type="checkbox" id="autoSaveToggle" checked>
+                </div>
+                <div class="setting-item">
+                    <label>Show FPS</label>
+                    <input type="checkbox" id="showFPSToggle">
+                </div>
+            </div>
+
+            <div class="settings-section">
+                <h3>UI Settings</h3>
+                <div class="setting-item">
+                    <label>UI Scale</label>
+                    <input type="range" id="uiScaleSlider" min="0.5" max="2" step="0.1">
+                    <span id="uiScaleSliderDisplay">100%</span>
+                </div>
+                <div class="setting-item">
+                    <label>Theme</label>
+                    <select id="themeSelect">
+                        <option value="classic" selected>Classic</option>
+                        <option value="modern">Modern</option>
+                        <option value="dark">Dark</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="settings-actions">
+                <button id="resetSettingsBtn" class="reset-btn">RESET TO DEFAULTS</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- About Page -->
+    <div id="aboutPage" class="page-container" style="display: none;">
+        <div class="page-header">
+            <h1>ABOUT</h1>
+            <button id="aboutBackBtn" class="back-btn">← BACK</button>
+        </div>
+
+        <div class="about-content">
+            <div id="gameDescription" class="about-section"></div>
+            <div id="gameControls" class="about-section"></div>
+
+            <div class="about-actions">
+                <button id="versionInfoBtn" class="info-btn">VERSION INFO</button>
+                <button id="creditsBtn" class="info-btn">CREDITS</button>
+            </div>
+
+            <div id="versionDetails" class="detail-section" style="display: none;"></div>
+            <div id="creditsDetails" class="detail-section" style="display: none;"></div>
+
+            <div class="version-info">
+                <p>Version: <span id="versionNumber">1.0.0</span></p>
+                <p>Build Date: <span id="buildDate"></span></p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Map Page -->
+    <div id="mapPage" class="page-container" style="display: none;">
+        <div class="page-header">
+            <h1>STAR MAP</h1>
+            <div class="header-actions">
+                <div class="credits-display">
+                    <span class="credits-label">Credits:</span>
+                    <span id="creditAmount" class="credit-amount">1000</span>
+                </div>
+                <button id="mapBackBtn" class="back-btn">← BACK</button>
+            </div>
+        </div>
+
+        <div class="map-content">
+            <div class="map-container">
+                <canvas id="mapCanvas" width="800" height="600"></canvas>
+            </div>
+
+            <div class="map-info">
+                <h3>Selected Sector</h3>
+                <div id="selectedLocationName" class="location-name">Select a sector</div>
+
+                <!-- Dynamic Cell Image Display -->
+                <div id="cellImageContainer" class="cell-image-container">
+                    <img id="cellImage" src="" alt="Cell content" class="cell-image">
+                </div>
+
+                <div id="selectedLocationDescription" class="location-description"></div>
+                <div id="selectedLocationEncounter" class="location-encounter"></div>
+
+                <div class="map-buttons">
+                    <button id="jumpBtn" class="jump-btn" disabled>Move Here</button>
+                    <button id="shipSelectionBtn" class="ship-selection-btn" disabled style="display: none;">Ship
+                        Selection</button>
+                    <button id="shipServicesBtn" class="ship-services-btn" disabled style="display: none;">Ship
+                        Services</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Ship Selection Page -->
+    <div id="shipSelectionPage" class="page-container" style="display: none;">
+        <div class="page-header">
+            <h1>SHIP SELECTION</h1>
+            <div class="header-actions">
+                <div class="credits-display">
+                    <span class="credits-label">Credits:</span>
+                    <span id="creditAmount" class="credit-amount">1000</span>
+                </div>
+                <button id="shipSelectionBackBtn" class="back-btn">← BACK</button>
+            </div>
+        </div>
+
+        <div class="ship-selection-content">
+            <div class="ships-grid" id="shipsContainer"></div>
+        </div>
+    </div>
+
+    <!-- Weapon Selection Page -->
+    <div id="weaponSelectionPage" class="page-container" style="display: none;">
+        <div class="page-header">
+            <h1>WEAPON LOADOUT</h1>
+            <div class="header-actions">
+                <div class="credits-display">
+                    <span class="credits-label">Credits:</span>
+                    <span id="creditAmount" class="credit-amount">1000</span>
+                </div>
+                <button id="weaponSelectionBackBtn" class="back-btn">← BACK</button>
+            </div>
+        </div>
+
+        <div class="weapon-selection-content">
+            <div class="weapons-grid" id="availableWeaponsContainer"></div>
+
+            <div class="loadout-section">
+                <h3>Current Loadout</h3>
+                <div class="loadout-grid" id="selectedLoadoutContainer"></div>
+
+                <div class="loadout-info">
+                    <div class="loadout-stat">
+                        <span>Weapons: </span>
+                        <span id="loadoutWeaponCount">0/3</span>
+                    </div>
+                    <div class="loadout-stat">
+                        <span>Total Damage: </span>
+                        <span id="loadoutTotalDamage">0</span>
+                    </div>
+                    <div class="loadout-stat">
+                        <span>Total Energy Cost: </span>
+                        <span id="loadoutTotalEnergy">0</span>
+                    </div>
+                    <div class="loadout-stat">
+                        <span>Efficiency: </span>
+                        <span id="loadoutEfficiency">0</span>
+                    </div>
+                </div>
+
+                <div class="loadout-actions">
+                    <button id="applyLoadoutBtn" class="apply-btn" disabled>Apply Loadout</button>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
 </body>
+
 </html>
