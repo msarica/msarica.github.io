@@ -4,9 +4,9 @@
 <head>
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/vite.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
     <title>Untangle Game</title>
-  <script type="module" crossorigin src="/untangle/assets/index-uAFXJenA.js"></script>
+  <script type="module" crossorigin src="/untangle/assets/index-CiekRKfH.js"></script>
   <link rel="stylesheet" crossorigin href="/untangle/assets/index-xguCaSC_.css">
 </head>
 
@@ -19,6 +19,7 @@
             <div id="header-buttons">
                 <button id="new-game-btn">New Game</button>
                 <button id="restart-btn">Restart</button>
+                <button id="solve-btn" style="display: none;">Solve</button>
             </div>
         </div>
         <div id="game-container">
@@ -41,6 +42,18 @@
             </div>
         </div>
     </div>
+    <script>
+        // Prevent browser back navigation on mobile devices
+        (function () {
+            // Push a dummy state to prevent back navigation
+            history.pushState(null, null, location.href);
+
+            // Listen for popstate events and push the state back
+            window.addEventListener('popstate', function (event) {
+                history.pushState(null, null, location.href);
+            });
+        })();
+    </script>
 </body>
 
 </html>
