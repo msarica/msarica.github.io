@@ -31,8 +31,8 @@
     <link rel="icon" type="image/png" sizes="512x512" href="/untangle/icon-512.png" />
     <link rel="apple-touch-icon" href="/untangle/icon-192.png" />
 
-  <script type="module" crossorigin src="/untangle/assets/main-X7EbFkWQ.js"></script>
-  <link rel="stylesheet" crossorigin href="/untangle/assets/main-xXNT7P1y.css">
+  <script type="module" crossorigin src="/untangle/assets/main-CZu0BvRo.js"></script>
+  <link rel="stylesheet" crossorigin href="/untangle/assets/main-DMWeg0tT.css">
 </head>
 
 <body>
@@ -64,6 +64,19 @@
                 <div class="dialog-buttons">
                     <button id="confirm-new-game-btn">Yes, Start New Game</button>
                     <button id="cancel-new-game-btn">Cancel</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Level Selector Dialog -->
+        <div id="level-selector-dialog" class="dialog-overlay">
+            <div class="dialog-content level-selector-content">
+                <h3>Select Level</h3>
+                <div id="level-grid" class="level-grid">
+                    <!-- Level buttons will be generated dynamically -->
+                </div>
+                <div class="dialog-buttons">
+                    <button id="close-level-selector-btn">Close</button>
                 </div>
             </div>
         </div>
