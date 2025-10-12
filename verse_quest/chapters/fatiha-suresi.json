@@ -1,0 +1,124 @@
+{
+    "id": "fatiha-suresi",
+    "name": "Fatiha Suresi",
+    "description": "Fatiha Suresi",
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+            "translation": "Rahman Rahim olan Allah´ın adıyla",
+            "originals": [
+                "بِسْمِ",
+                "اللّٰهِ",
+                "الرَّحْمٰنِ",
+                "الرَّح۪يمِ"
+            ],
+            "translations": [
+                "adıyla",
+                "Allah`ın",
+                "Rahman",
+                "Rahim"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "اَلْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَۙ",
+            "translation": "Hamd* Alemlerin Rabbinedir.",
+            "originals": [
+                "اَلْحَمْدُ",
+                "لِلّٰهِ",
+                "رَبِّ",
+                "الْعَالَم۪ينَۙ"
+            ],
+            "translations": [
+                "hamdolsun",
+                "Allah`a",
+                "Rabbi",
+                "Alemlerin"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "اَلرَّحْمٰنِ الرَّح۪يمِۙ",
+            "translation": "Rahman ve Rahimdir.",
+            "originals": [
+                "اَلرَّحْمٰنِ",
+                "الرَّح۪يمِۙ"
+            ],
+            "translations": [
+                "(O) Rahman`dır",
+                "Rahim`dir"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "مَالِكِ يَوْمِ الدّ۪ينِۜ",
+            "translation": "Din gününün malikidir.",
+            "originals": [
+                "مَالِكِ",
+                "يَوْمِ",
+                "الدّ۪ينِۜ"
+            ],
+            "translations": [
+                "sahibidir",
+                "gününün",
+                "Din"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَع۪ينُۜ",
+            "translation": "Biz yalnızca Sana ibadet eder ve yalnızca Senden yardım dileriz.",
+            "originals": [
+                "اِيَّاكَ",
+                "نَعْبُدُ",
+                "وَاِيَّاكَ",
+                "نَسْتَع۪ينُۜ"
+            ],
+            "translations": [
+                "ancak sana",
+                "kulluk ederiz",
+                "ancak senden",
+                "yardım isteriz"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "اِهْدِنَا الصِّرَاطَ الْمُسْتَق۪يمَۙ",
+            "translation": "Bizi doğru yola ilet;",
+            "originals": [
+                "اِهْدِنَا",
+                "الصِّرَاطَ",
+                "الْمُسْتَق۪يمَۙ"
+            ],
+            "translations": [
+                "bizi ilet",
+                "yola",
+                "doğru"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "صِرَاطَ الَّذ۪ينَ اَنْعَمْتَ عَلَيْهِمْۙ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّٓالّ۪ينَ",
+            "translation": "Kendilerine nimet verdiklerinin yoluna gazaba uğrayanların ve sapmışlarınkine değil.",
+            "originals": [
+                "صِرَاطَ",
+                "الَّذ۪ينَ اَنْعَمْتَ",
+                "عَلَيْهِمْۙ",
+                "غَيْرِ",
+                "الْمَغْضُوبِ عَلَيْهِمْ",
+                "وَلَا",
+                "الضَّٓالّ۪ينَ"
+            ],
+            "translations": [
+                "yoluna",
+                "ni`met verdiğin",
+                "kimselerin",
+                "değil",
+                "kendilerine gazabedilmiş olanların",
+                "ve",
+                "sapmışların"
+            ]
+        }
+    ]
+}

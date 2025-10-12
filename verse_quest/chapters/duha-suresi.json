@@ -1,0 +1,172 @@
+{
+    "id": "duha-suresi",
+    "name": "Duha Suresi",
+    "description": "Duha Suresi",
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": "وَالضُّحٰىۙ",
+            "translation": "Kuşluk vaktine andolsun,",
+            "originals": [
+                "وَالضُّحٰىۙ"
+            ],
+            "translations": [
+                "kuşluk vaktine andolsun"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "وَالَّيْلِ اِذَا سَجٰىۙ",
+            "translation": "´Karanlığı iyice çöktüğü´ zaman geceye,",
+            "originals": [
+                "وَالَّيْلِ",
+                "اِذَا سَجٰىۙ"
+            ],
+            "translations": [
+                "ve geceye andolsun",
+                "sakinleşen"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلٰىۜ",
+            "translation": "Rabbin seni terk etmedi ve darılmadı.",
+            "originals": [
+                "مَا وَدَّعَكَ",
+                "رَبُّكَ",
+                "وَمَا قَلٰىۜ"
+            ],
+            "translations": [
+                "seni bırakmadı",
+                "Rabbin",
+                "ve sana darılmadı"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "وَلَلْاٰخِرَةُ خَيْرٌ لَكَ مِنَ الْاُو۫لٰىۜ",
+            "translation": "Şüphesiz senin için son olan, ilk olandan (ahiret dünyadan) daha hayırlıdır.",
+            "originals": [
+                "وَلَلْاٰخِرَةُ",
+                "خَيْرٌ",
+                "لَكَ",
+                "مِنَ الْاُو۫لٰىۜ"
+            ],
+            "translations": [
+                "ve son",
+                "iyi olacaktır",
+                "senin için",
+                "ilkinden"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "وَلَسَوْفَ يُعْط۪يكَ رَبُّكَ فَتَـرْضٰىۜ",
+            "translation": "Elbette Rabbin sana verecek, böylece sen hoşnut kalacaksın.",
+            "originals": [
+                "وَلَسَوْفَ",
+                "يُعْط۪يكَ",
+                "رَبُّكَ",
+                "فَتَـرْضٰىۜ"
+            ],
+            "translations": [
+                "ve yakında",
+                "sana verecek",
+                "Rabbin",
+                "ve sen razı olacaksın"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "اَلَمْ يَجِدْكَ يَت۪ـيـماً فَاٰوٰىۖ",
+            "translation": "Bir yetim iken, seni bulup da barındırmadı mı?",
+            "originals": [
+                "اَلَمْ يَجِدْكَ",
+                "يَت۪ـيـماً",
+                "فَاٰوٰىۖ"
+            ],
+            "translations": [
+                "seni bulmadı mı?",
+                "yetim",
+                "ve barındırmadı mı?"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "وَوَجَدَكَ ضَٓالاًّ فَهَدٰىۖ",
+            "translation": "Ve seni yol bilmez iken, ´doğru yola yöneltip iletmedi mi?",
+            "originals": [
+                "وَوَجَدَكَ",
+                "ضَٓالاًّ",
+                "فَهَدٰىۖ"
+            ],
+            "translations": [
+                "seni bulmadı mı?",
+                "şaşırmış",
+                "ve yola iletmedi mi?"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "وَوَجَدَكَ عَٓائِلاً فَاَغْنٰىۜ",
+            "translation": "Bir yoksul iken seni bulup zengin etmedi mi?",
+            "originals": [
+                "وَوَجَدَكَ",
+                "عَٓائِلاً",
+                "فَاَغْنٰىۜ"
+            ],
+            "translations": [
+                "seni bulmadı mı?",
+                "fakir",
+                "zengin etmedi mi?"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "فَاَمَّا الْيَت۪يمَ فَلَا تَقْهَرْۜ",
+            "translation": "Öyleyse, sakın yetimi üzüp-kahretme.",
+            "originals": [
+                "فَاَمَّا",
+                "الْيَت۪يمَ",
+                "فَلَا تَقْهَرْۜ"
+            ],
+            "translations": [
+                "öyleyse",
+                "öksüzü",
+                "sakın ezme"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "وَاَمَّا السَّٓائِلَ فَلَا تَنْهَرْۜ",
+            "translation": "İsteyip-dileneni azarlayıp-çıkışma.",
+            "originals": [
+                "وَاَمَّا",
+                "السَّٓائِلَ",
+                "فَلَا تَنْهَرْۜ"
+            ],
+            "translations": [
+                "ve sakın",
+                "dilenciyi",
+                "azarlama"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "وَاَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+            "translation": "Rabbinin nimetini durmaksızın anlat.",
+            "originals": [
+                "وَاَمَّا",
+                "بِنِعْمَةِ",
+                "رَبِّكَ",
+                "فَحَدِّثْ"
+            ],
+            "translations": [
+                "ve",
+                "ni`metini",
+                "Rabbinin",
+                "anlat"
+            ]
+        }
+    ]
+}

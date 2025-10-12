@@ -1,0 +1,458 @@
+{
+    "id": "tekvir-suresi",
+    "name": "Tekvir Suresi",
+    "description": "Tekvir Suresi",
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": "اِذَا الشَّمْسُ كُـوِّرَتْۙۖ",
+            "translation": "Güneş, köreltildiği zaman,",
+            "originals": [
+                "اِذَا",
+                "الشَّمْسُ",
+                "كُـوِّرَتْۙۖ"
+            ],
+            "translations": [
+                "zaman",
+                "güneş",
+                "büzüldüğü"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "وَاِذَا النُّجُومُ انْكَدَرَتْۙۖ",
+            "translation": "Yıldızlar, bulanıklaşıp-döküldüğü zaman,",
+            "originals": [
+                "وَاِذَا",
+                "النُّجُومُ",
+                "انْكَدَرَتْۙۖ"
+            ],
+            "translations": [
+                "zaman",
+                "yıldızlar",
+                "kararıp döküldüğü"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "وَاِذَا الْجِبَالُ سُيِّرَتْۙۖ",
+            "translation": "Dağlar, yürütüldüğü zaman,",
+            "originals": [
+                "وَاِذَا",
+                "الْجِبَالُ",
+                "سُيِّرَتْۙۖ"
+            ],
+            "translations": [
+                "zaman",
+                "dağlar",
+                "yürütüldüğü"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "وَاِذَا الْعِشَارُ عُطِّلَتْۙۖ",
+            "translation": "Gebe develer, kendi başına terk edildiği zaman,",
+            "originals": [
+                "وَاِذَا",
+                "الْعِشَارُ",
+                "عُطِّلَتْۙۖ"
+            ],
+            "translations": [
+                "zaman",
+                "on aylık gebe develer",
+                "başı boş bırakıldığı"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "وَاِذَا الْوُحُوشُ حُشِرَتْۙۖ",
+            "translation": "Vahşi-hayvanlar, toplandığı zaman,",
+            "originals": [
+                "وَاِذَا",
+                "الْوُحُوشُ",
+                "حُشِرَتْۙۖ"
+            ],
+            "translations": [
+                "zaman",
+                "vahşi hayvanlar",
+                "bir araya toplandığı"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "وَاِذَا الْبِحَارُ سُجِّرَتْۙۖ",
+            "translation": "Denizler, tutuşturulduğu zaman,",
+            "originals": [
+                "وَاِذَا",
+                "الْبِحَارُ",
+                "سُجِّرَتْۙۖ"
+            ],
+            "translations": [
+                "zaman",
+                "denizler",
+                "kaynatıldığı"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "وَاِذَا النُّفُوسُ زُوِّجَتْۙۖ",
+            "translation": "Nefisler, birleştiği zaman,",
+            "originals": [
+                "وَاِذَا",
+                "النُّفُوسُ",
+                "زُوِّجَتْۙۖ"
+            ],
+            "translations": [
+                "zaman",
+                "nefisler",
+                "çiftleştirildiği"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "وَاِذَا الْمَوْءُ۫دَةُ سُئِلَتْۙ",
+            "translation": "Ve ´diri diri toprağa gömülen kızcağıza´ sorulduğu zaman:",
+            "originals": [
+                "وَاِذَا",
+                "الْمَوْءُ۫دَةُ",
+                "سُئِلَتْۙ"
+            ],
+            "translations": [
+                "zaman",
+                "o diri diri toprağa gömülen kıza",
+                "sorulduğu"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "بِاَيِّ ذَنْبٍ قُتِلَتْۚ",
+            "translation": "&quot;Hangi suçtan dolayı öldürüldü?&quot;",
+            "originals": [
+                "بِاَيِّ",
+                "ذَنْبٍ",
+                "قُتِلَتْۚ"
+            ],
+            "translations": [
+                "hangi?",
+                "günah (yüzünden)",
+                "öldürüldü"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "وَاِذَا الصُّحُفُ نُشِرَتْۙۖ",
+            "translation": "Sahifeler (amel defterleri) açıldığı zaman,",
+            "originals": [
+                "وَاِذَا",
+                "الصُّحُفُ",
+                "نُشِرَتْۙۖ"
+            ],
+            "translations": [
+                "zaman",
+                "defterler",
+                "açılıp yayıldığı"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "وَاِذَا السَّمَٓاءُ كُشِطَتْۙۖ",
+            "translation": "Gök, sıyrılıp-yüzüldüğü zaman",
+            "originals": [
+                "وَاِذَا",
+                "السَّمَٓاءُ",
+                "كُشِطَتْۙۖ"
+            ],
+            "translations": [
+                "zaman",
+                "gök",
+                "sıyrılıp açıldığı"
+            ]
+        },
+        {
+            "id": "12",
+            "sentence": "وَاِذَا الْجَح۪يمُ سُعِّرَتْۙۖ",
+            "translation": "Cehennem ateşi çılgınca kızıştırıldığı zaman,",
+            "originals": [
+                "وَاِذَا",
+                "الْجَح۪يمُ",
+                "سُعِّرَتْۙۖ"
+            ],
+            "translations": [
+                "zaman",
+                "cehennem",
+                "alevlendirildiği"
+            ]
+        },
+        {
+            "id": "13",
+            "sentence": "وَاِذَا الْجَنَّةُ اُزْلِفَتْۙۖ",
+            "translation": "Cennet de yakınlaştırıldığı zaman,",
+            "originals": [
+                "وَاِذَا",
+                "الْجَنَّةُ",
+                "اُزْلِفَتْۙۖ"
+            ],
+            "translations": [
+                "zaman",
+                "cennet",
+                "yaklaştırıldığı"
+            ]
+        },
+        {
+            "id": "14",
+            "sentence": "عَلِمَتْ نَفْسٌ مَٓا اَحْضَرَتْۜ",
+            "translation": "(Artık her) Nefis, neyi hazırladığını bilip-öğrenmiştir.",
+            "originals": [
+                "عَلِمَتْ",
+                "نَفْسٌ",
+                "مَٓا اَحْضَرَتْۜ"
+            ],
+            "translations": [
+                "bilir",
+                "her can",
+                "ne yapıp getirdiğini"
+            ]
+        },
+        {
+            "id": "15",
+            "sentence": "فَلَٓا اُقْسِمُ بِالْخُنَّسِۙ",
+            "translation": "Artık hayır; yemin ederim (gündüz) sinip (gece) dönen (gezegen)lere,",
+            "originals": [
+                "فَلَٓا",
+                "اُقْسِمُ",
+                "بِالْخُنَّسِۙ"
+            ],
+            "translations": [
+                "hayır",
+                "yemin ederim",
+                "geri kalıp gizlenenlere"
+            ]
+        },
+        {
+            "id": "16",
+            "sentence": "اَلْجَوَارِ الْكُنَّسِۙ",
+            "translation": "Bir akış içinde yerini alanlara;",
+            "originals": [
+                "اَلْجَوَارِ",
+                "الْكُنَّسِۙ"
+            ],
+            "translations": [
+                "akıp gidenlere",
+                "dönüp saklananlara"
+            ]
+        },
+        {
+            "id": "17",
+            "sentence": "وَالَّيْلِ اِذَا عَسْعَسَۙ",
+            "translation": "Kararmaya ilk başladığı zaman, geceye andolsun,",
+            "originals": [
+                "وَالَّيْلِ",
+                "اِذَا عَسْعَسَۙ"
+            ],
+            "translations": [
+                "geceye",
+                "sırtını döndüğünde"
+            ]
+        },
+        {
+            "id": "18",
+            "sentence": "وَالصُّبْحِ اِذَا تَنَفَّسَۙ",
+            "translation": "Ve nefes almaya başladığı zaman, sabaha;",
+            "originals": [
+                "وَالصُّبْحِ",
+                "اِذَا تَنَفَّسَۙ"
+            ],
+            "translations": [
+                "sabaha",
+                "soluk almağa başlayan"
+            ]
+        },
+        {
+            "id": "19",
+            "sentence": "اِنَّهُ لَقَوْلُ رَسُولٍ كَر۪يمٍۙ",
+            "translation": "Şüphesiz o (Kur´an), üstün onur sahibi bir elçinin gerçekten (Allah´tan getirdiği) sözüdür;",
+            "originals": [
+                "اِنَّهُ",
+                "لَقَوْلُ",
+                "رَسُولٍ",
+                "كَر۪يمٍۙ"
+            ],
+            "translations": [
+                "şüphesiz o",
+                "sözüdür",
+                "bir elçinin",
+                "değerli"
+            ]
+        },
+        {
+            "id": "20",
+            "sentence": "ذ۪ي قُوَّةٍ عِنْدَ ذِي الْعَرْشِ مَك۪ينٍۙ",
+            "translation": "(Bu elçi,) Bir güç sahibidir, arşın sahibi Katında şereflidir.",
+            "originals": [
+                "ذ۪ي",
+                "قُوَّةٍ",
+                "عِنْدَ",
+                "ذِي",
+                "الْعَرْشِ",
+                "مَك۪ينٍۙ"
+            ],
+            "translations": [
+                "sahibidir",
+                "güç",
+                "katında",
+                "sahibi",
+                "Arşın",
+                "yücedir"
+            ]
+        },
+        {
+            "id": "21",
+            "sentence": "مُطَاعٍ ثَمَّ اَم۪ينٍۜ",
+            "translation": "Ona itaat edilir, sonra güvenilirdir.",
+            "originals": [
+                "مُطَاعٍ",
+                "ثَمَّ",
+                "اَم۪ينٍۜ"
+            ],
+            "translations": [
+                "ita`at edilendir",
+                "orada",
+                "güvenilendir"
+            ]
+        },
+        {
+            "id": "22",
+            "sentence": "وَمَا صَاحِبُكُمْ بِمَجْنُونٍۚ",
+            "translation": "Sizin sahibiniz bir deli değildir.",
+            "originals": [
+                "وَمَا",
+                "صَاحِبُكُمْ",
+                "بِمَجْنُونٍۚ"
+            ],
+            "translations": [
+                "değildir",
+                "arkadaşınız",
+                "cinli"
+            ]
+        },
+        {
+            "id": "23",
+            "sentence": "وَلَقَدْ رَاٰهُ بِالْاُفُقِ الْمُب۪ينِۚ",
+            "translation": "Andolsun o (peygamber), onu apaçık bir ufukta görmüştür.",
+            "originals": [
+                "وَلَقَدْ",
+                "رَاٰهُ",
+                "بِالْاُفُقِ",
+                "الْمُب۪ينِۚ"
+            ],
+            "translations": [
+                "andolsun",
+                "onu görmüştür",
+                "ufukta",
+                "apaçık"
+            ]
+        },
+        {
+            "id": "24",
+            "sentence": "وَمَا هُوَ عَلَى الْغَيْبِ بِضَن۪ينٍۚ",
+            "translation": "O, gayb (haberlerin)e karşı (söylediklerinden dolayı) suçlanamaz (ya da cimrilikte bulunup kıskançlık yapmaz.)",
+            "originals": [
+                "وَمَا",
+                "هُوَ",
+                "عَلَى",
+                "الْغَيْبِ",
+                "بِضَن۪ينٍۚ"
+            ],
+            "translations": [
+                "değildir",
+                "O",
+                "hakkında",
+                "gayb",
+                "suçlanacak"
+            ]
+        },
+        {
+            "id": "25",
+            "sentence": "وَمَا هُوَ بِقَوْلِ شَيْطَانٍ رَج۪يمٍۚ",
+            "translation": "O (Kur´an) da kovulmuş şeytanın sözü değildir.",
+            "originals": [
+                "وَمَا",
+                "هُوَ",
+                "بِقَوْلِ",
+                "شَيْطَانٍ",
+                "رَج۪يمٍۚ"
+            ],
+            "translations": [
+                "değildir",
+                "O",
+                "sözü",
+                "şeytanın",
+                "kovulmuş"
+            ]
+        },
+        {
+            "id": "26",
+            "sentence": "فَاَيْنَ تَذْهَبُونَۜ",
+            "translation": "Şu halde, siz nereye kaçıp-gidiyorsunuz?",
+            "originals": [
+                "فَاَيْنَ",
+                "تَذْهَبُونَۜ"
+            ],
+            "translations": [
+                "o halde nereye?",
+                "gidiyorsunuz"
+            ]
+        },
+        {
+            "id": "27",
+            "sentence": "اِنْ هُوَ اِلَّا ذِكْرٌ لِلْعَالَم۪ينَۙ",
+            "translation": "O (Kur´an), alemler için yalnızca bir zikirdir;",
+            "originals": [
+                "اِنْ هُوَ",
+                "اِلَّا",
+                "ذِكْرٌ",
+                "لِلْعَالَم۪ينَۙ"
+            ],
+            "translations": [
+                "O",
+                "ancak",
+                "öğüttür",
+                "alemlere"
+            ]
+        },
+        {
+            "id": "28",
+            "sentence": "لِمَنْ شَٓاءَ مِنْكُمْ اَنْ يَسْتَق۪يمَ",
+            "translation": "Sizden dosdoğru bir yön (istikamet) tutturmak dileyenler için.",
+            "originals": [
+                "لِمَنْ شَٓاءَ",
+                "مِنْكُمْ",
+                "اَنْ يَسْتَق۪يمَ"
+            ],
+            "translations": [
+                "isteyen için",
+                "aranızdan",
+                "doğru hareket etmek"
+            ]
+        },
+        {
+            "id": "29",
+            "sentence": "وَمَا تَشَٓاؤُ۫نَ اِلَّٓا اَنْ يَشَٓاءَ اللّٰهُ رَبُّ الْعَالَم۪ينَ",
+            "translation": "Alemlerin Rabbi olan Allah dilemedikçe siz dileyemezsiniz.",
+            "originals": [
+                "وَمَا تَشَٓاؤُ۫نَ",
+                "اِلَّٓا اَنْ يَشَٓاءَ",
+                "اللّٰهُ",
+                "رَبُّ",
+                "الْعَالَم۪ينَ"
+            ],
+            "translations": [
+                "siz dileyemezsiniz",
+                "dilemedikçe",
+                "Allah",
+                "Rabbi",
+                "alemlerin"
+            ]
+        }
+    ]
+}

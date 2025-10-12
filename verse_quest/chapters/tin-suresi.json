@@ -1,0 +1,137 @@
+{
+    "id": "tin-suresi",
+    "name": "Tin Suresi",
+    "description": "Tin Suresi",
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": "وَالتّ۪ينِ وَالزَّيْتُونِۙ",
+            "translation": "İncire ve zeytine andolsun,",
+            "originals": [
+                "وَالتّ۪ينِ",
+                "وَالزَّيْتُونِۙ"
+            ],
+            "translations": [
+                "incire andolsun",
+                "ve zeytine"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "وَطُورِ س۪ين۪ينَۙ",
+            "translation": "Sina dağına,",
+            "originals": [
+                "وَطُورِ س۪ين۪ينَۙ"
+            ],
+            "translations": [
+                "ve sina dağına"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "وَهٰذَا الْبَلَدِ الْاَم۪ينِۙ",
+            "translation": "Ve şu emin beldeye (güvenilir şehre).",
+            "originals": [
+                "وَهٰذَا",
+                "الْبَلَدِ",
+                "الْاَم۪ينِۙ"
+            ],
+            "translations": [
+                "ve bu",
+                "Şehre (andolsun)",
+                "güvenli"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "لَقَدْ خَلَقْنَا الْاِنْسَانَ ف۪ٓي اَحْسَنِ تَقْو۪يمٍۘ",
+            "translation": "Doğrusu, Biz insanı en güzel bir biçimde yarattık.",
+            "originals": [
+                "لَقَدْ",
+                "خَلَقْنَا",
+                "الْاِنْسَانَ",
+                "ف۪ٓي اَحْسَنِ",
+                "تَقْو۪يمٍۘ"
+            ],
+            "translations": [
+                "andolsun",
+                "biz yarattık",
+                "insanı",
+                "en güzel",
+                "biçimde"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "ثُمَّ رَدَدْنَاهُ اَسْفَلَ سَافِل۪ينَۙ",
+            "translation": "Sonra aşağıların aşağısına çevirdik.",
+            "originals": [
+                "ثُمَّ",
+                "رَدَدْنَاهُ",
+                "اَسْفَلَ",
+                "سَافِل۪ينَۙ"
+            ],
+            "translations": [
+                "sonra",
+                "onu çevirdik",
+                "aşağıların",
+                "aşağısına"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "اِلَّا الَّذ۪ينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَلَهُمْ اَجْرٌ غَيْرُ مَمْنُونٍۜ",
+            "translation": "Ancak iman edip salih amellerde bulunanlar başka; onlar için kesintisi olmayan bir ecir vardır.",
+            "originals": [
+                "اِلَّا",
+                "الَّذ۪ينَ اٰمَنُوا",
+                "وَعَمِلُوا",
+                "الصَّالِحَاتِ",
+                "فَلَهُمْ",
+                "اَجْرٌ",
+                "غَيْرُ مَمْنُونٍۜ"
+            ],
+            "translations": [
+                "yalnız hariç",
+                "inananlar",
+                "ve yapanlar",
+                "iyi işler",
+                "onlar için vardır",
+                "bir mükafat",
+                "kesintisiz"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "فَمَا يُكَذِّبُكَ بَعْدُ بِالدّ۪ينِۜ",
+            "translation": "Öyleyse bundan sonra, hangi şey sana dini yalanlatabilir?",
+            "originals": [
+                "فَمَا يُكَذِّبُكَ",
+                "بَعْدُ",
+                "بِالدّ۪ينِۜ"
+            ],
+            "translations": [
+                "sana yalanlatan nedir?",
+                "bundan sonra",
+                "dini"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "اَلَيْسَ اللّٰهُ بِاَحْكَمِ الْحَاكِم۪ينَ",
+            "translation": "Allah hükmedenlerin hakimi değil midir?",
+            "originals": [
+                "اَلَيْسَ",
+                "اللّٰهُ",
+                "بِاَحْكَمِ",
+                "الْحَاكِم۪ينَ"
+            ],
+            "translations": [
+                "değil midir?",
+                "Allah",
+                "en iyi hüküm vereni",
+                "hüküm verenlerin"
+            ]
+        }
+    ]
+}

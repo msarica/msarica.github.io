@@ -1,0 +1,103 @@
+{
+    "id": "kafirun-suresi",
+    "name": "Kafirun Suresi",
+    "description": "Kafirun Suresi",
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": "قُلْ يَٓا اَيُّهَا الْـكَافِرُونَۙ",
+            "translation": "De ki: &quot;Ey kafirler.&quot;",
+            "originals": [
+                "قُلْ",
+                "يَٓا اَيُّهَا",
+                "الْـكَافِرُونَۙ"
+            ],
+            "translations": [
+                "de ki",
+                "ey",
+                "inkar edenler"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "لَٓا اَعْبُدُ مَا تَعْبُدُونَۙ",
+            "translation": "&quot;Ben sizin taptıklarınıza tapmam.&quot;",
+            "originals": [
+                "لَٓا اَعْبُدُ",
+                "مَا تَعْبُدُونَۙ"
+            ],
+            "translations": [
+                "ben ibadet etmem",
+                "sizin taptığınıza"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "وَلَٓا اَنْتُمْ عَابِدُونَ مَٓا اَعْبُدُۚ",
+            "translation": "&quot;Benim taptığıma siz tapacak değilsiniz.&quot;",
+            "originals": [
+                "وَلَٓا",
+                "اَنْتُمْ",
+                "عَابِدُونَ",
+                "مَٓا اَعْبُدُۚ"
+            ],
+            "translations": [
+                "ve etmezsiniz",
+                "siz de",
+                "ibadeti",
+                "benim taptığıma"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "وَلَٓا اَنَا۬ عَابِدٌ مَا عَبَدْتُمْۙ",
+            "translation": "&quot;Ben de sizin taptıklarınıza tapacak değilim.&quot;",
+            "originals": [
+                "وَلَٓا",
+                "اَنَا۬",
+                "عَابِدٌ",
+                "مَا عَبَدْتُمْۙ"
+            ],
+            "translations": [
+                "değilim",
+                "ben",
+                "ibadet eden",
+                "sizin taptıklarınıza"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "وَلَٓا اَنْتُمْ عَابِدُونَ مَٓا اَعْبُدُۜ",
+            "translation": "&quot;Siz de benim taptığıma tapacak değilsiniz.&quot;",
+            "originals": [
+                "وَلَٓا",
+                "اَنْتُمْ",
+                "عَابِدُونَ",
+                "مَٓا اَعْبُدُۜ"
+            ],
+            "translations": [
+                "değilsiniz",
+                "siz de",
+                "ibadet eden",
+                "benim ibadet ettiğime"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "لَـكُمْ د۪ينُكُمْ وَلِيَ د۪ينِ",
+            "translation": "&quot;Sizin dininiz size, benim dinim bana.&quot;",
+            "originals": [
+                "لَـكُمْ",
+                "د۪ينُكُمْ",
+                "وَلِيَ",
+                "د۪ينِ"
+            ],
+            "translations": [
+                "sizindir",
+                "dininiz",
+                "ve benimdir",
+                "dinim"
+            ]
+        }
+    ]
+}

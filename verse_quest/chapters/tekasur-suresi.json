@@ -1,0 +1,133 @@
+{
+    "id": "tekasur-suresi",
+    "name": "Tekasür Suresi",
+    "description": "Tekasür Suresi",
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": "اَلْهٰيكُمُ التَّكَاثُرُۙ",
+            "translation": "(Mal, mülk ve servette) Çoklukla övünmek, sizi ´tutkuyla oyalayıp, kendinizden geçirdi.´",
+            "originals": [
+                "اَلْهٰيكُمُ",
+                "التَّكَاثُرُۙ"
+            ],
+            "translations": [
+                "sizi oyaladı",
+                "çokluk yarışı"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "حَتّٰى زُرْتُمُ الْمَقَابِرَۜ",
+            "translation": "&quot;Öyle ki (bu,) mezarı ziyaretinize (kabre gidişinize, ölümünüze) kadar sürdü.&quot;",
+            "originals": [
+                "حَتّٰى",
+                "زُرْتُمُ",
+                "الْمَقَابِرَۜ"
+            ],
+            "translations": [
+                "nihayet",
+                "ziyaret ettiniz",
+                "kabirleri"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "كَلَّا سَوْفَ تَعْلَمُونَۙ",
+            "translation": "Hayır; ileride bileceksiniz.",
+            "originals": [
+                "كَلَّا",
+                "سَوْفَ",
+                "تَعْلَمُونَۙ"
+            ],
+            "translations": [
+                "hayır",
+                "yakında",
+                "bileceksiniz"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَۜ",
+            "translation": "Yine hayır; ileride bileceksiniz.",
+            "originals": [
+                "ثُمَّ",
+                "كَلَّا",
+                "سَوْفَ",
+                "تَعْلَمُونَۜ"
+            ],
+            "translations": [
+                "yine",
+                "hayır",
+                "yakında",
+                "bileceksiniz"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَق۪ينِۜ",
+            "translation": "Hayır; eğer siz kesin bir bilgiyle bilmiş olsaydınız,",
+            "originals": [
+                "كَلَّا",
+                "لَوْ",
+                "تَعْلَمُونَ",
+                "عِلْمَ",
+                "الْيَق۪ينِۜ"
+            ],
+            "translations": [
+                "hayır",
+                "keşke",
+                "bilseydiniz",
+                "bilgi ile",
+                "kesin"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "لَتَرَوُنَّ الْجَح۪يمَۙ",
+            "translation": "Andolsun, o çılgınca yanan ateşi de elbette görecektiniz.",
+            "originals": [
+                "لَتَرَوُنَّ",
+                "الْجَح۪يمَۙ"
+            ],
+            "translations": [
+                "mutlaka görürdünüz",
+                "cehennemi"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَق۪ينِۙ",
+            "translation": "Sonra onu, gerçekten yakîn gözüyle (Ayne´l Yakîn) görmüş olacaksınız.",
+            "originals": [
+                "ثُمَّ",
+                "لَتَرَوُنَّهَا",
+                "عَيْنَ",
+                "الْيَق۪ينِۙ"
+            ],
+            "translations": [
+                "sonra",
+                "onu göreceksiniz",
+                "gözle",
+                "kesin olarak"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ النَّع۪يمِ",
+            "translation": "Sonra o gün, nimetten sorguya çekileceksiniz.",
+            "originals": [
+                "ثُمَّ",
+                "لَتُسْـَٔلُنَّ",
+                "يَوْمَئِذٍ",
+                "عَنِ النَّع۪يمِ"
+            ],
+            "translations": [
+                "sonra",
+                "sorulacaksınız",
+                "o gün",
+                "ni`metten"
+            ]
+        }
+    ]
+}

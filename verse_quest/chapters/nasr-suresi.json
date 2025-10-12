@@ -1,0 +1,68 @@
+{
+    "id": "nasr-suresi",
+    "name": "Nasr Suresi",
+    "description": "Nasr Suresi",
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": "اِذَا جَٓاءَ نَصْرُ اللّٰهِ وَالْفَتْحُۙ",
+            "translation": "Allah´ın yardımı ve fetih geldiği zaman,",
+            "originals": [
+                "اِذَا",
+                "جَٓاءَ",
+                "نَصْرُ",
+                "اللّٰهِ",
+                "وَالْفَتْحُۙ"
+            ],
+            "translations": [
+                "zaman",
+                "geldiği",
+                "yardımı",
+                "Allah`ın",
+                "ve fetih"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "وَرَاَيْتَ النَّاسَ يَدْخُلُونَ ف۪ي د۪ينِ اللّٰهِ اَفْوَاجاًۙ",
+            "translation": "Ve insanların Allah´ın dinine dalga dalga girdiklerini gördüğünde,",
+            "originals": [
+                "وَرَاَيْتَ",
+                "النَّاسَ",
+                "يَدْخُلُونَ",
+                "ف۪ي د۪ينِ",
+                "اللّٰهِ",
+                "اَفْوَاجاًۙ"
+            ],
+            "translations": [
+                "ve gördüğün (zaman)",
+                "insanların",
+                "girdiklerini",
+                "dinine",
+                "Allah`ın",
+                "dalga dalga"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُۜ اِنَّهُ كَانَ تَوَّاباً",
+            "translation": "Hemen Rabbini hamd ile tesbih et ve O´ndan mağfiret dile. Çünkü O, tevbeleri çok kabul edendir.",
+            "originals": [
+                "فَسَبِّحْ",
+                "بِحَمْدِ",
+                "رَبِّكَ",
+                "وَاسْتَغْفِرْهُۜ",
+                "اِنَّهُ",
+                "كَانَ تَوَّاباً"
+            ],
+            "translations": [
+                "tesbih et",
+                "överek",
+                "Rabbini",
+                "O`ndan mağfiret dile",
+                "çünkü O",
+                "tevbeyi kabul edendir"
+            ]
+        }
+    ]
+}

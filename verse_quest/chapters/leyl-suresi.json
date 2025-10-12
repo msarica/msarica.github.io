@@ -1,0 +1,330 @@
+{
+    "id": "leyl-suresi",
+    "name": "Leyl Suresi",
+    "description": "Leyl Suresi",
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": "وَالَّيْلِ اِذَا يَغْشٰىۙ",
+            "translation": "Sarıp-örttüğü zaman geceye andolsun,",
+            "originals": [
+                "وَالَّيْلِ",
+                "اِذَا",
+                "يَغْشٰىۙ"
+            ],
+            "translations": [
+                "geceye andolsun",
+                "zaman",
+                "örttüğü"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "وَالنَّهَارِ اِذَا تَجَلّٰىۙ",
+            "translation": "Parıldayıp-aydınlandığı zaman gündüze,",
+            "originals": [
+                "وَالنَّهَارِ",
+                "اِذَا",
+                "تَجَلّٰىۙ"
+            ],
+            "translations": [
+                "ve gündüze andolsun",
+                "zaman",
+                "göründüğü"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "وَمَا خَلَقَ الذَّكَرَ وَالْاُنْثٰىۙ",
+            "translation": "Erkeği ve dişiyi yaratana;",
+            "originals": [
+                "وَمَا خَلَقَ",
+                "الذَّكَرَ",
+                "وَالْاُنْثٰىۙ"
+            ],
+            "translations": [
+                "ve yaratana andolsun",
+                "erkeği",
+                "ve dişiyi"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "اِنَّ سَعْيَكُمْ لَشَتّٰىۜ",
+            "translation": "Gerçekten sizin çabalarınız (çelişkili, parça parça) darmadağınıktır.",
+            "originals": [
+                "اِنَّ",
+                "سَعْيَكُمْ",
+                "لَشَتّٰىۜ"
+            ],
+            "translations": [
+                "şüphesiz",
+                "sizin işiniz",
+                "çeşit çeşittir"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "فَاَمَّا مَنْ اَعْطٰى وَاتَّقٰىۙ",
+            "translation": "Fakat kim verir ve korkup-sakınırsa,",
+            "originals": [
+                "فَاَمَّا",
+                "مَنْ",
+                "اَعْطٰى",
+                "وَاتَّقٰىۙ"
+            ],
+            "translations": [
+                "ama",
+                "kim",
+                "(hayır için) verir",
+                "korunursa"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "وَصَدَّقَ بِالْحُسْنٰىۙ",
+            "translation": "Ve en güzel olanı doğrularsa,",
+            "originals": [
+                "وَصَدَّقَ",
+                "بِالْحُسْنٰىۙ"
+            ],
+            "translations": [
+                "ve doğrularsa",
+                "en güzel(söz)ü"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "فَسَنُيَسِّرُهُ لِلْيُسْرٰىۜ",
+            "translation": "Biz de onu kolay olan için başarılı kılacağız.",
+            "originals": [
+                "فَسَنُيَسِّرُهُ",
+                "لِلْيُسْرٰىۜ"
+            ],
+            "translations": [
+                "ona kolaylaştırırız",
+                "en kolayı"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "وَاَمَّا مَنْ بَخِلَ وَاسْتَغْنٰىۙ",
+            "translation": "Kim de cimrilik eder, kendini müstağni görürse,",
+            "originals": [
+                "وَاَمَّا",
+                "مَنْ",
+                "بَخِلَ",
+                "وَاسْتَغْنٰىۙ"
+            ],
+            "translations": [
+                "ama",
+                "kim",
+                "cimrilik ederse",
+                "ve kendini zengin görürse"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "وَكَذَّبَ بِالْحُسْنٰىۙ",
+            "translation": "Ve en güzel olanı yalan sayarsa,",
+            "originals": [
+                "وَكَذَّبَ",
+                "بِالْحُسْنٰىۙ"
+            ],
+            "translations": [
+                "ve yalanlarsa",
+                "en güzel(söz)ü"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "فَسَنُيَسِّرُهُ لِلْعُسْرٰىۜ",
+            "translation": "Biz de ona en zorlu olanı (azaba uğramasını) kolaylaştıracağız.",
+            "originals": [
+                "فَسَنُيَسِّرُهُ",
+                "لِلْعُسْرٰىۜ"
+            ],
+            "translations": [
+                "ona da kolaylaştırırız",
+                "en güç(yolda gitmey)i"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "وَمَا يُغْن۪ي عَنْهُ مَالُـهُٓ اِذَا تَرَدّٰىۜ",
+            "translation": "Tereddi edeceği (başaşağı düşüşe uğrayacağı) zaman, malı ona hiç yarar sağlamaz.",
+            "originals": [
+                "وَمَا يُغْن۪ي",
+                "عَنْهُ",
+                "مَالُـهُٓ",
+                "اِذَا",
+                "تَرَدّٰىۜ"
+            ],
+            "translations": [
+                "hiçbir fayda sağlamaz",
+                "ona",
+                "malı",
+                "zaman",
+                "çukura düştüğü"
+            ]
+        },
+        {
+            "id": "12",
+            "sentence": "اِنَّ عَلَيْنَا لَلْهُدٰىۘ",
+            "translation": "Şüphesiz, Bize ait olan, yol göstermektir.",
+            "originals": [
+                "اِنَّ",
+                "عَلَيْنَا",
+                "لَلْهُدٰىۘ"
+            ],
+            "translations": [
+                "şüphesiz",
+                "bize aittir",
+                "doğru yola iletmek"
+            ]
+        },
+        {
+            "id": "13",
+            "sentence": "وَاِنَّ لَنَا لَلْاٰخِرَةَ وَالْاُو۫لٰى",
+            "translation": "Gerçekten, son da, ilk de (ahiret ve dünya) Bizimdir.",
+            "originals": [
+                "وَاِنَّ",
+                "لَنَا",
+                "لَلْاٰخِرَةَ",
+                "وَالْاُو۫لٰى"
+            ],
+            "translations": [
+                "ve şüphesiz",
+                "bizimdir",
+                "son da",
+                "ilk de"
+            ]
+        },
+        {
+            "id": "14",
+            "sentence": "فَاَنْذَرْتُكُمْ نَاراً تَلَظّٰىۚ",
+            "translation": "Artık sizi, ´alevleri kabardıkça kabaran´ bir ateşle uyardım.",
+            "originals": [
+                "فَاَنْذَرْتُكُمْ",
+                "نَاراً",
+                "تَلَظّٰىۚ"
+            ],
+            "translations": [
+                "ben sizi uyardım",
+                "bir ateşe karşı",
+                "alev saçan"
+            ]
+        },
+        {
+            "id": "15",
+            "sentence": "لَا يَصْلٰيهَٓا اِلَّا الْاَشْقٰىۙ",
+            "translation": "Ona, ancak en bedbaht olandan başkası yollanmaz;",
+            "originals": [
+                "لَا يَصْلٰيهَٓا",
+                "اِلَّا",
+                "الْاَشْقٰىۙ"
+            ],
+            "translations": [
+                "ona girmez",
+                "başkası",
+                "haydut olandan"
+            ]
+        },
+        {
+            "id": "16",
+            "sentence": "اَلَّذ۪ي كَذَّبَ وَتَوَلّٰىۜ",
+            "translation": "Ki o, yalanlamış ve yüz çevirmişti.",
+            "originals": [
+                "اَلَّذ۪ي",
+                "كَذَّبَ",
+                "وَتَوَلّٰىۜ"
+            ],
+            "translations": [
+                "o ki",
+                "yalanlandı",
+                "ve sırtını döndü"
+            ]
+        },
+        {
+            "id": "17",
+            "sentence": "وَسَيُجَنَّبُهَا الْاَتْقٰىۙ",
+            "translation": "Sakınan ise, ondan uzak tutulacaktır.",
+            "originals": [
+                "وَسَيُجَنَّبُهَا",
+                "الْاَتْقٰىۙ"
+            ],
+            "translations": [
+                "ve ondan uzak tutulur",
+                "en muttaki olan"
+            ]
+        },
+        {
+            "id": "18",
+            "sentence": "اَلَّذ۪ي يُؤْت۪ي مَالَهُ يَتَزَكّٰىۚ",
+            "translation": "Ki o, malını vererek temizlenip-arınır.",
+            "originals": [
+                "اَلَّذ۪ي",
+                "يُؤْت۪ي",
+                "مَالَهُ",
+                "يَتَزَكّٰىۚ"
+            ],
+            "translations": [
+                "o ki",
+                "(hayra) vererek",
+                "malını",
+                "arınır yücelir"
+            ]
+        },
+        {
+            "id": "19",
+            "sentence": "وَمَا لِاَحَدٍ عِنْدَهُ مِنْ نِعْمَةٍ تُجْزٰىۙ",
+            "translation": "Onun yanında hiç kimsenin karşılığı verilecek bir nimeti (borcu) yoktur.",
+            "originals": [
+                "وَمَا",
+                "لِاَحَدٍ",
+                "عِنْدَهُ",
+                "مِنْ نِعْمَةٍ",
+                "تُجْزٰىۙ"
+            ],
+            "translations": [
+                "ve yoktur",
+                "hiç kimsenin",
+                "onun yanında",
+                "bir ni`meti",
+                "karşılık verilecek"
+            ]
+        },
+        {
+            "id": "20",
+            "sentence": "اِلَّا ابْتِغَٓاءَ وَجْهِ رَبِّهِ الْاَعْلٰىۚ",
+            "translation": "Ancak Yüce Rabbinin rızasını aramak için (verir).",
+            "originals": [
+                "اِلَّا",
+                "ابْتِغَٓاءَ",
+                "وَجْهِ",
+                "رَبِّهِ",
+                "الْاَعْلٰىۚ"
+            ],
+            "translations": [
+                "yalnız",
+                "ulaşmak için",
+                "rızasına",
+                "Rabbinin",
+                "yüce"
+            ]
+        },
+        {
+            "id": "21",
+            "sentence": "وَلَسَوْفَ يَرْضٰى",
+            "translation": "Muhakkak kendisi de ileride razı olacaktır.",
+            "originals": [
+                "وَلَسَوْفَ",
+                "يَرْضٰى"
+            ],
+            "translations": [
+                "yakında",
+                "razı olacaktır"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,389 @@
+{
+    "id": "buruc-suresi",
+    "name": "Buruc Suresi",
+    "description": "Buruc Suresi",
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": "وَالسَّمَٓاءِ ذَاتِ الْبُرُوجِۙ",
+            "translation": "Burçları olan göğe andolsun,",
+            "originals": [
+                "وَالسَّمَٓاءِ",
+                "ذَاتِ",
+                "الْبُرُوجِۙ"
+            ],
+            "translations": [
+                "göğe andolsun",
+                "sahibi",
+                "burçlar"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "وَالْيَوْمِ الْمَوْعُودِۙ",
+            "translation": "O vadedilen güne,",
+            "originals": [
+                "وَالْيَوْمِ",
+                "الْمَوْعُودِۙ"
+            ],
+            "translations": [
+                "güne andolsun",
+                "va`dedilen"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "وَشَاهِدٍ وَمَشْهُودٍۜ",
+            "translation": "Şahid olana (görene) ve şahit olunana (görülene).",
+            "originals": [
+                "وَشَاهِدٍ",
+                "وَمَشْهُودٍۜ"
+            ],
+            "translations": [
+                "şahide andolsun",
+                "ve şahidlik edilene"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "قُتِلَ اَصْحَابُ الْاُخْدُودِۙ",
+            "translation": "Kahrolsun Ashab-ı Uhdud",
+            "originals": [
+                "قُتِلَ",
+                "اَصْحَابُ",
+                "الْاُخْدُودِۙ"
+            ],
+            "translations": [
+                "kahroldu",
+                "adamları",
+                "hendeğin"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "اَلنَّارِ ذَاتِ الْوَقُودِۙ",
+            "translation": "´Tutuşturucu-yakıt dolu o ateş,´",
+            "originals": [
+                "اَلنَّارِ",
+                "ذَاتِ الْوَقُودِۙ"
+            ],
+            "translations": [
+                "ateş",
+                "yakıt doldurulup tutuşturulmuş"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "اِذْ هُمْ عَلَيْهَا قُعُودٌۙ",
+            "translation": "Hani kendileri (ateş hendeğinin) çevresinde oturmuşlardı.",
+            "originals": [
+                "اِذْ",
+                "هُمْ",
+                "عَلَيْهَا",
+                "قُعُودٌۙ"
+            ],
+            "translations": [
+                "hani",
+                "onlar",
+                "onun başında",
+                "oturmuşlardı"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "وَهُمْ عَلٰى مَا يَفْعَلُونَ بِالْمُؤْمِن۪ينَ شُهُودٌۜ",
+            "translation": "Ve mü´minlere yaptıklarını seyrediyorlardı.",
+            "originals": [
+                "وَهُمْ",
+                "عَلٰى مَا يَفْعَلُونَ",
+                "بِالْمُؤْمِن۪ينَ",
+                "شُهُودٌۜ"
+            ],
+            "translations": [
+                "ve onlar",
+                "yaptıklarını",
+                "mü`minlere",
+                "seyrediyorlardı"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "وَمَا نَقَمُوا مِنْهُمْ اِلَّٓا اَنْ يُؤْمِنُوا بِاللّٰهِ الْعَز۪يزِ الْحَم۪يدِۙ",
+            "translation": "Onlardan, yalnızca ´üstün ve güçlü olan,´ öğülen Allah´a iman ettiklerinden dolayı intikam alıyorlardı.",
+            "originals": [
+                "وَمَا نَقَمُوا",
+                "مِنْهُمْ",
+                "اِلَّٓا",
+                "اَنْ يُؤْمِنُوا",
+                "بِاللّٰهِ",
+                "الْعَز۪يزِ",
+                "الْحَم۪يدِۙ"
+            ],
+            "translations": [
+                "öc almadılar",
+                "onlardan",
+                "başka bir sebeple",
+                "inanmalarından",
+                "Allah`a",
+                "aziz",
+                "övgüye layık"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "اَلَّذ۪ي لَهُ مُلْكُ السَّمٰوَاتِ وَالْاَرْضِۜ وَاللّٰهُ عَلٰى كُلِّ شَيْءٍ شَه۪يدٌۜ",
+            "translation": "Ki O (Allah), göklerin ve yerin mülkü O´nundur. Allah, herşeyin üzerinde şahid olandır.",
+            "originals": [
+                "اَلَّذ۪ي",
+                "لَهُ",
+                "مُلْكُ",
+                "السَّمٰوَاتِ",
+                "وَالْاَرْضِۜ",
+                "وَاللّٰهُ",
+                "عَلٰى كُلِّ شَيْءٍ",
+                "شَه۪يدٌۜ"
+            ],
+            "translations": [
+                "O ki",
+                "O`nundur",
+                "hükümranlığı",
+                "göklerin",
+                "ve yerin",
+                "Allah",
+                "her şeye",
+                "tanıktır"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "اِنَّ الَّذ۪ينَ فَتَنُوا الْمُؤْمِن۪ينَ وَالْمُؤْمِنَاتِ ثُمَّ لَمْ يَتُوبُوا فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ الْحَر۪يقِۜ",
+            "translation": "Gerçek şu ki, mü´min erkeklerle mü´min kadınlara işkence (fitne) uygulayanlar, sonra tevbe etmeyenler; işte onlar için, cehennem azabı vardır ve yakıcı azap onlaradır.",
+            "originals": [
+                "اِنَّ",
+                "الَّذ۪ينَ فَتَنُوا",
+                "الْمُؤْمِن۪ينَ",
+                "وَالْمُؤْمِنَاتِ",
+                "ثُمَّ",
+                "لَمْ يَتُوبُوا",
+                "فَلَهُمْ",
+                "عَذَابُ",
+                "جَهَنَّمَ",
+                "وَلَهُمْ",
+                "الْحَر۪يقِۜ"
+            ],
+            "translations": [
+                "şüphesiz",
+                "işkence edenler",
+                "inanan erkeklere",
+                "ve inanan kadınlara",
+                "sonra",
+                "tevbe etmeyenler",
+                "onlar için vardır",
+                "azabı",
+                "cehennem",
+                "ve onlar için vardır",
+                "yangın"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "اِنَّ الَّذ۪ينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ جَنَّاتٌ تَجْر۪ي مِنْ تَحْتِهَا الْاَنْهَارُۜ ذٰلِكَ الْفَوْزُ الْـكَب۪يرُۜ",
+            "translation": "Şüphesiz iman edip salih amellerde bulunanlara gelince; onlar için altından ırmaklar akan cennetler vardır. İşte büyük ´kurtuluş ve mutluluk´ budur.",
+            "originals": [
+                "اِنَّ",
+                "الَّذ۪ينَ اٰمَنُوا",
+                "وَعَمِلُوا",
+                "الصَّالِحَاتِ",
+                "لَهُمْ",
+                "جَنَّاتٌ",
+                "تَجْر۪ي",
+                "مِنْ تَحْتِهَا",
+                "الْاَنْهَارُۜ",
+                "ذٰلِكَ",
+                "الْفَوْزُ",
+                "الْـكَب۪يرُۜ"
+            ],
+            "translations": [
+                "şüphesiz",
+                "inananlar",
+                "ve yapanlar",
+                "iyi işler",
+                "onlar için vardır",
+                "cennetler",
+                "akan",
+                "altlarından",
+                "ırmaklar",
+                "işte budur",
+                "başarı",
+                "büyük"
+            ]
+        },
+        {
+            "id": "12",
+            "sentence": "اِنَّ بَطْشَ رَبِّكَ لَشَد۪يدٌۜ",
+            "translation": "Doğrusu, Rabbinin ´zorlu yakalayışı´ şiddetlidir.",
+            "originals": [
+                "اِنَّ",
+                "بَطْشَ",
+                "رَبِّكَ",
+                "لَشَد۪يدٌۜ"
+            ],
+            "translations": [
+                "şüphesiz",
+                "tutuşu",
+                "Rabbinin",
+                "şiddetlidir"
+            ]
+        },
+        {
+            "id": "13",
+            "sentence": "اِنَّهُ هُوَ يُبْدِئُ وَيُع۪يدُۚ",
+            "translation": "Çünkü O, ilkin var eden, (sonra dirilterek) döndürecek olandır.",
+            "originals": [
+                "اِنَّهُ",
+                "هُوَ",
+                "يُبْدِئُ",
+                "وَيُع۪يدُۚ"
+            ],
+            "translations": [
+                "şüphesiz O",
+                "O`dur",
+                "ilkin var eden",
+                "sonra yeniden devam eden"
+            ]
+        },
+        {
+            "id": "14",
+            "sentence": "وَهُوَ الْغَفُورُ الْوَدُودُۙ",
+            "translation": "O, çok bağışlayandır, çok sevendir.",
+            "originals": [
+                "وَهُوَ",
+                "الْغَفُورُ",
+                "الْوَدُودُۙ"
+            ],
+            "translations": [
+                "O",
+                "bağışlayandır",
+                "sevendir"
+            ]
+        },
+        {
+            "id": "15",
+            "sentence": "ذُو الْعَرْشِ الْمَج۪يدُۙ",
+            "translation": "Arşın sahibidir; Mecid (pek Yüce)dir.",
+            "originals": [
+                "ذُو",
+                "الْعَرْشِ",
+                "الْمَج۪يدُۙ"
+            ],
+            "translations": [
+                "sahibidir",
+                "Arş`ın",
+                "yücedir"
+            ]
+        },
+        {
+            "id": "16",
+            "sentence": "فَعَّالٌ لِمَا يُر۪يدُۜ",
+            "translation": "Her dilediğini yapıp-gerçekleştirendir.",
+            "originals": [
+                "فَعَّالٌ",
+                "لِمَا يُر۪يدُۜ"
+            ],
+            "translations": [
+                "yapandır",
+                "istediğini"
+            ]
+        },
+        {
+            "id": "17",
+            "sentence": "هَلْ اَتٰيكَ حَد۪يثُ الْجُنُودِۙ",
+            "translation": "Orduların haberi sana geldi mi?",
+            "originals": [
+                "هَلْ اَتٰيكَ",
+                "حَد۪يثُ",
+                "الْجُنُودِۙ"
+            ],
+            "translations": [
+                "sana geldi mi?",
+                "haberi",
+                "orduların"
+            ]
+        },
+        {
+            "id": "18",
+            "sentence": "فِرْعَوْنَ وَثَمُودَۜ",
+            "translation": "Firavun ve Semud (ordularının)?",
+            "originals": [
+                "فِرْعَوْنَ",
+                "وَثَمُودَۜ"
+            ],
+            "translations": [
+                "Fir`avn`ın",
+                "ve Semud`un"
+            ]
+        },
+        {
+            "id": "19",
+            "sentence": "بَلِ الَّذ۪ينَ كَفَرُوا ف۪ي تَكْذ۪يبٍۙ",
+            "translation": "Hayır; inkar edenler, (kesintisiz) bir yalanlama içindedirler.",
+            "originals": [
+                "بَلِ",
+                "الَّذ۪ينَ كَفَرُوا",
+                "ف۪ي",
+                "تَكْذ۪يبٍۙ"
+            ],
+            "translations": [
+                "doğrusu",
+                "inkar edenler",
+                "içindedirler",
+                "bir yalanlama"
+            ]
+        },
+        {
+            "id": "20",
+            "sentence": "وَاللّٰهُ مِنْ وَرَٓائِهِمْ مُح۪يطٌۚ",
+            "translation": "Allah ise, onları arkalarından sarıp-kuşatmıştır.",
+            "originals": [
+                "وَاللّٰهُ",
+                "مِنْ وَرَٓائِهِمْ",
+                "مُح۪يطٌۚ"
+            ],
+            "translations": [
+                "Allah",
+                "onları arkalarından",
+                "kuşatmıştır"
+            ]
+        },
+        {
+            "id": "21",
+            "sentence": "بَلْ هُوَ قُرْاٰنٌ مَج۪يدٌۙ",
+            "translation": "Hayır; o (Kitap), ´şerefli-üstün´ olan bir Kur´an´dır;",
+            "originals": [
+                "بَلْ",
+                "هُوَ",
+                "قُرْاٰنٌ",
+                "مَج۪يدٌۙ"
+            ],
+            "translations": [
+                "hayır",
+                "o",
+                "bir Kur`an`dır",
+                "şerefli"
+            ]
+        },
+        {
+            "id": "22",
+            "sentence": "ف۪ي لَوْحٍ مَحْفُوظٍ",
+            "translation": "Levh-i Mahfuz´dadır.",
+            "originals": [
+                "ف۪ي لَوْحٍ",
+                "مَحْفُوظٍ"
+            ],
+            "translations": [
+                "bir levhadadır",
+                "korunan"
+            ]
+        }
+    ]
+}

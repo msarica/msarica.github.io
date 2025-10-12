@@ -1,0 +1,1345 @@
+{
+    "id": "rahman-suresi",
+    "name": "Rahman Suresi",
+    "description": "Rahman Suresi",
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": "اَلرَّحْمٰنُۙ",
+            "translation": "Rahman (olan Allah)",
+            "originals": [
+                "اَلرَّحْمٰنُۙ"
+            ],
+            "translations": [
+                "Çok merhametli (Allah)"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "عَلَّمَ الْقُرْاٰنَۜ",
+            "translation": "Kur´an´ı öğretti.",
+            "originals": [
+                "عَلَّمَ",
+                "الْقُرْاٰنَۜ"
+            ],
+            "translations": [
+                "öğretti",
+                "Kur`an`ı"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "خَلَقَ الْاِنْسَانَۙ",
+            "translation": "İnsanı yarattı.",
+            "originals": [
+                "خَلَقَ",
+                "الْاِنْسَانَۙ"
+            ],
+            "translations": [
+                "yarattı",
+                "insanı"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "عَلَّمَهُ الْبَيَانَ",
+            "translation": "Ona beyanı öğretti.",
+            "originals": [
+                "عَلَّمَهُ",
+                "الْبَيَانَ"
+            ],
+            "translations": [
+                "ona öğretti",
+                "beyanı"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "اَلشَّمْسُ وَالْقَمَرُ بِحُسْبَانٍۖ",
+            "translation": "Güneş ve ay (belli) bir hesap iledir.",
+            "originals": [
+                "اَلشَّمْسُ",
+                "وَالْقَمَرُ",
+                "بِحُسْبَانٍۖ"
+            ],
+            "translations": [
+                "güneş",
+                "ve ay",
+                "bir hesap iledir"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "وَالنَّجْمُ وَالشَّجَرُ يَسْجُدَانِ",
+            "translation": "Bitki ve ağaç (O´na) secde etmektedirler.",
+            "originals": [
+                "وَالنَّجْمُ",
+                "وَالشَّجَرُ",
+                "يَسْجُدَانِ"
+            ],
+            "translations": [
+                "necm (bitkiler yıldızlar)",
+                "ve ağaçlar",
+                "secde etmektedirler"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "وَالسَّمَٓاءَ رَفَعَهَا وَوَضَعَ الْم۪يزَانَۙ",
+            "translation": "Gökyüzü, Onu da yükseltti ve mizanı koydu.",
+            "originals": [
+                "وَالسَّمَٓاءَ",
+                "رَفَعَهَا",
+                "وَوَضَعَ",
+                "الْم۪يزَانَۙ"
+            ],
+            "translations": [
+                "ve göğü",
+                "yükseltti",
+                "ve koydu",
+                "mizanı"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "اَلَّا تَطْغَوْا فِي الْم۪يزَانِ",
+            "translation": "Sakın mizanda ´haksızlık ve taşkınlık yapmayın.´",
+            "originals": [
+                "اَلَّا تَطْغَوْا",
+                "فِي الْم۪يزَانِ"
+            ],
+            "translations": [
+                "taşkınlık etmeyin",
+                "tartıda"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "وَاَق۪يمُوا الْوَزْنَ بِالْقِسْطِ وَلَا تُخْسِرُوا الْم۪يزَانَ",
+            "translation": "Tartıyı adaletle tutup-doğrultun ve tartıyı noksan tutmayın.",
+            "originals": [
+                "وَاَق۪يمُوا",
+                "الْوَزْنَ",
+                "بِالْقِسْطِ",
+                "وَلَا تُخْسِرُوا",
+                "الْم۪يزَانَ"
+            ],
+            "translations": [
+                "ve yapın",
+                "tartıyı",
+                "adaletle",
+                "eksiklik yapmayın",
+                "terazide"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "وَالْاَرْضَ وَضَعَهَا لِلْاَنَامِۙ",
+            "translation": "Yere gelince, onu da (yaratılmış bütün) varlıklar için alçalttı-koydu.",
+            "originals": [
+                "وَالْاَرْضَ",
+                "وَضَعَهَا",
+                "لِلْاَنَامِۙ"
+            ],
+            "translations": [
+                "yeryüzünü",
+                "koydu",
+                "canlılar için"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "ف۪يهَا فَاكِهَةٌۖ وَالنَّخْلُ ذَاتُ الْاَكْمَامِ",
+            "translation": "Onda meyveler ve salkımlı hurmalıklar var.",
+            "originals": [
+                "ف۪يهَا",
+                "فَاكِهَةٌۖ",
+                "وَالنَّخْلُ",
+                "ذَاتُ الْاَكْمَامِ"
+            ],
+            "translations": [
+                "onda vardır",
+                "meyva(lar)",
+                "ve hurmalar",
+                "salkımlı"
+            ]
+        },
+        {
+            "id": "12",
+            "sentence": "وَالْحَبُّ ذُوالْعَصْفِ وَالرَّيْحَانُۚ",
+            "translation": "Yapraklı taneler ve güzel kokulu bitkiler.",
+            "originals": [
+                "وَالْحَبُّ",
+                "ذُوالْعَصْفِ",
+                "وَالرَّيْحَانُۚ"
+            ],
+            "translations": [
+                "ve dane(ler)",
+                "saplı ve yapraklı",
+                "ve hoş kokulu bitkiler"
+            ]
+        },
+        {
+            "id": "13",
+            "sentence": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translation": "Şu halde Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+            "originals": [
+                "فَبِاَيِّ",
+                "اٰلَٓاءِ",
+                "رَبِّكُمَا",
+                "تُكَذِّبَانِ"
+            ],
+            "translations": [
+                "şimdi hangi?",
+                "ni`metlerini",
+                "Rabbinizin",
+                "yalanlıyorsunuz"
+            ]
+        },
+        {
+            "id": "14",
+            "sentence": "خَلَقَ الْاِنْسَانَ مِنْ صَلْصَالٍ كَالْفَخَّارِۙ",
+            "translation": "İnsanı, ateşte pişmiş gibi kuru bir çamurdan yarattı.",
+            "originals": [
+                "خَلَقَ",
+                "الْاِنْسَانَ",
+                "مِنْ صَلْصَالٍ",
+                "كَالْفَخَّارِۙ"
+            ],
+            "translations": [
+                "yarattı",
+                "insanı",
+                "pişmiş çamurdan",
+                "kiremit gibi"
+            ]
+        },
+        {
+            "id": "15",
+            "sentence": "وَخَلَقَ الْجَٓانَّ مِنْ مَارِجٍ مِنْ نَارٍۚ",
+            "translation": "Cann´ı (cinni) da ´yalın-dumansız bir ateşten´ yarattı.",
+            "originals": [
+                "وَخَلَقَ",
+                "الْجَٓانَّ",
+                "مِنْ مَارِجٍ",
+                "مِنْ نَارٍۚ"
+            ],
+            "translations": [
+                "ve yarattı",
+                "cin`i",
+                "dumanı olmayan alevden",
+                "ateşten"
+            ]
+        },
+        {
+            "id": "16",
+            "sentence": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translation": "Şu halde Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+            "originals": [
+                "فَبِاَيِّ",
+                "اٰلَٓاءِ",
+                "رَبِّكُمَا",
+                "تُكَذِّبَانِ"
+            ],
+            "translations": [
+                "şimdi hangi?",
+                "ni`metlerini",
+                "Rabbinizin",
+                "yalanlıyorsunuz"
+            ]
+        },
+        {
+            "id": "17",
+            "sentence": "رَبُّ الْمَشْرِقَيْنِ وَرَبُّ الْمَغْرِبَيْنِۚ",
+            "translation": "O, iki doğunun da Rabbidir, iki batının da Rabbidir.",
+            "originals": [
+                "رَبُّ",
+                "الْمَشْرِقَيْنِ",
+                "وَرَبُّ",
+                "الْمَغْرِبَيْنِۚ"
+            ],
+            "translations": [
+                "Rabbidir",
+                "iki doğunun",
+                "ve Rabbidir",
+                "iki batının"
+            ]
+        },
+        {
+            "id": "18",
+            "sentence": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translation": "Şu halde Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+            "originals": [
+                "فَبِاَيِّ",
+                "اٰلَٓاءِ",
+                "رَبِّكُمَا",
+                "تُكَذِّبَانِ"
+            ],
+            "translations": [
+                "şimdi hangi?",
+                "ni`metlerini",
+                "Rabbinizin",
+                "yalanlıyorsunuz"
+            ]
+        },
+        {
+            "id": "19",
+            "sentence": "مَرَجَ الْبَحْرَيْنِ يَلْتَقِيَانِۙ",
+            "translation": "Birbirleriyle kavuşmak üzere iki denizi salıverdi.",
+            "originals": [
+                "مَرَجَ",
+                "الْبَحْرَيْنِ",
+                "يَلْتَقِيَانِۙ"
+            ],
+            "translations": [
+                "salıverdi",
+                "iki denizi",
+                "birbirine kavuşuyorlar"
+            ]
+        },
+        {
+            "id": "20",
+            "sentence": "بَيْنَهُمَا بَرْزَخٌ لَا يَبْغِيَانِۚ",
+            "translation": "İkisi arasında bir engel (berzah) vardır; birbirlerinin sınırını geçmezler.",
+            "originals": [
+                "بَيْنَهُمَا",
+                "بَرْزَخٌ",
+                "لَا يَبْغِيَانِۚ"
+            ],
+            "translations": [
+                "aralarında vardır",
+                "bir engel",
+                "(birbirine) geçip karışmıyorlar"
+            ]
+        },
+        {
+            "id": "21",
+            "sentence": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translation": "Şu halde Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+            "originals": [
+                "فَبِاَيِّ",
+                "اٰلَٓاءِ",
+                "رَبِّكُمَا",
+                "تُكَذِّبَانِ"
+            ],
+            "translations": [
+                "şimdi hangi?",
+                "ni`metlerini",
+                "Rabbinizin",
+                "yalanlıyorsunuz"
+            ]
+        },
+        {
+            "id": "22",
+            "sentence": "يَخْرُجُ مِنْهُمَا اللُّؤْلُؤُ۬ وَالْمَرْجَانُۚ",
+            "translation": "İkisinden de inci ve mercan çıkar.",
+            "originals": [
+                "يَخْرُجُ",
+                "مِنْهُمَا",
+                "اللُّؤْلُؤُ۬",
+                "وَالْمَرْجَانُۚ"
+            ],
+            "translations": [
+                "çıkar",
+                "ikisinden de",
+                "inci",
+                "ve mercan"
+            ]
+        },
+        {
+            "id": "23",
+            "sentence": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translation": "Şu halde Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+            "originals": [
+                "فَبِاَيِّ",
+                "اٰلَٓاءِ",
+                "رَبِّكُمَا",
+                "تُكَذِّبَانِ"
+            ],
+            "translations": [
+                "şimdi hangi?",
+                "ni`metlerini",
+                "Rabbinizin",
+                "yalanlıyorsunuz"
+            ]
+        },
+        {
+            "id": "24",
+            "sentence": "وَلَهُ الْجَوَارِ الْمُنْشَاٰتُ فِي الْبَحْرِ كَالْاَعْلَامِۚ",
+            "translation": "Denizde koca dağlar gibi yükselen gemiler O´nundur.",
+            "originals": [
+                "وَلَهُ",
+                "الْجَوَارِ",
+                "الْمُنْشَاٰتُ",
+                "فِي الْبَحْرِ",
+                "كَالْاَعْلَامِۚ"
+            ],
+            "translations": [
+                "ve O`nundur",
+                "gemiler",
+                "inşa edilmiş",
+                "denizde",
+                "koca dağlar gibi"
+            ]
+        },
+        {
+            "id": "25",
+            "sentence": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ۟",
+            "translation": "Şu halde Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+            "originals": [
+                "فَبِاَيِّ",
+                "اٰلَٓاءِ",
+                "رَبِّكُمَا",
+                "تُكَذِّبَانِ۟"
+            ],
+            "translations": [
+                "şimdi hangi?",
+                "ni`metlerini",
+                "Rabbinizin",
+                "yalanlıyorsunuz"
+            ]
+        },
+        {
+            "id": "26",
+            "sentence": "كُلُّ مَنْ عَلَيْهَا فَانٍۚ",
+            "translation": "(Yer) Üzerindeki herşey yok olucudur;",
+            "originals": [
+                "كُلُّ",
+                "مَنْ عَلَيْهَا",
+                "فَانٍۚ"
+            ],
+            "translations": [
+                "her şey",
+                "üzerinde bulunan",
+                "yok olacaktır"
+            ]
+        },
+        {
+            "id": "27",
+            "sentence": "وَيَبْقٰى وَجْهُ رَبِّكَ ذُو الْجَلَالِ وَالْاِكْرَامِۚ",
+            "translation": "Celal ve ikram sahibi olan Rabbinin yüzü (Kendisi) baki kalacaktır.",
+            "originals": [
+                "وَيَبْقٰى",
+                "وَجْهُ",
+                "رَبِّكَ",
+                "ذُو",
+                "الْجَلَالِ",
+                "وَالْاِكْرَامِۚ"
+            ],
+            "translations": [
+                "baki kalacaktır",
+                "yüzü",
+                "Rabbinin",
+                "sahibi",
+                "celal",
+                "ve ikram"
+            ]
+        },
+        {
+            "id": "28",
+            "sentence": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translation": "Şu halde Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+            "originals": [
+                "فَبِاَيِّ",
+                "اٰلَٓاءِ",
+                "رَبِّكُمَا",
+                "تُكَذِّبَانِ"
+            ],
+            "translations": [
+                "şimdi hangi?",
+                "ni`metlerini",
+                "Rabbinizin",
+                "yalanlıyorsunuz"
+            ]
+        },
+        {
+            "id": "29",
+            "sentence": "يَسْـَٔلُهُ مَنْ فِي السَّمٰوَاتِ وَالْاَرْضِۜ كُلَّ يَوْمٍ هُوَ ف۪ي شَأْنٍۚ",
+            "translation": "Göklerde ve yerde olan ne varsa O´ndan ister. O, her gün bir iştedir.",
+            "originals": [
+                "يَسْـَٔلُهُ",
+                "مَنْ",
+                "فِي السَّمٰوَاتِ",
+                "وَالْاَرْضِۜ",
+                "كُلَّ",
+                "يَوْمٍ",
+                "هُوَ",
+                "ف۪ي شَأْنٍۚ"
+            ],
+            "translations": [
+                "O`ndan isterler",
+                "bulunanlar",
+                "göklerde",
+                "ve yerde",
+                "her",
+                "gün",
+                "O",
+                "yeni bir iştedir"
+            ]
+        },
+        {
+            "id": "30",
+            "sentence": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translation": "Şu halde Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+            "originals": [
+                "فَبِاَيِّ",
+                "اٰلَٓاءِ",
+                "رَبِّكُمَا",
+                "تُكَذِّبَانِ"
+            ],
+            "translations": [
+                "şimdi hangi?",
+                "ni`metlerini",
+                "Rabbinizin",
+                "yalanlıyorsunuz"
+            ]
+        },
+        {
+            "id": "31",
+            "sentence": "سَنَفْرُغُ لَكُمْ اَيُّهَ الثَّقَلَانِۚ",
+            "translation": "Ey (yeryüzüne yükletilmiş) iki ağırlık (olan ins ve cin), yakında (ahirette hesabınızı görmek üzere) sizin için de vakit bulacağız.",
+            "originals": [
+                "سَنَفْرُغُ",
+                "لَكُمْ",
+                "اَيُّهَ الثَّقَلَانِۚ"
+            ],
+            "translations": [
+                "boş vaktimiz",
+                "sizin için olacak",
+                "ey iki yük sahibi (insan ve cin)"
+            ]
+        },
+        {
+            "id": "32",
+            "sentence": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translation": "Şu halde Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+            "originals": [
+                "فَبِاَيِّ",
+                "اٰلَٓاءِ",
+                "رَبِّكُمَا",
+                "تُكَذِّبَانِ"
+            ],
+            "translations": [
+                "şimdi hangi?",
+                "ni`metlerini",
+                "Rabbinizin",
+                "yalanlıyorsunuz"
+            ]
+        },
+        {
+            "id": "33",
+            "sentence": "يَا مَعْشَرَ الْجِنِّ وَالْاِنْسِ اِنِ اسْتَطَعْتُمْ اَنْ تَنْفُذُوا مِنْ اَقْطَارِ السَّمٰوَاتِ وَالْاَرْضِ فَانْفُذُواۜ لَا تَنْفُذُونَ اِلَّا بِسُلْطَانٍۚ",
+            "translation": "Ey cin ve ins toplulukları, eğer göklerin ve yerin bucaklarından aşıp-geçmeye güç yetirebilirseniz, hemen aşın; ancak ´üstün bir güç (sultan)´ olmaksızın aşamazsınız.",
+            "originals": [
+                "يَا",
+                "مَعْشَرَ",
+                "الْجِنِّ",
+                "وَالْاِنْسِ",
+                "اِنِ اسْتَطَعْتُمْ",
+                "اَنْ تَنْفُذُوا",
+                "مِنْ اَقْطَارِ",
+                "السَّمٰوَاتِ",
+                "وَالْاَرْضِ",
+                "فَانْفُذُواۜ",
+                "لَا تَنْفُذُونَ",
+                "اِلَّا",
+                "بِسُلْطَانٍۚ"
+            ],
+            "translations": [
+                "ey",
+                "topluluğu",
+                "cinler",
+                "ve insanlar",
+                "gücünüz yeterse",
+                "geçip gitmeğe",
+                "bucaklarından",
+                "göklerin",
+                "ve yerin",
+                "geçin gidin",
+                "geçemezsiniz",
+                "ancak (geçebilirsiniz)",
+                "kudretle"
+            ]
+        },
+        {
+            "id": "34",
+            "sentence": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translation": "Şu halde Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+            "originals": [
+                "فَبِاَيِّ",
+                "اٰلَٓاءِ",
+                "رَبِّكُمَا",
+                "تُكَذِّبَانِ"
+            ],
+            "translations": [
+                "şimdi hangi?",
+                "ni`metlerini",
+                "Rabbinizin",
+                "yalanlıyorsunuz"
+            ]
+        },
+        {
+            "id": "35",
+            "sentence": "يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِنْ نَارٍ وَنُحَاسٌ فَلَا تَنْتَصِرَانِۚ",
+            "translation": "İkinizin de üzerine ateşten yalın bir alev ve (bakır gibi erimiş) kıpkızıl bir duman salıverilir de ´kurtulup-başaramazsınız.´",
+            "originals": [
+                "يُرْسَلُ",
+                "عَلَيْكُمَا",
+                "شُوَاظٌ",
+                "مِنْ نَارٍ",
+                "وَنُحَاسٌ",
+                "فَلَا تَنْتَصِرَانِۚ"
+            ],
+            "translations": [
+                "gönderilir",
+                "ikinizin üzerine",
+                "yalın alev",
+                "ateşten",
+                "ve kıpkızıl bir duman",
+                "başaramazsınız"
+            ]
+        },
+        {
+            "id": "36",
+            "sentence": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translation": "Şu halde Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+            "originals": [
+                "فَبِاَيِّ",
+                "اٰلَٓاءِ",
+                "رَبِّكُمَا",
+                "تُكَذِّبَانِ"
+            ],
+            "translations": [
+                "şimdi hangi?",
+                "ni`metlerini",
+                "Rabbinizin",
+                "yalanlıyorsunuz"
+            ]
+        },
+        {
+            "id": "37",
+            "sentence": "فَاِذَا انْشَقَّتِ السَّمَٓاءُ فَكَانَتْ وَرْدَةً كَالدِّهَانِۚ",
+            "translation": "Sonra gök yarılıp yağ gibi erimiş olarak kıpkırmızı bir gül olduğu zaman;",
+            "originals": [
+                "فَاِذَا",
+                "انْشَقَّتِ",
+                "السَّمَٓاءُ",
+                "فَكَانَتْ",
+                "وَرْدَةً",
+                "كَالدِّهَانِۚ"
+            ],
+            "translations": [
+                "zaman",
+                "yarıldığı",
+                "gök",
+                "ve olduğu",
+                "kıpkırmızı bir gül",
+                "erimiş yağ gibi"
+            ]
+        },
+        {
+            "id": "38",
+            "sentence": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translation": "Şu halde Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+            "originals": [
+                "فَبِاَيِّ",
+                "اٰلَٓاءِ",
+                "رَبِّكُمَا",
+                "تُكَذِّبَانِ"
+            ],
+            "translations": [
+                "şimdi hangi?",
+                "ni`metlerini",
+                "Rabbinizin",
+                "yalanlıyorsunuz"
+            ]
+        },
+        {
+            "id": "39",
+            "sentence": "فَيَوْمَئِذٍ لَا يُسْـَٔلُ عَنْ ذَنْبِه۪ٓ اِنْسٌ وَلَا جَٓانٌّۚ",
+            "translation": "İşte o gün, ne insana, ne cinne günahından sorulmaz.",
+            "originals": [
+                "فَيَوْمَئِذٍ",
+                "لَا يُسْـَٔلُ",
+                "عَنْ ذَنْبِه۪ٓ",
+                "اِنْسٌ",
+                "وَلَا جَٓانٌّۚ"
+            ],
+            "translations": [
+                "o gün",
+                "sorulmaz",
+                "günahından",
+                "insana",
+                "ne de cin`e"
+            ]
+        },
+        {
+            "id": "40",
+            "sentence": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translation": "Şu halde Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+            "originals": [
+                "فَبِاَيِّ",
+                "اٰلَٓاءِ",
+                "رَبِّكُمَا",
+                "تُكَذِّبَانِ"
+            ],
+            "translations": [
+                "şimdi hangi?",
+                "ni`metlerini",
+                "Rabbinizin",
+                "yalanlıyorsunuz"
+            ]
+        },
+        {
+            "id": "41",
+            "sentence": "يُعْرَفُ الْمُجْرِمُونَ بِس۪يمٰيهُمْ فَيُؤْخَذُ بِالنَّوَاص۪ي وَالْاَقْدَامِۚ",
+            "translation": "(Çünkü o gün) Suçlu-günahkarlar, simalarından tanınır da alınlarından ve ayaklarından yakalanırlar.",
+            "originals": [
+                "يُعْرَفُ",
+                "الْمُجْرِمُونَ",
+                "بِس۪يمٰيهُمْ",
+                "فَيُؤْخَذُ",
+                "بِالنَّوَاص۪ي",
+                "وَالْاَقْدَامِۚ"
+            ],
+            "translations": [
+                "tanınır",
+                "suçlular",
+                "simalarından",
+                "ve tutulur",
+                "alınlar(ın)dan",
+                "ve ayaklar(ın)dan"
+            ]
+        },
+        {
+            "id": "42",
+            "sentence": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translation": "Şu halde Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+            "originals": [
+                "فَبِاَيِّ",
+                "اٰلَٓاءِ",
+                "رَبِّكُمَا",
+                "تُكَذِّبَانِ"
+            ],
+            "translations": [
+                "şimdi hangi?",
+                "ni`metlerini",
+                "Rabbinizin",
+                "yalanlıyorsunuz"
+            ]
+        },
+        {
+            "id": "43",
+            "sentence": "هٰذِه۪ جَهَنَّمُ الَّت۪ي يُكَذِّبُ بِهَا الْمُجْرِمُونَۢ",
+            "translation": "İşte bu, suçlu-günahkarların kendisini yalanladıkları cehennemdir.",
+            "originals": [
+                "هٰذِه۪",
+                "جَهَنَّمُ",
+                "الَّت۪ي يُكَذِّبُ",
+                "بِهَا",
+                "الْمُجْرِمُونَۢ"
+            ],
+            "translations": [
+                "işte bu",
+                "cehennemdir",
+                "yalanladığı",
+                "onunla",
+                "suçluların"
+            ]
+        },
+        {
+            "id": "44",
+            "sentence": "يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَم۪يمٍ اٰنٍۚ",
+            "translation": "Onlar, kendisiyle alabildiğine kaynar hale getirilmiş su arasında dönüp-dolaşırlar.",
+            "originals": [
+                "يَطُوفُونَ",
+                "بَيْنَهَا",
+                "وَبَيْنَ",
+                "حَم۪يمٍ",
+                "اٰنٍۚ"
+            ],
+            "translations": [
+                "dolaşırlar",
+                "onunla",
+                "arasında",
+                "kaynar su",
+                "kızgın"
+            ]
+        },
+        {
+            "id": "45",
+            "sentence": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ۟",
+            "translation": "Şu halde Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+            "originals": [
+                "فَبِاَيِّ",
+                "اٰلَٓاءِ",
+                "رَبِّكُمَا",
+                "تُكَذِّبَانِ۟"
+            ],
+            "translations": [
+                "şimdi hangi?",
+                "ni`metlerini",
+                "Rabbinizin",
+                "yalanlıyorsunuz"
+            ]
+        },
+        {
+            "id": "46",
+            "sentence": "وَلِمَنْ خَافَ مَقَامَ رَبِّه۪ جَنَّتَانِۚ",
+            "translation": "Rabbin makamından korkan kimse için ise iki cennet vardır.",
+            "originals": [
+                "وَلِمَنْ",
+                "خَافَ",
+                "مَقَامَ",
+                "رَبِّه۪",
+                "جَنَّتَانِۚ"
+            ],
+            "translations": [
+                "kimseler için vardır",
+                "korkan",
+                "divanında durmaktan",
+                "Rabbinin",
+                "iki cennet"
+            ]
+        },
+        {
+            "id": "47",
+            "sentence": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِۙ",
+            "translation": "Şu halde Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+            "originals": [
+                "فَبِاَيِّ",
+                "اٰلَٓاءِ",
+                "رَبِّكُمَا",
+                "تُكَذِّبَانِۙ"
+            ],
+            "translations": [
+                "şimdi hangi?",
+                "ni`metlerini",
+                "Rabbinizin",
+                "yalanlıyorsunuz"
+            ]
+        },
+        {
+            "id": "48",
+            "sentence": "ذَوَاتَٓا اَفْنَانٍۚ",
+            "translation": "Çeşit çeşit ´inceliklere ve güzelliklere´ (veya her türden sık ağaçlara) sahiptirler.",
+            "originals": [
+                "ذَوَاتَٓا",
+                "اَفْنَانٍۚ"
+            ],
+            "translations": [
+                "ikisinin de vardır",
+                "çeşitli ağaçları meyvaları"
+            ]
+        },
+        {
+            "id": "49",
+            "sentence": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translation": "Şu halde Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+            "originals": [
+                "فَبِاَيِّ",
+                "اٰلَٓاءِ",
+                "رَبِّكُمَا",
+                "تُكَذِّبَانِ"
+            ],
+            "translations": [
+                "şimdi hangi?",
+                "ni`metlerini",
+                "Rabbinizin",
+                "yalanlıyorsunuz"
+            ]
+        },
+        {
+            "id": "50",
+            "sentence": "ف۪يهِمَا عَيْنَانِ تَجْرِيَانِۚ",
+            "translation": "İkisinde de akmakta olan iki pınar vardır.",
+            "originals": [
+                "ف۪يهِمَا",
+                "عَيْنَانِ",
+                "تَجْرِيَانِۚ"
+            ],
+            "translations": [
+                "ikisinde de vardır",
+                "iki kaynak",
+                "akıp giden"
+            ]
+        },
+        {
+            "id": "51",
+            "sentence": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translation": "Şu halde Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+            "originals": [
+                "فَبِاَيِّ",
+                "اٰلَٓاءِ",
+                "رَبِّكُمَا",
+                "تُكَذِّبَانِ"
+            ],
+            "translations": [
+                "şimdi hangi?",
+                "ni`metlerini",
+                "Rabbinizin",
+                "yalanlıyorsunuz"
+            ]
+        },
+        {
+            "id": "52",
+            "sentence": "ف۪يهِمَا مِنْ كُلِّ فَاكِهَةٍ زَوْجَانِۚ",
+            "translation": "İkisinde de her meyveden iki çift vardır.",
+            "originals": [
+                "ف۪يهِمَا",
+                "مِنْ كُلِّ",
+                "فَاكِهَةٍ",
+                "زَوْجَانِۚ"
+            ],
+            "translations": [
+                "ikisinde de vardır",
+                "hepsinden",
+                "meyvaların",
+                "iki çift"
+            ]
+        },
+        {
+            "id": "53",
+            "sentence": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translation": "Şu halde Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+            "originals": [
+                "فَبِاَيِّ",
+                "اٰلَٓاءِ",
+                "رَبِّكُمَا",
+                "تُكَذِّبَانِ"
+            ],
+            "translations": [
+                "şimdi hangi?",
+                "ni`metlerini",
+                "Rabbinizin",
+                "yalanlıyorsunuz"
+            ]
+        },
+        {
+            "id": "54",
+            "sentence": "مُتَّكِـ۪ٔينَ عَلٰى فُرُشٍ بَطَٓائِنُهَا مِنْ اِسْتَبْرَقٍۜ وَجَنَا الْجَنَّتَيْنِ دَانٍۚ",
+            "translation": "Astarları, ağır işlenmiş atlastan yataklar üzerinde yaslanırlar. İki cennetin de meyve-devşirmesi (ordakilere) yakın (kolay)dır.",
+            "originals": [
+                "مُتَّكِـ۪ٔينَ",
+                "عَلٰى فُرُشٍ",
+                "بَطَٓائِنُهَا",
+                "مِنْ اِسْتَبْرَقٍۜ",
+                "وَجَنَا",
+                "الْجَنَّتَيْنِ",
+                "دَانٍۚ"
+            ],
+            "translations": [
+                "yaslanırlar",
+                "yataklara",
+                "astarları",
+                "kalın atlastan",
+                "ve devşirmesi (meyvelerin)",
+                "iki cennetin",
+                "yakındır"
+            ]
+        },
+        {
+            "id": "55",
+            "sentence": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translation": "Şu halde Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+            "originals": [
+                "فَبِاَيِّ",
+                "اٰلَٓاءِ",
+                "رَبِّكُمَا",
+                "تُكَذِّبَانِ"
+            ],
+            "translations": [
+                "şimdi hangi?",
+                "ni`metlerini",
+                "Rabbinizin",
+                "yalanlıyorsunuz"
+            ]
+        },
+        {
+            "id": "56",
+            "sentence": "ف۪يهِنَّ قَاصِرَاتُ الطَّرْفِۙ لَمْ يَطْمِثْهُنَّ اِنْسٌ قَبْلَهُمْ وَلَا جَٓانٌّۚ",
+            "translation": "Orada bakışlarını yalnızca eşlerine çevirmiş kadınlar vardır ki, bunlardan önce kendilerine ne bir insan, ne bir cin dokunmuştur.",
+            "originals": [
+                "ف۪يهِنَّ",
+                "قَاصِرَاتُ",
+                "الطَّرْفِۙ",
+                "لَمْ يَطْمِثْهُنَّ",
+                "اِنْسٌ",
+                "قَبْلَهُمْ",
+                "وَلَا جَٓانٌّۚ"
+            ],
+            "translations": [
+                "orada vardır",
+                "(eşlerine) diken (dilberler)",
+                "bakışlarını",
+                "onlara temas etmemiştir",
+                "insan",
+                "bunlardan önce",
+                "ne de cin"
+            ]
+        },
+        {
+            "id": "57",
+            "sentence": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِۚ",
+            "translation": "Şu halde Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+            "originals": [
+                "فَبِاَيِّ",
+                "اٰلَٓاءِ",
+                "رَبِّكُمَا",
+                "تُكَذِّبَانِۚ"
+            ],
+            "translations": [
+                "şimdi hangi?",
+                "ni`metlerini",
+                "Rabbinizin",
+                "yalanlıyorsunuz"
+            ]
+        },
+        {
+            "id": "58",
+            "sentence": "كَاَنَّهُنَّ الْيَاقُوتُ وَالْمَرْجَانُۚ",
+            "translation": "Sanki onlar yakut ve mercan gibidirler.",
+            "originals": [
+                "كَاَنَّهُنَّ",
+                "الْيَاقُوتُ",
+                "وَالْمَرْجَانُۚ"
+            ],
+            "translations": [
+                "sanki onlar",
+                "yakut",
+                "ve mercandırlar"
+            ]
+        },
+        {
+            "id": "59",
+            "sentence": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translation": "Şu halde Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+            "originals": [
+                "فَبِاَيِّ",
+                "اٰلَٓاءِ",
+                "رَبِّكُمَا",
+                "تُكَذِّبَانِ"
+            ],
+            "translations": [
+                "şimdi hangi?",
+                "ni`metlerini",
+                "Rabbinizin",
+                "yalanlıyorsunuz"
+            ]
+        },
+        {
+            "id": "60",
+            "sentence": "هَلْ جَزَٓاءُ الْاِحْسَانِ اِلَّا الْاِحْسَانُۚ",
+            "translation": "İhsanın karşılığı ihsandan başkası mıdır?",
+            "originals": [
+                "هَلْ",
+                "جَزَٓاءُ",
+                "الْاِحْسَانِ",
+                "اِلَّا",
+                "الْاِحْسَانُۚ"
+            ],
+            "translations": [
+                "değil midir?",
+                "karşılığı",
+                "iyiliğin",
+                "yalnız",
+                "iyilik"
+            ]
+        },
+        {
+            "id": "61",
+            "sentence": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translation": "Şu halde Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+            "originals": [
+                "فَبِاَيِّ",
+                "اٰلَٓاءِ",
+                "رَبِّكُمَا",
+                "تُكَذِّبَانِ"
+            ],
+            "translations": [
+                "şimdi hangi?",
+                "ni`metlerini",
+                "Rabbinizin",
+                "yalanlıyorsunuz"
+            ]
+        },
+        {
+            "id": "62",
+            "sentence": "وَمِنْ دُونِهِمَا جَنَّتَانِۚ",
+            "translation": "Bu-ikisinin ötesinde iki cennet daha var.",
+            "originals": [
+                "وَمِنْ دُونِهِمَا",
+                "جَنَّتَانِۚ"
+            ],
+            "translations": [
+                "ikisinin ötesinde var",
+                "iki cennet (daha)"
+            ]
+        },
+        {
+            "id": "63",
+            "sentence": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِۙ",
+            "translation": "Şu halde Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+            "originals": [
+                "فَبِاَيِّ",
+                "اٰلَٓاءِ",
+                "رَبِّكُمَا",
+                "تُكَذِّبَانِۙ"
+            ],
+            "translations": [
+                "şimdi hangi?",
+                "ni`metlerini",
+                "Rabbinizin",
+                "yalanlıyorsunuz"
+            ]
+        },
+        {
+            "id": "64",
+            "sentence": "مُدْهَٓامَّتَانِۚ",
+            "translation": "Alabildiğine yemyeşildirler.",
+            "originals": [
+                "مُدْهَٓامَّتَانِۚ"
+            ],
+            "translations": [
+                "yemyeşildirler"
+            ]
+        },
+        {
+            "id": "65",
+            "sentence": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِۚ",
+            "translation": "Şu halde Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+            "originals": [
+                "فَبِاَيِّ",
+                "اٰلَٓاءِ",
+                "رَبِّكُمَا",
+                "تُكَذِّبَانِۚ"
+            ],
+            "translations": [
+                "şimdi hangi?",
+                "ni`metlerini",
+                "Rabbinizin",
+                "yalanlıyorsunuz"
+            ]
+        },
+        {
+            "id": "66",
+            "sentence": "ف۪يهِمَا عَيْنَانِ نَضَّاخَتَانِۚ",
+            "translation": "İçlerinde durmaksızın fışkırıp-akan iki pınar vardır.",
+            "originals": [
+                "ف۪يهِمَا",
+                "عَيْنَانِ",
+                "نَضَّاخَتَانِۚ"
+            ],
+            "translations": [
+                "ikisinde de  vardır",
+                "iki kaynak",
+                "fışkıran"
+            ]
+        },
+        {
+            "id": "67",
+            "sentence": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِۚ",
+            "translation": "Şu halde Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+            "originals": [
+                "فَبِاَيِّ",
+                "اٰلَٓاءِ",
+                "رَبِّكُمَا",
+                "تُكَذِّبَانِۚ"
+            ],
+            "translations": [
+                "şimdi hangi?",
+                "ni`metlerini",
+                "Rabbinizin",
+                "yalanlıyorsunuz"
+            ]
+        },
+        {
+            "id": "68",
+            "sentence": "ف۪يهِمَا فَاكِهَةٌ وَنَخْلٌ وَرُمَّانٌۚ",
+            "translation": "İçlerinde (her türden) meyve, eşsiz-hurma ve eşsiz-nar vardır.",
+            "originals": [
+                "ف۪يهِمَا",
+                "فَاكِهَةٌ",
+                "وَنَخْلٌ",
+                "وَرُمَّانٌۚ"
+            ],
+            "translations": [
+                "ikisinde de vardır",
+                "meyva",
+                "ve hurma",
+                "ve nar"
+            ]
+        },
+        {
+            "id": "69",
+            "sentence": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِۚ",
+            "translation": "Şu halde Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+            "originals": [
+                "فَبِاَيِّ",
+                "اٰلَٓاءِ",
+                "رَبِّكُمَا",
+                "تُكَذِّبَانِۚ"
+            ],
+            "translations": [
+                "şimdi hangi?",
+                "ni`metlerini",
+                "Rabbinizin",
+                "yalanlıyorsunuz"
+            ]
+        },
+        {
+            "id": "70",
+            "sentence": "ف۪يهِنَّ خَيْرَاتٌ حِسَانٌۚ",
+            "translation": "Orada huyları güzel, yüzleri güzel kadınlar vardır.",
+            "originals": [
+                "ف۪يهِنَّ",
+                "خَيْرَاتٌ",
+                "حِسَانٌۚ"
+            ],
+            "translations": [
+                "onlarda vardır",
+                "iyi huylu (kadınlar)",
+                "güzel"
+            ]
+        },
+        {
+            "id": "71",
+            "sentence": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِۚ",
+            "translation": "Şu halde Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+            "originals": [
+                "فَبِاَيِّ",
+                "اٰلَٓاءِ",
+                "رَبِّكُمَا",
+                "تُكَذِّبَانِۚ"
+            ],
+            "translations": [
+                "şimdi hangi?",
+                "ni`metlerini",
+                "Rabbinizin",
+                "yalanlıyorsunuz"
+            ]
+        },
+        {
+            "id": "72",
+            "sentence": "حُورٌ مَقْصُورَاتٌ فِي الْخِيَامِۚ",
+            "translation": "Otağlar içinde korunmuş huri kadınlar.",
+            "originals": [
+                "حُورٌ",
+                "مَقْصُورَاتٌ",
+                "فِي الْخِيَامِۚ"
+            ],
+            "translations": [
+                "huriler",
+                "kapanmış",
+                "çadırlara"
+            ]
+        },
+        {
+            "id": "73",
+            "sentence": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِۚ",
+            "translation": "Şu halde Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+            "originals": [
+                "فَبِاَيِّ",
+                "اٰلَٓاءِ",
+                "رَبِّكُمَا",
+                "تُكَذِّبَانِۚ"
+            ],
+            "translations": [
+                "şimdi hangi?",
+                "ni`metlerini",
+                "Rabbinizin",
+                "yalanlıyorsunuz"
+            ]
+        },
+        {
+            "id": "74",
+            "sentence": "لَمْ يَطْمِثْهُنَّ اِنْسٌ قَبْلَهُمْ وَلَا جَٓانٌّۚ",
+            "translation": "Bunlardan önce kendilerine ne bir insan, ne bir cin dokunmuştur.",
+            "originals": [
+                "لَمْ يَطْمِثْهُنَّ",
+                "اِنْسٌ",
+                "قَبْلَهُمْ",
+                "وَلَا جَٓانٌّۚ"
+            ],
+            "translations": [
+                "onlara temas etmemiştir",
+                "insan",
+                "bunlardan önce",
+                "ne de cin"
+            ]
+        },
+        {
+            "id": "75",
+            "sentence": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِۚ",
+            "translation": "Şu halde Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+            "originals": [
+                "فَبِاَيِّ",
+                "اٰلَٓاءِ",
+                "رَبِّكُمَا",
+                "تُكَذِّبَانِۚ"
+            ],
+            "translations": [
+                "şimdi hangi?",
+                "ni`metlerini",
+                "Rabbinizin",
+                "yalanlıyorsunuz"
+            ]
+        },
+        {
+            "id": "76",
+            "sentence": "مُتَّكِـ۪ٔينَ عَلٰى رَفْرَفٍ خُضْرٍ وَعَبْقَرِيٍّ حِسَانٍۚ",
+            "translation": "Yeşil yastıklara ve çarpıcı güzellikteki döşeklere yaslanırlar.",
+            "originals": [
+                "مُتَّكِـ۪ٔينَ",
+                "عَلٰى رَفْرَفٍ",
+                "خُضْرٍ",
+                "وَعَبْقَرِيٍّ",
+                "حِسَانٍۚ"
+            ],
+            "translations": [
+                "yaslanırlar",
+                "yastıklara",
+                "yeşil",
+                "ve döşeklere",
+                "harikulade güzel"
+            ]
+        },
+        {
+            "id": "77",
+            "sentence": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translation": "Şu halde Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+            "originals": [
+                "فَبِاَيِّ",
+                "اٰلَٓاءِ",
+                "رَبِّكُمَا",
+                "تُكَذِّبَانِ"
+            ],
+            "translations": [
+                "şimdi hangi?",
+                "ni`metlerini",
+                "Rabbinizin",
+                "yalanlıyorsunuz"
+            ]
+        },
+        {
+            "id": "78",
+            "sentence": "تَبَارَكَ اسْمُ رَبِّكَ ذِي الْجَلَالِ وَالْاِكْرَامِ",
+            "translation": "Celal ve ikram sahibi olan Rabbinin adı ne Yücedir.",
+            "originals": [
+                "تَبَارَكَ",
+                "اسْمُ",
+                "رَبِّكَ",
+                "ذِي",
+                "الْجَلَالِ",
+                "وَالْاِكْرَامِ"
+            ],
+            "translations": [
+                "ne yücedir",
+                "adı",
+                "Rabbinin",
+                "sahibi",
+                "büyüklük",
+                "ve ikram"
+            ]
+        }
+    ]
+}

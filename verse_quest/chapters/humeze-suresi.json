@@ -1,0 +1,148 @@
+{
+    "id": "humeze-suresi",
+    "name": "Hümeze Suresi",
+    "description": "Hümeze Suresi",
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": "وَيْلٌ لِكُلِّ هُمَزَةٍ لُمَزَةٍۨۙ",
+            "translation": "Arkadan çekiştirip duran, kaş göz hareketleriyle alay eden her kişinin vay haline;",
+            "originals": [
+                "وَيْلٌ",
+                "لِكُلِّ",
+                "هُمَزَةٍ",
+                "لُمَزَةٍۨۙ"
+            ],
+            "translations": [
+                "vay haline",
+                "herkesin",
+                "diliyle çekiştiren",
+                "kaş göz işaretleriyle alay eden"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "اَلَّذ۪ي جَمَعَ مَالاً وَعَدَّدَهُۙ",
+            "translation": "Ki o, mal yığıp biriktiren ve onu saydıkça sayandır.",
+            "originals": [
+                "اَلَّذ۪ي",
+                "جَمَعَ",
+                "مَالاً",
+                "وَعَدَّدَهُۙ"
+            ],
+            "translations": [
+                "o ki",
+                "yığdı",
+                "mal",
+                "onu saydı durdu"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "يَحْسَبُ اَنَّ مَالَهُٓ اَخْلَدَهُۚ",
+            "translation": "Gerçekten malının kendisini ebedi kılacağını sanıyor.",
+            "originals": [
+                "يَحْسَبُ",
+                "اَنَّ",
+                "مَالَهُٓ",
+                "اَخْلَدَهُۚ"
+            ],
+            "translations": [
+                "sanıyor",
+                "muhakkak",
+                "malının",
+                "onu ebedi yaşatacağını"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "كَلَّا لَيُنْبَذَنَّ فِي الْحُطَمَةِۘ",
+            "translation": "Hayır; andolsun o, ´hutame´ye atılacaktır.",
+            "originals": [
+                "كَلَّا",
+                "لَيُنْبَذَنَّ",
+                "فِي الْحُطَمَةِۘ"
+            ],
+            "translations": [
+                "hayır",
+                "andolsun o atılacaktır",
+                "Hutame`ye"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "وَمَٓا اَدْرٰيكَ مَا الْحُطَمَةُۜ",
+            "translation": "&quot;Hutame&quot;nin ne olduğunu sana bildiren nedir?",
+            "originals": [
+                "وَمَٓا اَدْرٰيكَ",
+                "مَا",
+                "الْحُطَمَةُۜ"
+            ],
+            "translations": [
+                "sen nereden bileceksin?",
+                "nedir",
+                "Hutame"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "نَارُ اللّٰهِ الْمُوقَدَةُۙ",
+            "translation": "Allah´ın tutuşturulmuş ateşidir.",
+            "originals": [
+                "نَارُ",
+                "اللّٰهِ",
+                "الْمُوقَدَةُۙ"
+            ],
+            "translations": [
+                "ateşidir",
+                "Allah`ın",
+                "tutuşturulmuş"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "اَلَّت۪ي تَطَّلِعُ عَلَى الْاَفْـِٔدَةِۜ",
+            "translation": "Ki o, yüreklerin üstüne tırmanıp çıkar.",
+            "originals": [
+                "اَلَّت۪ي",
+                "تَطَّلِعُ",
+                "عَلَى الْاَفْـِٔدَةِۜ"
+            ],
+            "translations": [
+                "ki",
+                "işler",
+                "gönüllere"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "اِنَّهَا عَلَيْهِمْ مُؤْصَدَةٌۙ",
+            "translation": "O, onların üzerine kilitlenecektir;",
+            "originals": [
+                "اِنَّهَا",
+                "عَلَيْهِمْ",
+                "مُؤْصَدَةٌۙ"
+            ],
+            "translations": [
+                "şüphesiz o",
+                "onların üzerine",
+                "kapatılıp kilitlenecektir"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "ف۪ي عَمَدٍ مُمَدَّدَةٍ",
+            "translation": "(Kendileri de) Dikilip-yükseltilmiş sütunlarda (bağlanacaklardır).",
+            "originals": [
+                "ف۪ي",
+                "عَمَدٍ",
+                "مُمَدَّدَةٍ"
+            ],
+            "translations": [
+                "arasında",
+                "direkler",
+                "uzatılmış"
+            ]
+        }
+    ]
+}

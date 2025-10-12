@@ -1,0 +1,147 @@
+{
+    "id": "zilzal-suresi",
+    "name": "Zilzal Suresi",
+    "description": "Zilzal Suresi",
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": "اِذَا زُلْزِلَتِ الْاَرْضُ زِلْزَالَهَاۙ",
+            "translation": "Yer, o şiddetli sarsıntısıyla sarsıldığı,",
+            "originals": [
+                "اِذَا",
+                "زُلْزِلَتِ",
+                "الْاَرْضُ",
+                "زِلْزَالَهَاۙ"
+            ],
+            "translations": [
+                "zaman",
+                "sarsıldığı",
+                "yer",
+                "yaman sarsıntı ile"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "وَاَخْرَجَتِ الْاَرْضُ اَثْقَالَهَاۙ",
+            "translation": "Yer, ağırlıklarını dışa atıp-çıkardığı,",
+            "originals": [
+                "وَاَخْرَجَتِ",
+                "الْاَرْضُ",
+                "اَثْقَالَهَاۙ"
+            ],
+            "translations": [
+                "ve çıkardığı (zaman)",
+                "yer",
+                "ağırlıklarını"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "وَقَالَ الْاِنْسَانُ مَا لَهَاۚ",
+            "translation": "Ve insan: &quot;Buna ne oluyor?&quot; dediği zaman;",
+            "originals": [
+                "وَقَالَ",
+                "الْاِنْسَانُ",
+                "مَا لَهَاۚ"
+            ],
+            "translations": [
+                "ve dediği (zaman)",
+                "insan",
+                "ona ne oluyor?"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "يَوْمَئِذٍ تُحَدِّثُ اَخْبَارَهَاۙ",
+            "translation": "O gün (yer), haberlerini anlatacaktır.",
+            "originals": [
+                "يَوْمَئِذٍ",
+                "تُحَدِّثُ",
+                "اَخْبَارَهَاۙ"
+            ],
+            "translations": [
+                "işte o gün",
+                "söyler",
+                "haberlerini"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "بِاَنَّ رَبَّكَ اَوْحٰى لَهَاۜ",
+            "translation": "Çünkü senin Rabbin, ona vahyetmiştir.",
+            "originals": [
+                "بِاَنَّ",
+                "رَبَّكَ",
+                "اَوْحٰى لَهَاۜ"
+            ],
+            "translations": [
+                "çünkü",
+                "Rabbin",
+                "ona vahyetmiştir"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "يَوْمَئِذٍ يَصْدُرُ النَّاسُ اَشْتَاتاً لِيُرَوْا اَعْمَالَهُمْۜ",
+            "translation": "O gün insanlar, amelleri kendilerine gösterilsin diye, bölük bölük fırlayıp-çıkarlar.",
+            "originals": [
+                "يَوْمَئِذٍ",
+                "يَصْدُرُ",
+                "النَّاسُ",
+                "اَشْتَاتاً",
+                "لِيُرَوْا",
+                "اَعْمَالَهُمْۜ"
+            ],
+            "translations": [
+                "o gün",
+                "çıkarlar",
+                "insanlar",
+                "ayrı ayrı gruplar halinde",
+                "gösterilsin diye",
+                "yaptıkları işler"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْراً يَرَهُۜ",
+            "translation": "Artık kim zerre ağırlığınca hayır işlerse, onu görür.",
+            "originals": [
+                "فَمَنْ",
+                "يَعْمَلْ",
+                "مِثْقَالَ",
+                "ذَرَّةٍ",
+                "خَيْراً",
+                "يَرَهُۜ"
+            ],
+            "translations": [
+                "artık kim",
+                "yapmışsa",
+                "ağırlığınca",
+                "zerre",
+                "hayır",
+                "onu görür"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "وَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَراًّ يَرَهُ",
+            "translation": "Artık kim zerre ağırlığınca bir şer (kötülük) işlerse, onu görür.",
+            "originals": [
+                "وَمَنْ",
+                "يَعْمَلْ",
+                "مِثْقَالَ",
+                "ذَرَّةٍ",
+                "شَراًّ",
+                "يَرَهُ"
+            ],
+            "translations": [
+                "ve kim",
+                "yapmışsa",
+                "ağırlığınca",
+                "zerre",
+                "şer",
+                "onu görür"
+            ]
+        }
+    ]
+}

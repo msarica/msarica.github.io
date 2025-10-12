@@ -1,0 +1,129 @@
+{
+    "id": "insirah-suresi",
+    "name": "İnşirah Suresi",
+    "description": "İnşirah Suresi",
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": "اَلَمْ نَشْرَحْ لَكَ صَدْرَكَۙ",
+            "translation": "Biz, senin göğsünü yarıp-genişletmedik mi?",
+            "originals": [
+                "اَلَمْ نَشْرَحْ",
+                "لَكَ",
+                "صَدْرَكَۙ"
+            ],
+            "translations": [
+                "açmadık mı?",
+                "senin",
+                "göğsünü"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "وَوَضَعْنَا عَنْكَ وِزْرَكَۙ",
+            "translation": "Ve yükünü indirip-atmadık mı?",
+            "originals": [
+                "وَوَضَعْنَا",
+                "عَنْكَ",
+                "وِزْرَكَۙ"
+            ],
+            "translations": [
+                "ve atmadık mı?",
+                "senin üzerinden",
+                "yükünü"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "الَّـذ۪ٓي اَنْقَضَ ظَهْرَكَۙ",
+            "translation": "Ki o, senin belini bükmüştü;",
+            "originals": [
+                "الَّـذ۪ٓي",
+                "اَنْقَضَ",
+                "ظَهْرَكَۙ"
+            ],
+            "translations": [
+                "ki",
+                "çatırdatmıştı",
+                "sırtını"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "وَرَفَعْنَا لَكَ ذِكْرَكَۜ",
+            "translation": "Senin zikrini (şanını) yüceltmedik mi?",
+            "originals": [
+                "وَرَفَعْنَا",
+                "لَكَ",
+                "ذِكْرَكَۜ"
+            ],
+            "translations": [
+                "ve yükseltmedik mi?",
+                "senin",
+                "şanını"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "فَاِنَّ مَعَ الْعُسْرِ يُسْراًۙ",
+            "translation": "Demek ki, gerçekten zorlukla beraber kolaylık vardır.",
+            "originals": [
+                "فَاِنَّ",
+                "مَعَ",
+                "الْعُسْرِ",
+                "يُسْراًۙ"
+            ],
+            "translations": [
+                "muhakkak (vardır)",
+                "beraber",
+                "her güçlükle",
+                "bir kolaylık"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "اِنَّ مَعَ الْعُسْرِ يُسْراًۜ",
+            "translation": "Gerçekten güçlükle beraber kolaylık vardır.",
+            "originals": [
+                "اِنَّ",
+                "مَعَ",
+                "الْعُسْرِ",
+                "يُسْراًۜ"
+            ],
+            "translations": [
+                "elbette (vardır)",
+                "beraber",
+                "her güçlükle",
+                "bir kolaylık"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "فَاِذَا فَرَغْتَ فَانْصَبْۙ",
+            "translation": "Şu halde boş kaldığın zaman, durmaksızın (dua ve ibadetle) yorulmaya-devam et.",
+            "originals": [
+                "فَاِذَا",
+                "فَرَغْتَ",
+                "فَانْصَبْۙ"
+            ],
+            "translations": [
+                "zaman",
+                "boşaldığın",
+                "(ibadete) dur"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "وَاِلٰى رَبِّكَ فَارْغَبْ",
+            "translation": "Ve yalnızca Rabbine rağbet et.",
+            "originals": [
+                "وَاِلٰى رَبِّكَ",
+                "فَارْغَبْ"
+            ],
+            "translations": [
+                "Rabb`ine",
+                "niyaz et yalvar"
+            ]
+        }
+    ]
+}

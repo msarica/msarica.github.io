@@ -1,0 +1,54 @@
+{
+    "id": "kevser-suresi",
+    "name": "Kevser Suresi",
+    "description": "Kevser Suresi",
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": "اِنَّٓا اَعْطَيْنَاكَ الْـكَوْثَرَۜ",
+            "translation": "Şüphesiz, Biz sana Kevser´i verdik.",
+            "originals": [
+                "اِنَّٓا",
+                "اَعْطَيْنَاكَ",
+                "الْـكَوْثَرَۜ"
+            ],
+            "translations": [
+                "biz",
+                "sana verdik",
+                "Kevser`i"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "فَصَلِّ لِرَبِّكَ وَانْحَرْۜ",
+            "translation": "Şu halde Rabbin için namaz kıl ve kurban kes.",
+            "originals": [
+                "فَصَلِّ",
+                "لِرَبِّكَ",
+                "وَانْحَرْۜ"
+            ],
+            "translations": [
+                "öyleyse namaz kıl",
+                "Rabbin için",
+                "ve kurban kes"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "اِنَّ شَانِئَكَ هُوَ الْاَبْتَرُ",
+            "translation": "Doğrusu, asıl ebter (soyu kesik) olan sana kin duyandır.",
+            "originals": [
+                "اِنَّ",
+                "شَانِئَكَ",
+                "هُوَ",
+                "الْاَبْتَرُ"
+            ],
+            "translations": [
+                "şüphesiz",
+                "sana buğzedendir",
+                "o",
+                "sonu kesik olan"
+            ]
+        }
+    ]
+}

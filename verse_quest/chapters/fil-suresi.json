@@ -1,0 +1,90 @@
+{
+    "id": "fil-suresi",
+    "name": "Fil Suresi",
+    "description": "Fil Suresi",
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": "اَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِاَصْحَابِ الْف۪يلِۜ",
+            "translation": "Rabbinin fil sahiplerine neler yaptığını görmedin mi?",
+            "originals": [
+                "اَلَمْ تَرَ",
+                "كَيْفَ",
+                "فَعَلَ",
+                "رَبُّكَ",
+                "بِاَصْحَابِ",
+                "الْف۪يلِۜ"
+            ],
+            "translations": [
+                "görmedin mi?",
+                "nasıl",
+                "yaptığını",
+                "Rabbinin",
+                "sahiplerine",
+                "fil"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "اَلَمْ يَجْعَلْ كَيْدَهُمْ ف۪ي تَضْل۪يلٍۙ",
+            "translation": "Onların ´tasarladıkları planlarını´ boşa çıkarmadı mı?",
+            "originals": [
+                "اَلَمْ يَجْعَلْ",
+                "كَيْدَهُمْ",
+                "ف۪ي تَضْل۪يلٍۙ"
+            ],
+            "translations": [
+                "çıkarmadı mı?",
+                "onların tuzaklarını",
+                "boşa"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "وَاَرْسَلَ عَلَيْهِمْ طَيْراً اَبَاب۪يلَۙ",
+            "translation": "Onların üzerine ebabil (sürü sürü) kuşlarını gönderdi.",
+            "originals": [
+                "وَاَرْسَلَ",
+                "عَلَيْهِمْ",
+                "طَيْراً",
+                "اَبَاب۪يلَۙ"
+            ],
+            "translations": [
+                "gönderdi",
+                "üzerlerine",
+                "kuşlar",
+                "sürü sürü"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "تَرْم۪يهِمْ بِحِجَارَةٍ مِنْ سِجّ۪يلٍۖۙ",
+            "translation": "Onlara ´pişirilip-sertleştirilmiş balçık taşları´ atıyorlardı.",
+            "originals": [
+                "تَرْم۪يهِمْ",
+                "بِحِجَارَةٍ",
+                "مِنْ سِجّ۪يلٍۖۙ"
+            ],
+            "translations": [
+                "onlara atan",
+                "sertleşmiş taşlar",
+                "çamurdan"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "فَجَعَلَهُمْ كَعَصْفٍ مَأْكُولٍ",
+            "translation": "Sonunda onları, yenik ekin yaprağı gibi kıldı.",
+            "originals": [
+                "فَجَعَلَهُمْ",
+                "كَعَصْفٍ",
+                "مَأْكُولٍ"
+            ],
+            "translations": [
+                "nihayet onları yaptı",
+                "ekin yaprağı gibi",
+                "yenmiş"
+            ]
+        }
+    ]
+}

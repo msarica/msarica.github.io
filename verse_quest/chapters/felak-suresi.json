@@ -1,0 +1,88 @@
+{
+    "id": "felak-suresi",
+    "name": "Felak Suresi",
+    "description": "Felak Suresi",
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": "قُلْ اَعُوذُ بِرَبِّ الْفَلَقِۙ",
+            "translation": "De ki: Sabahın Rabbine sığınırım.",
+            "originals": [
+                "قُلْ",
+                "اَعُوذُ",
+                "بِرَبِّ",
+                "الْفَلَقِۙ"
+            ],
+            "translations": [
+                "de ki",
+                "sığınırım ben",
+                "Rabbe",
+                "karanlığı yarıp sabahı ortaya çıkaran"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "مِنْ شَرِّ مَا خَلَقَۙ",
+            "translation": "Yarattığı şeylerin şerrinden,",
+            "originals": [
+                "مِنْ شَرِّ",
+                "مَا",
+                "خَلَقَۙ"
+            ],
+            "translations": [
+                "şerrinden",
+                "şeylerin",
+                "yarattığı"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "وَمِنْ شَرِّ غَاسِقٍ اِذَا وَقَبَۙ",
+            "translation": "Karanlığı çöktüğü zaman gecenin şerrinden,",
+            "originals": [
+                "وَمِنْ شَرِّ",
+                "غَاسِقٍ",
+                "اِذَا",
+                "وَقَبَۙ"
+            ],
+            "translations": [
+                "ve şerrinden",
+                "gecenin",
+                "zaman",
+                "karanlığı çöktüğü"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِۙ",
+            "translation": "Düğümlere üfüren-kadınların şerrinden,",
+            "originals": [
+                "وَمِنْ شَرِّ",
+                "النَّفَّاثَاتِ",
+                "فِي الْعُقَدِۙ"
+            ],
+            "translations": [
+                "şerrinden",
+                "üfleyenlerin",
+                "düğümlere"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "وَمِنْ شَرِّ حَاسِدٍ اِذَا حَسَدَ",
+            "translation": "Ve hased ettiği zaman, hasetçinin şerrinden.",
+            "originals": [
+                "وَمِنْ شَرِّ",
+                "حَاسِدٍ",
+                "اِذَا",
+                "حَسَدَ"
+            ],
+            "translations": [
+                "ve şerrinden",
+                "hasedcinin",
+                "zaman",
+                "hased ettiği"
+            ]
+        }
+    ]
+}

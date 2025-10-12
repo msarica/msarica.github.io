@@ -1,64 +1,11 @@
 {
     "id": "holy-quran-turkish",
     "name": "Kuran",
-    "description": "Sureler ve dualar",
+    "description": "Sureler",
     "config": {
-        "emojiPool": [
-            "🕌",
-            "📿",
-            "✨",
-            "🕊️",
-            "🌍",
-            "🌌",
-            "🙌",
-            "👑",
-            "💝",
-            "🤲",
-            "❤️",
-            "🤗",
-            "⚖️",
-            "📅",
-            "👨‍⚖️",
-            "🏛️",
-            "🛤️",
-            "🧭",
-            "💡",
-            "🌟",
-            "🙏",
-            "🛡️",
-            "👥",
-            "😊",
-            "😢",
-            "😂",
-            "😨",
-            "💕",
-            "😡",
-            "😌",
-            "🤔",
-            "😴",
-            "😍",
-            "🌅",
-            "☁️",
-            "🌙",
-            "🌸",
-            "🔥",
-            "🌊",
-            "⭐",
-            "🌈",
-            "❄️",
-            "💖",
-            "💔",
-            "🔊",
-            "👻",
-            "🌱",
-            "⚡",
-            "🎵",
-            "🎭",
-            "🔮"
-        ],
         "ui": {
-            "chapterListTitle": "Bolumler",
-            "emojiSequenceTitle": "Emojileri dogru sirayla secin:"
+            "chapterListTitle": "Bölümler",
+            "title": ""
         },
         "messages": {
             "encouraging": [
@@ -69,139 +16,126 @@
             "lastVerseLastChapter": "Tebrikler! Tüm yolculuğunuzu tamamladınız!",
             "lastVerse": "Sure tamamlandı! Bir sonraki sureye hazır mısınız?",
             "buttons": {
-                "nextVerse": "Sonraki Sure",
+                "nextVerse": "Sonraki Ayet",
                 "nextChapter": "Sonraki Sure",
                 "playAgain": "Yeniden Oyna"
             }
         }
     },
     "chapters": [
-        {
-            "id": "subhaneke",
-            "name": "Subhâneke Duası",
-            "description": "Subhaneke duasi",
-            "sentences": [
-                {
-                    "id": "1",
-                    "sentence": "Seni her türlü eksiklikten uzak tutarım Allah’ım.",
-                    "emojis": [
-                        "🌙",
-                        "✨",
-                        "🤲"
-                    ]
-                },
-                {
-                    "id": "2",
-                    "sentence": "Seni hamdinle överim.",
-                    "emojis": [
-                        "💖",
-                        "📿",
-                        "🙏"
-                    ]
-                },
-                {
-                    "id": "3",
-                    "sentence": "İsmin mübarektir.",
-                    "emojis": [
-                        "📜",
-                        "🌸"
-                    ]
-                },
-                {
-                    "id": "4",
-                    "sentence": "Şanın yücedir.",
-                    "emojis": [
-                        "🏔️",
-                        "🌟"
-                    ]
-                },
-                {
-                    "id": "5",
-                    "sentence": "Senden başka ilâh yoktur.",
-                    "emojis": [
-                        "☝️",
-                        "🕋",
-                        "💫"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "fatiha",
-            "name": "Fatiha Suresi",
-            "description": "Kuran'in ilk surei",
-            "sentences": [
-                {
-                    "id": "1",
-                    "sentence": "Rahmân ve Rahîm olan Allah'ın adıyla.",
-                    "emojis": [
-                        "🕌",
-                        "📿",
-                        "✨",
-                        "🕊️"
-                    ]
-                },
-                {
-                    "id": "2",
-                    "sentence": "Hamd; Âlemlerin Rabbi olan Allah'a aittir.",
-                    "emojis": [
-                        "🌍",
-                        "🌌",
-                        "🙌",
-                        "👑"
-                    ]
-                },
-                {
-                    "id": "3",
-                    "sentence": "(O Allah) Rahmân ve Rahîm'dir.",
-                    "emojis": [
-                        "💝",
-                        "🤲",
-                        "❤️",
-                        "🤗"
-                    ]
-                },
-                {
-                    "id": "4",
-                    "sentence": "Din (ödül ve ceza) gününün sahibidir.",
-                    "emojis": [
-                        "⚖️",
-                        "📅",
-                        "👨‍⚖️",
-                        "🏛️"
-                    ]
-                },
-                {
-                    "id": "5",
-                    "sentence": "(Ey Allah'ım) Biz yalnızca Sana ibadet eder ve yalnızca Sen'den yardım dileriz.",
-                    "emojis": [
-                        "🤲",
-                        "🙏",
-                        "🕌",
-                        "📿"
-                    ]
-                },
-                {
-                    "id": "6",
-                    "sentence": "Bizi dosdoğru yola ilet.",
-                    "emojis": [
-                        "🛤️",
-                        "✨",
-                        "🧭",
-                        "💡"
-                    ]
-                },
-                {
-                    "id": "7",
-                    "sentence": "Kendilerine nimet verdiğin kimselerin yoluna ilet, gazaba uğrayanların ve sapıkların yoluna değil.",
-                    "emojis": [
-                        "🌟",
-                        "🙏",
-                        "🛡️",
-                        "👥"
-                    ]
-                }
-            ]
-        }
+        "chapters/fatiha-suresi",
+        "chapters/asr-suresi",
+        "chapters/kevser-suresi",
+        "chapters/nasr-suresi",
+        "chapters/ihlas-suresi",
+        "chapters/kureys-suresi",
+        "chapters/felak-suresi",
+        "chapters/fil-suresi",
+        "chapters/kadir-suresi",
+        "chapters/leheb-suresi",
+        "chapters/kafirun-suresi",
+        "chapters/nas-suresi",
+        "chapters/maun-suresi",
+        "chapters/beyyine-suresi",
+        "chapters/insirah-suresi",
+        "chapters/tekasur-suresi",
+        "chapters/tin-suresi",
+        "chapters/zilzal-suresi",
+        "chapters/humeze-suresi",
+        "chapters/adiyat-suresi",
+        "chapters/cuma-suresi",
+        "chapters/duha-suresi",
+        "chapters/karia-suresi",
+        "chapters/munafikun-suresi",
+        "chapters/tahrim-suresi",
+        "chapters/talak-suresi",
+        "chapters/mumtahine-suresi",
+        "chapters/saf-suresi",
+        "chapters/sems-suresi",
+        "chapters/tarik-suresi",
+        "chapters/hucurat-suresi",
+        "chapters/tegabun-suresi",
+        "chapters/ala-suresi",
+        "chapters/alak-suresi",
+        "chapters/intifar-suresi",
+        "chapters/beled-suresi",
+        "chapters/muzzemmil-suresi",
+        "chapters/leyl-suresi",
+        "chapters/buruc-suresi",
+        "chapters/mucadele-suresi",
+        "chapters/hasr-suresi",
+        "chapters/insikak-suresi",
+        "chapters/gasiye-suresi",
+        "chapters/cin-suresi",
+        "chapters/nuh-suresi",
+        "chapters/fetih-suresi",
+        "chapters/hadid-suresi",
+        "chapters/tekvir-suresi",
+        "chapters/fecr-suresi",
+        "chapters/mulk-suresi",
+        "chapters/secde-suresi",
+        "chapters/insan-suresi",
+        "chapters/lokman-suresi",
+        "chapters/ahkaf-suresi",
+        "chapters/mutaffifin-suresi",
+        "chapters/casiye-suresi",
+        "chapters/muhammed-suresi",
+        "chapters/kiyamet-suresi",
+        "chapters/nebe-suresi",
+        "chapters/abese-suresi",
+        "chapters/rad-suresi",
+        "chapters/mearic-suresi",
+        "chapters/fatir-suresi",
+        "chapters/kaf-suresi",
+        "chapters/naziat-suresi",
+        "chapters/tur-suresi",
+        "chapters/murselat-suresi",
+        "chapters/hakka-suresi",
+        "chapters/ibrahim-suresi",
+        "chapters/kalem-suresi",
+        "chapters/sura-suresi",
+        "chapters/fussilet-suresi",
+        "chapters/sebe-suresi",
+        "chapters/kamer-suresi",
+        "chapters/muddessir-suresi",
+        "chapters/duhan-suresi",
+        "chapters/rum-suresi",
+        "chapters/zariyat-suresi",
+        "chapters/necm-suresi",
+        "chapters/nur-suresi",
+        "chapters/ankebut-suresi",
+        "chapters/ahzab-suresi",
+        "chapters/enfal-suresi",
+        "chapters/zumer-suresi",
+        "chapters/furkan-suresi",
+        "chapters/hac-suresi",
+        "chapters/rahman-suresi",
+        "chapters/yasin-suresi",
+        "chapters/mumin-suresi",
+        "chapters/kasas-suresi",
+        "chapters/sad-suresi",
+        "chapters/zuhruf-suresi",
+        "chapters/neml-suresi",
+        "chapters/vakia-suresi",
+        "chapters/meryem-suresi",
+        "chapters/hicr-suresi",
+        "chapters/yunus-suresi",
+        "chapters/kehf-suresi",
+        "chapters/isra-suresi",
+        "chapters/yusuf-suresi",
+        "chapters/enbiya-suresi",
+        "chapters/muminun-suresi",
+        "chapters/maide-suresi",
+        "chapters/hud-suresi",
+        "chapters/nahl-suresi",
+        "chapters/tevbe-suresi",
+        "chapters/taha-suresi",
+        "chapters/enam-suresi",
+        "chapters/nisa-suresi",
+        "chapters/saffat-suresi",
+        "chapters/ali-imran-suresi",
+        "chapters/araf-suresi",
+        "chapters/suara-suresi",
+        "chapters/bakara-suresi"
     ]
 }

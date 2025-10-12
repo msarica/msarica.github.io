@@ -1,0 +1,58 @@
+{
+    "id": "asr-suresi",
+    "name": "Asr Suresi",
+    "description": "Asr Suresi",
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": "وَالْعَصْرِۙ",
+            "translation": "Asra andolsun;",
+            "originals": [
+                "وَالْعَصْرِۙ"
+            ],
+            "translations": [
+                "asra andolsun ki"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "اِنَّ الْاِنْسَانَ لَف۪ي خُسْرٍۙ",
+            "translation": "Gerçekten insan, ziyandadır.",
+            "originals": [
+                "اِنَّ",
+                "الْاِنْسَانَ",
+                "لَف۪ي خُسْرٍۙ"
+            ],
+            "translations": [
+                "şüphesiz",
+                "insan",
+                "ziyandadır"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "اِلَّا الَّذ۪ينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ",
+            "translation": "Ancak iman edip salih amellerde bulunanlar, birbirlerine hakkı tavsiye edenler ve birbirlerine sabrı tavsiye edenler başka.",
+            "originals": [
+                "اِلَّا",
+                "الَّذ۪ينَ اٰمَنُوا",
+                "وَعَمِلُوا",
+                "الصَّالِحَاتِ",
+                "وَتَوَاصَوْا",
+                "بِالْحَقِّ",
+                "وَتَوَاصَوْا",
+                "بِالصَّبْرِ"
+            ],
+            "translations": [
+                "ancak (ziyanda değillerdir)",
+                "inananlar",
+                "ve yapanlar",
+                "iyi işler",
+                "tavsiye edenler",
+                "hakkı",
+                "ve tavsiye edenler",
+                "sabrı"
+            ]
+        }
+    ]
+}

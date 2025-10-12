@@ -1,0 +1,178 @@
+{
+    "id": "adiyat-suresi",
+    "name": "Adiyat Suresi",
+    "description": "Adiyat Suresi",
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": "وَالْعَـادِيَاتِ ضَبْـحاًۙ",
+            "translation": "Soluk soluğa koşan (at)lara andolsun,",
+            "originals": [
+                "وَالْعَـادِيَاتِ",
+                "ضَبْـحاًۙ"
+            ],
+            "translations": [
+                "andolsun koşanlara (atlara)",
+                "soluk soluğa"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "فَالْمُـورِيَاتِ قَـدْحاًۙ",
+            "translation": "(Tırnaklarıyla) Ateş saçanlara,",
+            "originals": [
+                "فَالْمُـورِيَاتِ",
+                "قَـدْحاًۙ"
+            ],
+            "translations": [
+                "(tırnaklarıyla) ateş çıkaranlara",
+                "çarparak"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "فَالْمُغ۪يرَاتِ صُبْحاًۙ",
+            "translation": "Sabah vakti baskın yapanlara.",
+            "originals": [
+                "فَالْمُغ۪يرَاتِ",
+                "صُبْحاًۙ"
+            ],
+            "translations": [
+                "akın edenlere",
+                "sabahleyin"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "فَاَثَرْنَ بِه۪ نَقْعاًۙ",
+            "translation": "Derken, orada tozu dumana katanlara,",
+            "originals": [
+                "فَاَثَرْنَ",
+                "بِه۪",
+                "نَقْعاًۙ"
+            ],
+            "translations": [
+                "toz koparanlara",
+                "onunla (ayaklarıyla)",
+                "toz"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "فَوَسَطْنَ بِه۪ جَمْعاًۙ",
+            "translation": "Bununla bir (düşman) topluluğun orta yerine kadar dalanlara.",
+            "originals": [
+                "فَوَسَطْنَ",
+                "بِه۪",
+                "جَمْعاًۙ"
+            ],
+            "translations": [
+                "derken dalanlara",
+                "onunla",
+                "bir topluluğa"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "اِنَّ الْاِنْسَانَ لِرَبِّه۪ لَكَنُودٌۚ",
+            "translation": "Gerçekten insan, Rabbine karşı nankördür.",
+            "originals": [
+                "اِنَّ",
+                "الْاِنْسَانَ",
+                "لِرَبِّه۪",
+                "لَكَنُودٌۚ"
+            ],
+            "translations": [
+                "şüphesiz",
+                "insan",
+                "Rabbine karşı",
+                "çok nankördür"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "وَاِنَّهُ عَلٰى ذٰلِكَ لَشَه۪يدٌۚ",
+            "translation": "Ve gerçekten, kendisi buna şahiddir.",
+            "originals": [
+                "وَاِنَّهُ",
+                "عَلٰى ذٰلِكَ",
+                "لَشَه۪يدٌۚ"
+            ],
+            "translations": [
+                "ve o da",
+                "buna",
+                "şahiddir"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "وَاِنَّهُ لِحُبِّ الْخَيْرِ لَشَد۪يدٌۜ",
+            "translation": "Muhakkak o, mal sevgisinden dolayı (bencil ve cimri tutumundan) çok katıdır.",
+            "originals": [
+                "وَاِنَّهُ",
+                "لِحُبِّ",
+                "الْخَيْرِ",
+                "لَشَد۪يدٌۜ"
+            ],
+            "translations": [
+                "doğrusu o",
+                "sever",
+                "malı",
+                "çok"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "اَفَلَا يَعْلَمُ اِذَا بُعْثِرَ مَا فِي الْقُبُورِۙ",
+            "translation": "Yine de bilmeyecek mi? Kabirlerde olanların ´deşilip dışa atıldığı,´",
+            "originals": [
+                "اَفَلَا يَعْلَمُ",
+                "اِذَا",
+                "بُعْثِرَ",
+                "مَا",
+                "فِي الْقُبُورِۙ"
+            ],
+            "translations": [
+                "bilmez mi?",
+                "zaman",
+                "dışarı atıldığı",
+                "olanlar",
+                "kabirlerde"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "وَحُصِّلَ مَا فِي الصُّدُورِۙ",
+            "translation": "Göğüslerde olanların derlenip-devşirildiği zamanı?",
+            "originals": [
+                "وَحُصِّلَ",
+                "مَا",
+                "فِي الصُّدُورِۙ"
+            ],
+            "translations": [
+                "devşirildiği (zaman)",
+                "bulunanlar",
+                "göğüslerde"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "اِنَّ رَبَّهُمْ بِهِمْ يَوْمَئِذٍ لَخَب۪يرٌ",
+            "translation": "Şüphesiz, o gün Rableri, kendilerinden gerçekten haberdardır.",
+            "originals": [
+                "اِنَّ",
+                "رَبَّهُمْ",
+                "بِهِمْ",
+                "يَوْمَئِذٍ",
+                "لَخَب۪يرٌ"
+            ],
+            "translations": [
+                "şüphesiz",
+                "Rabbleri",
+                "onları",
+                "o gün",
+                "haber almıştır"
+            ]
+        }
+    ]
+}

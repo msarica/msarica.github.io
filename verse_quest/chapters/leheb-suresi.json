@@ -1,0 +1,86 @@
+{
+    "id": "leheb-suresi",
+    "name": "Leheb Suresi",
+    "description": "Leheb Suresi",
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": "تَبَّتْ يَدَٓا اَب۪ي لَهَبٍ وَتَبَّۜ",
+            "translation": "Ebu Leheb´in iki eli kurusun; kurudu ya.",
+            "originals": [
+                "تَبَّتْ",
+                "يَدَٓا",
+                "اَب۪ي لَهَبٍ",
+                "وَتَبَّۜ"
+            ],
+            "translations": [
+                "kurusun",
+                "iki eli",
+                "Ebu Leheb`in",
+                "zaten yok oldu"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "مَٓا اَغْنٰى عَنْهُ مَالُهُ وَمَا كَسَبَۜ",
+            "translation": "Malı ve kazandıkları kendisine bir yarar sağlamadı.",
+            "originals": [
+                "مَٓا اَغْنٰى",
+                "عَنْهُ",
+                "مَالُهُ",
+                "وَمَا كَسَبَۜ"
+            ],
+            "translations": [
+                "kurtaramadı",
+                "onu",
+                "malı",
+                "ve kazandığı"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "سَيَصْلٰى نَاراً ذَاتَ لَهَبٍۚ",
+            "translation": "Alevi olan bir ateşe girecektir.",
+            "originals": [
+                "سَيَصْلٰى",
+                "نَاراً",
+                "ذَاتَ لَهَبٍۚ"
+            ],
+            "translations": [
+                "girecektir",
+                "bir ateşe",
+                "alevli"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "وَامْرَاَتُهُۜ حَمَّالَةَ الْحَطَبِۚ",
+            "translation": "Eşi de; odun hamalı (ve)",
+            "originals": [
+                "وَامْرَاَتُهُۜ",
+                "حَمَّالَةَ",
+                "الْحَطَبِۚ"
+            ],
+            "translations": [
+                "ve karısı",
+                "hamalı",
+                "odun"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "ف۪ي ج۪يدِهَا حَبْلٌ مِنْ مَسَدٍ",
+            "translation": "Boynuna bükülmüş bir ip (bağlanmış) olarak.",
+            "originals": [
+                "ف۪ي ج۪يدِهَا",
+                "حَبْلٌ",
+                "مِنْ مَسَدٍ"
+            ],
+            "translations": [
+                "boynunda",
+                "bir ip",
+                "hurma lifinden"
+            ]
+        }
+    ]
+}

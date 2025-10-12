@@ -1,0 +1,264 @@
+{
+    "id": "tarik-suresi",
+    "name": "Tarik Suresi",
+    "description": "Tarik Suresi",
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": "وَالسَّمَٓاءِ وَالطَّارِقِۙ",
+            "translation": "Göğe ve Tarık´a andolsun,",
+            "originals": [
+                "وَالسَّمَٓاءِ",
+                "وَالطَّارِقِۙ"
+            ],
+            "translations": [
+                "göğe andolsun",
+                "ve tarık`a"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "وَمَٓا اَدْرٰيكَ مَا الطَّارِقُۙ",
+            "translation": "Tarık´ın ne olduğunu sana bildiren nedir?",
+            "originals": [
+                "وَمَٓا اَدْرٰيكَ",
+                "مَا",
+                "الطَّارِقُۙ"
+            ],
+            "translations": [
+                "sen nereden bileceksin?",
+                "nedir",
+                "tarık"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "اَلنَّجْمُ الثَّاقِبُۙ",
+            "translation": "(Karanlığı) Delen yıldızdır.",
+            "originals": [
+                "اَلنَّجْمُ",
+                "الثَّاقِبُۙ"
+            ],
+            "translations": [
+                "yıldızdır",
+                "parlayan"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "اِنْ كُلُّ نَفْسٍ لَمَّا عَلَيْهَا حَافِظٌۜ",
+            "translation": "Üzerinde gözetleyici-koruyucu bulunmayan hiçbir nefis (kimse) yoktur.",
+            "originals": [
+                "اِنْ كُلُّ نَفْسٍ",
+                "لَمَّا",
+                "عَلَيْهَا",
+                "حَافِظٌۜ"
+            ],
+            "translations": [
+                "hiçbir can yoktur ki",
+                "olmasın",
+                "başında",
+                "bir koruyucu"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "فَلْيَنْظُرِ الْاِنْسَانُ مِمَّ خُلِقَۜ",
+            "translation": "İnsan bir baksın, hangi şeyden yaratıldı?",
+            "originals": [
+                "فَلْيَنْظُرِ",
+                "الْاِنْسَانُ",
+                "مِمَّ",
+                "خُلِقَۜ"
+            ],
+            "translations": [
+                "bir baksın",
+                "insan",
+                "neden",
+                "yaratıldığına"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "خُلِقَ مِنْ مَٓاءٍ دَافِقٍۙ",
+            "translation": "Dökülüp atılan bir sudan yaratıldı.",
+            "originals": [
+                "خُلِقَ",
+                "مِنْ مَٓاءٍ",
+                "دَافِقٍۙ"
+            ],
+            "translations": [
+                "yaratıldı",
+                "bir sudan",
+                "atılan"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "يَخْرُجُ مِنْ بَيْنِ الصُّلْبِ وَالتَّرَٓائِبِۜ",
+            "translation": "(Bu su,) Bel kemiği ile kaburgalar arasında(ki organlar)dan çıkar.",
+            "originals": [
+                "يَخْرُجُ",
+                "مِنْ بَيْنِ",
+                "الصُّلْبِ",
+                "وَالتَّرَٓائِبِۜ"
+            ],
+            "translations": [
+                "çıkan",
+                "arasından",
+                "bel",
+                "ve kaburga kemikleri"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "اِنَّهُ عَلٰى رَجْعِه۪ لَقَادِرٌۜ",
+            "translation": "Şüphesiz (Allah), onu yeniden-döndürmeye güç yetirendir.",
+            "originals": [
+                "اِنَّهُ",
+                "عَلٰى رَجْعِه۪",
+                "لَقَادِرٌۜ"
+            ],
+            "translations": [
+                "şüphesiz O",
+                "onu tekrar döndürmeye",
+                "kadirdir"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "يَوْمَ تُبْلَى السَّرَٓائِرُۙ",
+            "translation": "Sırların orta yere çıkarılacağı gün;",
+            "originals": [
+                "يَوْمَ",
+                "تُبْلَى",
+                "السَّرَٓائِرُۙ"
+            ],
+            "translations": [
+                "gün",
+                "yoklanacağı",
+                "sırların"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "فَمَا لَهُ مِنْ قُوَّةٍ وَلَا نَاصِرٍۜ",
+            "translation": "Artık onun ne gücü vardır, ne yardımcısı.",
+            "originals": [
+                "فَمَا",
+                "لَهُ",
+                "مِنْ قُوَّةٍ",
+                "وَلَا",
+                "نَاصِرٍۜ"
+            ],
+            "translations": [
+                "yoktur",
+                "onun",
+                "bir gücü",
+                "ne de",
+                "bir yardımcısı"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "وَالسَّمَٓاءِ ذَاتِ الرَّجْعِۙ",
+            "translation": "Dönüşlü olan göğe andolsun.",
+            "originals": [
+                "وَالسَّمَٓاءِ",
+                "ذَاتِ الرَّجْعِۙ"
+            ],
+            "translations": [
+                "göğe andolsun",
+                "dönüşlü"
+            ]
+        },
+        {
+            "id": "12",
+            "sentence": "وَالْاَرْضِ ذَاتِ الصَّدْعِۙ",
+            "translation": "Yarılan yere de.",
+            "originals": [
+                "وَالْاَرْضِ",
+                "ذَاتِ الصَّدْعِۙ"
+            ],
+            "translations": [
+                "ve yere andolsun",
+                "çatlayan"
+            ]
+        },
+        {
+            "id": "13",
+            "sentence": "اِنَّهُ لَقَوْلٌ فَصْلٌۙ",
+            "translation": "Şüphesiz o (Kur´an), ayırdeden bir sözdür.",
+            "originals": [
+                "اِنَّهُ",
+                "لَقَوْلٌ",
+                "فَصْلٌۙ"
+            ],
+            "translations": [
+                "O",
+                "elbette bir sözdür",
+                "ayırdedici"
+            ]
+        },
+        {
+            "id": "14",
+            "sentence": "وَمَا هُوَ بِالْهَزْلِۜ",
+            "translation": "O, bir şaka değildir.",
+            "originals": [
+                "وَمَا",
+                "هُوَ",
+                "بِالْهَزْلِۜ"
+            ],
+            "translations": [
+                "ve değildir",
+                "O",
+                "şaka"
+            ]
+        },
+        {
+            "id": "15",
+            "sentence": "اِنَّهُمْ يَك۪يدُونَ كَيْداًۙ",
+            "translation": "Doğrusu onlar, hileli bir düzen planlayıp kuruyorlar;",
+            "originals": [
+                "اِنَّهُمْ",
+                "يَك۪يدُونَ",
+                "كَيْداًۙ"
+            ],
+            "translations": [
+                "onlar",
+                "kuruyorlar",
+                "bir tuzak"
+            ]
+        },
+        {
+            "id": "16",
+            "sentence": "وَاَ‌ك۪يدُ كَيْداًۚ",
+            "translation": "Ben de bir düzen kurup hazırlıyorum.",
+            "originals": [
+                "وَاَ‌ك۪يدُ",
+                "كَيْداًۚ"
+            ],
+            "translations": [
+                "ben de kuruyorum",
+                "bir tuzak"
+            ]
+        },
+        {
+            "id": "17",
+            "sentence": "فَمَهِّلِ الْـكَافِر۪ينَ اَمْهِلْهُمْ رُوَيْداً",
+            "translation": "Sen kafirlere bir mühlet ver, az bir süre tanı.",
+            "originals": [
+                "فَمَهِّلِ",
+                "الْـكَافِر۪ينَ",
+                "اَمْهِلْهُمْ",
+                "رُوَيْداً"
+            ],
+            "translations": [
+                "sen mühlet ver",
+                "kafirlere",
+                "bırak onları",
+                "kendi hallerine"
+            ]
+        }
+    ]
+}

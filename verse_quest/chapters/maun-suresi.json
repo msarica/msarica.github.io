@@ -1,0 +1,106 @@
+{
+    "id": "maun-suresi",
+    "name": "Maun Suresi",
+    "description": "Maun Suresi",
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": "اَرَاَيْتَ الَّذ۪ي يُكَذِّبُ بِالدّ۪ينِۜ",
+            "translation": "Dini yalanlayanı gördün mü?",
+            "originals": [
+                "اَرَاَيْتَ",
+                "الَّذ۪ي يُكَذِّبُ",
+                "بِالدّ۪ينِۜ"
+            ],
+            "translations": [
+                "gördün mü?",
+                "yalanlayanı",
+                "dini"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "فَذٰلِكَ الَّذ۪ي يَدُعُّ الْيَت۪يمَۙ",
+            "translation": "İşte yetimi itip-kakan;",
+            "originals": [
+                "فَذٰلِكَ",
+                "الَّذ۪ي يَدُعُّ",
+                "الْيَت۪يمَۙ"
+            ],
+            "translations": [
+                "işte o",
+                "iter kakar",
+                "öksüzü"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "وَلَا يَحُضُّ عَلٰى طَعَامِ الْمِسْك۪ينِۜ",
+            "translation": "Yoksulu doyurmayı teşvik etmeyen odur.",
+            "originals": [
+                "وَلَا يَحُضُّ",
+                "عَلٰى طَعَامِ",
+                "الْمِسْك۪ينِۜ"
+            ],
+            "translations": [
+                "ve önayak olmaz",
+                "doyurmağa",
+                "yoksulu"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "فَوَيْلٌ لِلْمُصَلّ۪ينَۙ",
+            "translation": "İşte (şu) namaz kılanların vay haline,",
+            "originals": [
+                "فَوَيْلٌ",
+                "لِلْمُصَلّ۪ينَۙ"
+            ],
+            "translations": [
+                "vay haline",
+                "namaz kılanların"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "الَّذ۪ينَ هُمْ عَنْ صَلَاتِهِمْ سَاهُونَۙ",
+            "translation": "Ki onlar, namazlarında yanılgıdadırlar,",
+            "originals": [
+                "الَّذ۪ينَ هُمْ",
+                "عَنْ صَلَاتِهِمْ",
+                "سَاهُونَۙ"
+            ],
+            "translations": [
+                "ki onlar",
+                "namazlarından",
+                "gaflet ederler"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "الَّذ۪ينَ هُمْ يُرَٓاؤُ۫نَۙ",
+            "translation": "Onlar gösteriş yapmaktadırlar",
+            "originals": [
+                "الَّذ۪ينَ هُمْ",
+                "يُرَٓاؤُ۫نَۙ"
+            ],
+            "translations": [
+                "onlar",
+                "gösteriş yaparlar"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "وَيَمْنَعُونَ الْمَاعُونَ",
+            "translation": "Ve ‘ufacık bir yardımı (veya zekatı) da engellemektedirler.",
+            "originals": [
+                "وَيَمْنَعُونَ",
+                "الْمَاعُونَ"
+            ],
+            "translations": [
+                "esirgerler",
+                "en ufak bir yardımı"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "id": "kureys-suresi",
+    "name": "Kureyş Suresi",
+    "description": "Kureyş Suresi",
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": "لِا۪يلَافِ قُرَيْشٍۙ",
+            "translation": "(Hiç değilse kendilerini) Kureyş’i ‘bir araya getirip anlaştırdığı’",
+            "originals": [
+                "لِا۪يلَافِ",
+                "قُرَيْشٍۙ"
+            ],
+            "translations": [
+                "alıştırdığı için",
+                "Kureyşi"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "ا۪يلَافِهِمْ رِحْلَةَ الشِّتَٓاءِ وَالصَّيْفِۚ",
+            "translation": "Yaz ve kış yolculuğunda onları (güvenliğe kavuşturduğu ya da başkalarıyla) ısındırıp yakınlaştırdığı için,",
+            "originals": [
+                "ا۪يلَافِهِمْ",
+                "رِحْلَةَ",
+                "الشِّتَٓاءِ",
+                "وَالصَّيْفِۚ"
+            ],
+            "translations": [
+                "onları alıştırdığı için",
+                "yolculuğuna",
+                "kış",
+                "ve yaz"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "فَلْيَعْبُدُوا رَبَّ هٰذَا الْبَيْتِۙ",
+            "translation": "Şu Ev (Ka’be’n)in Rabbine kulluk etsinler;",
+            "originals": [
+                "فَلْيَعْبُدُوا",
+                "رَبَّ",
+                "هٰذَا",
+                "الْبَيْتِۙ"
+            ],
+            "translations": [
+                "kulluk etsinler",
+                "Rabbine",
+                "bu",
+                "evin"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "اَلَّذ۪ٓي اَطْعَمَهُمْ مِنْ جُوعٍ وَاٰمَنَهُمْ مِنْ خَوْفٍ",
+            "translation": "Ki O, kendilerini açlıktan (kurtarıp) doyuran ve korkudan güvenliğe kavuşturandır.",
+            "originals": [
+                "اَلَّذ۪ٓي",
+                "اَطْعَمَهُمْ",
+                "مِنْ جُوعٍ",
+                "وَاٰمَنَهُمْ",
+                "مِنْ خَوْفٍ"
+            ],
+            "translations": [
+                "o ki",
+                "onları yedirip",
+                "açlıktan kurtardı",
+                "ve onları güvene kavuşturdu",
+                "korkudan"
+            ]
+        }
+    ]
+}

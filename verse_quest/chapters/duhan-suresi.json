@@ -1,0 +1,1154 @@
+{
+    "id": "duhan-suresi",
+    "name": "Duhan Suresi",
+    "description": "Duhan Suresi",
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": "حٰمٓۜ",
+            "translation": "Ha, Mim.",
+            "originals": [
+                "حٰمٓۜ"
+            ],
+            "translations": [
+                "Ha mim"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "وَالْكِتَابِ الْمُب۪ينِۙ",
+            "translation": "Apaçık Kitab´a andolsun;",
+            "originals": [
+                "وَالْكِتَابِ",
+                "الْمُب۪ينِۙ"
+            ],
+            "translations": [
+                "Kitaba andolsun ki",
+                "apaçık"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "اِنَّٓا اَنْزَلْنَاهُ ف۪ي لَيْلَةٍ مُبَارَكَةٍ اِنَّا كُنَّا مُنْذِر۪ينَ",
+            "translation": "Gerçekten Biz onu mübarek bir gecede indirdik, gerçekten Biz uyaranlarız.",
+            "originals": [
+                "اِنَّٓا",
+                "اَنْزَلْنَاهُ",
+                "ف۪ي لَيْلَةٍ",
+                "مُبَارَكَةٍ",
+                "اِنَّا كُنَّا",
+                "مُنْذِر۪ينَ"
+            ],
+            "translations": [
+                "biz",
+                "onu indirdik",
+                "bir gecede",
+                "mübarek",
+                "çünkü biz",
+                "uyarıcıyız"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "ف۪يهَا يُفْرَقُ كُـلُّ اَمْرٍ حَـك۪يمٍۜ",
+            "translation": "Ki onda (o gecede) her hikmetli iş ayrılır.",
+            "originals": [
+                "ف۪يهَا",
+                "يُفْرَقُ",
+                "كُـلُّ",
+                "اَمْرٍ",
+                "حَـك۪يمٍۜ"
+            ],
+            "translations": [
+                "onda (o gecede)",
+                "ayırdedilir",
+                "her",
+                "emir",
+                "hikmetli"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "اَمْراً مِنْ عِنْدِنَاۜ اِنَّا كُنَّا مُرْسِل۪ينَۚ",
+            "translation": "Katımız´dan bir emir ile; doğrusu Biz, (insanlara elçi) gönderenleriz.",
+            "originals": [
+                "اَمْراً",
+                "مِنْ عِنْدِنَاۜ",
+                "اِنَّا كُنَّا",
+                "مُرْسِل۪ينَۚ"
+            ],
+            "translations": [
+                "emir",
+                "katımızdan olan",
+                "çünkü biz",
+                "elçi göndericiyiz"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "رَحْمَةً مِنْ رَبِّكَۜ اِنَّهُ هُوَ السَّم۪يعُ الْعَل۪يمُۙ",
+            "translation": "Rabbinden bir rahmet olarak. Şüphesiz O, işitendir, bilendir.",
+            "originals": [
+                "رَحْمَةً",
+                "مِنْ رَبِّكَۜ",
+                "اِنَّهُ",
+                "هُوَ",
+                "السَّم۪يعُ",
+                "الْعَل۪يمُۙ"
+            ],
+            "translations": [
+                "rahmet olarak",
+                "Rabbinden",
+                "doğrusu O",
+                "O",
+                "işitendir",
+                "bilendir"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "رَبِّ السَّمٰوَاتِ وَالْاَرْضِ وَمَا بَيْنَهُمَاۢ اِنْ كُنْتُمْ مُوقِن۪ينَ",
+            "translation": "Eğer kesin bir bilgiyle inanıyorsanız (Allah), göklerin, yerin ve bu ikisi arasında bulunanların Rabbidir.",
+            "originals": [
+                "رَبِّ",
+                "السَّمٰوَاتِ",
+                "وَالْاَرْضِ",
+                "وَمَا",
+                "بَيْنَهُمَاۢ",
+                "اِنْ",
+                "كُنْتُمْ",
+                "مُوقِن۪ينَ"
+            ],
+            "translations": [
+                "Rabbidir",
+                "göklerin",
+                "ve yerin",
+                "ve bulunanların",
+                "ikisi arasında",
+                "eğer",
+                "iseniz",
+                "kesin olarak inanıyor"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "لَٓا اِلٰهَ اِلَّا هُوَ يُحْـي۪ وَيُم۪يتُۜ رَبُّكُمْ وَرَبُّ اٰبَٓائِكُمُ الْاَوَّل۪ينَ",
+            "translation": "O´ndan başka İlah yoktur; diriltir ve öldürür. Sizin de Rabbinizdir, geçmiş atalarınızın da Rabbidir.",
+            "originals": [
+                "لَٓا",
+                "اِلٰهَ",
+                "اِلَّا",
+                "هُوَ",
+                "يُحْـي۪",
+                "وَيُم۪يتُۜ",
+                "رَبُّكُمْ",
+                "وَرَبُّ",
+                "اٰبَٓائِكُمُ",
+                "الْاَوَّل۪ينَ"
+            ],
+            "translations": [
+                "yoktur",
+                "tanrı",
+                "başka",
+                "O`ndan",
+                "yaşatır",
+                "ve öldürür",
+                "sizin de Rabbinizdir",
+                "ve Rabbidir",
+                "atalarınızın",
+                "önceki"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "بَلْ هُمْ ف۪ي شَكٍّ يَلْعَبُونَ",
+            "translation": "Hayır, onlar şüphe içindedirler; oynayıp-oyalanıyorlar.",
+            "originals": [
+                "بَلْ",
+                "هُمْ",
+                "ف۪ي",
+                "شَكٍّ",
+                "يَلْعَبُونَ"
+            ],
+            "translations": [
+                "ama",
+                "onlar",
+                "içinde",
+                "şüphe",
+                "oynuyorlar"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "فَارْتَقِبْ يَوْمَ تَأْتِي السَّمَٓاءُ بِدُخَانٍ مُب۪ينٍۙ",
+            "translation": "Öyleyse sen, göğün açıkça bir duman getireceği günü gözle;",
+            "originals": [
+                "فَارْتَقِبْ",
+                "يَوْمَ",
+                "تَأْتِي",
+                "السَّمَٓاءُ",
+                "بِدُخَانٍ",
+                "مُب۪ينٍۙ"
+            ],
+            "translations": [
+                "gözetle",
+                "günü",
+                "getireceği",
+                "göğün",
+                "bir duman",
+                "açık"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "يَغْشَى النَّاسَۜ هٰذَا عَذَابٌ اَل۪يمٌ",
+            "translation": "(Bu duman) insanları sarıp-kuşatıverir. İşte bu, acı bir azaptır.",
+            "originals": [
+                "يَغْشَى",
+                "النَّاسَۜ",
+                "هٰذَا",
+                "عَذَابٌ",
+                "اَل۪يمٌ"
+            ],
+            "translations": [
+                "sarar",
+                "insanları",
+                "bu",
+                "bir azabdır",
+                "acı"
+            ]
+        },
+        {
+            "id": "12",
+            "sentence": "رَبَّـنَا اكْشِفْ عَنَّا الْعَذَابَ اِنَّا مُؤْمِنُونَ",
+            "translation": "&quot;Rabbimiz, azabı üstümüzden açıp-gider; çünkü biz (artık) iman edicileriz.&quot;",
+            "originals": [
+                "رَبَّـنَا",
+                "اكْشِفْ",
+                "عَنَّا",
+                "الْعَذَابَ",
+                "اِنَّا",
+                "مُؤْمِنُونَ"
+            ],
+            "translations": [
+                "Rabbimiz",
+                "kaldır",
+                "bizden",
+                "azabı",
+                "çünkü biz",
+                "inanıyoruz"
+            ]
+        },
+        {
+            "id": "13",
+            "sentence": "اَنّٰى لَهُمُ الذِّكْرٰى وَقَدْ جَٓاءَهُمْ رَسُولٌ مُب۪ينٌۙ",
+            "translation": "Onlar için öğüt alıp-düşünmek nerede? Onlara, açıklayan bir elçi gelmişti.",
+            "originals": [
+                "اَنّٰى",
+                "لَهُمُ",
+                "الذِّكْرٰى",
+                "وَقَدْ",
+                "جَٓاءَهُمْ",
+                "رَسُولٌ",
+                "مُب۪ينٌۙ"
+            ],
+            "translations": [
+                "ne kadar uzak",
+                "onlar için",
+                "öğüt almak",
+                "oysa",
+                "kendilerine gelmişti",
+                "bir elçi",
+                "apaçık"
+            ]
+        },
+        {
+            "id": "14",
+            "sentence": "ثُمَّ تَوَلَّوْا عَنْهُ وَقَالُوا مُعَلَّمٌ مَجْنُونٌۢ",
+            "translation": "Sonra, ondan yüz çevirdiler ve dediler ki: &quot;(Bu,) Öğretilmiştir, bir delidir.&quot;",
+            "originals": [
+                "ثُمَّ",
+                "تَوَلَّوْا",
+                "عَنْهُ",
+                "وَقَالُوا",
+                "مُعَلَّمٌ",
+                "مَجْنُونٌۢ"
+            ],
+            "translations": [
+                "sonra",
+                "yüz çevirdiler",
+                "ondan",
+                "dediler",
+                "öğretilmiştir",
+                "cinlenmiştir"
+            ]
+        },
+        {
+            "id": "15",
+            "sentence": "اِنَّا كَاشِفُوا الْعَذَابِ قَل۪يلاً اِنَّكُمْ عَٓائِدُونَۢ",
+            "translation": "Biz sizden bu azabı biraz açıp-gidereceğiz; (ama yine) dönecek olanlarsınız siz.",
+            "originals": [
+                "اِنَّا",
+                "كَاشِفُوا",
+                "الْعَذَابِ",
+                "قَل۪يلاً",
+                "اِنَّكُمْ",
+                "عَٓائِدُونَۢ"
+            ],
+            "translations": [
+                "biz",
+                "kaldırırız",
+                "azabı",
+                "birazcık",
+                "ama siz",
+                "dönersiniz"
+            ]
+        },
+        {
+            "id": "16",
+            "sentence": "يَوْمَ نَبْطِشُ الْبَطْشَةَ الْكُبْرٰىۚ اِنَّا مُنْتَقِمُونَ",
+            "translation": "Büyük bir şiddetle yakalayacağımız gün, elbette Biz intikam alacağız.",
+            "originals": [
+                "يَوْمَ",
+                "نَبْطِشُ",
+                "الْبَطْشَةَ",
+                "الْكُبْرٰىۚ",
+                "اِنَّا",
+                "مُنْتَقِمُونَ"
+            ],
+            "translations": [
+                "o gün",
+                "vururuz",
+                "vuruşla",
+                "büyük",
+                "zira biz",
+                "öc alıcıyız"
+            ]
+        },
+        {
+            "id": "17",
+            "sentence": "وَلَقَدْ فَتَنَّا قَبْلَهُمْ قَوْمَ فِرْعَوْنَ وَجَٓاءَهُمْ رَسُولٌ كَر۪يمٌۙ",
+            "translation": "Andolsun, Biz kendilerinden önce, Firavun´un kavmini de denedik. Onlara kerim bir elçi gelmişti;",
+            "originals": [
+                "وَلَقَدْ",
+                "فَتَنَّا",
+                "قَبْلَهُمْ",
+                "قَوْمَ",
+                "فِرْعَوْنَ",
+                "وَجَٓاءَهُمْ",
+                "رَسُولٌ",
+                "كَر۪يمٌۙ"
+            ],
+            "translations": [
+                "andolsun",
+                "sınadık",
+                "onlardan önce",
+                "toplumunu",
+                "Fir`avn",
+                "onlara geldi",
+                "bir elçi",
+                "değerli"
+            ]
+        },
+        {
+            "id": "18",
+            "sentence": "اَنْ اَدُّٓوا اِلَيَّ عِبَادَ اللّٰهِۜ اِنّ۪ي لَكُمْ رَسُولٌ اَم۪ينٌۙ",
+            "translation": "&quot;Allah´ın kullarını bana teslim edin; gerçekten ben, sizin için güvenilir bir elçiyim&quot; (demişti).",
+            "originals": [
+                "اَنْ اَدُّٓوا",
+                "اِلَيَّ",
+                "عِبَادَ",
+                "اللّٰهِۜ",
+                "اِنّ۪ي",
+                "لَكُمْ",
+                "رَسُولٌ",
+                "اَم۪ينٌۙ"
+            ],
+            "translations": [
+                "teslim edin",
+                "bana",
+                "kullarını",
+                "Allah`ın",
+                "çünkü ben",
+                "sizin için",
+                "bir elçiyim",
+                "güvenilir"
+            ]
+        },
+        {
+            "id": "19",
+            "sentence": "وَاَنْ لَا تَعْلُوا عَلَى اللّٰهِۚ اِنّ۪ٓي اٰت۪يكُمْ بِسُلْطَانٍ مُب۪ينٍۚ",
+            "translation": "&quot;Allah´a karşı büyüklenmeyin; şüphesiz size apaçık, bir delil getiriyorum.&quot;",
+            "originals": [
+                "وَاَنْ لَا تَعْلُوا",
+                "عَلَى",
+                "اللّٰهِۚ",
+                "اِنّ۪ٓي",
+                "اٰت۪يكُمْ",
+                "بِسُلْطَانٍ",
+                "مُب۪ينٍۚ"
+            ],
+            "translations": [
+                "ve ululanmayın",
+                "karşı",
+                "Allah`a",
+                "ben",
+                "size getiriyorum",
+                "bir delil",
+                "apaçık"
+            ]
+        },
+        {
+            "id": "20",
+            "sentence": "وَاِنّ۪ي عُذْتُ بِرَبّ۪ي وَرَبِّكُمْ اَنْ تَرْجُمُونِۘ",
+            "translation": "&quot;Ve doğrusu ben, sizin taşa tutmanızdan benim de Rabbim, sizin de Rabbiniz olan (Allah)a sığındım.&quot;",
+            "originals": [
+                "وَاِنّ۪ي",
+                "عُذْتُ",
+                "بِرَبّ۪ي",
+                "وَرَبِّكُمْ",
+                "اَنْ تَرْجُمُونِۘ"
+            ],
+            "translations": [
+                "ben",
+                "sığındım",
+                "benim Rabbim",
+                "ve sizin Rabbiniz olana",
+                "beni taşla(yıp öldür)menizden"
+            ]
+        },
+        {
+            "id": "21",
+            "sentence": "وَاِنْ لَمْ تُؤْمِنُوا ل۪ي فَاعْتَزِلُونِ",
+            "translation": "&quot;Eğer bana inanmıyorsanız, bu durumda benden kopup-ayrılın.&quot;",
+            "originals": [
+                "وَاِنْ",
+                "لَمْ تُؤْمِنُوا",
+                "ل۪ي",
+                "فَاعْتَزِلُونِ"
+            ],
+            "translations": [
+                "eğer",
+                "inanmadınızsa",
+                "bana",
+                "benden uzaklaşın"
+            ]
+        },
+        {
+            "id": "22",
+            "sentence": "فَدَعَا رَبَّهُٓ اَنَّ هٰٓؤُ۬لَٓاءِ قَوْمٌ مُجْرِمُونَ",
+            "translation": "Sonunda Rabbine: &quot;Gerçekten bunlar, suçlu-günahkar bir kavimdirler&quot; diye dua etti.",
+            "originals": [
+                "فَدَعَا",
+                "رَبَّهُٓ",
+                "اَنَّ",
+                "هٰٓؤُ۬لَٓاءِ",
+                "قَوْمٌ",
+                "مُجْرِمُونَ"
+            ],
+            "translations": [
+                "sonra du`a etti",
+                "Rabbine",
+                "gerçekten",
+                "bunlar",
+                "bir toplumdur",
+                "suç işleyen"
+            ]
+        },
+        {
+            "id": "23",
+            "sentence": "فَاَسْرِ بِعِبَاد۪ي لَيْلاً اِنَّكُمْ مُتَّبَعُونَۙ",
+            "translation": "(Allah da:) &quot;Öyleyse, kullarımı geceleyin yürüyüşe geçir, muhakkak takip edileceksiniz.&quot; (diye duasını kabul edip cevap verdi).",
+            "originals": [
+                "فَاَسْرِ",
+                "بِعِبَاد۪ي",
+                "لَيْلاً",
+                "اِنَّكُمْ",
+                "مُتَّبَعُونَۙ"
+            ],
+            "translations": [
+                "o halde yürüt",
+                "kullarımı",
+                "geceleyin",
+                "çünkü",
+                "takibedileceksiniz"
+            ]
+        },
+        {
+            "id": "24",
+            "sentence": "وَاتْرُكِ الْبَحْرَ رَهْواًۜ اِنَّهُمْ جُنْدٌ مُغْرَقُونَ",
+            "translation": "&quot;Denizi durgun ve açık bırak. Çünkü suda boğulacak bir ordudur.&quot;",
+            "originals": [
+                "وَاتْرُكِ",
+                "الْبَحْرَ",
+                "رَهْواًۜ",
+                "اِنَّهُمْ",
+                "جُنْدٌ",
+                "مُغْرَقُونَ"
+            ],
+            "translations": [
+                "ve bırak",
+                "denizi",
+                "açık",
+                "çünkü onlar",
+                "bir ordudur",
+                "boğulacak"
+            ]
+        },
+        {
+            "id": "25",
+            "sentence": "كَمْ تَرَكُوا مِنْ جَنَّاتٍ وَعُيُونٍۙ",
+            "translation": "Onlar nice bahçeler ve pınarlar terk etmişlerdi;",
+            "originals": [
+                "كَمْ",
+                "تَرَكُوا",
+                "مِنْ جَنَّاتٍ",
+                "وَعُيُونٍۙ"
+            ],
+            "translations": [
+                "nice şeyler",
+                "onlar geride bıraktılar",
+                "bahçeler",
+                "ve çeşmeler"
+            ]
+        },
+        {
+            "id": "26",
+            "sentence": "وَزُرُوعٍ وَمَقَامٍ كَر۪يمٍۙ",
+            "translation": "(Nice) Ekinler, güzel konaklar,",
+            "originals": [
+                "وَزُرُوعٍ",
+                "وَمَقَامٍ",
+                "كَر۪يمٍۙ"
+            ],
+            "translations": [
+                "ve ekinler",
+                "ve makamlar",
+                "güzel"
+            ]
+        },
+        {
+            "id": "27",
+            "sentence": "وَنَعْمَةٍ كَانُوا ف۪يهَا فَاكِه۪ينَۙ",
+            "translation": "Ve içlerinde ´sevinç ve mutluluk içinde´ yaşadıkları nimetler,",
+            "originals": [
+                "وَنَعْمَةٍ",
+                "كَانُوا ف۪يهَا",
+                "فَاكِه۪ينَۙ"
+            ],
+            "translations": [
+                "ve nice ni`metler",
+                "orada",
+                "zevkü sefa sürdükleri"
+            ]
+        },
+        {
+            "id": "28",
+            "sentence": "كَذٰلِكَ۠ وَاَوْرَثْنَاهَا قَوْماً اٰخَر۪ينَ",
+            "translation": "İşte böyle; Biz bunları başka bir kavme miras olarak verdik.",
+            "originals": [
+                "كَذٰلِكَ۠",
+                "وَاَوْرَثْنَاهَا",
+                "قَوْماً",
+                "اٰخَر۪ينَ"
+            ],
+            "translations": [
+                "işte böyle oldu",
+                "ve biz onları miras verdik",
+                "bir topluma",
+                "başka"
+            ]
+        },
+        {
+            "id": "29",
+            "sentence": "فَمَا بَكَتْ عَلَيْهِمُ السَّمَٓاءُ وَالْاَرْضُ وَمَا كَانُوا مُنْظَر۪ينَ۟",
+            "translation": "Onlar için ne gök, ne yer ağlamadı ve onlar (ın azabı) ertelenmedi.",
+            "originals": [
+                "فَمَا بَكَتْ",
+                "عَلَيْهِمُ",
+                "السَّمَٓاءُ",
+                "وَالْاَرْضُ",
+                "وَمَا كَانُوا",
+                "مُنْظَر۪ينَ۟"
+            ],
+            "translations": [
+                "ağlamadı",
+                "onlara",
+                "gök",
+                "ve yer",
+                "ve olmadılar",
+                "fırsat verilenlerden"
+            ]
+        },
+        {
+            "id": "30",
+            "sentence": "وَلَقَدْ نَجَّيْنَا بَن۪ٓي اِسْرَٓائ۪لَ مِنَ الْعَذَابِ الْمُه۪ينِۙ",
+            "translation": "Andolsun, Biz İsrailoğulları´nı o alçaltıcı azaptan kurtardık.",
+            "originals": [
+                "وَلَقَدْ",
+                "نَجَّيْنَا",
+                "بَن۪ٓي",
+                "اِسْرَٓائ۪لَ",
+                "مِنَ الْعَذَابِ",
+                "الْمُه۪ينِۙ"
+            ],
+            "translations": [
+                "andolsun",
+                "biz kurtardık",
+                "oğullarını",
+                "İsrail",
+                "azabdan",
+                "küçültücü"
+            ]
+        },
+        {
+            "id": "31",
+            "sentence": "مِنْ فِرْعَوْنَۜ اِنَّهُ كَانَ عَالِياً مِنَ الْمُسْرِف۪ينَ",
+            "translation": "Firavun´dan. Çünkü, o, ölçüyü taşıran bir mütekebbirdi.",
+            "originals": [
+                "مِنْ فِرْعَوْنَۜ",
+                "اِنَّهُ",
+                "كَانَ",
+                "عَالِياً",
+                "مِنَ الْمُسْرِف۪ينَ"
+            ],
+            "translations": [
+                "Fir`avn`dan",
+                "çünkü o",
+                "idi",
+                "ululanan",
+                "sınırı aşanlardan"
+            ]
+        },
+        {
+            "id": "32",
+            "sentence": "وَلَقَدِ اخْتَرْنَاهُمْ عَلٰى عِلْمٍ عَلَى الْعَالَم۪ينَۚ",
+            "translation": "Andolsun, Biz onları bir ilim üzere alemlere üstün kıldık.",
+            "originals": [
+                "وَلَقَدِ",
+                "اخْتَرْنَاهُمْ",
+                "عَلٰى عِلْمٍ",
+                "عَلَى الْعَالَم۪ينَۚ"
+            ],
+            "translations": [
+                "andolsun",
+                "biz onları üstün kıldık",
+                "bir bilgiye göre",
+                "alemlere"
+            ]
+        },
+        {
+            "id": "33",
+            "sentence": "وَاٰتَيْنَاهُمْ مِنَ الْاٰيَاتِ مَا ف۪يهِ بَلٰٓؤٌا مُب۪ينٌ",
+            "translation": "Ve onlara, her birinde açık birer imtihan bulunan ayetler verdik.",
+            "originals": [
+                "وَاٰتَيْنَاهُمْ",
+                "مِنَ الْاٰيَاتِ",
+                "مَا",
+                "ف۪يهِ",
+                "بَلٰٓؤٌا",
+                "مُب۪ينٌ"
+            ],
+            "translations": [
+                "ve onlara verdik",
+                "ayetler",
+                "bulunan",
+                "içinde",
+                "bir sınav",
+                "açık"
+            ]
+        },
+        {
+            "id": "34",
+            "sentence": "اِنَّ هٰٓؤُ۬لَٓاءِ لَيَقُولُونَۙ",
+            "translation": "Muhakkak, bunlar da diyorlar ki:",
+            "originals": [
+                "اِنَّ",
+                "هٰٓؤُ۬لَٓاءِ",
+                "لَيَقُولُونَۙ"
+            ],
+            "translations": [
+                "gerçekten",
+                "şunlar",
+                "diyorlar ki"
+            ]
+        },
+        {
+            "id": "35",
+            "sentence": "اِنْ هِيَ اِلَّا مَوْتَتُنَا الْاُو۫لٰى وَمَا نَحْنُ بِمُنْشَر۪ينَ",
+            "translation": "&quot;(Bütün herşey) Bizim yalnızca ilk ölümümüzdür; biz yeniden diriltilip-kaldırılacak değiliz.&quot;",
+            "originals": [
+                "اِنْ هِيَ",
+                "اِلَّا",
+                "مَوْتَتُنَا",
+                "الْاُو۫لٰى",
+                "وَمَا نَحْنُ",
+                "بِمُنْشَر۪ينَ"
+            ],
+            "translations": [
+                "o",
+                "ancak",
+                "ölümümüzdür",
+                "ilk",
+                "biz değiliz",
+                "diriltilecek"
+            ]
+        },
+        {
+            "id": "36",
+            "sentence": "فَأْتُوا بِاٰبَٓائِنَٓا اِنْ كُنْتُمْ صَادِق۪ينَ",
+            "translation": "&quot;Eğer doğru sözlüyseniz, şu halde atalarımızı getirin bakalım.&quot;",
+            "originals": [
+                "فَأْتُوا",
+                "بِاٰبَٓائِنَٓا",
+                "اِنْ",
+                "كُنْتُمْ",
+                "صَادِق۪ينَ"
+            ],
+            "translations": [
+                "getirin",
+                "babalarımızı",
+                "eğer",
+                "iseniz",
+                "doğrulardan"
+            ]
+        },
+        {
+            "id": "37",
+            "sentence": "اَهُمْ خَيْرٌ اَمْ قَوْمُ تُبَّعٍۙ وَالَّذ۪ينَ مِنْ قَبْلِهِمْۜ اَهْلَكْنَاهُمْۘ اِنَّهُمْ كَانُوا مُجْرِم۪ينَ",
+            "translation": "Onlar mı hayırlı, yoksa Tübba´ kavmi ve onlardan öncekiler mi? Biz onları yıkıma uğrattık. Çünkü onlar, suçlu-günahkardı.",
+            "originals": [
+                "اَهُمْ",
+                "خَيْرٌ",
+                "اَمْ",
+                "قَوْمُ",
+                "تُبَّعٍۙ",
+                "وَالَّذ۪ينَ مِنْ قَبْلِهِمْۜ",
+                "اَهْلَكْنَاهُمْۘ",
+                "اِنَّهُمْ",
+                "كَانُوا مُجْرِم۪ينَ"
+            ],
+            "translations": [
+                "onlar mı",
+                "hayırlı",
+                "yoksa",
+                "kavmi",
+                "Tubba`",
+                "ve onlardan öncekiler mi?",
+                "biz onları helak ettik",
+                "çünkü onlar",
+                "suç işlemişlerdi"
+            ]
+        },
+        {
+            "id": "38",
+            "sentence": "وَمَا خَلَقْنَا السَّمٰوَاتِ وَالْاَرْضَ وَمَا بَيْنَهُمَا لَاعِب۪ينَ",
+            "translation": "Biz, gökleri, yeri ve ikisi arasında bulunanları bir ‘oyun ve oyalanma konusu’ olsun diye yaratmadık.",
+            "originals": [
+                "وَمَا خَلَقْنَا",
+                "السَّمٰوَاتِ",
+                "وَالْاَرْضَ",
+                "وَمَا",
+                "بَيْنَهُمَا",
+                "لَاعِب۪ينَ"
+            ],
+            "translations": [
+                "biz yaratmadık",
+                "gökleri",
+                "ve yeri",
+                "ve bulunanları",
+                "bunlar arasında",
+                "eğlenmek için"
+            ]
+        },
+        {
+            "id": "39",
+            "sentence": "مَا خَلَقْنَاهُمَٓا اِلَّا بِالْحَقِّ وَلٰكِنَّ اَكْثَرَهُمْ لَا يَعْلَمُونَ",
+            "translation": "Biz onları yalnızca hak ile yarattık. Ancak onların çoğu bilmezler.",
+            "originals": [
+                "مَا خَلَقْنَاهُمَٓا",
+                "اِلَّا",
+                "بِالْحَقِّ",
+                "وَلٰكِنَّ",
+                "اَكْثَرَهُمْ",
+                "لَا يَعْلَمُونَ"
+            ],
+            "translations": [
+                "onları yaratmadık",
+                "dışında bir sebeple",
+                "hikmetli bir gaye",
+                "fakat",
+                "onların çoğu",
+                "bilmiyorlar"
+            ]
+        },
+        {
+            "id": "40",
+            "sentence": "اِنَّ يَوْمَ الْفَصْلِ م۪يقَاتُهُمْ اَجْمَع۪ينَۙ",
+            "translation": "Şüphesiz o (hakkı batıldan, haklıyı haksızdan) ayırma günü, hepsinin (hesaba çekilecekleri) vakitleridir.",
+            "originals": [
+                "اِنَّ",
+                "يَوْمَ",
+                "الْفَصْلِ",
+                "م۪يقَاتُهُمْ",
+                "اَجْمَع۪ينَۙ"
+            ],
+            "translations": [
+                "şüphesiz",
+                "günü",
+                "hüküm",
+                "varacağı gündür",
+                "hepsinin"
+            ]
+        },
+        {
+            "id": "41",
+            "sentence": "يَوْمَ لَا يُغْن۪ي مَوْلًى عَنْ مَوْلًى شَيْـٔاً وَلَا هُمْ يُنْصَرُونَۙ",
+            "translation": "O gün, bir dost dosttan herhangi bir şeyle yarar sağlayamaz. Ve onlara yardım edilmez.",
+            "originals": [
+                "يَوْمَ",
+                "لَا يُغْن۪ي",
+                "مَوْلًى",
+                "عَنْ مَوْلًى",
+                "شَيْـٔاً",
+                "وَلَا",
+                "هُمْ",
+                "يُنْصَرُونَۙ"
+            ],
+            "translations": [
+                "o gün",
+                "savamaz",
+                "dost",
+                "dostundan",
+                "bir şey",
+                "ve olmazlar",
+                "onlar",
+                "yardım edilenlerden"
+            ]
+        },
+        {
+            "id": "42",
+            "sentence": "اِلَّا مَنْ رَحِمَ اللّٰهُۜ اِنَّهُ هُوَ الْعَز۪يزُ الرَّح۪يمُ۟",
+            "translation": "Ancak Allah´ın rahmet ettiği başka. Şüphesiz O, üstün ve güçlü olandır, esirgeyendir.",
+            "originals": [
+                "اِلَّا",
+                "مَنْ",
+                "رَحِمَ",
+                "اللّٰهُۜ",
+                "اِنَّهُ",
+                "هُوَ",
+                "الْعَز۪يزُ",
+                "الرَّح۪يمُ۟"
+            ],
+            "translations": [
+                "ancak hariçtir",
+                "kimseler",
+                "acıdığı",
+                "Allah`ın",
+                "şüphesiz O",
+                "O",
+                "üstündür",
+                "esirgeyendir"
+            ]
+        },
+        {
+            "id": "43",
+            "sentence": "اِنَّ شَجَرَتَ الزَّقُّومِۙ",
+            "translation": "Doğrusu, o zakkum ağacı;",
+            "originals": [
+                "اِنَّ",
+                "شَجَرَتَ",
+                "الزَّقُّومِۙ"
+            ],
+            "translations": [
+                "şüphesiz",
+                "ağacı",
+                "Zakkum"
+            ]
+        },
+        {
+            "id": "44",
+            "sentence": "طَعَامُ الْاَث۪يمِۚۛ",
+            "translation": "Günahkar olanın yemeğidir.",
+            "originals": [
+                "طَعَامُ",
+                "الْاَث۪يمِۚۛ"
+            ],
+            "translations": [
+                "yemeğidir",
+                "günahkarların"
+            ]
+        },
+        {
+            "id": "45",
+            "sentence": "كَالْمُهْلِۚۛ يَغْل۪ي فِي الْبُطُونِۙ",
+            "translation": "Pota gibi; karınlarda kaynar-durur;",
+            "originals": [
+                "كَالْمُهْلِۚۛ",
+                "يَغْل۪ي",
+                "فِي الْبُطُونِۙ"
+            ],
+            "translations": [
+                "pota gibi",
+                "kaynar",
+                "karınlarda"
+            ]
+        },
+        {
+            "id": "46",
+            "sentence": "كَغَلْيِ الْحَم۪يمِ",
+            "translation": "Kaynar-suyun kaynaması gibi.",
+            "originals": [
+                "كَغَلْيِ",
+                "الْحَم۪يمِ"
+            ],
+            "translations": [
+                "kaynaması gibi",
+                "sıcak suyun"
+            ]
+        },
+        {
+            "id": "47",
+            "sentence": "خُذُوهُ فَاعْتِلُوهُ اِلٰى سَوَٓاءِ الْجَح۪يمِۚ",
+            "translation": "&quot;Onu tutun da cehennemin orta yerine sürükleyin.&quot;",
+            "originals": [
+                "خُذُوهُ",
+                "فَاعْتِلُوهُ",
+                "اِلٰى سَوَٓاءِ",
+                "الْجَح۪يمِۚ"
+            ],
+            "translations": [
+                "tutun onu",
+                "sürükleyin",
+                "ortasına",
+                "cehennemin"
+            ]
+        },
+        {
+            "id": "48",
+            "sentence": "ثُمَّ صُبُّوا فَوْقَ رَأْسِه۪ مِنْ عَذَابِ الْحَم۪يمِۜ",
+            "translation": "&quot;Sonra kaynar suyun azabından başının üstüne dökün;&quot;",
+            "originals": [
+                "ثُمَّ",
+                "صُبُّوا",
+                "فَوْقَ",
+                "رَأْسِه۪",
+                "مِنْ عَذَابِ",
+                "الْحَم۪يمِۜ"
+            ],
+            "translations": [
+                "sonra",
+                "dökün",
+                "üstüne",
+                "başının",
+                "azabından",
+                "kaynar su"
+            ]
+        },
+        {
+            "id": "49",
+            "sentence": "ذُقْۙ ۚ اِنَّكَ اَنْتَ الْعَز۪يزُ الْكَر۪يمُ",
+            "translation": "&quot;(Azabı) Tad; çünkü sen, (kendince) üstün, onurluydun.&quot;",
+            "originals": [
+                "ذُقْۙ ۚ",
+                "اِنَّكَ",
+                "اَنْتَ",
+                "الْعَز۪يزُ",
+                "الْكَر۪يمُ"
+            ],
+            "translations": [
+                "tad",
+                "zira sen",
+                "kendince",
+                "üstündün",
+                "şerefliydin"
+            ]
+        },
+        {
+            "id": "50",
+            "sentence": "اِنَّ هٰذَا مَا كُنْتُمْ بِه۪ تَمْتَرُونَ",
+            "translation": "&quot;Gerçekten bu, sizin kuşkuya kapıldığınız şeydir.&quot;",
+            "originals": [
+                "اِنَّ",
+                "هٰذَا",
+                "مَا",
+                "كُنْتُمْ",
+                "بِه۪",
+                "تَمْتَرُونَ"
+            ],
+            "translations": [
+                "şüphesiz",
+                "o",
+                "şeydir",
+                "olduğunuz",
+                "ondan",
+                "kuşkulanmış"
+            ]
+        },
+        {
+            "id": "51",
+            "sentence": "اِنَّ الْمُتَّق۪ينَ ف۪ي مَقَامٍ اَم۪ينٍۙ",
+            "translation": "Muttakilere gelince; muhakkak onlar, güvenli bir makamdadırlar.",
+            "originals": [
+                "اِنَّ",
+                "الْمُتَّق۪ينَ",
+                "ف۪ي مَقَامٍ",
+                "اَم۪ينٍۙ"
+            ],
+            "translations": [
+                "şüphesiz",
+                "muttakiler",
+                "bir makamdadır",
+                "güvenli"
+            ]
+        },
+        {
+            "id": "52",
+            "sentence": "ف۪ي جَنَّاتٍ وَعُيُونٍۚ",
+            "translation": "Cennetlerde ve pınarlarda,",
+            "originals": [
+                "ف۪ي جَنَّاتٍ",
+                "وَعُيُونٍۚ"
+            ],
+            "translations": [
+                "bahçelerde",
+                "ve çeşme başlarında"
+            ]
+        },
+        {
+            "id": "53",
+            "sentence": "يَلْبَسُونَ مِنْ سُنْدُسٍ وَاِسْتَبْرَقٍ مُتَقَابِل۪ينَۚ",
+            "translation": "Hafif ipekten ve ağır işlenmiş atlastan (elbiseler) giyinirler, karşılıklı (otururlar).",
+            "originals": [
+                "يَلْبَسُونَ",
+                "مِنْ سُنْدُسٍ",
+                "وَاِسْتَبْرَقٍ",
+                "مُتَقَابِل۪ينَۚ"
+            ],
+            "translations": [
+                "giysiler giyerler",
+                "ince ipekten",
+                "ve parlak atlastan",
+                "karşılıklı otururlar"
+            ]
+        },
+        {
+            "id": "54",
+            "sentence": "كَذٰلِكَ۠ وَزَوَّجْنَاهُمْ بِحُورٍ ع۪ينٍۜ",
+            "translation": "İşte böyle; ve Biz onları iri gözlü hurilerle evlendirmişizdir.",
+            "originals": [
+                "كَذٰلِكَ۠",
+                "وَزَوَّجْنَاهُمْ",
+                "بِحُورٍ",
+                "ع۪ينٍۜ"
+            ],
+            "translations": [
+                "ayrıca",
+                "onları evlendirmişizdir",
+                "hurilerle",
+                "iri gözlü"
+            ]
+        },
+        {
+            "id": "55",
+            "sentence": "يَدْعُونَ ف۪يهَا بِكُلِّ فَاكِهَةٍ اٰمِن۪ينَۙ",
+            "translation": "Orda, güvenlik içinde her türlü meyveyi istiyorlar;",
+            "originals": [
+                "يَدْعُونَ",
+                "ف۪يهَا",
+                "بِكُلِّ",
+                "فَاكِهَةٍ",
+                "اٰمِن۪ينَۙ"
+            ],
+            "translations": [
+                "isterler",
+                "orada",
+                "her",
+                "meyveyi",
+                "güven içinde"
+            ]
+        },
+        {
+            "id": "56",
+            "sentence": "لَا يَذُوقُونَ ف۪يهَا الْمَوْتَ اِلَّا الْمَوْتَةَ الْاُو۫لٰىۚ وَوَقٰيهُمْ عَذَابَ الْجَح۪يمِۙ",
+            "translation": "Orda, ilk ölümün dışında başka ölüm tadmazlar. Ve (Allah da) onları cehennem azabından korumuştur.",
+            "originals": [
+                "لَا يَذُوقُونَ",
+                "ف۪يهَا",
+                "الْمَوْتَ",
+                "اِلَّا",
+                "الْمَوْتَةَ",
+                "الْاُو۫لٰىۚ",
+                "وَوَقٰيهُمْ",
+                "عَذَابَ",
+                "الْجَح۪يمِۙ"
+            ],
+            "translations": [
+                "tadmazlar",
+                "orada",
+                "ölüm",
+                "başka",
+                "ölümden",
+                "ilk",
+                "ve onları korur",
+                "azabından",
+                "cehennem"
+            ]
+        },
+        {
+            "id": "57",
+            "sentence": "فَضْلاً مِنْ رَبِّكَۜ ذٰلِكَ هُوَ الْفَوْزُ الْعَظ۪يمُ",
+            "translation": "Senin Rabbinden, bir fazl ve (lütuf) olarak. İşte büyük ´mutluluk ve kurtuluş´ budur.",
+            "originals": [
+                "فَضْلاً",
+                "مِنْ رَبِّكَۜ",
+                "ذٰلِكَ",
+                "هُوَ",
+                "الْفَوْزُ",
+                "الْعَظ۪يمُ"
+            ],
+            "translations": [
+                "bir lutuf olarak",
+                "Rabbinden",
+                "işte budur",
+                "o",
+                "başarı",
+                "büyük"
+            ]
+        },
+        {
+            "id": "58",
+            "sentence": "فَاِنَّمَا يَسَّرْنَاهُ بِلِسَانِكَ لَعَلَّهُمْ يَتَذَكَّرُونَ",
+            "translation": "Belki onlar öğüt alıp-düşünürler diye, Biz onu (Kur´an´ı), senin dilinle kolaylaştırdık.",
+            "originals": [
+                "فَاِنَّمَا",
+                "يَسَّرْنَاهُ",
+                "بِلِسَانِكَ",
+                "لَعَلَّهُمْ",
+                "يَتَذَكَّرُونَ"
+            ],
+            "translations": [
+                "kesinlikle",
+                "biz o`nu kolaylaştırdık",
+                "senin diline",
+                "umulur ki",
+                "düşünüp öğüt alırlar"
+            ]
+        },
+        {
+            "id": "59",
+            "sentence": "فَارْتَقِبْ اِنَّهُمْ مُرْتَقِبُونَ",
+            "translation": "Öyleyse sen gözleyip-bekle; elbette onlar da gözleyip-bekliyorlar.",
+            "originals": [
+                "فَارْتَقِبْ",
+                "اِنَّهُمْ",
+                "مُرْتَقِبُونَ"
+            ],
+            "translations": [
+                "biraz bekle",
+                "onlar da",
+                "beklemektedirler"
+            ]
+        }
+    ]
+}

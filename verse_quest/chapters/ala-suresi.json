@@ -1,0 +1,310 @@
+{
+    "id": "ala-suresi",
+    "name": "Ala Suresi",
+    "description": "Ala Suresi",
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": "سَبِّحِ اسْمَ رَبِّكَ الْاَعْلٰىۙ",
+            "translation": "Rabbinin Yüce ismini tesbih et,",
+            "originals": [
+                "سَبِّحِ",
+                "اسْمَ",
+                "رَبِّكَ",
+                "الْاَعْلٰىۙ"
+            ],
+            "translations": [
+                "tesbih et",
+                "adını",
+                "Rabbinin",
+                "yüce"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "اَلَّذ۪ي خَلَقَ فَسَوّٰىۙۖ",
+            "translation": "Ki O, yarattı, ´bir düzen içinde biçim verdi´,",
+            "originals": [
+                "اَلَّذ۪ي",
+                "خَلَقَ",
+                "فَسَوّٰىۙۖ"
+            ],
+            "translations": [
+                "O ki",
+                "yarattı",
+                "düzenledi"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "وَالَّذ۪ي قَدَّرَ فَهَدٰىۙۖ",
+            "translation": "Takdir etti, böylece yol gösterdi,",
+            "originals": [
+                "وَالَّذ۪ي",
+                "قَدَّرَ",
+                "فَهَدٰىۙۖ"
+            ],
+            "translations": [
+                "ve O ki",
+                "takdir etti",
+                "hedefini gösterdi"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "وَالَّـذ۪ٓي اَخْرَجَ الْمَرْعٰىۙۖ",
+            "translation": "´Yemyeşil-otlağı´ çıkardı.",
+            "originals": [
+                "وَالَّـذ۪ٓي",
+                "اَخْرَجَ",
+                "الْمَرْعٰىۙۖ"
+            ],
+            "translations": [
+                "ve O ki",
+                "çıkardı",
+                "otlağı"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "فَجَعَلَهُ غُثَٓاءً اَحْوٰىۜ",
+            "translation": "Ardından onu kuru, kara bir duruma soktu.",
+            "originals": [
+                "فَجَعَلَهُ",
+                "غُثَٓاءً",
+                "اَحْوٰىۜ"
+            ],
+            "translations": [
+                "sonra da onu çevirdi",
+                "bir çöpe",
+                "kupkuru siyah"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "سَنُقْرِئُكَ فَلَا تَنْسٰىۙ",
+            "translation": "Sana okutacağız, sen de unutmayacaksın.",
+            "originals": [
+                "سَنُقْرِئُكَ",
+                "فَلَا تَنْسٰىۙ"
+            ],
+            "translations": [
+                "sana okutacağız",
+                "unutmayacaksın"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "اِلَّا مَا شَٓاءَ اللّٰهُۜ اِنَّهُ يَعْلَمُ الْجَهْرَ وَمَا يَخْفٰىۜ",
+            "translation": "Ancak Allah´ın dilediği başka. Çünkü O, açıkta olanı da bilir, saklı duranı da.",
+            "originals": [
+                "اِلَّا",
+                "مَا شَٓاءَ",
+                "اللّٰهُۜ",
+                "اِنَّهُ",
+                "يَعْلَمُ",
+                "الْجَهْرَ",
+                "وَمَا يَخْفٰىۜ"
+            ],
+            "translations": [
+                "yalnız başka",
+                "dilediği",
+                "Allah`ın",
+                "O",
+                "bilir",
+                "açığı",
+                "ve gizli olanı"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "وَنُيَسِّرُكَ لِلْيُسْرٰىۚ",
+            "translation": "Ve seni kolay olan için başarılı kılacağız.",
+            "originals": [
+                "وَنُيَسِّرُكَ",
+                "لِلْيُسْرٰىۚ"
+            ],
+            "translations": [
+                "ve sana kolaylaştıracağız",
+                "en kolay olana"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "فَذَكِّرْ اِنْ نَفَعَتِ الذِّكْرٰىۜ",
+            "translation": "Şu halde, eğer ´öğüt ve hatırlatma´ bir yarar sağlayacaksa, ´öğüt verip hatırlat.´",
+            "originals": [
+                "فَذَكِّرْ",
+                "اِنْ",
+                "نَفَعَتِ",
+                "الذِّكْرٰىۜ"
+            ],
+            "translations": [
+                "o halde hatırlat öğüt ver",
+                "eğer",
+                "yarar verirse",
+                "hatırlatmak"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "سَيَذَّكَّرُ مَنْ يَخْشٰىۙ",
+            "translation": "Allah´tan ‘İçi titreyerek korkan’ öğüt alır-düşünür.",
+            "originals": [
+                "سَيَذَّكَّرُ",
+                "مَنْ يَخْشٰىۙ"
+            ],
+            "translations": [
+                "hatırlar",
+                "saygılı olan"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "وَيَتَجَنَّبُهَا الْاَشْقٰىۙ",
+            "translation": "´Mutsuz-bedbaht´ olan ondan kaçınır.",
+            "originals": [
+                "وَيَتَجَنَّبُهَا",
+                "الْاَشْقٰىۙ"
+            ],
+            "translations": [
+                "ve ondan kaçınır",
+                "bahtsız olan"
+            ]
+        },
+        {
+            "id": "12",
+            "sentence": "اَلَّذ۪ي يَصْلَى النَّارَ الْـكُبْرٰىۚ",
+            "translation": "Ki o, en büyük ateşe yollanacaktır.",
+            "originals": [
+                "اَلَّذ۪ي يَصْلَى",
+                "النَّارَ",
+                "الْـكُبْرٰىۚ"
+            ],
+            "translations": [
+                "o da girer",
+                "ateşe",
+                "en büyük"
+            ]
+        },
+        {
+            "id": "13",
+            "sentence": "ثُمَّ لَا يَمُوتُ ف۪يهَا وَلَا يَحْيٰىۜ",
+            "translation": "Sonra onun içinde o, ne ölür, ne yaşar.",
+            "originals": [
+                "ثُمَّ",
+                "لَا",
+                "يَمُوتُ",
+                "ف۪يهَا",
+                "وَلَا",
+                "يَحْيٰىۜ"
+            ],
+            "translations": [
+                "sonra",
+                "yoktur",
+                "ölüm",
+                "orada",
+                "ne de",
+                "yaşam"
+            ]
+        },
+        {
+            "id": "14",
+            "sentence": "قَدْ اَفْلَحَ مَنْ تَزَكّٰىۙ",
+            "translation": "Doğrusu, temizlenip arınan felah bulmuştur;",
+            "originals": [
+                "قَدْ",
+                "اَفْلَحَ",
+                "مَنْ تَزَكّٰىۙ"
+            ],
+            "translations": [
+                "doğrusu",
+                "kurtuluşa ermiştir",
+                "nefsini arındıran"
+            ]
+        },
+        {
+            "id": "15",
+            "sentence": "وَذَكَرَ اسْمَ رَبِّه۪ فَصَلّٰىۜ",
+            "translation": "Ve Rabbinin ismini zikredip namaz kılan.",
+            "originals": [
+                "وَذَكَرَ",
+                "اسْمَ",
+                "رَبِّه۪",
+                "فَصَلّٰىۜ"
+            ],
+            "translations": [
+                "anan",
+                "adını",
+                "Rabbinin",
+                "ve namaz kılan"
+            ]
+        },
+        {
+            "id": "16",
+            "sentence": "بَلْ تُؤْثِرُونَ الْحَيٰوةَ الدُّنْيَاۘ",
+            "translation": "Hayır siz, dünya hayatını seçip üstün tutuyorsunuz.",
+            "originals": [
+                "بَلْ",
+                "تُؤْثِرُونَ",
+                "الْحَيٰوةَ",
+                "الدُّنْيَاۘ"
+            ],
+            "translations": [
+                "ama",
+                "siz yeğliyorsunuz",
+                "hayatını",
+                "dünya"
+            ]
+        },
+        {
+            "id": "17",
+            "sentence": "وَالْاٰخِرَةُ خَيْرٌ وَاَبْـقٰىۜ",
+            "translation": "Ahiret ise daha hayırlı ve daha süreklidir.",
+            "originals": [
+                "وَالْاٰخِرَةُ",
+                "خَيْرٌ",
+                "وَاَبْـقٰىۜ"
+            ],
+            "translations": [
+                "oysa ahiret",
+                "daha iyi",
+                "ve daha kalıcıdır"
+            ]
+        },
+        {
+            "id": "18",
+            "sentence": "اِنَّ هٰذَا لَفِي الصُّحُفِ الْاُو۫لٰىۙ",
+            "translation": "Şüphesiz bu, önceki sahifelerde vardır;",
+            "originals": [
+                "اِنَّ",
+                "هٰذَا",
+                "لَفِي",
+                "الصُّحُفِ",
+                "الْاُو۫لٰىۙ"
+            ],
+            "translations": [
+                "şüphesiz",
+                "bu",
+                "elbette vardı",
+                "sahifelerde de",
+                "ilk"
+            ]
+        },
+        {
+            "id": "19",
+            "sentence": "صُحُفِ اِبْرٰه۪يمَ وَمُوسٰى",
+            "translation": "İbrahim´in ve Musa´nın sahifelerinde.",
+            "originals": [
+                "صُحُفِ",
+                "اِبْرٰه۪يمَ",
+                "وَمُوسٰى"
+            ],
+            "translations": [
+                "sayfalarında",
+                "İbrahim`in",
+                "ve Musa`nın"
+            ]
+        }
+    ]
+}

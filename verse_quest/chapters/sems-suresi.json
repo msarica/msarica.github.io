@@ -1,0 +1,230 @@
+{
+    "id": "sems-suresi",
+    "name": "Şems Suresi",
+    "description": "Şems Suresi",
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": "وَالشَّمْسِ وَضُحٰيهَاۙۖ",
+            "translation": "Güneş´e ve onun parıltısına andolsun,",
+            "originals": [
+                "وَالشَّمْسِ",
+                "وَضُحٰيهَاۙۖ"
+            ],
+            "translations": [
+                "güneşe andolsun",
+                "ve onun aydın sabahına"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "وَالْقَمَرِ اِذَا تَلٰيهَاۙۖ",
+            "translation": "Onu izlediği zaman Ay´a,",
+            "originals": [
+                "وَالْقَمَرِ",
+                "اِذَا تَلٰيهَاۙۖ"
+            ],
+            "translations": [
+                "ve aya andolsun",
+                "onu izleyen"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "وَالنَّهَارِ اِذَا جَلّٰيهَاۙۖ",
+            "translation": "Onu (Güneş) parıldattığı zaman gündüze,",
+            "originals": [
+                "وَالنَّهَارِ",
+                "اِذَا جَلّٰيهَاۙۖ"
+            ],
+            "translations": [
+                "ve gündüze andolsun",
+                "onu (güneşi) ortaya çıkaran"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "وَالَّيْلِ اِذَا يَغْشٰيهَاۙۖ",
+            "translation": "Onu sarıp-örttüğü zaman geceye,",
+            "originals": [
+                "وَالَّيْلِ",
+                "اِذَا يَغْشٰيهَاۙۖ"
+            ],
+            "translations": [
+                "ve geceye andolsun",
+                "onu örten"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "وَالسَّمَٓاءِ وَمَا بَنٰيهَاۙۖ",
+            "translation": "Göğe ve onu bina edene,",
+            "originals": [
+                "وَالسَّمَٓاءِ",
+                "وَمَا بَنٰيهَاۙۖ"
+            ],
+            "translations": [
+                "ve göğe andolsun",
+                "ve onu yapana"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "وَالْاَرْضِ وَمَا طَحٰيهَاۙۖ",
+            "translation": "Yere ve onu yayıp döşeyene,",
+            "originals": [
+                "وَالْاَرْضِ",
+                "وَمَا طَحٰيهَاۙۖ"
+            ],
+            "translations": [
+                "ve yere andolsun",
+                "ve onu yuvarlayıp döşeyene"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "وَنَفْسٍ وَمَا سَوّٰيهَاۙۖ",
+            "translation": "Nefse ve ona ´bir düzen içinde biçim verene´,",
+            "originals": [
+                "وَنَفْسٍ",
+                "وَمَا سَوّٰيهَاۙۖ"
+            ],
+            "translations": [
+                "ve nefse andolsun",
+                "ve onu biçimlendirene"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "فَاَلْهَمَهَا فُجُورَهَا وَتَقْوٰيهَاۙۖ",
+            "translation": "Sonra ona fücurunu (sınır tanımaz günah ve kötülüğünü) ve ondan sakınmayı ilham edene (andolsun).",
+            "originals": [
+                "فَاَلْهَمَهَا",
+                "فُجُورَهَا",
+                "وَتَقْوٰيهَاۙۖ"
+            ],
+            "translations": [
+                "ona ilham edene andolsun",
+                "bozukluğunu",
+                "ve korunmasını"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "قَدْ اَفْلَحَ مَنْ زَكّٰيهَاۙۖ",
+            "translation": "Onu arındırıp-temizleyen gerçekten felah bulmuştur.",
+            "originals": [
+                "قَدْ",
+                "اَفْلَحَ",
+                "مَنْ زَكّٰيهَاۙۖ"
+            ],
+            "translations": [
+                "elbette",
+                "kazanmıştır",
+                "nefsini yücelten"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "وَقَدْ خَابَ مَنْ دَسّٰيهَاۜ",
+            "translation": "Ve onu (isyanla, günahla, bozulmalarla) örtüp-saran da elbette yıkıma uğramıştır.",
+            "originals": [
+                "وَقَدْ",
+                "خَابَ",
+                "مَنْ دَسّٰيهَاۜ"
+            ],
+            "translations": [
+                "ve elbette",
+                "ziyana uğramıştır",
+                "onu alçaltan"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "كَذَّبَتْ ثَمُودُ بِطَغْوٰيهَاۙۖ",
+            "translation": "Semud (halkı) azgınlığı dolayısıyla yalanladı;",
+            "originals": [
+                "كَذَّبَتْ",
+                "ثَمُودُ",
+                "بِطَغْوٰيهَاۙۖ"
+            ],
+            "translations": [
+                "yalanladı",
+                "Semud",
+                "azgınlığı yüzünden"
+            ]
+        },
+        {
+            "id": "12",
+            "sentence": "اِذِ انْبَعَثَ اَشْقٰيهَاۙۖ",
+            "translation": "En ´zorlu bedbahtları´ ayaklandığında,",
+            "originals": [
+                "اِذِ",
+                "انْبَعَثَ",
+                "اَشْقٰيهَاۙۖ"
+            ],
+            "translations": [
+                "zaman",
+                "ayaklandığı",
+                "en haydutları"
+            ]
+        },
+        {
+            "id": "13",
+            "sentence": "فَقَالَ لَهُمْ رَسُولُ اللّٰهِ نَاقَةَ وَسُقْيٰيهَا۠",
+            "translation": "Allah´ın elçisi onlara dedi ki: &quot;Allah´ın (deneme için size gönderdiği) devesine ve onun su içme-sırasına dikkat edin.&quot;",
+            "originals": [
+                "فَقَالَ",
+                "لَهُمْ",
+                "رَسُولُ",
+                "اللّٰهِ",
+                "نَاقَةَ",
+                "وَسُقْيٰيهَا۠"
+            ],
+            "translations": [
+                "demişti",
+                "onlara",
+                "elçisi",
+                "Allah`ın",
+                "devesine",
+                "ve onun su içme hakkına (dokunmayın)"
+            ]
+        },
+        {
+            "id": "14",
+            "sentence": "فَكَذَّبُوهُ فَعَقَرُوهَاۙۖ فَدَمْدَمَ عَلَيْهِمْ رَبُّهُمْ بِذَنْبِهِمْ فَسَوّٰيهَاۙۖ",
+            "translation": "Fakat, onu yalanladılar, deveyi yere yıkıp öldürdüler. Rableri de günahları dolayısıyla ´onları yerle bir etti, kırıp geçirdi´; orasını da dümdüz etti.",
+            "originals": [
+                "فَكَذَّبُوهُ",
+                "فَعَقَرُوهَاۙۖ",
+                "فَدَمْدَمَ",
+                "عَلَيْهِمْ",
+                "رَبُّهُمْ",
+                "بِذَنْبِهِمْ",
+                "فَسَوّٰيهَاۙۖ"
+            ],
+            "translations": [
+                "onu yalanladılar",
+                "ve onu kestiler",
+                "başlarına geçirdi",
+                "onların",
+                "Rableri",
+                "günahları yüzünden",
+                "ve orayı dümdüz etti"
+            ]
+        },
+        {
+            "id": "15",
+            "sentence": "وَلَا يَخَافُ عُقْبٰيهَا",
+            "translation": "(Allah, asla) Bunun sonucundan korkmaz.",
+            "originals": [
+                "وَلَا يَخَافُ",
+                "عُقْبٰيهَا"
+            ],
+            "translations": [
+                "ve (Rab) korkmaz",
+                "bu işin sonundan"
+            ]
+        }
+    ]
+}
