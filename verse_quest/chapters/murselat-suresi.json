@@ -1,12 +1,13 @@
 {
     "id": "murselat-suresi",
     "name": "Murselat Suresi",
-    "description": "Murselat Suresi",
+    "description": "Murselat Suresi - 77. sure",
+    "index": 77,
     "sentences": [
         {
             "id": "1",
             "sentence": "وَالْمُرْسَلَاتِ عُرْفاًۙ",
-            "translation": "Birbiri ardınca gönderilenlere andolsun;",
+            "translation": "1,2. Yemîn olsun (emirlerle) birbiri ardınca gönderilenlere (o mürselât'a) ve şiddetli bir şekilde estikçe esen (geçip giden melek)lere!",
             "originals": [
                 "وَالْمُرْسَلَاتِ",
                 "عُرْفاًۙ"
@@ -19,7 +20,7 @@
         {
             "id": "2",
             "sentence": "فَالْعَاصِفَاتِ عَصْفاًۙ",
-            "translation": "Derken kökünden koparıp savuranlara.",
+            "translation": "1,2. Yemîn olsun (emirlerle) birbiri ardınca gönderilenlere (o mürselât'a) ve şiddetli bir şekilde estikçe esen (geçip giden melek)lere!",
             "originals": [
                 "فَالْعَاصِفَاتِ",
                 "عَصْفاًۙ"
@@ -32,7 +33,7 @@
         {
             "id": "3",
             "sentence": "وَالنَّاشِرَاتِ نَشْراًۙ",
-            "translation": "Yaydıkça yayanlara.",
+            "translation": "Ve (o emirleri) yaydıkça yayanlara!",
             "originals": [
                 "وَالنَّاشِرَاتِ",
                 "نَشْراًۙ"
@@ -45,7 +46,7 @@
         {
             "id": "4",
             "sentence": "فَالْفَارِقَاتِ فَرْقاًۙ",
-            "translation": "Böylece ayırdıkça ayıranlara,",
+            "translation": "Artık (hak ile bâtılı) ayırdıkça ayıranlara!",
             "originals": [
                 "فَالْفَارِقَاتِ",
                 "فَرْقاًۙ"
@@ -58,7 +59,7 @@
         {
             "id": "5",
             "sentence": "فَالْمُلْقِيَاتِ ذِكْراًۙ",
-            "translation": "Zikr (vahy, öğüt) bırakanlara;",
+            "translation": "5,6. Hem (tevbe edenleri) ma'zur kılmak veya (günah işleyenleri) korkutmak için(peygamberlere) zikir (vahiy) bırakanlara!",
             "originals": [
                 "فَالْمُلْقِيَاتِ",
                 "ذِكْراًۙ"
@@ -71,7 +72,7 @@
         {
             "id": "6",
             "sentence": "عُذْراً اَوْ نُذْراًۙ",
-            "translation": "Özür (suçu, eksikliği ortadan kaldırmak) veya uyarmak için.",
+            "translation": "5,6. Hem (tevbe edenleri) ma'zur kılmak veya (günah işleyenleri) korkutmak için(peygamberlere) zikir (vahiy) bırakanlara!",
             "originals": [
                 "عُذْراً",
                 "اَوْ",
@@ -86,7 +87,7 @@
         {
             "id": "7",
             "sentence": "اِنَّمَا تُوعَدُونَ لَوَاقِعٌۜ",
-            "translation": "Şüphesiz, size vaadedilen gerçekleşecektir.",
+            "translation": "Şübhesiz ki va'd olunup durduğunuz (o kıyâmet) mutlaka vâki' (olacak)tır.",
             "originals": [
                 "اِنَّمَا",
                 "تُوعَدُونَ",
@@ -101,7 +102,7 @@
         {
             "id": "8",
             "sentence": "فَاِذَا النُّجُومُ طُمِسَتْۙ",
-            "translation": "Yıldızlar ´örtülüp (ışıkları) silindiği´ zaman,",
+            "translation": "8,9,10,11. Nihâyet yıldızlar söndürüldüğü zaman, gök yarıldığı zaman, dağlar ufalanıp savrulduğu zaman, peygamberlere (ümmetleri hakkında şâhidlik etmeleri için) vakit belirlendiği zaman!",
             "originals": [
                 "فَاِذَا",
                 "النُّجُومُ",
@@ -116,7 +117,7 @@
         {
             "id": "9",
             "sentence": "وَاِذَا السَّمَٓاءُ فُرِجَتْۙ",
-            "translation": "Gök yarıldığı zaman",
+            "translation": "8,9,10,11. Nihâyet yıldızlar söndürüldüğü zaman, gök yarıldığı zaman, dağlar ufalanıp savrulduğu zaman, peygamberlere (ümmetleri hakkında şâhidlik etmeleri için) vakit belirlendiği zaman!",
             "originals": [
                 "وَاِذَا",
                 "السَّمَٓاءُ",
@@ -131,7 +132,7 @@
         {
             "id": "10",
             "sentence": "وَاِذَا الْجِبَالُ نُسِفَتْۙ",
-            "translation": "Dağlar, kökünden sökülüp savurulduğu zaman,",
+            "translation": "8,9,10,11. Nihâyet yıldızlar söndürüldüğü zaman, gök yarıldığı zaman, dağlar ufalanıp savrulduğu zaman, peygamberlere (ümmetleri hakkında şâhidlik etmeleri için) vakit belirlendiği zaman!",
             "originals": [
                 "وَاِذَا",
                 "الْجِبَالُ",
@@ -146,7 +147,7 @@
         {
             "id": "11",
             "sentence": "وَاِذَا الرُّسُلُ اُقِّتَتْۜ",
-            "translation": "Ve resuller de (şahitlik için) belli bir vakitte getirildiği zaman",
+            "translation": "8,9,10,11. Nihâyet yıldızlar söndürüldüğü zaman, gök yarıldığı zaman, dağlar ufalanıp savrulduğu zaman, peygamberlere (ümmetleri hakkında şâhidlik etmeleri için) vakit belirlendiği zaman!",
             "originals": [
                 "وَاِذَا",
                 "الرُّسُلُ",
@@ -161,7 +162,7 @@
         {
             "id": "12",
             "sentence": "لِاَيِّ يَوْمٍ اُجِّلَتْۜ",
-            "translation": "(Bu,) Hangi gün için ertelenmişti?",
+            "translation": "(Denilir ki:) “(Bu şâhidlik) hangi güne ertelendi?”",
             "originals": [
                 "لِاَيِّ يَوْمٍ",
                 "اُجِّلَتْۜ"
@@ -174,7 +175,7 @@
         {
             "id": "13",
             "sentence": "لِيَوْمِ الْفَصْلِۚ",
-            "translation": "(Mü´mini müşrikten, haklıyı haksızdan) Ayırma günü için.",
+            "translation": "(Mahlûkatın arasını) ayırma (hüküm verme) gününe!",
             "originals": [
                 "لِيَوْمِ",
                 "الْفَصْلِۚ"
@@ -187,7 +188,7 @@
         {
             "id": "14",
             "sentence": "وَمَٓا اَدْرٰيكَ مَا يَوْمُ الْفَصْلِۜ",
-            "translation": "Bu ayırma gününü sana ne bildirdi?",
+            "translation": "O ayırma gününü sana ne bildirdi?",
             "originals": [
                 "وَمَٓا اَدْرٰيكَ",
                 "مَا",
@@ -204,7 +205,7 @@
         {
             "id": "15",
             "sentence": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّب۪ينَ",
-            "translation": "O gün, yalanlayanların vay haline.",
+            "translation": "Yalanlayanların o gün vay hâline!",
             "originals": [
                 "وَيْلٌ",
                 "يَوْمَئِذٍ",
@@ -219,7 +220,7 @@
         {
             "id": "16",
             "sentence": "اَلَمْ نُهْلِكِ الْاَوَّل۪ينَۜ",
-            "translation": "Biz, öncekileri helak etmedik mi?",
+            "translation": "Biz önceki (kâfir)leri (isyanları sebebiyle) helâk etmedik mi?",
             "originals": [
                 "اَلَمْ نُهْلِكِ",
                 "الْاَوَّل۪ينَۜ"
@@ -232,7 +233,7 @@
         {
             "id": "17",
             "sentence": "ثُمَّ نُتْبِعُهُمُ الْاٰخِر۪ينَ",
-            "translation": "Sonra arkadan gelenleri onların izinde yürüteceğiz.",
+            "translation": "Sonra geridekileri onların peşine takarız.",
             "originals": [
                 "ثُمَّ",
                 "نُتْبِعُهُمُ",
@@ -247,7 +248,7 @@
         {
             "id": "18",
             "sentence": "كَذٰلِكَ نَفْعَلُ بِالْمُجْرِم۪ينَ",
-            "translation": "İşte Biz, suçlu-günahkarlara böyle yapıyoruz.",
+            "translation": "İşte o günahkârlara, böyle yaparız!",
             "originals": [
                 "كَذٰلِكَ",
                 "نَفْعَلُ",
@@ -262,7 +263,7 @@
         {
             "id": "19",
             "sentence": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّب۪ينَ",
-            "translation": "O gün, yalanlayanların vay haline.",
+            "translation": "Yalanlayanların o gün vay hâline!",
             "originals": [
                 "وَيْلٌ",
                 "يَوْمَئِذٍ",
@@ -277,7 +278,7 @@
         {
             "id": "20",
             "sentence": "اَلَمْ نَخْلُقْكُمْ مِنْ مَٓاءٍ مَه۪ينٍۙ",
-            "translation": "Sizi basbayağı bir sudan yaratmadık mı?",
+            "translation": "(Ey insanlar!) Sizi hakir bir sudan yaratmadık mı?",
             "originals": [
                 "اَلَمْ نَخْلُقْكُمْ",
                 "مِنْ مَٓاءٍ",
@@ -292,7 +293,7 @@
         {
             "id": "21",
             "sentence": "فَجَعَلْنَاهُ ف۪ي قَرَارٍ مَك۪ينٍۙ",
-            "translation": "Sonra onu savunması sağlam bir karar yerine yerleştirdik.",
+            "translation": "21,22. Sonra onu belli bir zamâna kadar sağlam bir yerde (rahimde yerleşik) kıldık.",
             "originals": [
                 "فَجَعَلْنَاهُ",
                 "ف۪ي قَرَارٍ",
@@ -307,7 +308,7 @@
         {
             "id": "22",
             "sentence": "اِلٰى قَدَرٍ مَعْلُومٍۙ",
-            "translation": "Belli bir süreye kadar;",
+            "translation": "21,22. Sonra onu belli bir zamâna kadar sağlam bir yerde (rahimde yerleşik) kıldık.",
             "originals": [
                 "اِلٰى",
                 "قَدَرٍ",
@@ -322,7 +323,7 @@
         {
             "id": "23",
             "sentence": "فَقَدَرْنَاۗ فَنِعْمَ الْقَادِرُونَ",
-            "translation": "İşte (buna) güç yetirdik. Demek ki, Biz ne güzel güç yetirenleriz.",
+            "translation": "Artık (bunu) kudretimizle yaptık; işte (biz) ne güzel güç yetirenler(iz)!",
             "originals": [
                 "فَقَدَرْنَاۗ",
                 "فَنِعْمَ",
@@ -337,7 +338,7 @@
         {
             "id": "24",
             "sentence": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّب۪ينَ",
-            "translation": "O gün, yalanlayanların vay haline.",
+            "translation": "Yalanlayanların o gün vay hâline!",
             "originals": [
                 "وَيْلٌ",
                 "يَوْمَئِذٍ",
@@ -352,7 +353,7 @@
         {
             "id": "25",
             "sentence": "اَلَمْ نَجْعَلِ الْاَرْضَ كِفَاتاًۙ",
-            "translation": "Biz yeryüzünü bir toplanma yeri kılmadık mı?",
+            "translation": "25,26. (Biz,) arzı hayat sâhiblerine de ölülere de bir toplanma yeri yapmadık mı?",
             "originals": [
                 "اَلَمْ نَجْعَلِ",
                 "الْاَرْضَ",
@@ -367,7 +368,7 @@
         {
             "id": "26",
             "sentence": "اَحْيَٓاءً وَاَمْوَاتاًۙ",
-            "translation": "Dirilere ve ölülere.",
+            "translation": "25,26. (Biz,) arzı hayat sâhiblerine de ölülere de bir toplanma yeri yapmadık mı?",
             "originals": [
                 "اَحْيَٓاءً",
                 "وَاَمْوَاتاًۙ"
@@ -380,7 +381,7 @@
         {
             "id": "27",
             "sentence": "وَجَعَلْنَا ف۪يهَا رَوَاسِيَ شَامِخَاتٍ وَاَسْقَيْنَاكُمْ مَٓاءً فُرَاتاًۜ",
-            "translation": "Ve onda sabit yüksek dağlar var etmedik mi? Size tatlı bir su içirmedik mi?",
+            "translation": "Orada yüksek, sâbit dağlar meydana getirmedik mi? Hem size tatlı bir su içirmedik mi?",
             "originals": [
                 "وَجَعَلْنَا",
                 "ف۪يهَا",
@@ -403,7 +404,7 @@
         {
             "id": "28",
             "sentence": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّب۪ينَ",
-            "translation": "O gün, yalanlayanların vay haline.",
+            "translation": "Yalanlayanların o gün vay hâline!",
             "originals": [
                 "وَيْلٌ",
                 "يَوْمَئِذٍ",
@@ -418,7 +419,7 @@
         {
             "id": "29",
             "sentence": "اِنْطَلِقُٓوا اِلٰى مَا كُنْتُمْ بِه۪ تُكَذِّبُونَۚ",
-            "translation": "Kendisini yalanladığınız (azab)a gidin.",
+            "translation": "(Ki o gün kâfirlere şöyle denilir:) “Kendisini, yalanlamakta olduğunuz (azâb)a gidin!”",
             "originals": [
                 "اِنْطَلِقُٓوا",
                 "اِلٰى مَا",
@@ -437,7 +438,7 @@
         {
             "id": "30",
             "sentence": "اِنْطَلِقُٓوا اِلٰى ظِلٍّ ذ۪ي ثَلٰثِ شُعَبٍۙ",
-            "translation": "Üç dala ayrılmış bir gölgeye gidin.",
+            "translation": "“(Haydi!) Üç çatallı bir gölgeye (Cehennemin dumanına) gidin!”",
             "originals": [
                 "اِنْطَلِقُٓوا",
                 "اِلٰى ظِلٍّ",
@@ -456,7 +457,7 @@
         {
             "id": "31",
             "sentence": "لَا ظَل۪يلٍ وَلَا يُغْن۪ي مِنَ اللَّهَبِۜ",
-            "translation": "Ne gölge altında barındırır, ne (yakıcı) alevden korur.",
+            "translation": "(O,) ne gölgelendiricidir ne de alevden korur.",
             "originals": [
                 "لَا ظَل۪يلٍ",
                 "وَلَا يُغْن۪ي",
@@ -471,7 +472,7 @@
         {
             "id": "32",
             "sentence": "اِنَّهَا تَرْم۪ي بِشَرَرٍ كَالْقَصْرِۚ",
-            "translation": "Gerçekten o, sanki her biri saray olan bir kıvılcım saçar.",
+            "translation": "Çünki o (Cehennem), saray gibi (büyük) kıvılcımlar saçar.",
             "originals": [
                 "اِنَّهَا",
                 "تَرْم۪ي",
@@ -488,7 +489,7 @@
         {
             "id": "33",
             "sentence": "كَاَنَّهُ جِمَالَتٌ صُفْرٌۜ",
-            "translation": "Her biri, sanki sapsarı erkek deve sürüleri gibidir.",
+            "translation": "Sanki o (sıçrayan kıvılcımlar, peşpeşe gelen) sarı develer gibidir.",
             "originals": [
                 "كَاَنَّهُ",
                 "جِمَالَتٌ",
@@ -503,7 +504,7 @@
         {
             "id": "34",
             "sentence": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّب۪ينَ",
-            "translation": "O gün, yalanlayanların vay haline.",
+            "translation": "Yalanlayanların o gün vay hâline!",
             "originals": [
                 "وَيْلٌ",
                 "يَوْمَئِذٍ",
@@ -518,7 +519,7 @@
         {
             "id": "35",
             "sentence": "هٰذَا يَوْمُ لَا يَنْطِقُونَۙ",
-            "translation": "Bu, onların konuşamayacakları bir gündür.",
+            "translation": "Bu, (onların artık) konuşamayacakları bir gündür!",
             "originals": [
                 "هٰذَا",
                 "يَوْمُ",
@@ -533,7 +534,7 @@
         {
             "id": "36",
             "sentence": "وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ",
-            "translation": "Ve onlara özür beyan etmeleri için izin verilmez.",
+            "translation": "Onlara izin de verilmez ki özür dilesinler!",
             "originals": [
                 "وَلَا يُؤْذَنُ",
                 "لَهُمْ",
@@ -548,7 +549,7 @@
         {
             "id": "37",
             "sentence": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّب۪ينَ",
-            "translation": "O gün, yalanlayanların vay haline.",
+            "translation": "Yalanlayanların o gün vay hâline!",
             "originals": [
                 "وَيْلٌ",
                 "يَوْمَئِذٍ",
@@ -563,7 +564,7 @@
         {
             "id": "38",
             "sentence": "هٰذَا يَوْمُ الْفَصْلِۚ جَمَعْنَاكُمْ وَالْاَوَّل۪ينَ",
-            "translation": "Bu, hüküm günüdür; sizi ve öncekileri ´birarada topladık.´",
+            "translation": "(Onlara şöyle denilir:) “Bu, (hak ile bâtılın) ayırma (hüküm verme) günüdür! Sizi ve (sizden) öncekileri bir araya getirdik.”",
             "originals": [
                 "هٰذَا",
                 "يَوْمُ",
@@ -582,7 +583,7 @@
         {
             "id": "39",
             "sentence": "فَاِنْ كَانَ لَكُمْ كَيْدٌ فَك۪يدُونِ",
-            "translation": "Şayet kurabileceğiniz hileli bir düzeniniz varsa, durmaksızın bana karşı kurun.",
+            "translation": "“Artık (azabdan kurtulmak için) bir tuzağınız varsa, haydi bana tuzak kurun!”",
             "originals": [
                 "فَاِنْ",
                 "كَانَ",
@@ -601,7 +602,7 @@
         {
             "id": "40",
             "sentence": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّب۪ينَ۟",
-            "translation": "O gün, yalanlayanların vay haline.",
+            "translation": "Yalanlayanların o gün vay hâline!",
             "originals": [
                 "وَيْلٌ",
                 "يَوْمَئِذٍ",
@@ -616,7 +617,7 @@
         {
             "id": "41",
             "sentence": "اِنَّ الْمُتَّق۪ينَ ف۪ي ظِلَالٍ وَعُيُونٍۙ",
-            "translation": "Şüphesiz muttaki olanlar, gölgeliklerde ve pınar-başlarındadır;",
+            "translation": "41,42. Şübhesiz ki takvâ sâhibleri (ise, o gün) gölgelerde ve pınar başlarında, canlarının çekmekte olduğu meyveler arasındadırlar.",
             "originals": [
                 "اِنَّ",
                 "الْمُتَّق۪ينَ",
@@ -635,7 +636,7 @@
         {
             "id": "42",
             "sentence": "وَفَوَاكِهَ مِمَّا يَشْتَهُونَۜ",
-            "translation": "Ve canlarının çekip-arzu ettiği meyveler (arasındadırlar).",
+            "translation": "41,42. Şübhesiz ki takvâ sâhibleri (ise, o gün) gölgelerde ve pınar başlarında, canlarının çekmekte olduğu meyveler arasındadırlar.",
             "originals": [
                 "وَفَوَاكِهَ",
                 "مِمَّا يَشْتَهُونَۜ"
@@ -648,7 +649,7 @@
         {
             "id": "43",
             "sentence": "كُلُوا وَاشْرَبُوا هَن۪ٓيـٔاً بِمَا كُنْتُمْ تَعْمَلُونَ",
-            "translation": "Yaptıklarınıza karşılık olmak üzere, afiyetle yiyin ve için.",
+            "translation": "(Onlara şöyle denilir:) “İşleyegeldiğiniz (sâlih) ameller sebebiyle (bir mükâfât olarak), âfiyetle yiyin, için!”",
             "originals": [
                 "كُلُوا",
                 "وَاشْرَبُوا",
@@ -667,7 +668,7 @@
         {
             "id": "44",
             "sentence": "اِنَّا كَذٰلِكَ نَجْزِي الْمُحْسِن۪ينَ",
-            "translation": "Elbette Biz, ´iyi ve güzel´ davrananları işte böyle ödüllendiririz.",
+            "translation": "İşte biz, iyilik edenleri böyle mükâfâtlandırırız.",
             "originals": [
                 "اِنَّا",
                 "كَذٰلِكَ",
@@ -684,7 +685,7 @@
         {
             "id": "45",
             "sentence": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّب۪ينَ",
-            "translation": "O gün, yalanlayanların vay haline.",
+            "translation": "Yalanlayanların o gün vay hâline!",
             "originals": [
                 "وَيْلٌ",
                 "يَوْمَئِذٍ",
@@ -699,7 +700,7 @@
         {
             "id": "46",
             "sentence": "كُلُوا وَتَمَتَّعُوا قَل۪يلاً اِنَّكُمْ مُجْرِمُونَ",
-            "translation": "(Sizler de dünyada) Yiyin ve biraz yararlanın. Çünkü siz, suçlu-günahkar kimselersiniz.",
+            "translation": "(Ey kâfirler! Siz de dünyada) az bir müddet yiyin, faydalanın! Çünki siz günahkârlarsınız.",
             "originals": [
                 "كُلُوا",
                 "وَتَمَتَّعُوا",
@@ -718,7 +719,7 @@
         {
             "id": "47",
             "sentence": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّب۪ينَ",
-            "translation": "O gün, yalanlayanların vay haline.",
+            "translation": "Yalanlayanların o gün vay hâline!",
             "originals": [
                 "وَيْلٌ",
                 "يَوْمَئِذٍ",
@@ -733,7 +734,7 @@
         {
             "id": "48",
             "sentence": "وَاِذَا ق۪يلَ لَهُمُ ارْكَعُوا لَا يَرْكَعُونَ",
-            "translation": "Onlara: &quot;Rüku edin&quot; denildiği zaman, rüku etmezler.",
+            "translation": "Hem onlara: “Rükû' edin!” denildiği zaman, rükû' etmezler.",
             "originals": [
                 "وَاِذَا",
                 "ق۪يلَ",
@@ -752,7 +753,7 @@
         {
             "id": "49",
             "sentence": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّب۪ينَ",
-            "translation": "O gün, yalanlayanların vay haline.",
+            "translation": "Yalanlayanların o gün vay hâline!",
             "originals": [
                 "وَيْلٌ",
                 "يَوْمَئِذٍ",
@@ -767,7 +768,7 @@
         {
             "id": "50",
             "sentence": "فَبِاَيِّ حَد۪يثٍ بَعْدَهُ يُؤْمِنُونَ",
-            "translation": "Artık onlar, bundan sonra hangi söze inanacaklar?",
+            "translation": "(Onlar) artık bundan (Kur'ân'dan) sonra hangi söze inanacaklar?",
             "originals": [
                 "فَبِاَيِّ حَد۪يثٍ",
                 "بَعْدَهُ",

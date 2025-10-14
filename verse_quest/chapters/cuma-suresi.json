@@ -1,12 +1,13 @@
 {
     "id": "cuma-suresi",
     "name": "Cuma Suresi",
-    "description": "Cuma Suresi",
+    "description": "Cuma Suresi - 62. sure",
+    "index": 62,
     "sentences": [
         {
             "id": "1",
             "sentence": "يُسَبِّـحُ لِلّٰهِ مَا فِي السَّمٰوَاتِ وَمَا فِي الْاَرْضِ الْمَلِكِ الْقُدُّوسِ الْعَز۪يزِ الْحَك۪يمِ",
-            "translation": "Göklerde ve yerde olanların tümü, Melik; Kuddüs; Aziz; Hakim olan Allah´ı tesbih eder.",
+            "translation": "Göklerde olan ve yerde bulunanlar, Melik (mülkünde istediği gibi tasarruf eden), Kuddûs (bütün noksanlıklardan münezzeh olan), Azîz (kudreti dâimâ üstün gelen), Hakîm(her işi hikmetli olan) Allah'ı tesbîh eder.",
             "originals": [
                 "يُسَبِّـحُ",
                 "لِلّٰهِ",
@@ -35,7 +36,7 @@
         {
             "id": "2",
             "sentence": "هُوَ الَّذ۪ي بَعَثَ فِي الْاُمِّيّ۪نَ رَسُولاً مِنْهُمْ يَتْلُوا عَلَيْهِمْ اٰيَاتِه۪ وَيُزَكّ۪يهِمْ وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَۗ وَاِنْ كَانُوا مِنْ قَبْلُ لَف۪ي ضَلَالٍ مُب۪ينٍۙ",
-            "translation": "O, ümmîler içinde, kendilerinden olan ve onlara ayetlerini okuyan, onları arındırıp-temizleyen ve onlara kitap ve hikmeti öğreten bir elçi gönderendir. Oysa onlar, bundan önce gerçekten açıkça bir sapıklık içinde idiler.",
+            "translation": "O (Allah), ümmîler (Arablar) içinde, kendilerinden bir peygamber gönderendir; (o peygamber) onlara O'nun âyetlerini okuyor, onları (günahlardan) temizliyor ve onlara kitâbı ve hikmeti öğretiyor. Hâlbuki (onlar) daha önce gerçekten apaçık bir dalâlet içinde idiler.",
             "originals": [
                 "هُوَ",
                 "الَّذ۪ي بَعَثَ",
@@ -82,7 +83,7 @@
         {
             "id": "3",
             "sentence": "وَاٰخَر۪ينَ مِنْهُمْ لَمَّا يَلْحَقُوا بِهِمْۜ وَهُوَ الْعَز۪يزُ الْحَك۪يمُ",
-            "translation": "Ve henüz kendilerine ulaşıp-katılmamış olan diğerlerine de (peygamber gönderilmiştir); O (Allah), üstün ve güçlüdür, hüküm ve hikmet sahibidir.",
+            "translation": "Hem (o peygamber) onlardan (Arablardan) başkalarına (da bütün cin ve insanlara peygamber olarak gönderilmiştir) ki (onlar) henüz kendilerine kavuşmamışlardır. O, Azîz(kudreti dâimâ üstün gelen)dir, Hakîm (her işi hikmetli olan)dır.",
             "originals": [
                 "وَاٰخَر۪ينَ",
                 "مِنْهُمْ",
@@ -107,7 +108,7 @@
         {
             "id": "4",
             "sentence": "ذٰلِكَ فَضْلُ اللّٰهِ يُؤْت۪يهِ مَنْ يَشَٓاءُۜ وَاللّٰهُ ذُو الْفَضْلِ الْعَظ۪يمِ",
-            "translation": "Bu, Allah´ın dilediğine verdiği fazl (lütuf ve ihsan)ıdır. Allah, büyük fazl sahibidir.",
+            "translation": "Bu (peygamberlik vazîfesi) Allah'ın ihsânıdır; onu dilediğine verir. Çünki Allah, pek büyük lütuf sâhibidir.",
             "originals": [
                 "ذٰلِكَ",
                 "فَضْلُ",
@@ -134,7 +135,7 @@
         {
             "id": "5",
             "sentence": "مَثَلُ الَّذ۪ينَ حُمِّلُوا التَّوْرٰيةَ ثُمَّ لَمْ يَحْمِلُوهَا كَمَثَلِ الْحِمَارِ يَحْمِلُ اَسْفَاراًۜ بِئْسَ الْقَوْمِ الَّذ۪ينَ كَذَّبُوا بِاٰيَاتِ اللّٰهِۜ وَاللّٰهُ لَا يَهْدِي الْقَوْمَ الظَّالِم۪ينَ",
-            "translation": "Kendilerine Tevrat yükletilip de sonra onu (içindeki derin anlamları, hikmet ve hükümleriyle gereği gibi) yüklenmemiş olanların durumu, koskoca kitap yükü taşıyan eşeğin durumu gibidir. Allah´ın ayetlerini yalanlayan kavmin durumu ne kötüdür. Allah, zalim bir kavmi hidayete erdirmez.",
+            "translation": "(Kendilerine) Tevrât yükletilip de sonra onu taşımayan (içindeki hükümlerle amel etmeyen) kimselerin misâli, (sırtında) kitablar taşıyan eşeğin misâli gibidir! Allah'ın âyetlerini yalanlayan kavmin misâli, ne kötüdür! Hâlbuki Allah, o zâlimler topluluğunu (küfürlerindekiısrarları yüzünden) hidâyete erdirmez.",
             "originals": [
                 "مَثَلُ",
                 "الَّذ۪ينَ حُمِّلُوا",
@@ -179,7 +180,7 @@
         {
             "id": "6",
             "sentence": "قُلْ يَٓا اَيُّهَا الَّذ۪ينَ هَادُٓوا اِنْ زَعَمْتُمْ اَنَّكُمْ اَوْلِيَٓاءُ لِلّٰهِ مِنْ دُونِ النَّاسِ فَتَمَنَّوُا الْمَوْتَ كُنْتُمْ صَادِق۪ينَ",
-            "translation": "De ki: &quot;Ey Yahudi olanlar, eğer siz, (bütün) insanlardan ayrı olarak yalnızca sizlerin gerçekten Allah´ın velileri (dost ve sevgili kulları) olduğunuzu öne sürüyorsanız, şu halde ölümü temenni edin; eğer doğru sözlü iseniz (bunu çekinmeden yapın).&quot;",
+            "translation": "De ki: “Ey yahudi olanlar! Doğrusu (siz, diğer) insanlardan ayrı olarak, sâdecekendinizin, Allah'ın dostları olduğunuzu zannediyorsanız (ve) eğer (bu iddiânızda) doğru kimseler iseniz, haydi ölümü temennî edin!”",
             "originals": [
                 "قُلْ",
                 "يَٓا اَيُّهَا",
@@ -216,7 +217,7 @@
         {
             "id": "7",
             "sentence": "وَلَا يَتَمَنَّوْنَهُٓ اَبَداً بِمَا قَدَّمَتْ اَيْد۪يهِمْۜ وَاللّٰهُ عَل۪يمٌ بِالظَّالِم۪ينَ",
-            "translation": "Oysa onlar, ellerinin öne takdim ettikleri dolayısıyla bunu hiçbir zaman temenni edemezler. Allah, zalimleri bilendir.",
+            "translation": "Hâlbuki ellerinin takdîm ettiği (işlediği günahlar) yüzünden onu ebediyen temennî edemezler. Allah ise, o zâlimleri hakkıyla bilendir.",
             "originals": [
                 "وَلَا يَتَمَنَّوْنَهُٓ",
                 "اَبَداً",
@@ -241,7 +242,7 @@
         {
             "id": "8",
             "sentence": "قُلْ اِنَّ الْمَوْتَ الَّذ۪ي تَفِرُّونَ مِنْهُ فَاِنَّهُ مُلَاق۪يكُمْ ثُمَّ تُرَدُّونَ اِلٰى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ۟",
-            "translation": "De ki: &quot;Elbette sizin kendisinden kaçtığınız ölüm, şüphesiz sizinle karşılaşıp-buluşacaktır. Sonra gaybı da, müşahede edilebileni de bilen (Allah)a döndürüleceksiniz; O da size yaptıklarınızı haber verecektir.&quot;",
+            "translation": "De ki: “Doğrusu kendisinden kaçıp durduğunuz ölüm var ya, sonunda mutlaka o, sizi bulucudur; sonra gizli olanı da görüneni de hakkıyla bilene (Allah'a) döndürüleceksiniz; artık (O), size yapmakta olduklarınızı haber verecektir.”",
             "originals": [
                 "قُلْ",
                 "اِنَّ",
@@ -280,7 +281,7 @@
         {
             "id": "9",
             "sentence": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُٓوا اِذَا نُودِيَ لِلصَّلٰوةِ مِنْ يَوْمِ الْجُمُعَةِ فَاسْعَوْا اِلٰى ذِكْرِ اللّٰهِ وَذَرُوا الْبَيْعَۜ ذٰلِكُمْ خَيْرٌ لَكُمْ اِنْ كُنْتُمْ تَعْلَمُونَ",
-            "translation": "Ey iman edenler, cuma günü namaz için çağrı yapıldığı zaman, hemen Allah´ı zikretmeye koşun ve alış-verişi bırakın. Eğer bilirseniz, bu sizin için daha hayırlıdır.",
+            "translation": "Ey îmân edenler! Cum'a günü namaz için seslenildiği (ezan okunduğu) zaman, hemen Allah'ın zikrine koşun ve alış-verişi bırakın! Eğer bilirseniz bu sizin için çok hayırlıdır.",
             "originals": [
                 "يَٓا اَيُّهَا",
                 "الَّذ۪ينَ اٰمَنُٓوا",
@@ -323,7 +324,7 @@
         {
             "id": "10",
             "sentence": "فَاِذَا قُضِيَتِ الصَّلٰوةُ فَانْتَشِرُوا فِي الْاَرْضِ وَابْتَغُوا مِنْ فَضْلِ اللّٰهِ وَاذْكُرُوا اللّٰهَ كَث۪يراً لَعَلَّكُمْ تُفْلِحُونَ",
-            "translation": "Artık namazı kılınca, yeryüzünde dağılın. Allah´ın fazlını isteyip-arayın ve Allah´ı çokça zikredin; umulur ki felaha (kurtuluşa ve umduklarınıza) kavuşmuş olursunuz.",
+            "translation": "Nihâyet namaz bitince, artık yeryüzünde dağılın ve Allah'ın lütfundan (rızkınızı)arayın ve Allah'ı çok zikredin; tâ ki kurtuluşa eresiniz!",
             "originals": [
                 "فَاِذَا قُضِيَتِ",
                 "الصَّلٰوةُ",
@@ -356,7 +357,7 @@
         {
             "id": "11",
             "sentence": "وَاِذَا رَاَوْا تِجَارَةً اَوْ لَهْواًۨ انْفَضُّٓوا اِلَيْهَا وَتَرَكُوكَ قَٓائِماًۜ قُلْ مَا عِنْدَ اللّٰهِ خَيْرٌ مِنَ اللَّهْوِ وَمِنَ التِّجَارَةِۜ وَاللّٰهُ خَيْرُ الرَّازِق۪ينَ",
-            "translation": "Oysa onlar (kendilerini tümüyle Allah´a ve İslam´a teslim etmeyenler) bir ticaret ya da bir eğlence gördükleri zaman, (hemen) ona sökün ettiler ve seni ayakta bıraktılar. De ki: &quot;Allah´ın Katında bulunan, eğlenceden ve ticaretten daha hayırlıdır. Allah, rızık verenlerin en hayırlısıdır.&quot;",
+            "translation": "Böyle iken (bir kısmı), bir ticâret veya bir eğlence gördüklerinde, ona akın ettiler ve seni ayakta (hutbede) bıraktılar. De ki: “Allah'ın katında bulunan (mükâfât, dünyaya âid)eğlenceden de ticâretten de hayırlıdır. Çünki Allah, rızık verenlerin en hayırlısıdır.”",
             "originals": [
                 "وَاِذَا",
                 "رَاَوْا",

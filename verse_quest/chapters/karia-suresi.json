@@ -1,12 +1,13 @@
 {
     "id": "karia-suresi",
     "name": "Karia Suresi",
-    "description": "Karia Suresi",
+    "description": "Karia Suresi - 101. sure",
+    "index": 101,
     "sentences": [
         {
             "id": "1",
             "sentence": "اَلْقَارِعَةُۙ",
-            "translation": "Kaari’a...",
+            "translation": "el-Karia! (O dehşetiyle çarpıcı felâket! Kıyâmet!)",
             "originals": [
                 "اَلْقَارِعَةُۙ"
             ],
@@ -17,7 +18,7 @@
         {
             "id": "2",
             "sentence": "مَا الْقَارِعَةُۚ",
-            "translation": "Nedir kaari’a?",
+            "translation": "Nedir o çarpıcı felâket!",
             "originals": [
                 "مَا",
                 "الْقَارِعَةُۚ"
@@ -30,7 +31,7 @@
         {
             "id": "3",
             "sentence": "وَمَٓا اَدْرٰيكَ مَا الْقَارِعَةُۜ",
-            "translation": "Sana o kaaria’yı bildiren nedir?",
+            "translation": "O çarpacak olan felâketin ne olduğunu sana ne bildirdi?",
             "originals": [
                 "وَمَٓا اَدْرٰيكَ",
                 "مَا",
@@ -45,7 +46,7 @@
         {
             "id": "4",
             "sentence": "يَوْمَ يَكُونُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوثِۙ",
-            "translation": "İnsanların, ´her yana dağılmış´ pervaneler gibi olacakları gün,",
+            "translation": "O gün insanlar, çırpınıp yayılan kelebekler gibi olacak!",
             "originals": [
                 "يَوْمَ",
                 "يَكُونُ",
@@ -64,7 +65,7 @@
         {
             "id": "5",
             "sentence": "وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنْفُوشِۜ",
-            "translation": "Ve dağların ´etrafa saçılmış´ renkli yünler gibi olacakları (gün),",
+            "translation": "Dağlar da atılmış renkli yün gibi olur!",
             "originals": [
                 "وَتَكُونُ",
                 "الْجِبَالُ",
@@ -81,7 +82,7 @@
         {
             "id": "6",
             "sentence": "فَاَمَّا مَنْ ثَقُلَتْ مَوَاز۪ينُهُۙ",
-            "translation": "İşte, kimin tartıları ağır basarsa,",
+            "translation": "6,7. Artık kimin tartıları (sevabları) ağır gelirse, işte o, hoşnûd (olacağı) bir yaşayış içindedir!",
             "originals": [
                 "فَاَمَّا",
                 "مَنْ",
@@ -98,7 +99,7 @@
         {
             "id": "7",
             "sentence": "فَهُوَ ف۪ي ع۪يشَةٍ رَاضِيَةٍۜ",
-            "translation": "Artık o, hoşnut olunan bir hayat içindedir.",
+            "translation": "6,7. Artık kimin tartıları (sevabları) ağır gelirse, işte o, hoşnûd (olacağı) bir yaşayış içindedir!",
             "originals": [
                 "فَهُوَ",
                 "ف۪ي",
@@ -115,7 +116,7 @@
         {
             "id": "8",
             "sentence": "وَاَمَّا مَنْ خَفَّتْ مَوَاز۪ينُهُۙ",
-            "translation": "Kimin tartıları hafif kalırsa,",
+            "translation": "8,9. Fakat kimin de tartıları hafif gelirse, artık onun anası (sığınacağı yer) Hâviye'dir.(Onun kucağına düşecek!)",
             "originals": [
                 "وَاَمَّا",
                 "مَنْ",
@@ -132,7 +133,7 @@
         {
             "id": "9",
             "sentence": "فَاُمُّهُ هَاوِيَةٌۜ",
-            "translation": "Artık onun da anası (son durağı) &quot;haviye&quot;dir (uçurum).",
+            "translation": "8,9. Fakat kimin de tartıları hafif gelirse, artık onun anası (sığınacağı yer) Hâviye'dir.(Onun kucağına düşecek!)",
             "originals": [
                 "فَاُمُّهُ",
                 "هَاوِيَةٌۜ"
@@ -145,7 +146,7 @@
         {
             "id": "10",
             "sentence": "وَمَٓا اَدْرٰيكَ مَا هِيَهْۜ",
-            "translation": "Onun ne olduğunu (mahiyetini) sana bildiren nedir?",
+            "translation": "(Ey Resûlüm!) Onun (o Hâviye'nin) ne olduğunu sana ne bildirdi?",
             "originals": [
                 "وَمَٓا اَدْرٰيكَ",
                 "مَا",
@@ -160,7 +161,7 @@
         {
             "id": "11",
             "sentence": "نَارٌ حَامِيَةٌ",
-            "translation": "O, kızgın bir ateştir.",
+            "translation": "(O,) pek kızışmış bir ateştir!",
             "originals": [
                 "نَارٌ",
                 "حَامِيَةٌ"

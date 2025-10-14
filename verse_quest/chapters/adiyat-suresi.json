@@ -1,12 +1,13 @@
 {
     "id": "adiyat-suresi",
     "name": "Adiyat Suresi",
-    "description": "Adiyat Suresi",
+    "description": "Adiyat Suresi - 100. sure",
+    "index": 100,
     "sentences": [
         {
             "id": "1",
             "sentence": "وَالْعَـادِيَاتِ ضَبْـحاًۙ",
-            "translation": "Soluk soluğa koşan (at)lara andolsun,",
+            "translation": "Yemîn olsun (Allah yolunda) harıl harıl koşanlara (âdiyât'a)!",
             "originals": [
                 "وَالْعَـادِيَاتِ",
                 "ضَبْـحاًۙ"
@@ -19,7 +20,7 @@
         {
             "id": "2",
             "sentence": "فَالْمُـورِيَاتِ قَـدْحاًۙ",
-            "translation": "(Tırnaklarıyla) Ateş saçanlara,",
+            "translation": "Öyle (koşarken) çakarak ateş çıkaranlara!",
             "originals": [
                 "فَالْمُـورِيَاتِ",
                 "قَـدْحاًۙ"
@@ -32,7 +33,7 @@
         {
             "id": "3",
             "sentence": "فَالْمُغ۪يرَاتِ صُبْحاًۙ",
-            "translation": "Sabah vakti baskın yapanlara.",
+            "translation": "Sabahleyin derhâl baskın yapanlara!",
             "originals": [
                 "فَالْمُغ۪يرَاتِ",
                 "صُبْحاًۙ"
@@ -45,7 +46,7 @@
         {
             "id": "4",
             "sentence": "فَاَثَرْنَ بِه۪ نَقْعاًۙ",
-            "translation": "Derken, orada tozu dumana katanlara,",
+            "translation": "Böylece orada tozu dumana katanlara!",
             "originals": [
                 "فَاَثَرْنَ",
                 "بِه۪",
@@ -60,7 +61,7 @@
         {
             "id": "5",
             "sentence": "فَوَسَطْنَ بِه۪ جَمْعاًۙ",
-            "translation": "Bununla bir (düşman) topluluğun orta yerine kadar dalanlara.",
+            "translation": "Derken onunla, bir topluluğun ortasına dalanlara!",
             "originals": [
                 "فَوَسَطْنَ",
                 "بِه۪",
@@ -75,7 +76,7 @@
         {
             "id": "6",
             "sentence": "اِنَّ الْاِنْسَانَ لِرَبِّه۪ لَكَنُودٌۚ",
-            "translation": "Gerçekten insan, Rabbine karşı nankördür.",
+            "translation": "Şübhesiz ki insan, Rabbisine karşı gerçekten çok nankördür!",
             "originals": [
                 "اِنَّ",
                 "الْاِنْسَانَ",
@@ -92,7 +93,7 @@
         {
             "id": "7",
             "sentence": "وَاِنَّهُ عَلٰى ذٰلِكَ لَشَه۪يدٌۚ",
-            "translation": "Ve gerçekten, kendisi buna şahiddir.",
+            "translation": "Şübhesiz buna elbette kendisi de şâhiddir!",
             "originals": [
                 "وَاِنَّهُ",
                 "عَلٰى ذٰلِكَ",
@@ -107,7 +108,7 @@
         {
             "id": "8",
             "sentence": "وَاِنَّهُ لِحُبِّ الْخَيْرِ لَشَد۪يدٌۜ",
-            "translation": "Muhakkak o, mal sevgisinden dolayı (bencil ve cimri tutumundan) çok katıdır.",
+            "translation": "Ve gerçekten o, (kendi menfaatine olan) hayır (mal) sevgisi için doğrusu pek şiddetlidir (cimrilik eder).",
             "originals": [
                 "وَاِنَّهُ",
                 "لِحُبِّ",
@@ -124,7 +125,7 @@
         {
             "id": "9",
             "sentence": "اَفَلَا يَعْلَمُ اِذَا بُعْثِرَ مَا فِي الْقُبُورِۙ",
-            "translation": "Yine de bilmeyecek mi? Kabirlerde olanların ´deşilip dışa atıldığı,´",
+            "translation": "9,10,11. Fakat (insan) bilmez mi ki, kabirlerin içinde bulunanlar (diriltilip dışarı)çıkarıldığı ve sînelerde bulunan (sır)lar ortaya konulduğu zaman, şübhesiz Rableri o gün onlar(ın her yaptıkların)dan elbette hakkıyla haberdar olandır.",
             "originals": [
                 "اَفَلَا يَعْلَمُ",
                 "اِذَا",
@@ -143,7 +144,7 @@
         {
             "id": "10",
             "sentence": "وَحُصِّلَ مَا فِي الصُّدُورِۙ",
-            "translation": "Göğüslerde olanların derlenip-devşirildiği zamanı?",
+            "translation": "9,10,11. Fakat (insan) bilmez mi ki, kabirlerin içinde bulunanlar (diriltilip dışarı)çıkarıldığı ve sînelerde bulunan (sır)lar ortaya konulduğu zaman, şübhesiz Rableri o gün onlar(ın her yaptıkların)dan elbette hakkıyla haberdar olandır.",
             "originals": [
                 "وَحُصِّلَ",
                 "مَا",
@@ -158,7 +159,7 @@
         {
             "id": "11",
             "sentence": "اِنَّ رَبَّهُمْ بِهِمْ يَوْمَئِذٍ لَخَب۪يرٌ",
-            "translation": "Şüphesiz, o gün Rableri, kendilerinden gerçekten haberdardır.",
+            "translation": "9,10,11. Fakat (insan) bilmez mi ki, kabirlerin içinde bulunanlar (diriltilip dışarı)çıkarıldığı ve sînelerde bulunan (sır)lar ortaya konulduğu zaman, şübhesiz Rableri o gün onlar(ın her yaptıkların)dan elbette hakkıyla haberdar olandır.",
             "originals": [
                 "اِنَّ",
                 "رَبَّهُمْ",

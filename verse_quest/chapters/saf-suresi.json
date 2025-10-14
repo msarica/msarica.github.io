@@ -1,12 +1,13 @@
 {
     "id": "saf-suresi",
     "name": "Saf Suresi",
-    "description": "Saf Suresi",
+    "description": "Saf Suresi - 61. sure",
+    "index": 61,
     "sentences": [
         {
             "id": "1",
             "sentence": "سَبَّحَ لِلّٰهِ مَا فِي السَّمٰوَاتِ وَمَا فِي الْاَرْضِۚ وَهُوَ الْعَز۪يزُ الْحَك۪يمُ",
-            "translation": "Göklerde ve yerde olanların tümü Allah´ı tesbih etmiştir. O, üstün ve güçlüdür, hüküm ve hikmet sahibidir.",
+            "translation": "Göklerde ne var, yerde ne varsa Allah'ı tesbîh etmektedir. O, Azîz (kudreti dâimâüstün gelen)dir, Hakîm (her işi hikmetli olan)dır.",
             "originals": [
                 "سَبَّحَ",
                 "لِلّٰهِ",
@@ -33,7 +34,7 @@
         {
             "id": "2",
             "sentence": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُوا لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ",
-            "translation": "Ey iman edenler, yapmayacağınız şeyi neden söylersiniz?",
+            "translation": "Ey îmân edenler! Yapmayacağınız şeyleri niçin söylüyorsunuz?",
             "originals": [
                 "يَٓا اَيُّهَا",
                 "الَّذ۪ينَ اٰمَنُوا",
@@ -54,7 +55,7 @@
         {
             "id": "3",
             "sentence": "كَبُرَ مَقْتاً عِنْدَ اللّٰهِ اَنْ تَقُولُوا مَا لَا تَفْعَلُونَ",
-            "translation": "Yapmayacağınız şeyi söylemeniz, Allah Katında bir gazab (konusu olması) bakımından büyüdü (büyük bir suç teşkil etti).",
+            "translation": "Yapmayacağınız şeyleri söylemeniz, Allah katında büyük bir gazab (sebebi) oldu.",
             "originals": [
                 "كَبُرَ",
                 "مَقْتاً",
@@ -77,7 +78,7 @@
         {
             "id": "4",
             "sentence": "اِنَّ اللّٰهَ يُحِبُّ الَّذ۪ينَ يُقَاتِلُونَ ف۪ي سَب۪يلِه۪ صَفاًّ كَاَنَّهُمْ بُنْيَانٌ مَرْصُوصٌ",
-            "translation": "Şüphesiz Allah, Kendi yolunda, sanki birbirlerine kenetlenmiş bir bina gibi saf bağlayarak çarpışanları sever.",
+            "translation": "Muhakkak ki Allah, kendi yolunda sanki (kurşunla) kenetlenmiş bir binâ gibi, saftutarak (omuz omuza) savaşanları sever.",
             "originals": [
                 "اِنَّ",
                 "اللّٰهَ",
@@ -104,7 +105,7 @@
         {
             "id": "5",
             "sentence": "وَاِذْ قَالَ مُوسٰى لِقَوْمِه۪ يَا قَوْمِ لِمَ تُؤْذُونَن۪ي وَقَدْ تَعْلَمُونَ اَنّ۪ي رَسُولُ اللّٰهِ اِلَيْكُمْۜ فَلَمَّا زَاغُٓوا اَزَاغَ اللّٰهُ قُلُوبَهُمْۜ وَاللّٰهُ لَا يَهْدِي الْقَوْمَ الْفَاسِق۪ينَ",
-            "translation": "Hani Musa, kavmine demişti ki: &quot;Ey kavmim, gerçekten benim sizin için Allah´tan gönderilmiş bir elçi olduğumu bildiğiniz halde, niçin bana eziyet ediyorsunuz?&quot; İşte onlar eğrilip-sapınca Allah da onların kalplerini eğriltip saptırmış oldu. Allah, fasık bir kavmi hidayete erdirmez.",
+            "translation": "Ve bir zaman Mûsâ, kavmine: “Ey kavmim! Şübhesiz benim, Allah'ın size(gönderdiği) peygamberi olduğumu gerçekten bildiğiniz hâlde, niçin bana eziyet ediyorsunuz?” demişti. Fakat (onlar, haktan sapmaya) meyledince, Allah (da) onların kalblerini eğriltti. Çünki Allah, (ısrarla küfre meyleden) fâsıklar topluluğunu hidâyete erdirmez.",
             "originals": [
                 "وَاِذْ",
                 "قَالَ",
@@ -155,7 +156,7 @@
         {
             "id": "6",
             "sentence": "وَاِذْ قَالَ ع۪يسَى ابْنُ مَرْيَمَ يَا بَن۪ٓي اِسْرَٓائ۪لَ اِنّ۪ي رَسُولُ اللّٰهِ اِلَيْكُمْ مُصَدِّقاً لِمَا بَـيْنَ يَدَيَّ مِنَ التَّوْرٰيةِ وَمُبَشِّراً بِرَسُولٍ يَأْت۪ي مِنْ بَعْدِي اسْمُهُٓ اَحْمَدُۜ فَلَمَّا جَٓاءَهُمْ بِالْبَـيِّنَاتِ قَالُوا هٰذَا سِحْرٌ مُب۪ينٌ",
-            "translation": "Hani Meryem oğlu İsa da: &quot;Ey İsrailoğulları, gerçekten ben, sizin için Allah´tan gönderilmiş bir elçiyim. Benden önceki Tevrat´ı doğrulayıcı ve benden sonra ismi &quot;Ahmed&quot; olan bir elçinin de müjdeleyicisiyim&quot; demişti. Fakat o, onlara apaçık belgelerle gelince: &quot;Bu, açıkça bir büyüdür&quot; dediler.",
+            "translation": "Hani Meryemoğlu Îsâ: “Ey İsrâiloğulları! Muhakkak ki ben, benden önce(gönderilmiş) olan Tevrât'ı tasdîk edici ve benden sonra gelecek ismi Ahmed olan bir peygamberi müjdeleyici olmak üzere size Allah'ın (gönderdiği) bir peygamberiyim!” demişti. Fakat (Îsâ) onlara mu'cizelerle gelince: “Bu, apaçık bir sihirdir!” dediler.",
             "originals": [
                 "وَاِذْ",
                 "قَالَ",
@@ -218,7 +219,7 @@
         {
             "id": "7",
             "sentence": "وَمَنْ اَظْلَمُ مِمَّنِ افْتَرٰى عَلَى اللّٰهِ الْـكَذِبَ وَهُوَ يُدْعٰٓى اِلَى الْاِسْلَامِۜ وَاللّٰهُ لَا يَهْدِي الْقَوْمَ الظَّالِم۪ينَ",
-            "translation": "İslam´a çağrıldığı halde, Allah´a karşı yalan uyduranlardan daha zalim kimdir? Allah, zalim bir kavmi hidayete erdirmez.",
+            "translation": "Kendisi İslâm'a da'vet edildiği hâlde, Allah'a yalan söyleyerek iftirâ edenden daha zâlim kim olabilir? Allah ise, o zâlimler topluluğunu (zulümlerindeki ısrarları sebebiyle)hidâyete erdirmez.",
             "originals": [
                 "وَمَنْ",
                 "اَظْلَمُ",
@@ -253,7 +254,7 @@
         {
             "id": "8",
             "sentence": "يُر۪يدُونَ لِيُطْفِؤُ۫ا نُورَ اللّٰهِ بِاَفْوَاهِهِمْ وَاللّٰهُ مُتِمُّ نُورِه۪ وَلَوْ كَرِهَ الْـكَافِرُونَ",
-            "translation": "Onlar, Allah´ın nurunu ağızlarıyla söndürmek istiyorlar. Oysa Allah, Kendi nurunu tamamlayıcıdır; kafirler hoş görmese bile.",
+            "translation": "Allah'ın nûrunu ağızlarıyla söndürmek istiyorlar; hâlbuki Allah, kâfirler hoşlanmasa da nûrunu tamamlayıcıdır!",
             "originals": [
                 "يُر۪يدُونَ",
                 "لِيُطْفِؤُ۫ا",
@@ -284,7 +285,7 @@
         {
             "id": "9",
             "sentence": "هُوَ الَّـذ۪ٓي اَرْسَلَ رَسُولَهُ بِالْهُدٰى وَد۪ينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدّ۪ينِ كُلِّه۪ وَلَوْ كَرِهَ الْمُشْرِكُونَ۟",
-            "translation": "Elçilerini hidayet ve hak din üzere gönderen O´dur. Öyle ki onu (hak din olan İslam´ı) bütün dinlere karşı üstün kılacaktır; müşrikler hoş görmese bile.",
+            "translation": "O (Allah), müşrikler hoşlanmasa da, Resûlünü hidâyet ve hak dîn ile onu (İslâm'ı)dinlerin hepsine üstün kılsın diye gönderendir.",
             "originals": [
                 "هُوَ",
                 "الَّـذ۪ٓي",
@@ -321,7 +322,7 @@
         {
             "id": "10",
             "sentence": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُوا هَلْ اَدُلُّكُمْ عَلٰى تِجَارَةٍ تُنْج۪يكُمْ مِنْ عَذَابٍ اَل۪يمٍ",
-            "translation": "Ey iman edenler, sizi acı bir azaptan kurtaracak bir ticareti haber vereyim mi?",
+            "translation": "Ey îmân edenler! Sizi (pek) elemli bir azabdan kurtaracak bir ticâreti, size göstereyim mi?",
             "originals": [
                 "يَٓا اَيُّهَا",
                 "الَّذ۪ينَ اٰمَنُوا",
@@ -344,7 +345,7 @@
         {
             "id": "11",
             "sentence": "تُـؤْمِنُونَ بِاللّٰهِ وَرَسُولِه۪ وَتُجَاهِدُونَ ف۪ي سَب۪يلِ اللّٰهِ بِاَمْوَالِكُمْ وَاَنْفُسِكُمْۜ ذٰلِكُمْ خَيْرٌ لَـكُمْ اِنْ كُنْتُمْ تَعْلَمُونَۙ",
-            "translation": "Allah´a ve O´nun Resulü’ne iman edersiniz, mallarınızla ve canlarınızla Allah yolunda mücadele edersiniz. Bu, sizin için daha hayırlıdır; eğer bilirseniz.",
+            "translation": "Allah'a ve Resûlüne îmân edip, mallarınızla ve canlarınızla Allah yolunda cihâd edersiniz! Eğer bilirseniz, bu sizin için çok hayırlıdır.",
             "originals": [
                 "تُـؤْمِنُونَ",
                 "بِاللّٰهِ",
@@ -379,7 +380,7 @@
         {
             "id": "12",
             "sentence": "يَغْفِرْ لَـكُمْ ذُنُوبَكُمْ وَيُدْخِلْـكُمْ جَنَّاتٍ تَجْر۪ي مِنْ تَحْتِهَا الْاَنْهَارُ وَمَسَا‌كِنَ طَيِّبَةً ف۪ي جَنَّاتِ عَدْنٍۜ ذٰلِكَ الْفَوْزُ الْعَظ۪يمُۙ",
-            "translation": "O da sizin günahlarınızı bağışlar, sizi altlarından ırmaklar akan cennetlere ve Adn cennetlerindeki güzel konaklara yerleştirir. İşte ´büyük mutluluk ve kurtuluş´ budur.",
+            "translation": "(Böyle yaparsanız, O) günahlarınızı size bağışlar ve sizi, altlarından ırmaklar akan Cennetlere ve Adn Cennetlerindeki güzel meskenlere koyar. İşte büyük kurtuluş, budur!",
             "originals": [
                 "يَغْفِرْ",
                 "لَـكُمْ",
@@ -420,7 +421,7 @@
         {
             "id": "13",
             "sentence": "وَاُخْرٰى تُحِبُّونَهَاۜ نَصْرٌ مِنَ اللّٰهِ وَفَتْحٌ قَر۪يبٌۜ وَبَشِّرِ الْمُؤْمِن۪ينَ",
-            "translation": "Ve seveceğiniz bir başka (nimet) daha var: Allah´tan ´yardım ve zafer (nusret)´ ve yakın bir fetih. Mü´minleri müjdele.",
+            "translation": "Ve kendisini seveceğiniz diğer bir şey daha vardır: Allah'dan bir zafer ve yakın bir fetih! (Ey Habîbim!) Mü'minleri müjdele!",
             "originals": [
                 "وَاُخْرٰى",
                 "تُحِبُّونَهَاۜ",
@@ -445,7 +446,7 @@
         {
             "id": "14",
             "sentence": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُوا كُونُٓوا اَنْصَارَ اللّٰهِ كَمَا قَالَ ع۪يسَى ابْنُ مَرْيَمَ لِلْحَوَارِيّ۪نَ مَنْ اَنْصَار۪ٓي اِلَى اللّٰهِۜ قَالَ الْحَوَارِيُّونَ نَحْنُ اَنْصَارُ اللّٰهِ فَاٰمَنَتْ طَٓائِفَةٌ مِنْ بَن۪ٓي اِسْرَٓائ۪لَ وَكَـفَرَتْ طَٓائِفَةٌۚ فَاَيَّدْنَا الَّذ۪ينَ اٰمَنُوا عَلٰى عَدُوِّهِمْ فَاَصْبَحُوا ظَاهِر۪ينَ",
-            "translation": "Ey iman edenler, Allah´ın yardımcıları olun: Meryem oğlu İsa´nın havarilere: &quot;Allah´a (yönelirken) benim yardımcılarım kimlerdir?&quot; demesi gibi. Havariler de demişlerdi ki: &quot;Allah´ın yardımcıları bizleriz.&quot; Böylece İsrailoğulları´ndan bir topluluk iman etmiş, bir topluluk da inkar etmişti. Sonunda Biz iman edenleri düşmanlarına karşı destekledik, onlar da üstün geldiler.",
+            "translation": "Ey îmân edenler! Allah'ın (dîninin) yardımcıları olun; nitekim Meryemoğlu Îsâ, havârîlere: “Allah'a, (O'nun dînine olan hizmette) benim yardımcılarım kimlerdir?” demişti. Havârîler dedi ki: “Allah'ın (dîninin) yardımcıları, biziz!” Böylece, İsrâiloğullarından bir tâife îmân etti, bir tâife de inkâr etti. Artık îmân edenlere düşmanlarına karşı kuvvet verdik de(onlar) galib gelen kimseler oldular.",
             "originals": [
                 "يَٓا اَيُّهَا",
                 "الَّذ۪ينَ اٰمَنُوا",

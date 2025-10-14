@@ -1,12 +1,13 @@
 {
     "id": "ihlas-suresi",
     "name": "İhlas Suresi",
-    "description": "İhlas Suresi",
+    "description": "İhlas Suresi - 112. sure",
+    "index": 112,
     "sentences": [
         {
             "id": "1",
             "sentence": "قُلْ هُوَ اللّٰهُ اَحَدٌۚ",
-            "translation": "De ki: O Allah, birdir.",
+            "translation": "De ki: “O Allah, Ehad'dir (birdir)!”",
             "originals": [
                 "قُلْ",
                 "هُوَ",
@@ -23,7 +24,7 @@
         {
             "id": "2",
             "sentence": "اَللّٰهُ الصَّمَدُۚ",
-            "translation": "Allah, Samed´dir (herşey O´na muhtaçtır, daimdir, hiçbir şeye ihtiyacı olmayandır).",
+            "translation": "“Allah, Sameddir (herşey her cihetle O'na muhtaç olduğu hâlde, O hiçbir şeye muhtaç olmayandır)!”",
             "originals": [
                 "اَللّٰهُ",
                 "الصَّمَدُۚ"
@@ -36,7 +37,7 @@
         {
             "id": "3",
             "sentence": "لَمْ يَلِدْ وَلَمْ يُولَدْۙ",
-            "translation": "O, doğurmamıştır ve doğurulmamıştır.",
+            "translation": "“Doğurmamıştır ve doğurulmamıştır!”",
             "originals": [
                 "لَمْ يَلِدْ",
                 "وَلَمْ يُولَدْۙ"
@@ -49,7 +50,7 @@
         {
             "id": "4",
             "sentence": "وَلَمْ يَكُنْ لَهُ كُفُواً اَحَدٌ",
-            "translation": "Ve hiçbir şey O´nun dengi değildir.",
+            "translation": "“Ve O'na hiçbir şey denk olmamıştır!”",
             "originals": [
                 "وَلَمْ يَكُنْ",
                 "لَهُ",

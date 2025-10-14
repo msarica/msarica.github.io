@@ -1,12 +1,13 @@
 {
     "id": "duha-suresi",
     "name": "Duha Suresi",
-    "description": "Duha Suresi",
+    "description": "Duha Suresi - 93. sure",
+    "index": 93,
     "sentences": [
         {
             "id": "1",
             "sentence": "وَالضُّحٰىۙ",
-            "translation": "Kuşluk vaktine andolsun,",
+            "translation": "Yemîn olsun duhâ'ya (kuşluk vaktine)!",
             "originals": [
                 "وَالضُّحٰىۙ"
             ],
@@ -17,7 +18,7 @@
         {
             "id": "2",
             "sentence": "وَالَّيْلِ اِذَا سَجٰىۙ",
-            "translation": "´Karanlığı iyice çöktüğü´ zaman geceye,",
+            "translation": "Ve sükûna erdiği zaman, geceye!",
             "originals": [
                 "وَالَّيْلِ",
                 "اِذَا سَجٰىۙ"
@@ -30,7 +31,7 @@
         {
             "id": "3",
             "sentence": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلٰىۜ",
-            "translation": "Rabbin seni terk etmedi ve darılmadı.",
+            "translation": "(Habîbim, yâ Muhammed! Vahiy bir müddet gecikmekle) Rabbin seni ne terk etti, ne de (sana) darıldı!",
             "originals": [
                 "مَا وَدَّعَكَ",
                 "رَبُّكَ",
@@ -45,7 +46,7 @@
         {
             "id": "4",
             "sentence": "وَلَلْاٰخِرَةُ خَيْرٌ لَكَ مِنَ الْاُو۫لٰىۜ",
-            "translation": "Şüphesiz senin için son olan, ilk olandan (ahiret dünyadan) daha hayırlıdır.",
+            "translation": "Gerçekten sonraki (âhiret) ise, senin için evvelkinden (dünyadan) daha hayırlıdır.",
             "originals": [
                 "وَلَلْاٰخِرَةُ",
                 "خَيْرٌ",
@@ -62,7 +63,7 @@
         {
             "id": "5",
             "sentence": "وَلَسَوْفَ يُعْط۪يكَ رَبُّكَ فَتَـرْضٰىۜ",
-            "translation": "Elbette Rabbin sana verecek, böylece sen hoşnut kalacaksın.",
+            "translation": "Ve Rabbin, elbette ileride (âhiret gününde) sana (ümmetinden dilediğine şefâat etme hakkı) verecek (sen) de hoşnûd olacaksın!",
             "originals": [
                 "وَلَسَوْفَ",
                 "يُعْط۪يكَ",
@@ -79,7 +80,7 @@
         {
             "id": "6",
             "sentence": "اَلَمْ يَجِدْكَ يَت۪ـيـماً فَاٰوٰىۖ",
-            "translation": "Bir yetim iken, seni bulup da barındırmadı mı?",
+            "translation": "(O,) seni bir yetim iken bulup (seni seçip, amcan Ebû Tâlib'in yanında) barındırmadı mı?",
             "originals": [
                 "اَلَمْ يَجِدْكَ",
                 "يَت۪ـيـماً",
@@ -94,7 +95,7 @@
         {
             "id": "7",
             "sentence": "وَوَجَدَكَ ضَٓالاًّ فَهَدٰىۖ",
-            "translation": "Ve seni yol bilmez iken, ´doğru yola yöneltip iletmedi mi?",
+            "translation": "Hem (sen henüz peygamberlik ve şer'î hükümlerden) habersiz iken seni bulup, yol göstermedi mi?",
             "originals": [
                 "وَوَجَدَكَ",
                 "ضَٓالاًّ",
@@ -109,7 +110,7 @@
         {
             "id": "8",
             "sentence": "وَوَجَدَكَ عَٓائِلاً فَاَغْنٰىۜ",
-            "translation": "Bir yoksul iken seni bulup zengin etmedi mi?",
+            "translation": "Hem seni fakir iken bulup da zengin etmedi mi?",
             "originals": [
                 "وَوَجَدَكَ",
                 "عَٓائِلاً",
@@ -124,7 +125,7 @@
         {
             "id": "9",
             "sentence": "فَاَمَّا الْيَت۪يمَ فَلَا تَقْهَرْۜ",
-            "translation": "Öyleyse, sakın yetimi üzüp-kahretme.",
+            "translation": "O hâlde yetîme gelince, sakın (onu) ezme!",
             "originals": [
                 "فَاَمَّا",
                 "الْيَت۪يمَ",
@@ -139,7 +140,7 @@
         {
             "id": "10",
             "sentence": "وَاَمَّا السَّٓائِلَ فَلَا تَنْهَرْۜ",
-            "translation": "İsteyip-dileneni azarlayıp-çıkışma.",
+            "translation": "Ve dilenciye gelince, sakın (onu) azarlama!",
             "originals": [
                 "وَاَمَّا",
                 "السَّٓائِلَ",
@@ -154,7 +155,7 @@
         {
             "id": "11",
             "sentence": "وَاَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
-            "translation": "Rabbinin nimetini durmaksızın anlat.",
+            "translation": "Ve Rabbinin ni'metine gelince, artık (onu şükranla) anlat!",
             "originals": [
                 "وَاَمَّا",
                 "بِنِعْمَةِ",

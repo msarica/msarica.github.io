@@ -1,12 +1,13 @@
 {
     "id": "zilzal-suresi",
     "name": "Zilzal Suresi",
-    "description": "Zilzal Suresi",
+    "description": "Zilzal Suresi - 99. sure",
+    "index": 99,
     "sentences": [
         {
             "id": "1",
             "sentence": "اِذَا زُلْزِلَتِ الْاَرْضُ زِلْزَالَهَاۙ",
-            "translation": "Yer, o şiddetli sarsıntısıyla sarsıldığı,",
+            "translation": "1,2,3. Yer, (o şiddetli) zilzâl'iyle (sarsıntısıyla) sarsıldığı; yeryüzü, ağırlıklarını(dışarıya) çıkardığı ve insan: “Buna ne oluyor?” dediği zaman!",
             "originals": [
                 "اِذَا",
                 "زُلْزِلَتِ",
@@ -23,7 +24,7 @@
         {
             "id": "2",
             "sentence": "وَاَخْرَجَتِ الْاَرْضُ اَثْقَالَهَاۙ",
-            "translation": "Yer, ağırlıklarını dışa atıp-çıkardığı,",
+            "translation": "1,2,3. Yer, (o şiddetli) zilzâl'iyle (sarsıntısıyla) sarsıldığı; yeryüzü, ağırlıklarını(dışarıya) çıkardığı ve insan: “Buna ne oluyor?” dediği zaman!",
             "originals": [
                 "وَاَخْرَجَتِ",
                 "الْاَرْضُ",
@@ -38,7 +39,7 @@
         {
             "id": "3",
             "sentence": "وَقَالَ الْاِنْسَانُ مَا لَهَاۚ",
-            "translation": "Ve insan: &quot;Buna ne oluyor?&quot; dediği zaman;",
+            "translation": "1,2,3. Yer, (o şiddetli) zilzâl'iyle (sarsıntısıyla) sarsıldığı; yeryüzü, ağırlıklarını(dışarıya) çıkardığı ve insan: “Buna ne oluyor?” dediği zaman!",
             "originals": [
                 "وَقَالَ",
                 "الْاِنْسَانُ",
@@ -53,7 +54,7 @@
         {
             "id": "4",
             "sentence": "يَوْمَئِذٍ تُحَدِّثُ اَخْبَارَهَاۙ",
-            "translation": "O gün (yer), haberlerini anlatacaktır.",
+            "translation": "O gün (yer, bütün) haberlerini anlatır.",
             "originals": [
                 "يَوْمَئِذٍ",
                 "تُحَدِّثُ",
@@ -68,7 +69,7 @@
         {
             "id": "5",
             "sentence": "بِاَنَّ رَبَّكَ اَوْحٰى لَهَاۜ",
-            "translation": "Çünkü senin Rabbin, ona vahyetmiştir.",
+            "translation": "Çünki Rabbin, (bunu) ona vahyetmiştir (emretmiştir).",
             "originals": [
                 "بِاَنَّ",
                 "رَبَّكَ",
@@ -83,7 +84,7 @@
         {
             "id": "6",
             "sentence": "يَوْمَئِذٍ يَصْدُرُ النَّاسُ اَشْتَاتاً لِيُرَوْا اَعْمَالَهُمْۜ",
-            "translation": "O gün insanlar, amelleri kendilerine gösterilsin diye, bölük bölük fırlayıp-çıkarlar.",
+            "translation": "O gün insanlar, amelleri(nin karşılığı) kendilerine gösterilmek için (mahşer yerinden)bölük bölük (Cennet ve Cehennemdeki yerlerine) döner(ler).",
             "originals": [
                 "يَوْمَئِذٍ",
                 "يَصْدُرُ",
@@ -104,7 +105,7 @@
         {
             "id": "7",
             "sentence": "فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْراً يَرَهُۜ",
-            "translation": "Artık kim zerre ağırlığınca hayır işlerse, onu görür.",
+            "translation": "Artık kim zerre kadar bir hayır yapıyorsa, onu görecek!",
             "originals": [
                 "فَمَنْ",
                 "يَعْمَلْ",
@@ -125,7 +126,7 @@
         {
             "id": "8",
             "sentence": "وَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَراًّ يَرَهُ",
-            "translation": "Artık kim zerre ağırlığınca bir şer (kötülük) işlerse, onu görür.",
+            "translation": "Kim de zerre kadar bir şer işliyorsa, onu görecek!",
             "originals": [
                 "وَمَنْ",
                 "يَعْمَلْ",

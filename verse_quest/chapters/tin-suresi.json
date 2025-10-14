@@ -1,12 +1,13 @@
 {
     "id": "tin-suresi",
     "name": "Tin Suresi",
-    "description": "Tin Suresi",
+    "description": "Tin Suresi - 95. sure",
+    "index": 95,
     "sentences": [
         {
             "id": "1",
             "sentence": "وَالتّ۪ينِ وَالزَّيْتُونِۙ",
-            "translation": "İncire ve zeytine andolsun,",
+            "translation": "Yemîn olsun tîn'e (incire) ve zeytine!",
             "originals": [
                 "وَالتّ۪ينِ",
                 "وَالزَّيْتُونِۙ"
@@ -19,7 +20,7 @@
         {
             "id": "2",
             "sentence": "وَطُورِ س۪ين۪ينَۙ",
-            "translation": "Sina dağına,",
+            "translation": "Ve Sînâ dağına!",
             "originals": [
                 "وَطُورِ س۪ين۪ينَۙ"
             ],
@@ -30,7 +31,7 @@
         {
             "id": "3",
             "sentence": "وَهٰذَا الْبَلَدِ الْاَم۪ينِۙ",
-            "translation": "Ve şu emin beldeye (güvenilir şehre).",
+            "translation": "Ve bu emîn beldeye (Mekke'ye)!",
             "originals": [
                 "وَهٰذَا",
                 "الْبَلَدِ",
@@ -45,7 +46,7 @@
         {
             "id": "4",
             "sentence": "لَقَدْ خَلَقْنَا الْاِنْسَانَ ف۪ٓي اَحْسَنِ تَقْو۪يمٍۘ",
-            "translation": "Doğrusu, Biz insanı en güzel bir biçimde yarattık.",
+            "translation": "Gerçekten (biz) insanı, en güzel bir biçimde yarattık!",
             "originals": [
                 "لَقَدْ",
                 "خَلَقْنَا",
@@ -64,7 +65,7 @@
         {
             "id": "5",
             "sentence": "ثُمَّ رَدَدْنَاهُ اَسْفَلَ سَافِل۪ينَۙ",
-            "translation": "Sonra aşağıların aşağısına çevirdik.",
+            "translation": "Sonra onu, aşağıların aşağısına çevirdik.",
             "originals": [
                 "ثُمَّ",
                 "رَدَدْنَاهُ",
@@ -81,7 +82,7 @@
         {
             "id": "6",
             "sentence": "اِلَّا الَّذ۪ينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَلَهُمْ اَجْرٌ غَيْرُ مَمْنُونٍۜ",
-            "translation": "Ancak iman edip salih amellerde bulunanlar başka; onlar için kesintisi olmayan bir ecir vardır.",
+            "translation": "Ancak îmân edip sâlih ameller işleyenler müstesnâ; artık onlar için, tükenmez bir mükâfât vardır.",
             "originals": [
                 "اِلَّا",
                 "الَّذ۪ينَ اٰمَنُوا",
@@ -104,7 +105,7 @@
         {
             "id": "7",
             "sentence": "فَمَا يُكَذِّبُكَ بَعْدُ بِالدّ۪ينِۜ",
-            "translation": "Öyleyse bundan sonra, hangi şey sana dini yalanlatabilir?",
+            "translation": "O hâlde (ey insan), bundan sonra sana dîni (hesab gününü) yalanlattıran nedir?",
             "originals": [
                 "فَمَا يُكَذِّبُكَ",
                 "بَعْدُ",
@@ -119,7 +120,7 @@
         {
             "id": "8",
             "sentence": "اَلَيْسَ اللّٰهُ بِاَحْكَمِ الْحَاكِم۪ينَ",
-            "translation": "Allah hükmedenlerin hakimi değil midir?",
+            "translation": "Allah, hükmedenlerin en (iyi) hükmedeni değil midir? (Evet!)",
             "originals": [
                 "اَلَيْسَ",
                 "اللّٰهُ",

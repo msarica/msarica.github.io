@@ -1,12 +1,13 @@
 {
     "id": "beyyine-suresi",
     "name": "Beyyine Suresi",
-    "description": "Beyyine Suresi",
+    "description": "Beyyine Suresi - 98. sure",
+    "index": 98,
     "sentences": [
         {
             "id": "1",
             "sentence": "لَمْ يَكُنِ الَّذ۪ينَ كَفَرُوا مِنْ اَهْلِ الْـكِتَابِ وَالْمُشْرِك۪ينَ مُنْفَكّ۪ينَ حَتّٰى تَأْتِيَهُمُ الْبَيِّنَةُۙ",
-            "translation": "Kitap Ehlinden ve müşriklerden inkar edenler, kendilerine apaçık bir delil gelinceye kadar, (bulundukları durumdan) kopup-ayrılacak değillerdi.",
+            "translation": "Kitab ehlinden ve müşriklerden inkâr edenler, kendilerine beyyine (apaçık delil)gelinceye kadar (bulundukları dinden) ayrılacak kimseler değildi.",
             "originals": [
                 "لَمْ يَكُنِ",
                 "الَّذ۪ينَ كَفَرُوا",
@@ -33,7 +34,7 @@
         {
             "id": "2",
             "sentence": "رَسُولٌ مِنَ اللّٰهِ يَتْلُوا صُحُفاً مُطَهَّرَةًۙ",
-            "translation": "(O delil de) Allah´tan gönderilmiş-bir elçi (ki,) tertemiz sahifeleri okumaktadır;",
+            "translation": "(İstedikleri bu delil) Allah tarafından gönderilmiş bir peygamberdir ki, (onlara) temiz kılınmış sahîfeleri (Kur'ân'ı) okur.",
             "originals": [
                 "رَسُولٌ",
                 "مِنَ اللّٰهِ",
@@ -52,7 +53,7 @@
         {
             "id": "3",
             "sentence": "ف۪يهَا كُتُبٌ قَيِّمَةٌۜ",
-            "translation": "Onların içinde dosdoğru ´yazılı-hükümler´ vardır.",
+            "translation": "Onda dosdoğru yazılar (hükümler) vardır.",
             "originals": [
                 "ف۪يهَا",
                 "كُتُبٌ",
@@ -67,7 +68,7 @@
         {
             "id": "4",
             "sentence": "وَمَا تَفَرَّقَ الَّذ۪ينَ اُو۫تُوا الْـكِتَابَ اِلَّا مِنْ بَعْدِ مَا جَٓاءَتْهُمُ الْبَيِّنَةُۜ",
-            "translation": "Kitap Ehlinden olanlar, ancak kendilerine apaçık belgeler geldikten sonra fırkalara ayrıldılar.",
+            "translation": "Böyleyken o kitab verilenler, ancak kendilerine o apaçık delil geldikten sonra ayrılığa düştü.",
             "originals": [
                 "وَمَا تَفَرَّقَ",
                 "الَّذ۪ينَ اُو۫تُوا",
@@ -90,7 +91,7 @@
         {
             "id": "5",
             "sentence": "وَمَٓا اُمِرُٓوا اِلَّا لِيَعْبُدُوا اللّٰهَ مُخْلِص۪ينَ لَهُ الدّ۪ينَ حُنَفَٓاءَ وَيُق۪يمُوا الصَّلٰوةَ وَيُؤْتُوا الزَّكٰوةَ وَذٰلِكَ د۪ينُ الْقَيِّمَةِۜ",
-            "translation": "Oysa onlar, dini yalnızca O´na halis kılan hanifler (Allah´ı birleyenler) olarak sadece Allah´a kulluk etmek, namazı dosdoğru kılmak ve zekatı vermekten başkasıyla emrolunmadılar. İşte en doğru (dimdik ve sapasağlam) din budur.",
+            "translation": "Hâlbuki (onlara) ancak, dinde ihlâslı (samîmî) kimseler, hakka yönelmişler olarak O'nun (rızâsı) için yalnız Allah'a kulluk etmeleri, namazı hakkıyla edâ etmeleri ve zekât vermeleri emrolunmuştu. İşte bu ise, doğru dindir!",
             "originals": [
                 "وَمَٓا اُمِرُٓوا",
                 "اِلَّا",
@@ -129,7 +130,7 @@
         {
             "id": "6",
             "sentence": "اِنَّ الَّذ۪ينَ كَفَرُوا مِنْ اَهْلِ الْـكِتَابِ وَالْمُشْرِك۪ينَ ف۪ي نَارِ جَهَنَّمَ خَالِد۪ينَ ف۪يهَاۜ اُو۬لٰٓئِكَ هُمْ شَرُّ الْبَرِيَّةِۜ",
-            "translation": "Şüphesiz, Kitap Ehlinden ve müşriklerden inkar edenler, içinde sürekli kalıcılar olmak üzere cehennem ateşindedirler. İşte onlar, yaratılmışların en kötüleridir.",
+            "translation": "Şübhesiz ki kitab ehlinden ve müşriklerden inkâr edenler, Cehennem ateşindedirler; orada ebedî olarak kalıcıdırlar. İşte mahlûkatın en şerlisi ancak onlardır!",
             "originals": [
                 "اِنَّ",
                 "الَّذ۪ينَ كَفَرُوا",
@@ -164,7 +165,7 @@
         {
             "id": "7",
             "sentence": "اِنَّ الَّذ۪ينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِۙ اُو۬لٰٓئِكَ هُمْ خَيْرُ الْبَرِيَّةِۜ",
-            "translation": "İman edip salih amellerde bulunanlar ise; işte onlar da, yaratılmışların en hayırlılarıdır.",
+            "translation": "Şübhesiz ki îmân edip sâlih ameller işleyenler var ya, işte mahlûkatın en hayırlısı (da)ancak onlardır!",
             "originals": [
                 "اِنَّ",
                 "الَّذ۪ينَ اٰمَنُوا",
@@ -189,7 +190,7 @@
         {
             "id": "8",
             "sentence": "جَزَٓاؤُ۬هُمْ عِنْدَ رَبِّهِمْ جَنَّاتُ عَدْنٍ تَجْر۪ي مِنْ تَحْتِهَا الْاَنْهَارُ خَالِد۪ينَ ف۪يهَٓا اَبَداًۜ رَضِيَ اللّٰهُ عَنْهُمْ وَرَضُوا عَنْهُۜ ذٰلِكَ لِمَنْ خَشِيَ رَبَّهُ",
-            "translation": "Rableri Katında onların ödülleri, içinde ebedi kalıcılar olmak üzere altından ırmaklar akan Adn cennetleridir. Allah, onlardan razı olmuştur, kendileri de O´ndan razı (hoşnut, memnun) kalmışlardır. İşte bu, Rabbinden ´içi titreyerek korku duyan kimse´ içindir.",
+            "translation": "Onların Rableri katındaki mükâfâtı, altlarından ırmaklar akan Adn Cennetleridir; orada ebedî olarak devamlı kalıcıdırlar. Allah onlardan râzı olmuştur ve (onlar da) O'ndan râzı olmuşlardır. İşte bu (karşılık), Rabbisinden korkan kimseler içindir.",
             "originals": [
                 "جَزَٓاؤُ۬هُمْ",
                 "عِنْدَ",

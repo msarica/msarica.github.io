@@ -1,12 +1,13 @@
 {
     "id": "tekasur-suresi",
     "name": "Tekasür Suresi",
-    "description": "Tekasür Suresi",
+    "description": "Tekasür Suresi - 102. sure",
+    "index": 102,
     "sentences": [
         {
             "id": "1",
             "sentence": "اَلْهٰيكُمُ التَّكَاثُرُۙ",
-            "translation": "(Mal, mülk ve servette) Çoklukla övünmek, sizi ´tutkuyla oyalayıp, kendinizden geçirdi.´",
+            "translation": "1,2. Sizi tekâsür'le (o çoklukla, mal ve evlâd çokluğuyla) övünmek (o kadar) oyaladı ki, nihâyet kabirleri ziyâret ettiniz (ve artık ölmüş olanlarınızı dahi sayarak gururlandınız)!",
             "originals": [
                 "اَلْهٰيكُمُ",
                 "التَّكَاثُرُۙ"
@@ -19,7 +20,7 @@
         {
             "id": "2",
             "sentence": "حَتّٰى زُرْتُمُ الْمَقَابِرَۜ",
-            "translation": "&quot;Öyle ki (bu,) mezarı ziyaretinize (kabre gidişinize, ölümünüze) kadar sürdü.&quot;",
+            "translation": "1,2. Sizi tekâsür'le (o çoklukla, mal ve evlâd çokluğuyla) övünmek (o kadar) oyaladı ki, nihâyet kabirleri ziyâret ettiniz (ve artık ölmüş olanlarınızı dahi sayarak gururlandınız)!",
             "originals": [
                 "حَتّٰى",
                 "زُرْتُمُ",
@@ -34,7 +35,7 @@
         {
             "id": "3",
             "sentence": "كَلَّا سَوْفَ تَعْلَمُونَۙ",
-            "translation": "Hayır; ileride bileceksiniz.",
+            "translation": "Hayır! İleride bileceksiniz!",
             "originals": [
                 "كَلَّا",
                 "سَوْفَ",
@@ -49,7 +50,7 @@
         {
             "id": "4",
             "sentence": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَۜ",
-            "translation": "Yine hayır; ileride bileceksiniz.",
+            "translation": "Sonra (yine) hayır! İleride bileceksiniz!",
             "originals": [
                 "ثُمَّ",
                 "كَلَّا",
@@ -66,7 +67,7 @@
         {
             "id": "5",
             "sentence": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَق۪ينِۜ",
-            "translation": "Hayır; eğer siz kesin bir bilgiyle bilmiş olsaydınız,",
+            "translation": "Hayır! Eğer (gerçeği) kat'î bir ilimle bilseydiniz (böyle yapmazdınız)!",
             "originals": [
                 "كَلَّا",
                 "لَوْ",
@@ -85,7 +86,7 @@
         {
             "id": "6",
             "sentence": "لَتَرَوُنَّ الْجَح۪يمَۙ",
-            "translation": "Andolsun, o çılgınca yanan ateşi de elbette görecektiniz.",
+            "translation": "And olsun (siz) Cehennemi mutlaka göreceksiniz!",
             "originals": [
                 "لَتَرَوُنَّ",
                 "الْجَح۪يمَۙ"
@@ -98,7 +99,7 @@
         {
             "id": "7",
             "sentence": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَق۪ينِۙ",
-            "translation": "Sonra onu, gerçekten yakîn gözüyle (Ayne´l Yakîn) görmüş olacaksınız.",
+            "translation": "Sonra (yine) and olsun, siz onu gözün(üzün) kat'î bilişiyle göreceksiniz!",
             "originals": [
                 "ثُمَّ",
                 "لَتَرَوُنَّهَا",
@@ -115,7 +116,7 @@
         {
             "id": "8",
             "sentence": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ النَّع۪يمِ",
-            "translation": "Sonra o gün, nimetten sorguya çekileceksiniz.",
+            "translation": "Sonra o gün, (size dünyada verilmiş olan) ni'metlerden (teker teker) mutlaka sorulacaksınız!",
             "originals": [
                 "ثُمَّ",
                 "لَتُسْـَٔلُنَّ",

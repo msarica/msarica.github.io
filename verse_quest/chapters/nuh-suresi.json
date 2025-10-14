@@ -1,12 +1,13 @@
 {
     "id": "nuh-suresi",
     "name": "Nuh Suresi",
-    "description": "Nuh Suresi",
+    "description": "Nuh Suresi - 71. sure",
+    "index": 71,
     "sentences": [
         {
             "id": "1",
             "sentence": "اِنَّٓا اَرْسَلْنَا نُوحاً اِلٰى قَوْمِه۪ٓ اَنْ اَنْذِرْ قَوْمَكَ مِنْ قَبْلِ اَنْ يَأْتِيَهُمْ عَذَابٌ اَل۪يمٌ",
-            "translation": "Şüphesiz, Biz Nuh´u; &quot;Kavmini, onlara acı bir azap gelmeden evvel uyar&quot; diye kendi kavmine (peygamber olarak) gönderdik.",
+            "translation": "Şübhesiz ki biz Nûh'u kavmine: “Kendilerine çok elemli bir azab gelmeden önce, kavmini korkut!” diye gönderdik.",
             "originals": [
                 "اِنَّٓا",
                 "اَرْسَلْنَا",
@@ -37,7 +38,7 @@
         {
             "id": "2",
             "sentence": "قَالَ يَا قَوْمِ اِنّ۪ي لَـكُمْ نَذ۪يرٌ مُب۪ينٌۙ",
-            "translation": "O da dedi ki: &quot;Ey Kavmim, gerçek şu ki, ben size (gönderilmiş) apaçık bir uyarıcıyım.&quot;",
+            "translation": "(Ve Nuh onlara) dedi ki: “Ey kavmim! Doğrusu ben, sizin için (Allah'ın azâbından haber veren) apaçık bir korkutucuyum!”",
             "originals": [
                 "قَالَ",
                 "يَا قَوْمِ",
@@ -58,7 +59,7 @@
         {
             "id": "3",
             "sentence": "اَنِ اعْبُدُوا اللّٰهَ وَاتَّقُوهُ وَاَط۪يعُونِۙ",
-            "translation": "&quot;Allah´a kulluk edin, O´ndan korkun ve bana itaat edin.&quot;",
+            "translation": "3,4. “Şöyle ki: Allah'a kulluk edin, O'ndan sakının ve bana itâat edin. (Tâ ki Allah,)günahlarınızdan bir kısmını size bağışlasın ve sizi(n ecelinizi) belirli bir vakte kadar ertelesin! Şübhe yok ki Allah'ın (size takdîr ettiği) eceli geldiği zaman, ertelenmez! Eğer biliyor olsaydınız!”",
             "originals": [
                 "اَنِ اعْبُدُوا",
                 "اللّٰهَ",
@@ -75,7 +76,7 @@
         {
             "id": "4",
             "sentence": "يَغْفِرْ لَـكُمْ مِنْ ذُنُوبِكُمْ وَيُؤَخِّرْكُمْ اِلٰٓى اَجَلٍ مُسَمًّىۜ اِنَّ اَجَلَ اللّٰهِ اِذَا جَٓاءَ لَا يُؤَخَّرُۢ لَوْ كُنْتُمْ تَعْلَمُونَ",
-            "translation": "&quot;Ki günahlarınızı bağışlasın ve sizi adı konulmuş bir ecele kadar ertelesin. Elbette Allah´ın eceli geldiği zaman, o ertelenmez. Bir bilmiş olsaydınız.&quot;",
+            "translation": "3,4. “Şöyle ki: Allah'a kulluk edin, O'ndan sakının ve bana itâat edin. (Tâ ki Allah,)günahlarınızdan bir kısmını size bağışlasın ve sizi(n ecelinizi) belirli bir vakte kadar ertelesin! Şübhe yok ki Allah'ın (size takdîr ettiği) eceli geldiği zaman, ertelenmez! Eğer biliyor olsaydınız!”",
             "originals": [
                 "يَغْفِرْ",
                 "لَـكُمْ",
@@ -118,7 +119,7 @@
         {
             "id": "5",
             "sentence": "قَالَ رَبِّ اِنّ۪ي دَعَوْتُ قَوْم۪ي لَيْلاً وَنَهَاراًۙ",
-            "translation": "Dedi ki: &quot;Rabbim, gerçekten kavmimi gece ve gündüz davet edip-durdum.&quot;",
+            "translation": "(Nûh) dedi ki: “Rabbim! Doğrusu ben, kavmimi gece gündüz (îmân etmeye) da'vet ettim.”",
             "originals": [
                 "قَالَ",
                 "رَبِّ",
@@ -141,7 +142,7 @@
         {
             "id": "6",
             "sentence": "فَلَمْ يَزِدْهُمْ دُعَٓاء۪ٓي اِلَّا فِرَاراً",
-            "translation": "&quot;Fakat davet etmem, bir kaçıştan başkasını arttırmadı.&quot;",
+            "translation": "“Fakat benim da'vetim onlara, (hakka yönelmekten) kaçma(ların)dan başka bir şeyi artırmadı.”",
             "originals": [
                 "فَلَمْ يَزِدْهُمْ",
                 "دُعَٓاء۪ٓي",
@@ -158,7 +159,7 @@
         {
             "id": "7",
             "sentence": "وَاِنّ۪ي كُلَّمَا دَعَوْتُهُمْ لِتَغْفِرَ لَهُمْ جَعَلُٓوا اَصَابِعَهُمْ ف۪ٓي اٰذَانِهِمْ وَاسْتَغْشَوْا ثِيَابَهُمْ وَاَصَرُّوا وَاسْتَكْبَرُوا اسْتِكْبَاراًۚ",
-            "translation": "&quot;Doğrusu ben, onları bağışlaman için her davet edişimde, onlar parmaklarını kulaklarına tıkadılar, örtülerini başlarına çektiler ve büyüklük tasladıkça büyüklük gösterip-direttiler.´",
+            "translation": "“Ve doğrusu ben, onlara mağfiret etmen için kendilerini ne zaman (îmân etmeye)da'vet ettiysem, parmaklarını kulaklarına tıkadılar, (beni görmemek için) elbiselerine büründüler, (inkârlarında da) ısrâr ettiler ve büyüklük tasladıkça tasladılar.”",
             "originals": [
                 "وَاِنّ۪ي",
                 "كُلَّمَا",
@@ -193,7 +194,7 @@
         {
             "id": "8",
             "sentence": "ثُمَّ اِنّ۪ي دَعَوْتُهُمْ جِهَاراًۙ",
-            "translation": "&quot;Sonra onları açıktan açığa davet ettim.&quot;",
+            "translation": "“Sonra şübhesiz ben, onları yüksek sesle (açıkça) da'vet ettim.”",
             "originals": [
                 "ثُمَّ",
                 "اِنّ۪ي",
@@ -210,7 +211,7 @@
         {
             "id": "9",
             "sentence": "ثُمَّ اِنّ۪ٓي اَعْلَنْتُ لَهُمْ وَاَسْرَرْتُ اِسْرَاراًۙ",
-            "translation": "&quot;Daha sonra (davamı) onlara açıkça ilan ettim ve kendilerine gizli gizli yollarla yanaşmak istedim.&quot;",
+            "translation": "“Sonra doğrusu ben, onlara (hem) i'lân ettim, (hem) kendilerine gizli gizli de söyledim.”",
             "originals": [
                 "ثُمَّ",
                 "اِنّ۪ٓي",
@@ -231,7 +232,7 @@
         {
             "id": "10",
             "sentence": "فَقُلْتُ اسْتَغْفِرُوا رَبَّكُمْ اِنَّهُ كَانَ غَفَّاراًۙ",
-            "translation": "&quot;Bundan böyle&quot; dedim. &quot;Rabbinizden mağfiret isteyin; çünkü gerçekten O, çok bağışlayandır.",
+            "translation": "“Hem 'Rabbinize istiğfâr edin (O'ndan mağfiret dileyin); çünki O, Gaffâr (çok bağışlayıcı)dır!' dedim.”",
             "originals": [
                 "فَقُلْتُ",
                 "اسْتَغْفِرُوا",
@@ -250,7 +251,7 @@
         {
             "id": "11",
             "sentence": "يُرْسِلِ السَّمَٓاءَ عَلَيْكُمْ مِدْرَاراًۙ",
-            "translation": "&quot;(Öyle yapın ki,) Üzerinize gökten sağanak (bol miktarda yağmur) yağdırsın.&quot;",
+            "translation": "“(Hem onlara dedim ki:) '(O'ndan mağfiret dileyin ki) üzerinize semâyı (gökten yağmuru), bol bol göndersin!' ”",
             "originals": [
                 "يُرْسِلِ",
                 "السَّمَٓاءَ",
@@ -267,7 +268,7 @@
         {
             "id": "12",
             "sentence": "وَيُمْدِدْكُمْ بِاَمْوَالٍ وَبَن۪ينَ وَيَجْعَلْ لَكُمْ جَنَّاتٍ اَنْهَاراًۜ",
-            "translation": "&quot;Size mallar ve çocuklarla yardımda bulunsun. Size (ürün yüklü) bağlar-bahçeler versin, ırmaklar da versin.&quot;",
+            "translation": "“Size mallar ve oğullar ile yardım etsin, sizin için (yeryüzünde) nice bahçeler kılsın ve size nice ırmaklar meydana getirsin!”",
             "originals": [
                 "وَيُمْدِدْكُمْ",
                 "بِاَمْوَالٍ",
@@ -290,7 +291,7 @@
         {
             "id": "13",
             "sentence": "مَا لَكُمْ لَا تَرْجُونَ لِلّٰهِ وَقَاراًۚ",
-            "translation": "&quot;Size ne oluyor ki, Allah´tan bir vakarı ummuyorsunuz?&quot;",
+            "translation": "“Size ne oluyor ki, Allah için bir azamet (O'nun şânına lâyık bir yücelik) ümîd etmiyorsunuz (O'na yakıştıramıyorsunuz)?”",
             "originals": [
                 "مَا لَكُمْ",
                 "لَا تَرْجُونَ",
@@ -307,7 +308,7 @@
         {
             "id": "14",
             "sentence": "وَقَدْ خَلَقَكُمْ اَطْوَاراً",
-            "translation": "&quot;Oysa O, sizi gerçekten tavır tavır yaratmıştır.&quot;",
+            "translation": "“Hâlbuki (O), sizi tavırdan tavıra geçirerek yarattı.”",
             "originals": [
                 "وَقَدْ",
                 "خَلَقَكُمْ",
@@ -322,7 +323,7 @@
         {
             "id": "15",
             "sentence": "اَلَمْ تَرَوْا كَيْفَ خَلَقَ اللّٰهُ سَبْعَ سَمٰوَاتٍ طِبَاقاًۙ",
-            "translation": "&quot;Görmüyor musunuz; Allah, yedi göğü birbirleriyle bir uyum (mutabakat) içinde yaratmıştır?&quot;",
+            "translation": "“Görmediniz mi, Allah yedi (kat) göğü nasıl tabaka tabaka (birbiriyle âhenkli olarak) yaratmıştır!”",
             "originals": [
                 "اَلَمْ تَرَوْا",
                 "كَيْفَ",
@@ -345,7 +346,7 @@
         {
             "id": "16",
             "sentence": "وَجَعَلَ الْقَمَرَ ف۪يهِنَّ نُوراً الشَّمْسَ سِرَاجاً",
-            "translation": "&quot;Ve ayı bunlar içinde bir nur kılmış, güneşi de (aydınlatıcı ve yakıcı) bir kandil yapmıştır.&quot;",
+            "translation": "“Onların içinde ayı bir nûr yaptı ve güneşi (ışık verici ve ısındırıcı) bir kandil kıldı.”",
             "originals": [
                 "وَجَعَلَ",
                 "الْقَمَرَ",
@@ -366,7 +367,7 @@
         {
             "id": "17",
             "sentence": "وَاللّٰهُ اَنْبَتَكُمْ مِنَ الْاَرْضِ نَبَاتاًۙ",
-            "translation": "&quot;Allah, sizi yerden bir bitki (gibi) bitirdi.&quot;",
+            "translation": "“Ve Allah, sizi yerden (sanki) bir bitki olarak bitirdi (sizi topraktan yarattı).”",
             "originals": [
                 "وَاللّٰهُ",
                 "اَنْبَتَكُمْ",
@@ -383,7 +384,7 @@
         {
             "id": "18",
             "sentence": "ثُمَّ يُع۪يدُكُمْ ف۪يهَا وَيُخْرِجُكُمْ اِخْرَاجاً",
-            "translation": "&quot;Sonra sizi yine oraya geri çevirecek ve sizi (diriltici) bir çıkarışla diriltip-çıkaracaktır.&quot;",
+            "translation": "“Sonra sizi oraya döndürecek ve sizi (yeni) bir çıkarışla (oradan tekrar)çıkaracaktır.”",
             "originals": [
                 "ثُمَّ",
                 "يُع۪يدُكُمْ",
@@ -402,7 +403,7 @@
         {
             "id": "19",
             "sentence": "وَاللّٰهُ جَعَلَ لَـكُمُ الْاَرْضَ بِسَاطاًۙ",
-            "translation": "&quot;Allah, yeri sizin için bir yaygı kıldı.&quot;",
+            "translation": "“Ve Allah, yeri sizin için bir yaygı yaptı.”",
             "originals": [
                 "وَاللّٰهُ",
                 "جَعَلَ",
@@ -421,7 +422,7 @@
         {
             "id": "20",
             "sentence": "لِتَسْلُكُوا مِنْهَا سُبُلاً فِجَاجاً۟",
-            "translation": "&quot;Öyle ki, onun içinde geniş yollarında gezip-dolaşırsınız, diye.&quot;",
+            "translation": "“ 'Tâ ki ondan, birtakım geniş yollarda gidesiniz!' (diye nasîhat ettim).”",
             "originals": [
                 "لِتَسْلُكُوا",
                 "مِنْهَا",
@@ -438,7 +439,7 @@
         {
             "id": "21",
             "sentence": "قَالَ نُوحٌ رَبِّ اِنَّهُمْ عَصَوْن۪ي وَاتَّبَعُوا مَنْ لَمْ يَزِدْهُ مَالُهُ وَوَلَدُهُٓ اِلَّا خَسَاراًۚ",
-            "translation": "Nuh: &quot;Rabbim, gerçekten onlar bana isyan ettiler; mal ve çocukları kendisine ziyandan başka bir şeyi artırmayan kimselere uydular.&quot;",
+            "translation": "Nûh (yine) dedi ki: “Rabbim! Doğrusu onlar, bana isyân ettiler ve malı ile çocuğu kendisine hüsrandan başka bir şey artırmayan kimselere tâbi' oldular.”",
             "originals": [
                 "قَالَ",
                 "نُوحٌ",
@@ -471,7 +472,7 @@
         {
             "id": "22",
             "sentence": "وَمَكَرُوا مَكْراً كُبَّاراًۚ",
-            "translation": "&quot;Ve büyük büyük hileli-düzenler kurdular.&quot;",
+            "translation": "“Hem çok büyük hîle ile tuzaklar kurdular.”",
             "originals": [
                 "وَمَكَرُوا",
                 "مَكْراً",
@@ -486,7 +487,7 @@
         {
             "id": "23",
             "sentence": "وَقَالُوا لَا تَذَرُنَّ اٰلِهَتَكُمْ وَلَا تَذَرُنَّ وَداًّ وَلَا سُوَاعاًۙ وَلَا يَغُوثَ وَيَعُوقَ وَنَسْراًۚ",
-            "translation": "&quot;Ve dediler ki: Kendi ilahlarınızı bırakmayın; bırakmayın ne Vedd´i, ne Suva´ı, ne Yeğus´u, ne Ye´uk´u ve ne de Nesr´i.&quot;",
+            "translation": "“Ve: 'Sakın ilâhlarınızı bırakmayın! (Hele hele büyük putlardan) Vedd'i, Süvâ'ı, Yeğûs'u, Yeûk'u ve Nesr'i sakın bırakmayın!' dediler.”",
             "originals": [
                 "وَقَالُوا",
                 "لَا تَذَرُنَّ",
@@ -513,7 +514,7 @@
         {
             "id": "24",
             "sentence": "وَقَدْ اَضَلُّوا كَث۪يراًۚ وَلَا تَزِدِ الظَّالِم۪ينَ اِلَّا ضَلَالاً",
-            "translation": "&quot;Böylece onlar, çoğu kimseyi şaşırtıp-saptırdılar. Sen de o zalimlere sapıklıktan başkasını arttırma.&quot;",
+            "translation": "“Böylece birçoklarını gerçekten dalâlete düşürdüler. (Rabbim!) O zâlimlere,(mü'minlere kurdukları o tuzaklarda) şaşkınlıktan başka bir şey artırma!”",
             "originals": [
                 "وَقَدْ",
                 "اَضَلُّوا",
@@ -536,7 +537,7 @@
         {
             "id": "25",
             "sentence": "مِمَّا خَط۪ٓيـَٔاتِهِمْ اُغْرِقُوا فَاُدْخِلُوا نَاراً فَلَمْ يَجِدُوا لَهُمْ مِنْ دُونِ اللّٰهِ اَنْصَاراً",
-            "translation": "Bunlar, hataları dolayısıyla suda boğuldular, sonra ateşe sokuldular. O zaman da Allah´ın dışında hiçbir yardımcı bulamadılar.",
+            "translation": "(Onlar) günahları yüzünden (tûfanda) boğuldular da ateşe sokuldular; kendilerine Allah'dan başka yardımcılar da bulamadılar.",
             "originals": [
                 "مِمَّا",
                 "خَط۪ٓيـَٔاتِهِمْ",
@@ -565,7 +566,7 @@
         {
             "id": "26",
             "sentence": "وَقَالَ نُوحٌ رَبِّ لَا تَذَرْ عَلَى الْاَرْضِ مِنَ الْكَافِر۪ينَ دَيَّاراً",
-            "translation": "Nuh &quot;Rabbim, yeryüzünde kafirlerden yurt edinen hiç kimseyi bırakma.&quot; dedi.",
+            "translation": "Ve Nûh dedi ki: “Rabbim! Yeryüzünde o kâfirlerden hiçbir kimseyi bırakma!”",
             "originals": [
                 "وَقَالَ",
                 "نُوحٌ",
@@ -588,7 +589,7 @@
         {
             "id": "27",
             "sentence": "اِنَّكَ اِنْ تَذَرْهُمْ يُضِلُّوا عِبَادَكَ وَلَا يَلِدُٓوا اِلَّا فَاجِراً كَفَّاراً",
-            "translation": "&quot;Çünkü Sen onları bırakacak olursan, Senin kullarını şaşırtıp-saptırırlar ve onlar, kötülükten sınırı aşan (facir´den) kafirden başkasını doğurmazlar.&quot;",
+            "translation": "“Çünki sen onları bırakırsan, kullarını dalâlete düşürürler, hem günahkâr ve azılı kâfirden başkasını doğurmazlar (çocuklarını da öyle yetiştirirler).”",
             "originals": [
                 "اِنَّكَ",
                 "اِنْ",
@@ -615,7 +616,7 @@
         {
             "id": "28",
             "sentence": "رَبِّ اغْفِرْ ل۪ي وَلِوَالِدَيَّ وَلِمَنْ دَخَلَ بَيْتِيَ مُؤْمِناً وَلِلْمُؤْمِن۪ينَ وَالْمُؤْمِنَاتِۜ وَلَا تَزِدِ الظَّالِم۪ينَ اِلَّا تَبَاراً",
-            "translation": "&quot;Rabbim, beni, annemi, babamı, mü´min olarak evime gireni, iman eden erkekleri ve iman eden kadınları bağışla. Zalimlere yıkımdan başkasını arttırma.&quot;",
+            "translation": "“Rabbim! Bana, ana-babama, evime mü'min olarak girene, (bütün) mü'min erkeklere ve mü'min kadınlara mağfiret eyle! Zâlimlere de helâktan başka bir şey artırma!”",
             "originals": [
                 "رَبِّ",
                 "اغْفِرْ",

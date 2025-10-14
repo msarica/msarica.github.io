@@ -1,12 +1,13 @@
 {
     "id": "buruc-suresi",
     "name": "Buruc Suresi",
-    "description": "Buruc Suresi",
+    "description": "Buruc Suresi - 85. sure",
+    "index": 85,
     "sentences": [
         {
             "id": "1",
             "sentence": "وَالسَّمَٓاءِ ذَاتِ الْبُرُوجِۙ",
-            "translation": "Burçları olan göğe andolsun,",
+            "translation": "Yemîn olsun bürûc (burçlar) sâhibi göğe!",
             "originals": [
                 "وَالسَّمَٓاءِ",
                 "ذَاتِ",
@@ -21,7 +22,7 @@
         {
             "id": "2",
             "sentence": "وَالْيَوْمِ الْمَوْعُودِۙ",
-            "translation": "O vadedilen güne,",
+            "translation": "(Geleceği) va'd edilen güne (kıyâmete)!",
             "originals": [
                 "وَالْيَوْمِ",
                 "الْمَوْعُودِۙ"
@@ -34,7 +35,7 @@
         {
             "id": "3",
             "sentence": "وَشَاهِدٍ وَمَشْهُودٍۜ",
-            "translation": "Şahid olana (görene) ve şahit olunana (görülene).",
+            "translation": "Hem (o günde) şâhid olana ve şâhid olunana!",
             "originals": [
                 "وَشَاهِدٍ",
                 "وَمَشْهُودٍۜ"
@@ -47,7 +48,7 @@
         {
             "id": "4",
             "sentence": "قُتِلَ اَصْحَابُ الْاُخْدُودِۙ",
-            "translation": "Kahrolsun Ashab-ı Uhdud",
+            "translation": "4,5. (Ki mü'minlere işkence yapan) o Ashâb-ı Uhdûd, çırayla tutuşturulmuş o (çok şiddetli) ateş (hendeklerinin sâhibleri) kahrolsun!",
             "originals": [
                 "قُتِلَ",
                 "اَصْحَابُ",
@@ -62,7 +63,7 @@
         {
             "id": "5",
             "sentence": "اَلنَّارِ ذَاتِ الْوَقُودِۙ",
-            "translation": "´Tutuşturucu-yakıt dolu o ateş,´",
+            "translation": "4,5. (Ki mü'minlere işkence yapan) o Ashâb-ı Uhdûd, çırayla tutuşturulmuş o (çok şiddetli) ateş (hendeklerinin sâhibleri) kahrolsun!",
             "originals": [
                 "اَلنَّارِ",
                 "ذَاتِ الْوَقُودِۙ"
@@ -75,7 +76,7 @@
         {
             "id": "6",
             "sentence": "اِذْ هُمْ عَلَيْهَا قُعُودٌۙ",
-            "translation": "Hani kendileri (ateş hendeğinin) çevresinde oturmuşlardı.",
+            "translation": "6,7. O vakit onlar, onun üzerine (ateşin etrâfında) oturmuş kimseler idiler. Ve onlar, mü'minlere yapmakta olduklarını seyredicilerdi!",
             "originals": [
                 "اِذْ",
                 "هُمْ",
@@ -92,7 +93,7 @@
         {
             "id": "7",
             "sentence": "وَهُمْ عَلٰى مَا يَفْعَلُونَ بِالْمُؤْمِن۪ينَ شُهُودٌۜ",
-            "translation": "Ve mü´minlere yaptıklarını seyrediyorlardı.",
+            "translation": "6,7. O vakit onlar, onun üzerine (ateşin etrâfında) oturmuş kimseler idiler. Ve onlar, mü'minlere yapmakta olduklarını seyredicilerdi!",
             "originals": [
                 "وَهُمْ",
                 "عَلٰى مَا يَفْعَلُونَ",
@@ -109,7 +110,7 @@
         {
             "id": "8",
             "sentence": "وَمَا نَقَمُوا مِنْهُمْ اِلَّٓا اَنْ يُؤْمِنُوا بِاللّٰهِ الْعَز۪يزِ الْحَم۪يدِۙ",
-            "translation": "Onlardan, yalnızca ´üstün ve güçlü olan,´ öğülen Allah´a iman ettiklerinden dolayı intikam alıyorlardı.",
+            "translation": "Ve onlardan (o mü'minlerden) sâdece, Azîz (kudreti dâimâ üstün olan), Hamîd(hamd edilmeye çok lâyık) olan Allah'a îmân ettikleri için, (sâdece bunun için) intikam aldılar.",
             "originals": [
                 "وَمَا نَقَمُوا",
                 "مِنْهُمْ",
@@ -132,7 +133,7 @@
         {
             "id": "9",
             "sentence": "اَلَّذ۪ي لَهُ مُلْكُ السَّمٰوَاتِ وَالْاَرْضِۜ وَاللّٰهُ عَلٰى كُلِّ شَيْءٍ شَه۪يدٌۜ",
-            "translation": "Ki O (Allah), göklerin ve yerin mülkü O´nundur. Allah, herşeyin üzerinde şahid olandır.",
+            "translation": "O (Allah) ki, göklerin ve yerin mülkü O'nundur. Ve Allah, herşeye hakkıyla şâhiddir.",
             "originals": [
                 "اَلَّذ۪ي",
                 "لَهُ",
@@ -157,7 +158,7 @@
         {
             "id": "10",
             "sentence": "اِنَّ الَّذ۪ينَ فَتَنُوا الْمُؤْمِن۪ينَ وَالْمُؤْمِنَاتِ ثُمَّ لَمْ يَتُوبُوا فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ الْحَر۪يقِۜ",
-            "translation": "Gerçek şu ki, mü´min erkeklerle mü´min kadınlara işkence (fitne) uygulayanlar, sonra tevbe etmeyenler; işte onlar için, cehennem azabı vardır ve yakıcı azap onlaradır.",
+            "translation": "Şübhesiz ki mü'min erkeklere ve mü'min kadınlara (îmanlarından vazgeçmeleri için) işkence edip de, sonra (yaptıklarına) tevbe etmeyenler yok mu, işte onlar için Cehennem azâbı vardır, hem onlar için (bu dünyada da) yangın azâbı vardır (ki o ateş, kendilerini de yakmıştır)!",
             "originals": [
                 "اِنَّ",
                 "الَّذ۪ينَ فَتَنُوا",
@@ -188,7 +189,7 @@
         {
             "id": "11",
             "sentence": "اِنَّ الَّذ۪ينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ جَنَّاتٌ تَجْر۪ي مِنْ تَحْتِهَا الْاَنْهَارُۜ ذٰلِكَ الْفَوْزُ الْـكَب۪يرُۜ",
-            "translation": "Şüphesiz iman edip salih amellerde bulunanlara gelince; onlar için altından ırmaklar akan cennetler vardır. İşte büyük ´kurtuluş ve mutluluk´ budur.",
+            "translation": "Muhakkak ki îmân edip sâlih ameller işleyenler var ya, onlar için, altlarından ırmaklar akan Cennetler vardır! İşte büyük kurtuluş budur!",
             "originals": [
                 "اِنَّ",
                 "الَّذ۪ينَ اٰمَنُوا",
@@ -221,7 +222,7 @@
         {
             "id": "12",
             "sentence": "اِنَّ بَطْشَ رَبِّكَ لَشَد۪يدٌۜ",
-            "translation": "Doğrusu, Rabbinin ´zorlu yakalayışı´ şiddetlidir.",
+            "translation": "Doğrusu Rabbinin (kıskıvrak tutup) yakalayışı, elbette pek şiddetlidir!",
             "originals": [
                 "اِنَّ",
                 "بَطْشَ",
@@ -238,7 +239,7 @@
         {
             "id": "13",
             "sentence": "اِنَّهُ هُوَ يُبْدِئُ وَيُع۪يدُۚ",
-            "translation": "Çünkü O, ilkin var eden, (sonra dirilterek) döndürecek olandır.",
+            "translation": "Şübhesiz ki (ilk olarak mahlûkatı yaratmaya) başlayan ve (âhirette o yaratmayıtekrar) iâde eden ancak O'dur.",
             "originals": [
                 "اِنَّهُ",
                 "هُوَ",
@@ -255,7 +256,7 @@
         {
             "id": "14",
             "sentence": "وَهُوَ الْغَفُورُ الْوَدُودُۙ",
-            "translation": "O, çok bağışlayandır, çok sevendir.",
+            "translation": "Ve O, Gafûr (çok bağışlayan)dır, Vedûd (kullarını çok seven)dir.",
             "originals": [
                 "وَهُوَ",
                 "الْغَفُورُ",
@@ -270,7 +271,7 @@
         {
             "id": "15",
             "sentence": "ذُو الْعَرْشِ الْمَج۪يدُۙ",
-            "translation": "Arşın sahibidir; Mecid (pek Yüce)dir.",
+            "translation": "Arşın sâhibidir; Mecîd (şânı pek yüce)dir.",
             "originals": [
                 "ذُو",
                 "الْعَرْشِ",
@@ -285,7 +286,7 @@
         {
             "id": "16",
             "sentence": "فَعَّالٌ لِمَا يُر۪يدُۜ",
-            "translation": "Her dilediğini yapıp-gerçekleştirendir.",
+            "translation": "Ne dilerse, (dilediği gibi) hakkıyla yapandır.",
             "originals": [
                 "فَعَّالٌ",
                 "لِمَا يُر۪يدُۜ"
@@ -298,7 +299,7 @@
         {
             "id": "17",
             "sentence": "هَلْ اَتٰيكَ حَد۪يثُ الْجُنُودِۙ",
-            "translation": "Orduların haberi sana geldi mi?",
+            "translation": "17,18. (Ey Resûlüm!) Sana o orduların, Fir'avun ve Semûd'un (helâk oluş) haber(ler)i geldi mi?",
             "originals": [
                 "هَلْ اَتٰيكَ",
                 "حَد۪يثُ",
@@ -313,7 +314,7 @@
         {
             "id": "18",
             "sentence": "فِرْعَوْنَ وَثَمُودَۜ",
-            "translation": "Firavun ve Semud (ordularının)?",
+            "translation": "17,18. (Ey Resûlüm!) Sana o orduların, Fir'avun ve Semûd'un (helâk oluş) haber(ler)i geldi mi?",
             "originals": [
                 "فِرْعَوْنَ",
                 "وَثَمُودَۜ"
@@ -326,7 +327,7 @@
         {
             "id": "19",
             "sentence": "بَلِ الَّذ۪ينَ كَفَرُوا ف۪ي تَكْذ۪يبٍۙ",
-            "translation": "Hayır; inkar edenler, (kesintisiz) bir yalanlama içindedirler.",
+            "translation": "19,20. Hayır! O inkâr edenler (hâlâ) bir yalanlama içindedirler! Hâlbuki Allah, onları arkalarından kuşatıcıdır. (Geriye dönüşleri yoktur.)",
             "originals": [
                 "بَلِ",
                 "الَّذ۪ينَ كَفَرُوا",
@@ -343,7 +344,7 @@
         {
             "id": "20",
             "sentence": "وَاللّٰهُ مِنْ وَرَٓائِهِمْ مُح۪يطٌۚ",
-            "translation": "Allah ise, onları arkalarından sarıp-kuşatmıştır.",
+            "translation": "19,20. Hayır! O inkâr edenler (hâlâ) bir yalanlama içindedirler! Hâlbuki Allah, onları arkalarından kuşatıcıdır. (Geriye dönüşleri yoktur.)",
             "originals": [
                 "وَاللّٰهُ",
                 "مِنْ وَرَٓائِهِمْ",
@@ -358,7 +359,7 @@
         {
             "id": "21",
             "sentence": "بَلْ هُوَ قُرْاٰنٌ مَج۪يدٌۙ",
-            "translation": "Hayır; o (Kitap), ´şerefli-üstün´ olan bir Kur´an´dır;",
+            "translation": "Bil'akis o (yalanladıkları kitab), şerefli bir Kur'ân'dır.",
             "originals": [
                 "بَلْ",
                 "هُوَ",
@@ -375,7 +376,7 @@
         {
             "id": "22",
             "sentence": "ف۪ي لَوْحٍ مَحْفُوظٍ",
-            "translation": "Levh-i Mahfuz´dadır.",
+            "translation": "Levh-i Mahfûz'da (korunmuş bir levhada)dır.",
             "originals": [
                 "ف۪ي لَوْحٍ",
                 "مَحْفُوظٍ"

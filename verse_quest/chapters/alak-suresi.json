@@ -1,12 +1,13 @@
 {
     "id": "alak-suresi",
     "name": "Alak Suresi",
-    "description": "Alak Suresi",
+    "description": "Alak Suresi - 96. sure",
+    "index": 96,
     "sentences": [
         {
             "id": "1",
             "sentence": "اِقْرَأْ بِاسْمِ رَبِّكَ الَّذ۪ي خَلَقَۚ",
-            "translation": "Yaratan Rabbin adıyla oku.",
+            "translation": "Yaratan Rabbinin ismiyle oku!",
             "originals": [
                 "اِقْرَأْ",
                 "بِاسْمِ",
@@ -23,7 +24,7 @@
         {
             "id": "2",
             "sentence": "خَلَقَ الْاِنْسَانَ مِنْ عَلَقٍۚ",
-            "translation": "O, insanı bir alak´tan yarattı.",
+            "translation": "(O,) insanı bir alak'dan yarattı.",
             "originals": [
                 "خَلَقَ",
                 "الْاِنْسَانَ",
@@ -38,7 +39,7 @@
         {
             "id": "3",
             "sentence": "اِقْرَأْ وَرَبُّكَ الْاَكْرَمُۙ",
-            "translation": "Oku, Rabbin en büyük kerem sahibidir;",
+            "translation": "Oku! Çünki Rabbin, en büyük kerem sâhibidir.",
             "originals": [
                 "اِقْرَأْ",
                 "وَرَبُّكَ",
@@ -53,7 +54,7 @@
         {
             "id": "4",
             "sentence": "اَلَّذ۪ي عَلَّمَ بِالْقَلَمِۙ",
-            "translation": "Ki O, kalemle (yazmayı) öğretendir.",
+            "translation": "O, kalemle öğretendir.",
             "originals": [
                 "اَلَّذ۪ي",
                 "عَلَّمَ",
@@ -68,7 +69,7 @@
         {
             "id": "5",
             "sentence": "عَلَّمَ الْاِنْسَانَ مَا لَمْ يَعْلَمْۜ",
-            "translation": "İnsana bilmediğini öğretti.",
+            "translation": "İnsana bilmediği şeyleri öğretti.",
             "originals": [
                 "عَلَّمَ",
                 "الْاِنْسَانَ",
@@ -83,7 +84,7 @@
         {
             "id": "6",
             "sentence": "كَلَّٓا اِنَّ الْاِنْسَانَ لَيَطْغٰىۙ",
-            "translation": "Hayır; gerçekten insan, azar.",
+            "translation": "6,7. Hayır! Şübhesiz insan, kendisini ihtiyaçtan kurtulmuş görmesinden dolayı gerçekten (isyân ederek) haddini aşar!",
             "originals": [
                 "كَلَّٓا",
                 "اِنَّ",
@@ -100,7 +101,7 @@
         {
             "id": "7",
             "sentence": "اَنْ رَاٰهُ اسْتَغْنٰىۜ",
-            "translation": "Kendini müstağni gördüğünden.",
+            "translation": "6,7. Hayır! Şübhesiz insan, kendisini ihtiyaçtan kurtulmuş görmesinden dolayı gerçekten (isyân ederek) haddini aşar!",
             "originals": [
                 "اَنْ رَاٰهُ",
                 "اسْتَغْنٰىۜ"
@@ -113,7 +114,7 @@
         {
             "id": "8",
             "sentence": "اِنَّ اِلٰى رَبِّكَ الرُّجْعٰىۜ",
-            "translation": "Şüphesiz, dönüş yalnızca Rabbinedir.",
+            "translation": "Muhakkak ki dönüş, Rabbinedir.",
             "originals": [
                 "اِنَّ",
                 "اِلٰى رَبِّكَ",
@@ -128,7 +129,7 @@
         {
             "id": "9",
             "sentence": "اَرَاَيْتَ الَّذ۪ي يَنْهٰىۙ",
-            "translation": "Engellemekte olanı gördün mü?",
+            "translation": "9,10. Bir kulu (peygamberi) namaz kılarken men' edeni gördün mü?",
             "originals": [
                 "اَرَاَيْتَ",
                 "الَّذ۪ي يَنْهٰىۙ"
@@ -141,7 +142,7 @@
         {
             "id": "10",
             "sentence": "عَبْداً اِذَا صَلّٰىۜ",
-            "translation": "Namaz kıldığı zaman bir kulu.",
+            "translation": "9,10. Bir kulu (peygamberi) namaz kılarken men' edeni gördün mü?",
             "originals": [
                 "عَبْداً",
                 "اِذَا صَلّٰىۜ"
@@ -154,7 +155,7 @@
         {
             "id": "11",
             "sentence": "اَرَاَيْتَ اِنْ كَانَ عَلَى الْهُدٰىۙ",
-            "translation": "Gördün mü? Ya o (kul) doğru yol üzerinde ise,",
+            "translation": "11,12. Gördün mü, ya (o kul) hidâyet üzere ise veya (günahlardan) sakınmayı(takvâyı) emrediyorsa?",
             "originals": [
                 "اَرَاَيْتَ",
                 "اِنْ كَانَ",
@@ -169,7 +170,7 @@
         {
             "id": "12",
             "sentence": "اَوْ اَمَرَ بِالتَّقْوٰىۜ",
-            "translation": "Ya da takvayı emrettiyse.",
+            "translation": "11,12. Gördün mü, ya (o kul) hidâyet üzere ise veya (günahlardan) sakınmayı(takvâyı) emrediyorsa?",
             "originals": [
                 "اَوْ",
                 "اَمَرَ",
@@ -184,7 +185,7 @@
         {
             "id": "13",
             "sentence": "اَرَاَيْتَ اِنْ كَذَّبَ وَتَوَلّٰىۜ",
-            "translation": "Gördün mü? Ya (bu engellemek isteyen) yalanlıyor ve yüz çeviriyor ise.",
+            "translation": "Gördün mü, ya (bu men' eden, hakkı) yalanladı ve (ondan) yüz çevirdi ise?",
             "originals": [
                 "اَرَاَيْتَ",
                 "اِنْ كَذَّبَ",
@@ -199,7 +200,7 @@
         {
             "id": "14",
             "sentence": "اَلَمْ يَعْلَمْ بِاَنَّ اللّٰهَ يَرٰىۜ",
-            "translation": "O, Allah´ın gördüğünü bilmiyor mu?",
+            "translation": "Bilmedi mi ki, gerçekten Allah (onun yaptıklarını ve herşeyi) görür!",
             "originals": [
                 "اَلَمْ يَعْلَمْ",
                 "بِاَنَّ",
@@ -216,7 +217,7 @@
         {
             "id": "15",
             "sentence": "كَلَّا لَئِنْ لَمْ يَنْتَهِ۬ لَنَسْفَعاً بِالنَّاصِيَةِۙ",
-            "translation": "Hayır; eğer o, (bu tutumuna) bir son vermeyecek olursa, andolsun, onu perçeminden tutup sürükleyeceğiz;",
+            "translation": "Hayır! Celâlim hakkı için, eğer (bundan) vazgeçmezse, elbette o perçem(in)den tutup (onu Cehenneme) sürükleriz!",
             "originals": [
                 "كَلَّا",
                 "لَئِنْ",
@@ -235,7 +236,7 @@
         {
             "id": "16",
             "sentence": "نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍۚ",
-            "translation": "O yalancı, günahkar olan alnından.",
+            "translation": "(O) yalancı, günahkâr perçemden!",
             "originals": [
                 "نَاصِيَةٍ",
                 "كَاذِبَةٍ",
@@ -250,7 +251,7 @@
         {
             "id": "17",
             "sentence": "فَلْيَدْعُ نَادِيَهُۙ",
-            "translation": "O zaman da meclisini (yakın çevresini ve yandaşlarını) çağırsın.",
+            "translation": "O zaman çağırsın (bakalım) meclisini!",
             "originals": [
                 "فَلْيَدْعُ",
                 "نَادِيَهُۙ"
@@ -263,7 +264,7 @@
         {
             "id": "18",
             "sentence": "سَنَدْعُ الزَّبَانِيَةَۙ",
-            "translation": "Biz de zebanileri çağıracağız.",
+            "translation": "(Artık kendisini Cehenneme atmak üzere) zebânîleri çağıracağız!",
             "originals": [
                 "سَنَدْعُ",
                 "الزَّبَانِيَةَۙ"
@@ -276,7 +277,7 @@
         {
             "id": "19",
             "sentence": "كَلَّاۜ لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِبْ ۩",
-            "translation": "Hayır; ona boyun eğme (Rabbine) Secde et ve yakınlaş.",
+            "translation": "Hayır! Ona itâat etme! Böylece secde (ve namazına devâm) et ve (Rabbine)yaklaş!",
             "originals": [
                 "كَلَّاۜ",
                 "لَا تُطِعْهُ",

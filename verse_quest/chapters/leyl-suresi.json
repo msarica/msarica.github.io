@@ -1,12 +1,13 @@
 {
     "id": "leyl-suresi",
     "name": "Leyl Suresi",
-    "description": "Leyl Suresi",
+    "description": "Leyl Suresi - 92. sure",
+    "index": 92,
     "sentences": [
         {
             "id": "1",
             "sentence": "وَالَّيْلِ اِذَا يَغْشٰىۙ",
-            "translation": "Sarıp-örttüğü zaman geceye andolsun,",
+            "translation": "Yemîn olsun (karanlığı ile herşeyi) örttüğü zaman, leyl'e (geceye)!",
             "originals": [
                 "وَالَّيْلِ",
                 "اِذَا",
@@ -21,7 +22,7 @@
         {
             "id": "2",
             "sentence": "وَالنَّهَارِ اِذَا تَجَلّٰىۙ",
-            "translation": "Parıldayıp-aydınlandığı zaman gündüze,",
+            "translation": "Ve açılıp ağardığı zaman, gündüze!",
             "originals": [
                 "وَالنَّهَارِ",
                 "اِذَا",
@@ -36,7 +37,7 @@
         {
             "id": "3",
             "sentence": "وَمَا خَلَقَ الذَّكَرَ وَالْاُنْثٰىۙ",
-            "translation": "Erkeği ve dişiyi yaratana;",
+            "translation": "Ve erkeği ve dişiyi yaratana!",
             "originals": [
                 "وَمَا خَلَقَ",
                 "الذَّكَرَ",
@@ -51,7 +52,7 @@
         {
             "id": "4",
             "sentence": "اِنَّ سَعْيَكُمْ لَشَتّٰىۜ",
-            "translation": "Gerçekten sizin çabalarınız (çelişkili, parça parça) darmadağınıktır.",
+            "translation": "(Ki) şübhesiz amel(ler)iniz gerçekten çeşit çeşittir.",
             "originals": [
                 "اِنَّ",
                 "سَعْيَكُمْ",
@@ -66,7 +67,7 @@
         {
             "id": "5",
             "sentence": "فَاَمَّا مَنْ اَعْطٰى وَاتَّقٰىۙ",
-            "translation": "Fakat kim verir ve korkup-sakınırsa,",
+            "translation": "5,6,7. Fakat kim (Allah yolunda) verir ve (günahlardan) sakınırsa, ve o en güzel olanı tasdîk ederse, artık (biz) onu, en kolay olana (Cennete) muvaffak kılarız!",
             "originals": [
                 "فَاَمَّا",
                 "مَنْ",
@@ -83,7 +84,7 @@
         {
             "id": "6",
             "sentence": "وَصَدَّقَ بِالْحُسْنٰىۙ",
-            "translation": "Ve en güzel olanı doğrularsa,",
+            "translation": "5,6,7. Fakat kim (Allah yolunda) verir ve (günahlardan) sakınırsa, ve o en güzel olanı tasdîk ederse, artık (biz) onu, en kolay olana (Cennete) muvaffak kılarız!",
             "originals": [
                 "وَصَدَّقَ",
                 "بِالْحُسْنٰىۙ"
@@ -96,7 +97,7 @@
         {
             "id": "7",
             "sentence": "فَسَنُيَسِّرُهُ لِلْيُسْرٰىۜ",
-            "translation": "Biz de onu kolay olan için başarılı kılacağız.",
+            "translation": "5,6,7. Fakat kim (Allah yolunda) verir ve (günahlardan) sakınırsa, ve o en güzel olanı tasdîk ederse, artık (biz) onu, en kolay olana (Cennete) muvaffak kılarız!",
             "originals": [
                 "فَسَنُيَسِّرُهُ",
                 "لِلْيُسْرٰىۜ"
@@ -109,7 +110,7 @@
         {
             "id": "8",
             "sentence": "وَاَمَّا مَنْ بَخِلَ وَاسْتَغْنٰىۙ",
-            "translation": "Kim de cimrilik eder, kendini müstağni görürse,",
+            "translation": "8,9,10. Ama kim cimrilik eder ve kendini (Allah'ın sevâbına) muhtaç görmezse, ve o en güzel olanı yalanlarsa, onu da en zor olana (Cehenneme) muvaffak kılarız!",
             "originals": [
                 "وَاَمَّا",
                 "مَنْ",
@@ -126,7 +127,7 @@
         {
             "id": "9",
             "sentence": "وَكَذَّبَ بِالْحُسْنٰىۙ",
-            "translation": "Ve en güzel olanı yalan sayarsa,",
+            "translation": "8,9,10. Ama kim cimrilik eder ve kendini (Allah'ın sevâbına) muhtaç görmezse, ve o en güzel olanı yalanlarsa, onu da en zor olana (Cehenneme) muvaffak kılarız!",
             "originals": [
                 "وَكَذَّبَ",
                 "بِالْحُسْنٰىۙ"
@@ -139,7 +140,7 @@
         {
             "id": "10",
             "sentence": "فَسَنُيَسِّرُهُ لِلْعُسْرٰىۜ",
-            "translation": "Biz de ona en zorlu olanı (azaba uğramasını) kolaylaştıracağız.",
+            "translation": "8,9,10. Ama kim cimrilik eder ve kendini (Allah'ın sevâbına) muhtaç görmezse, ve o en güzel olanı yalanlarsa, onu da en zor olana (Cehenneme) muvaffak kılarız!",
             "originals": [
                 "فَسَنُيَسِّرُهُ",
                 "لِلْعُسْرٰىۜ"
@@ -152,7 +153,7 @@
         {
             "id": "11",
             "sentence": "وَمَا يُغْن۪ي عَنْهُ مَالُـهُٓ اِذَا تَرَدّٰىۜ",
-            "translation": "Tereddi edeceği (başaşağı düşüşe uğrayacağı) zaman, malı ona hiç yarar sağlamaz.",
+            "translation": "Hâlbuki aşağıya düştüğü (Cehenneme yuvarlandığı) zaman, malı kendisine fayda vermez!",
             "originals": [
                 "وَمَا يُغْن۪ي",
                 "عَنْهُ",
@@ -171,7 +172,7 @@
         {
             "id": "12",
             "sentence": "اِنَّ عَلَيْنَا لَلْهُدٰىۘ",
-            "translation": "Şüphesiz, Bize ait olan, yol göstermektir.",
+            "translation": "Muhakkak ki bize düşen, elbette doğru yolu göstermektir.",
             "originals": [
                 "اِنَّ",
                 "عَلَيْنَا",
@@ -186,7 +187,7 @@
         {
             "id": "13",
             "sentence": "وَاِنَّ لَنَا لَلْاٰخِرَةَ وَالْاُو۫لٰى",
-            "translation": "Gerçekten, son da, ilk de (ahiret ve dünya) Bizimdir.",
+            "translation": "Ve şübhesiz ki son da, ilk de (âhiret de, dünya da) gerçekten bizimdir.",
             "originals": [
                 "وَاِنَّ",
                 "لَنَا",
@@ -203,7 +204,7 @@
         {
             "id": "14",
             "sentence": "فَاَنْذَرْتُكُمْ نَاراً تَلَظّٰىۚ",
-            "translation": "Artık sizi, ´alevleri kabardıkça kabaran´ bir ateşle uyardım.",
+            "translation": "(Ben) işte sizi, şiddetle alevlenen bir ateşle korkuttum.",
             "originals": [
                 "فَاَنْذَرْتُكُمْ",
                 "نَاراً",
@@ -218,7 +219,7 @@
         {
             "id": "15",
             "sentence": "لَا يَصْلٰيهَٓا اِلَّا الْاَشْقٰىۙ",
-            "translation": "Ona, ancak en bedbaht olandan başkası yollanmaz;",
+            "translation": "15,16. Ona ancak (peygamberi) yalanlayan ve (îmandan) yüz çeviren o en bedbaht(kâfirler) girer!",
             "originals": [
                 "لَا يَصْلٰيهَٓا",
                 "اِلَّا",
@@ -233,7 +234,7 @@
         {
             "id": "16",
             "sentence": "اَلَّذ۪ي كَذَّبَ وَتَوَلّٰىۜ",
-            "translation": "Ki o, yalanlamış ve yüz çevirmişti.",
+            "translation": "15,16. Ona ancak (peygamberi) yalanlayan ve (îmandan) yüz çeviren o en bedbaht(kâfirler) girer!",
             "originals": [
                 "اَلَّذ۪ي",
                 "كَذَّبَ",
@@ -248,7 +249,7 @@
         {
             "id": "17",
             "sentence": "وَسَيُجَنَّبُهَا الْاَتْقٰىۙ",
-            "translation": "Sakınan ise, ondan uzak tutulacaktır.",
+            "translation": "17,18. Malını (Allah katında) temizlenmek için veren, (günahlardan) en çok sakınan(mü'minler) ise, ondan uzaklaştırılacaktır.",
             "originals": [
                 "وَسَيُجَنَّبُهَا",
                 "الْاَتْقٰىۙ"
@@ -261,7 +262,7 @@
         {
             "id": "18",
             "sentence": "اَلَّذ۪ي يُؤْت۪ي مَالَهُ يَتَزَكّٰىۚ",
-            "translation": "Ki o, malını vererek temizlenip-arınır.",
+            "translation": "17,18. Malını (Allah katında) temizlenmek için veren, (günahlardan) en çok sakınan(mü'minler) ise, ondan uzaklaştırılacaktır.",
             "originals": [
                 "اَلَّذ۪ي",
                 "يُؤْت۪ي",
@@ -278,7 +279,7 @@
         {
             "id": "19",
             "sentence": "وَمَا لِاَحَدٍ عِنْدَهُ مِنْ نِعْمَةٍ تُجْزٰىۙ",
-            "translation": "Onun yanında hiç kimsenin karşılığı verilecek bir nimeti (borcu) yoktur.",
+            "translation": "Onun yanında (o malını Allah yolunda sarf edenin üzerinde), hiçkimsenin karşılığı verilecek bir ni'meti (bir alacağı) yoktur.",
             "originals": [
                 "وَمَا",
                 "لِاَحَدٍ",
@@ -297,7 +298,7 @@
         {
             "id": "20",
             "sentence": "اِلَّا ابْتِغَٓاءَ وَجْهِ رَبِّهِ الْاَعْلٰىۚ",
-            "translation": "Ancak Yüce Rabbinin rızasını aramak için (verir).",
+            "translation": "(O,) ancak, pek yüce Rabbisinin rızâsını kazanmak için (vermekte)dir.",
             "originals": [
                 "اِلَّا",
                 "ابْتِغَٓاءَ",
@@ -316,7 +317,7 @@
         {
             "id": "21",
             "sentence": "وَلَسَوْفَ يَرْضٰى",
-            "translation": "Muhakkak kendisi de ileride razı olacaktır.",
+            "translation": "Elbette ileride de (bu amelinden) hoşnûd olacaktır.",
             "originals": [
                 "وَلَسَوْفَ",
                 "يَرْضٰى"

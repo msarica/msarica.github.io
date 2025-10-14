@@ -1,12 +1,13 @@
 {
     "id": "fil-suresi",
     "name": "Fil Suresi",
-    "description": "Fil Suresi",
+    "description": "Fil Suresi - 105. sure",
+    "index": 105,
     "sentences": [
         {
             "id": "1",
             "sentence": "اَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِاَصْحَابِ الْف۪يلِۜ",
-            "translation": "Rabbinin fil sahiplerine neler yaptığını görmedin mi?",
+            "translation": "(Habîbim, yâ Muhammed!) Rabbinin, fil sâhiblerine nasıl yaptığını görmedin mi?",
             "originals": [
                 "اَلَمْ تَرَ",
                 "كَيْفَ",
@@ -27,7 +28,7 @@
         {
             "id": "2",
             "sentence": "اَلَمْ يَجْعَلْ كَيْدَهُمْ ف۪ي تَضْل۪يلٍۙ",
-            "translation": "Onların ´tasarladıkları planlarını´ boşa çıkarmadı mı?",
+            "translation": "Onların tuzaklarını boşa çıkarmadı mı?",
             "originals": [
                 "اَلَمْ يَجْعَلْ",
                 "كَيْدَهُمْ",
@@ -42,7 +43,7 @@
         {
             "id": "3",
             "sentence": "وَاَرْسَلَ عَلَيْهِمْ طَيْراً اَبَاب۪يلَۙ",
-            "translation": "Onların üzerine ebabil (sürü sürü) kuşlarını gönderdi.",
+            "translation": "Hem üzerlerine sürü sürü kuşlar gönderdi.",
             "originals": [
                 "وَاَرْسَلَ",
                 "عَلَيْهِمْ",
@@ -59,7 +60,7 @@
         {
             "id": "4",
             "sentence": "تَرْم۪يهِمْ بِحِجَارَةٍ مِنْ سِجّ۪يلٍۖۙ",
-            "translation": "Onlara ´pişirilip-sertleştirilmiş balçık taşları´ atıyorlardı.",
+            "translation": "(Bu kuşlar,) onlara pişmiş çamurdan taşlar atıyorlardı.",
             "originals": [
                 "تَرْم۪يهِمْ",
                 "بِحِجَارَةٍ",
@@ -74,7 +75,7 @@
         {
             "id": "5",
             "sentence": "فَجَعَلَهُمْ كَعَصْفٍ مَأْكُولٍ",
-            "translation": "Sonunda onları, yenik ekin yaprağı gibi kıldı.",
+            "translation": "Nihâyet onları yenmiş ekin yaprağı gibi yapıverdi!",
             "originals": [
                 "فَجَعَلَهُمْ",
                 "كَعَصْفٍ",

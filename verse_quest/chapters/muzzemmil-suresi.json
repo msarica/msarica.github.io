@@ -1,12 +1,13 @@
 {
     "id": "muzzemmil-suresi",
     "name": "Müzzemmil Suresi",
-    "description": "Müzzemmil Suresi",
+    "description": "Müzzemmil Suresi - 73. sure",
+    "index": 73,
     "sentences": [
         {
             "id": "1",
             "sentence": "يَٓا اَيُّهَا الْمُزَّمِّلُۙ",
-            "translation": "Ey örtüsüne bürünen,",
+            "translation": "Ey müzzemmil olan (elbisesine örtünüp bürünen peygamber)!",
             "originals": [
                 "يَٓا اَيُّهَا",
                 "الْمُزَّمِّلُۙ"
@@ -19,7 +20,7 @@
         {
             "id": "2",
             "sentence": "قُمِ الَّيْلَ اِلَّا قَل۪يلاًۙ",
-            "translation": "Az bir kısmı hariç olmak üzere, geceleyin kalk:",
+            "translation": "Bir kısmı hâriç, geceleyin (namaz için) kalk!",
             "originals": [
                 "قُمِ",
                 "الَّيْلَ",
@@ -36,7 +37,7 @@
         {
             "id": "3",
             "sentence": "نِصْفَهُٓ اَوِ انْقُصْ مِنْهُ قَل۪يلاًۙ",
-            "translation": "(Gecenin) Yarısı kadar. Ya da ondan biraz eksilt.",
+            "translation": "3,4. (Gecenin) yarısı kadar (namaz kıl) veya bundan (yarısından) biraz eksilt yâhut onu artır (serbestsin), Kur'ân'ı da tâne tâne oku!",
             "originals": [
                 "نِصْفَهُٓ",
                 "اَوِ",
@@ -55,7 +56,7 @@
         {
             "id": "4",
             "sentence": "اَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْاٰنَ تَرْت۪يلاًۜ",
-            "translation": "Veya üzerine ilave et. Ve Kur´an´ı belli bir düzen içinde (tertil üzere) oku.",
+            "translation": "3,4. (Gecenin) yarısı kadar (namaz kıl) veya bundan (yarısından) biraz eksilt yâhut onu artır (serbestsin), Kur'ân'ı da tâne tâne oku!",
             "originals": [
                 "اَوْ",
                 "زِدْ",
@@ -76,7 +77,7 @@
         {
             "id": "5",
             "sentence": "اِنَّا سَنُلْق۪ي عَلَيْكَ قَوْلاً ثَق۪يلاًۜ",
-            "translation": "Gerçek şu ki, biz senin üzerine ´oldukça ağır´ bir söz (vahy) bırakacağız.",
+            "translation": "Çünki biz, senin üzerine (kıymeti pek) ağır bir söz (Kur'ân) bırakacağız(vahyedeceğiz)!",
             "originals": [
                 "اِنَّا",
                 "سَنُلْق۪ي",
@@ -95,7 +96,7 @@
         {
             "id": "6",
             "sentence": "اِنَّ نَاشِئَةَ الَّيْلِ هِيَ اَشَدُّ وَطْـٔاً وَاَقْوَمُ ق۪يلاًۜ",
-            "translation": "Doğrusu gece neşesi (gece ibadeti, insanın iç dünyasında uyandırdığı) etki bakımından daha kuvvetli, okumak bakımından daha sağlamdır.",
+            "translation": "Şübhesiz ki gece kalkışı, (Kur'ân'ı anlamada kalbe) alabildiğine uygun ve kırâate daha elverişlidir.",
             "originals": [
                 "اِنَّ",
                 "نَاشِئَةَ",
@@ -120,7 +121,7 @@
         {
             "id": "7",
             "sentence": "اِنَّ لَكَ فِي النَّهَارِ سَبْحاً طَو۪يلاًۜ",
-            "translation": "Çünkü gündüz, senin için uzun uğraşılar vardır.",
+            "translation": "Çünki senin için gündüz vaktinde, uzun bir meşgûliyet vardır.",
             "originals": [
                 "اِنَّ",
                 "لَكَ",
@@ -139,7 +140,7 @@
         {
             "id": "8",
             "sentence": "وَاذْكُرِ اسْمَ رَبِّكَ وَتَبَتَّلْ اِلَيْهِ تَبْت۪يلاًۜ",
-            "translation": "Rabbinin ismini zikret ve herşeyden kendini çekerek yalnızca O´na yönel.",
+            "translation": "O hâlde Rabbinin ismini zikret ve herşeyden alâka(nı) keserek O'na yönel!",
             "originals": [
                 "وَاذْكُرِ",
                 "اسْمَ",
@@ -160,7 +161,7 @@
         {
             "id": "9",
             "sentence": "رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ لَٓا اِلٰهَ اِلَّا هُوَ فَاتَّخِذْهُ وَك۪يلاً",
-            "translation": "(Allah,) Doğunun ve batının Rabbidir. O´ndan başka İlah yoktur. Şu halde (yalnızca) O´nu vekil tut.",
+            "translation": "(O,) doğunun da batının da Rabbidir; O'ndan başka ilâh yoktur; o hâlde (kendine, yalnız) O'nu vekil edin!",
             "originals": [
                 "رَبُّ",
                 "الْمَشْرِقِ",
@@ -187,7 +188,7 @@
         {
             "id": "10",
             "sentence": "وَاصْبِرْ عَلٰى مَا يَقُولُونَ وَاهْجُرْهُمْ هَجْراً جَم۪يلاً",
-            "translation": "Onların demelerine karşı sen sabret ve onlardan güzel bir ayrılma tarzıyla (düşünce ve eylem bakımından köklü bir tutum) ile kopup-ayrıl.",
+            "translation": "Hem (o müşriklerin) söylediklerine sabret ve onları güzel bir ayrılışla terket!",
             "originals": [
                 "وَاصْبِرْ",
                 "عَلٰى مَا يَقُولُونَ",
@@ -206,7 +207,7 @@
         {
             "id": "11",
             "sentence": "وَذَرْن۪ي وَالْمُكَذِّب۪ينَ اُو۬لِي النَّعْمَةِ وَمَهِّلْهُمْ قَل۪يلاً",
-            "translation": "Yalanlamakta olan nimet (refah ve servet) sahiplerini sen Bana bırak ve onlara az bir süre tanı.",
+            "translation": "Refah sâhibi (varlıklı) o yalancıları ise, bana bırak ve onlara biraz mühlet ver!",
             "originals": [
                 "وَذَرْن۪ي",
                 "وَالْمُكَذِّب۪ينَ",
@@ -227,7 +228,7 @@
         {
             "id": "12",
             "sentence": "اِنَّ لَدَيْنَٓا اَنْكَالاً وَجَح۪يماًۙ",
-            "translation": "Çünkü Bizim yanımızda bukağılar ve cayır cayır yanan bir ateş vardır:",
+            "translation": "Çünki bizim yanımızda ağır kelepçeler ve yakıcı bir ateş vardır!",
             "originals": [
                 "اِنَّ",
                 "لَدَيْنَٓا",
@@ -244,7 +245,7 @@
         {
             "id": "13",
             "sentence": "وَطَعَاماً ذَا غُصَّةٍ وَعَذَاباً اَل۪يماً",
-            "translation": "Boğazı tıkayıp kalan bir yemek ve acı bir azap vardır.",
+            "translation": "Bir de boğaza duran bir yiyecek ve (pek) elemli bir azab (vardır)!",
             "originals": [
                 "وَطَعَاماً",
                 "ذَا غُصَّةٍ",
@@ -261,7 +262,7 @@
         {
             "id": "14",
             "sentence": "يَوْمَ تَرْجُفُ الْاَرْضُ وَالْجِبَالُ وَكَانَتِ الْجِبَالُ كَث۪يباً مَه۪يلاً",
-            "translation": "(Öyle) Bir gün ki, yeryüzü ve dağlar titremeye-tutulur ve dağlar göçüveren bir kum yığını olur.",
+            "translation": "O gün (o kıyâmet günü) yer ve dağlar sarsılır ve dağlar akıp giden bir kum yığını hâline gelir!",
             "originals": [
                 "يَوْمَ",
                 "تَرْجُفُ",
@@ -286,7 +287,7 @@
         {
             "id": "15",
             "sentence": "اِنَّٓا اَرْسَلْنَٓا اِلَيْكُمْ رَسُولاً شَاهِداً عَلَيْكُمْ كَمَٓا اَرْسَلْنَٓا اِلٰى فِرْعَوْنَ رَسُولاًۜ",
-            "translation": "Şüphesiz size, üzerinize şahid olacak bir elçi gönderdik; Firavun´a bir elçi gönderdiğimiz gibi.",
+            "translation": "Muhakkak ki biz, Fir'avun'a bir peygamber gönderdiğimiz gibi, size de (kıyâmet günü) üzerinize şâhid olmak üzere bir peygamber gönderdik.",
             "originals": [
                 "اِنَّٓا",
                 "اَرْسَلْنَٓا",
@@ -315,7 +316,7 @@
         {
             "id": "16",
             "sentence": "فَعَصٰى فِرْعَوْنُ الرَّسُولَ فَاَخَذْنَاهُ اَخْذاً وَب۪يلاً",
-            "translation": "Fakat Firavun elçiye isyan etti, Biz de onu pek vahim bir tarzda (azapla) yakalayıverdik.",
+            "translation": "Fakat Fir'avun o peygambere isyân etmişti de onu şiddetli bir yakalayışla tutuverdik.",
             "originals": [
                 "فَعَصٰى",
                 "فِرْعَوْنُ",
@@ -336,7 +337,7 @@
         {
             "id": "17",
             "sentence": "فَـكَيْفَ تَتَّقُونَ اِنْ كَفَرْتُمْ يَوْماً يَجْعَلُ الْوِلْدَانَ ش۪يباًۗ",
-            "translation": "Eğer inkar edecek olursanız, çocukların saçlarını ağartan bir günde kendinizi nasıl koruyacaksınız?",
+            "translation": "O hâlde (siz de) inkâr ederseniz, çocukları ak saçlı ihtiyarlara çeviren bir günden kendinizi nasıl koruyacaksınız?",
             "originals": [
                 "فَـكَيْفَ",
                 "تَتَّقُونَ",
@@ -359,7 +360,7 @@
         {
             "id": "18",
             "sentence": "اَلسَّمَٓاءُ مُنْفَطِرٌ بِه۪ۜ كَانَ وَعْدُهُ مَفْعُولاً",
-            "translation": "Bu nedenle gök bile yarılıp-çatlamıştır; (artık) O´nun va´di gerçekleştirilip-yerine getirilmiştir.",
+            "translation": "Gök (bile) onunla (o günün şiddetiyle) yarılmış olur! O'nun (Allah'ın) va'di yerine getirilmiş (olacak)tır.",
             "originals": [
                 "اَلسَّمَٓاءُ",
                 "مُنْفَطِرٌ",
@@ -380,7 +381,7 @@
         {
             "id": "19",
             "sentence": "اِنَّ هٰذِه۪ تَذْكِرَةٌۚ فَمَنْ شَٓاءَ اتَّخَذَ اِلٰى رَبِّه۪ سَب۪يلاً۟",
-            "translation": "Şüphesiz, bu bir öğüttür. Artık dileyen Rabbine bir yol bulabilir.",
+            "translation": "Şübhesiz ki bu (âyetler), bir nasîhattir. Artık isteyen, Rabbine doğru bir yol tutar.",
             "originals": [
                 "اِنَّ",
                 "هٰذِه۪",
@@ -403,7 +404,7 @@
         {
             "id": "20",
             "sentence": "اِنَّ رَبَّكَ يَعْلَمُ اَنَّكَ تَقُومُ اَدْنٰى مِنْ ثُلُثَيِ الَّيْلِ وَنِصْفَهُ وَثُلُثَهُ وَطَٓائِفَةٌ مِنَ الَّذ۪ينَ مَعَكَۜ وَاللّٰهُ يُقَدِّرُ الَّيْلَ وَالنَّهَارَۜ عَلِمَ اَنْ لَنْ تُحْصُوهُ فَتَابَ عَلَيْكُمْ فَاقْرَؤُ۫ا مَا تَيَسَّرَ مِنَ الْقُرْاٰنِۜ عَلِمَ اَنْ سَيَكُونُ مِنْكُمْ مَرْضٰىۙ وَاٰخَرُونَ يَضْرِبُونَ فِي الْاَرْضِ يَبْتَغُونَ مِنْ فَضْلِ اللّٰهِۙ وَاٰخَرُونَ يُقَاتِلُونَ ف۪ي سَب۪يلِ اللّٰهِۘ فَاقْرَؤُ۫ا مِنْهُۙ وَاَق۪يمُوا الصَّلٰوةَ وَاٰتُوا الزَّكٰوةَ وَاَقْرِضُوا اللّٰهَ قَرْضاً حَسَناًۜ وَمَا تُقَدِّمُوا لِاَنْفُسِكُمْ مِنْ خَيْرٍ تَجِدُوهُ عِنْدَ اللّٰهِ هُوَ خَيْراً وَاَعْظَمَ اَجْراًۜ وَاسْتَغْفِرُوا اللّٰهَۜ اللّٰهَ غَفُورٌ رَح۪يمٌ",
-            "translation": "Gerçekten Rabbin, senin gecenin üçte ikisinden biraz eksiğinde, yarısında ve üçte birinde (namaz için) kalktığını bilir; seninle birlikte olanlardan bir topluluğun da (böyle yaptığını bilir). Geceyi ve gündüzü Allah takdir eder. Sizin bunu sayamıyacağınızı bildi, böylece tevbenizi (O´na dönüşünüzü) kabul etti. Şu halde Kur´an´dan kolay geleni okuyun. Allah sizden hastalar olduğunu, başkalarının Allah´ın fazlından aramak için yeryüzünde gezip-dolaşacaklarını ve diğerlerinin Allah yolunda çarpışacaklarını bilmiştir. Öyleyse ondan (Kur´an´dan) kolay geleni okuyun. Namazı dosdoğru kılın, zekatı verin ve Allah´a güzel bir borç verin. Hayır olarak kendi nefisleriniz için önceden takdim ettiğiniz şeyleri daha hayırlı ve daha büyük bir ecir (karşılık) olarak Allah Katında bulursunuz. Allah´tan mağfiret dileyin. Şüphesiz Allah, çok bağışlayandır, çok esirgeyendir.",
+            "translation": "(Habîbim, yâ Muhammed!) Şübhesiz Rabbin biliyor ki gerçekten sen, gecenin üçte ikisinden daha azı ve (bazen) yarısı ve (bazen de) üçte biri kadar kalkıyorsun (namaz kılıyorsun); berâberinde bulunanlardan (ashâbından) bir tâife de (böyle yapıyor).Hem geceyi ve gündüzü Allah takdîr eder. (O,) sizin bunu sayamayacağınızı (sürekli gece ibâdetine dayanamayacağınızı) bildi de sizi affetti (yapabildiğiniz kadarına ruhsat verdi); o hâlde Kur'ân'dan kolayınıza geleni okuyun (kolayınıza geldiği kadar gece namazı kılın)!(Hem Allah) bildi ki, içinizden hastalar olacak, bir başkaları yeryüzünde dolaşacaklar, Allah'ın fazlından (rızıklarını) arayacaklar, bir diğerleri de Allah yolunda savaşacaklar(cihâd edecekler)dir. O hâlde ondan kolayınıza geleni okuyun; ve namazı hakkıyla edâ edin, zekâtı verin ve Allah'a karzı hasen (güzel bir borç) ile borç verin!Hem kendiniz için hayır (ve hasenât)dan ne takdîm eder (hazırlar)sanız, Allah katında onu bulursunuz da, o (sizin için) daha hayırlı ve mükâfâtça",
             "originals": [
                 "اِنَّ",
                 "رَبَّكَ",

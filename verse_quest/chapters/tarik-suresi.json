@@ -1,12 +1,13 @@
 {
     "id": "tarik-suresi",
     "name": "Tarik Suresi",
-    "description": "Tarik Suresi",
+    "description": "Tarik Suresi - 86. sure",
+    "index": 86,
     "sentences": [
         {
             "id": "1",
             "sentence": "وَالسَّمَٓاءِ وَالطَّارِقِۙ",
-            "translation": "Göğe ve Tarık´a andolsun,",
+            "translation": "Yemîn olsun o göğe ve Târık'a!",
             "originals": [
                 "وَالسَّمَٓاءِ",
                 "وَالطَّارِقِۙ"
@@ -19,7 +20,7 @@
         {
             "id": "2",
             "sentence": "وَمَٓا اَدْرٰيكَ مَا الطَّارِقُۙ",
-            "translation": "Tarık´ın ne olduğunu sana bildiren nedir?",
+            "translation": "Târık'ın ne olduğunu sana ne bildirdi?",
             "originals": [
                 "وَمَٓا اَدْرٰيكَ",
                 "مَا",
@@ -34,7 +35,7 @@
         {
             "id": "3",
             "sentence": "اَلنَّجْمُ الثَّاقِبُۙ",
-            "translation": "(Karanlığı) Delen yıldızdır.",
+            "translation": "O, (nûruyla karanlığı) delen yıldızdır.",
             "originals": [
                 "اَلنَّجْمُ",
                 "الثَّاقِبُۙ"
@@ -47,7 +48,7 @@
         {
             "id": "4",
             "sentence": "اِنْ كُلُّ نَفْسٍ لَمَّا عَلَيْهَا حَافِظٌۜ",
-            "translation": "Üzerinde gözetleyici-koruyucu bulunmayan hiçbir nefis (kimse) yoktur.",
+            "translation": "Hiçbir nefis yoktur ki, üzerinde bir gözetici (koruyucu melek) bulunmasın!",
             "originals": [
                 "اِنْ كُلُّ نَفْسٍ",
                 "لَمَّا",
@@ -64,7 +65,7 @@
         {
             "id": "5",
             "sentence": "فَلْيَنْظُرِ الْاِنْسَانُ مِمَّ خُلِقَۜ",
-            "translation": "İnsan bir baksın, hangi şeyden yaratıldı?",
+            "translation": "O hâlde insan, neden yaratıldığına bir baksın!",
             "originals": [
                 "فَلْيَنْظُرِ",
                 "الْاِنْسَانُ",
@@ -81,7 +82,7 @@
         {
             "id": "6",
             "sentence": "خُلِقَ مِنْ مَٓاءٍ دَافِقٍۙ",
-            "translation": "Dökülüp atılan bir sudan yaratıldı.",
+            "translation": "(O) atılan bir sudan yaratıldı.",
             "originals": [
                 "خُلِقَ",
                 "مِنْ مَٓاءٍ",
@@ -96,7 +97,7 @@
         {
             "id": "7",
             "sentence": "يَخْرُجُ مِنْ بَيْنِ الصُّلْبِ وَالتَّرَٓائِبِۜ",
-            "translation": "(Bu su,) Bel kemiği ile kaburgalar arasında(ki organlar)dan çıkar.",
+            "translation": "(Bu su) bel kemiği ile göğüs kemikleri arasın(daki uzuvlar)dan çıkar.",
             "originals": [
                 "يَخْرُجُ",
                 "مِنْ بَيْنِ",
@@ -113,7 +114,7 @@
         {
             "id": "8",
             "sentence": "اِنَّهُ عَلٰى رَجْعِه۪ لَقَادِرٌۜ",
-            "translation": "Şüphesiz (Allah), onu yeniden-döndürmeye güç yetirendir.",
+            "translation": "Şübhesiz ki O (Allah), onu geri döndürmeğe (öldürdükten sonra tekrar diriltmeğe)elbette gücü yetendir.",
             "originals": [
                 "اِنَّهُ",
                 "عَلٰى رَجْعِه۪",
@@ -128,7 +129,7 @@
         {
             "id": "9",
             "sentence": "يَوْمَ تُبْلَى السَّرَٓائِرُۙ",
-            "translation": "Sırların orta yere çıkarılacağı gün;",
+            "translation": "O gün (kalblerde bulunan) sırlar ortaya çıkarılır.",
             "originals": [
                 "يَوْمَ",
                 "تُبْلَى",
@@ -143,7 +144,7 @@
         {
             "id": "10",
             "sentence": "فَمَا لَهُ مِنْ قُوَّةٍ وَلَا نَاصِرٍۜ",
-            "translation": "Artık onun ne gücü vardır, ne yardımcısı.",
+            "translation": "Artık o (insan) için ne bir kuvvet vardır, ne de bir yardımcı!",
             "originals": [
                 "فَمَا",
                 "لَهُ",
@@ -162,7 +163,7 @@
         {
             "id": "11",
             "sentence": "وَالسَّمَٓاءِ ذَاتِ الرَّجْعِۙ",
-            "translation": "Dönüşlü olan göğe andolsun.",
+            "translation": "Yemîn olsun o dönüşlü (hâlden hâle giren) göğe!",
             "originals": [
                 "وَالسَّمَٓاءِ",
                 "ذَاتِ الرَّجْعِۙ"
@@ -175,7 +176,7 @@
         {
             "id": "12",
             "sentence": "وَالْاَرْضِ ذَاتِ الصَّدْعِۙ",
-            "translation": "Yarılan yere de.",
+            "translation": "O (bitkilerle, vâdilerle yarılarak) yarıklar sâhibi olan yeryüzüne!",
             "originals": [
                 "وَالْاَرْضِ",
                 "ذَاتِ الصَّدْعِۙ"
@@ -188,7 +189,7 @@
         {
             "id": "13",
             "sentence": "اِنَّهُ لَقَوْلٌ فَصْلٌۙ",
-            "translation": "Şüphesiz o (Kur´an), ayırdeden bir sözdür.",
+            "translation": "13,14. Şübhesiz ki o (Kur'ân), elbet (hak ile bâtılı) ayıran bir sözdür. Ve o, şaka değildir!",
             "originals": [
                 "اِنَّهُ",
                 "لَقَوْلٌ",
@@ -203,7 +204,7 @@
         {
             "id": "14",
             "sentence": "وَمَا هُوَ بِالْهَزْلِۜ",
-            "translation": "O, bir şaka değildir.",
+            "translation": "13,14. Şübhesiz ki o (Kur'ân), elbet (hak ile bâtılı) ayıran bir sözdür. Ve o, şaka değildir!",
             "originals": [
                 "وَمَا",
                 "هُوَ",
@@ -218,7 +219,7 @@
         {
             "id": "15",
             "sentence": "اِنَّهُمْ يَك۪يدُونَ كَيْداًۙ",
-            "translation": "Doğrusu onlar, hileli bir düzen planlayıp kuruyorlar;",
+            "translation": "15,16. Gerçekten onlar, (Kur'ân'ı ibtâl etmek için) bir hîle olarak tuzak kuruyorlar.(Ben de) bir hîle ile (kurdukları) tuzak(larını ibtâl) ederim!",
             "originals": [
                 "اِنَّهُمْ",
                 "يَك۪يدُونَ",
@@ -233,7 +234,7 @@
         {
             "id": "16",
             "sentence": "وَاَ‌ك۪يدُ كَيْداًۚ",
-            "translation": "Ben de bir düzen kurup hazırlıyorum.",
+            "translation": "15,16. Gerçekten onlar, (Kur'ân'ı ibtâl etmek için) bir hîle olarak tuzak kuruyorlar.(Ben de) bir hîle ile (kurdukları) tuzak(larını ibtâl) ederim!",
             "originals": [
                 "وَاَ‌ك۪يدُ",
                 "كَيْداًۚ"
@@ -246,7 +247,7 @@
         {
             "id": "17",
             "sentence": "فَمَهِّلِ الْـكَافِر۪ينَ اَمْهِلْهُمْ رُوَيْداً",
-            "translation": "Sen kafirlere bir mühlet ver, az bir süre tanı.",
+            "translation": "(Ey Habîbim!) O hâlde kâfirlere (azâb edeceğimiz vakte kadar) mühlet ver; onlara azıcık süre tanımakla, biraz (kendi hâllerine) bırak!",
             "originals": [
                 "فَمَهِّلِ",
                 "الْـكَافِر۪ينَ",

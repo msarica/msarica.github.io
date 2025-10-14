@@ -1,12 +1,13 @@
 {
     "id": "kureys-suresi",
     "name": "Kureyş Suresi",
-    "description": "Kureyş Suresi",
+    "description": "Kureyş Suresi - 106. sure",
+    "index": 106,
     "sentences": [
         {
             "id": "1",
             "sentence": "لِا۪يلَافِ قُرَيْشٍۙ",
-            "translation": "(Hiç değilse kendilerini) Kureyş’i ‘bir araya getirip anlaştırdığı’",
+            "translation": "(Allah) Kureyş'i (emniyet ve selâmete) alıştırdığı için!",
             "originals": [
                 "لِا۪يلَافِ",
                 "قُرَيْشٍۙ"
@@ -19,7 +20,7 @@
         {
             "id": "2",
             "sentence": "ا۪يلَافِهِمْ رِحْلَةَ الشِّتَٓاءِ وَالصَّيْفِۚ",
-            "translation": "Yaz ve kış yolculuğunda onları (güvenliğe kavuşturduğu ya da başkalarıyla) ısındırıp yakınlaştırdığı için,",
+            "translation": "Onları (ticâret için) kış ve yaz yolculuğuna alıştırdığı için!",
             "originals": [
                 "ا۪يلَافِهِمْ",
                 "رِحْلَةَ",
@@ -36,7 +37,7 @@
         {
             "id": "3",
             "sentence": "فَلْيَعْبُدُوا رَبَّ هٰذَا الْبَيْتِۙ",
-            "translation": "Şu Ev (Ka’be’n)in Rabbine kulluk etsinler;",
+            "translation": "O hâlde (onlar da) bu Beyt'in (Kâ'be'nin) Rabbine (şükür için) ibâdet etsinler!",
             "originals": [
                 "فَلْيَعْبُدُوا",
                 "رَبَّ",
@@ -53,7 +54,7 @@
         {
             "id": "4",
             "sentence": "اَلَّذ۪ٓي اَطْعَمَهُمْ مِنْ جُوعٍ وَاٰمَنَهُمْ مِنْ خَوْفٍ",
-            "translation": "Ki O, kendilerini açlıktan (kurtarıp) doyuran ve korkudan güvenliğe kavuşturandır.",
+            "translation": "O (Beyt'in Rabbi) ki, onları açlıktan doyurdu ve kendilerini korkudan emîn kıldı.",
             "originals": [
                 "اَلَّذ۪ٓي",
                 "اَطْعَمَهُمْ",

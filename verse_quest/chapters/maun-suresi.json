@@ -1,12 +1,13 @@
 {
     "id": "maun-suresi",
     "name": "Maun Suresi",
-    "description": "Maun Suresi",
+    "description": "Maun Suresi - 107. sure",
+    "index": 107,
     "sentences": [
         {
             "id": "1",
             "sentence": "اَرَاَيْتَ الَّذ۪ي يُكَذِّبُ بِالدّ۪ينِۜ",
-            "translation": "Dini yalanlayanı gördün mü?",
+            "translation": "Dîni (hesab gününü) yalanlayanı gördün mü?",
             "originals": [
                 "اَرَاَيْتَ",
                 "الَّذ۪ي يُكَذِّبُ",
@@ -21,7 +22,7 @@
         {
             "id": "2",
             "sentence": "فَذٰلِكَ الَّذ۪ي يَدُعُّ الْيَت۪يمَۙ",
-            "translation": "İşte yetimi itip-kakan;",
+            "translation": "İşte o, yetîmi itip kakandır.",
             "originals": [
                 "فَذٰلِكَ",
                 "الَّذ۪ي يَدُعُّ",
@@ -36,7 +37,7 @@
         {
             "id": "3",
             "sentence": "وَلَا يَحُضُّ عَلٰى طَعَامِ الْمِسْك۪ينِۜ",
-            "translation": "Yoksulu doyurmayı teşvik etmeyen odur.",
+            "translation": "Yoksulu doyurmağa da teşvîk etmez.",
             "originals": [
                 "وَلَا يَحُضُّ",
                 "عَلٰى طَعَامِ",
@@ -51,7 +52,7 @@
         {
             "id": "4",
             "sentence": "فَوَيْلٌ لِلْمُصَلّ۪ينَۙ",
-            "translation": "İşte (şu) namaz kılanların vay haline,",
+            "translation": "Artık vay o namaz kılanların hâline!",
             "originals": [
                 "فَوَيْلٌ",
                 "لِلْمُصَلّ۪ينَۙ"
@@ -64,7 +65,7 @@
         {
             "id": "5",
             "sentence": "الَّذ۪ينَ هُمْ عَنْ صَلَاتِهِمْ سَاهُونَۙ",
-            "translation": "Ki onlar, namazlarında yanılgıdadırlar,",
+            "translation": "Ki onlar, namazlarından gaflet edenlerdir (ona ehemmiyet vermezler)!",
             "originals": [
                 "الَّذ۪ينَ هُمْ",
                 "عَنْ صَلَاتِهِمْ",
@@ -79,7 +80,7 @@
         {
             "id": "6",
             "sentence": "الَّذ۪ينَ هُمْ يُرَٓاؤُ۫نَۙ",
-            "translation": "Onlar gösteriş yapmaktadırlar",
+            "translation": "Onlar ki, riyâkârlık (gösteriş için ibâdet) ederler!",
             "originals": [
                 "الَّذ۪ينَ هُمْ",
                 "يُرَٓاؤُ۫نَۙ"
@@ -92,7 +93,7 @@
         {
             "id": "7",
             "sentence": "وَيَمْنَعُونَ الْمَاعُونَ",
-            "translation": "Ve ‘ufacık bir yardımı (veya zekatı) da engellemektedirler.",
+            "translation": "Ve mâûn'u (zekâtı) men' ederler!",
             "originals": [
                 "وَيَمْنَعُونَ",
                 "الْمَاعُونَ"

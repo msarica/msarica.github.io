@@ -1,12 +1,13 @@
 {
     "id": "beled-suresi",
     "name": "Beled Suresi",
-    "description": "Beled Suresi",
+    "description": "Beled Suresi - 90. sure",
+    "index": 90,
     "sentences": [
         {
             "id": "1",
             "sentence": "لَٓا اُقْسِمُ بِهٰذَا الْبَلَدِۙ",
-            "translation": "Hayır; bu şehre yemin ederim,",
+            "translation": "Yemîn ederim bu beled'e (Mekke'ye)!",
             "originals": [
                 "لَٓا",
                 "اُقْسِمُ",
@@ -23,7 +24,7 @@
         {
             "id": "2",
             "sentence": "وَاَنْتَ حِلٌّ بِهٰذَا الْبَلَدِۙ",
-            "translation": "Ki sen, bu şehirde oturmakta iken,",
+            "translation": "Ki sen bu beldede oturmaktasın.",
             "originals": [
                 "وَاَنْتَ",
                 "حِلٌّ",
@@ -40,7 +41,7 @@
         {
             "id": "3",
             "sentence": "وَوَالِدٍ وَمَا وَلَدَۙ",
-            "translation": "Babaya ve doğan-çocuğa da.",
+            "translation": "Ve (yemîn ederim) babaya ve doğan (çocuğ)a!",
             "originals": [
                 "وَوَالِدٍ",
                 "وَمَا وَلَدَۙ"
@@ -53,7 +54,7 @@
         {
             "id": "4",
             "sentence": "لَقَدْ خَلَقْنَا الْاِنْسَانَ ف۪ي كَبَدٍۜ",
-            "translation": "Andolsun, Biz insanı bir zorluk içinde yarattık.",
+            "translation": "(Ki) insanı, gerçekten bir meşakkat içinde (olmak üzere) yarattık.",
             "originals": [
                 "لَقَدْ",
                 "خَلَقْنَا",
@@ -72,7 +73,7 @@
         {
             "id": "5",
             "sentence": "اَيَحْسَبُ اَنْ لَنْ يَقْدِرَ عَلَيْهِ اَحَدٌۢ",
-            "translation": "O, hiç kimsenin kendisine asla güç yetiremeyeceğini mi sanıyor?",
+            "translation": "(O,) kendisine hiçkimsenin aslâ güç yetiremeyeceğini mi sanıyor?",
             "originals": [
                 "اَيَحْسَبُ",
                 "اَنْ لَنْ يَقْدِرَ",
@@ -89,7 +90,7 @@
         {
             "id": "6",
             "sentence": "يَقُولُ اَهْلَكْتُ مَالاً لُبَداًۜ",
-            "translation": "O: &quot;Yığınla mal tüketip-yok ettim&quot; diyor.",
+            "translation": "(Övünerek:) “(İslâm düşmanlığı uğrunda) yığın yığın mal telef ettim!” diyor.",
             "originals": [
                 "يَقُولُ",
                 "اَهْلَكْتُ",
@@ -106,7 +107,7 @@
         {
             "id": "7",
             "sentence": "اَيَحْسَبُ اَنْ لَمْ يَرَهُٓ اَحَدٌۜ",
-            "translation": "Kendisini hiç kimsenin görmediğini mi sanıyor?",
+            "translation": "Kendisini kimsenin görmediğini mi sanıyor?",
             "originals": [
                 "اَيَحْسَبُ",
                 "اَنْ لَمْ يَرَهُٓ",
@@ -121,7 +122,7 @@
         {
             "id": "8",
             "sentence": "اَلَمْ نَجْعَلْ لَهُ عَيْنَيْنِۙ",
-            "translation": "Biz ona iki göz vermedik mi?",
+            "translation": "8,9. (Biz) ona (diğer insanlar gibi) iki göz, bir dil ve iki dudak vermedik mi?",
             "originals": [
                 "اَلَمْ نَجْعَلْ",
                 "لَهُ",
@@ -136,7 +137,7 @@
         {
             "id": "9",
             "sentence": "وَلِسَاناً وَشَفَتَيْنِۙ",
-            "translation": "Bir dil ve iki dudak?",
+            "translation": "8,9. (Biz) ona (diğer insanlar gibi) iki göz, bir dil ve iki dudak vermedik mi?",
             "originals": [
                 "وَلِسَاناً",
                 "وَشَفَتَيْنِۙ"
@@ -149,7 +150,7 @@
         {
             "id": "10",
             "sentence": "وَهَدَيْنَاهُ النَّجْدَيْنِۚ",
-            "translation": "Biz ona ´iki yol-iki amaç´ gösterdik.",
+            "translation": "Ona da (hayır ve şer) iki yol gösterdik.",
             "originals": [
                 "وَهَدَيْنَاهُ",
                 "النَّجْدَيْنِۚ"
@@ -162,7 +163,7 @@
         {
             "id": "11",
             "sentence": "فَلَا اقْتَحَمَ الْعَقَبَةَۘ",
-            "translation": "Ancak o, sarp yokuşa göğüs germedi.",
+            "translation": "Fakat (o), sarp yokuşu aşamadı.",
             "originals": [
                 "فَلَا اقْتَحَمَ",
                 "الْعَقَبَةَۘ"
@@ -175,7 +176,7 @@
         {
             "id": "12",
             "sentence": "وَمَٓا اَدْرٰيكَ مَا الْعَقَبَةُۜ",
-            "translation": "Sarp yokuşun ne olduğunu sana öğreten nedir?",
+            "translation": "O sarp yokuşun ne olduğunu sana ne bildirdi?",
             "originals": [
                 "وَمَٓا اَدْرٰيكَ",
                 "مَا",
@@ -190,7 +191,7 @@
         {
             "id": "13",
             "sentence": "فَكُّ رَقَبَةٍۙ",
-            "translation": "Bir boynu çözmek (bir köleye özgürlük vermek)tir;",
+            "translation": "(O,) bir kölenin âzâd edilmesi (ve kişinin kendi nefsini ateşten kurtarması)dır.",
             "originals": [
                 "فَكُّ",
                 "رَقَبَةٍۙ"
@@ -203,7 +204,7 @@
         {
             "id": "14",
             "sentence": "اَوْ اِطْعَامٌ ف۪ي يَوْمٍ ذ۪ي مَسْغَبَةٍۙ",
-            "translation": "Ya da açlık gününde doyurmaktır,",
+            "translation": "14,15,16. Veya bir açlık gününde akrabâlığı olan bir yetîmi veya toz toprak içinde kalmış bir yoksulu doyurmaktır.",
             "originals": [
                 "اَوْ",
                 "اِطْعَامٌ",
@@ -220,7 +221,7 @@
         {
             "id": "15",
             "sentence": "يَت۪يماً ذَا مَقْرَبَةٍۙ",
-            "translation": "Yakın olan bir yetimi,",
+            "translation": "14,15,16. Veya bir açlık gününde akrabâlığı olan bir yetîmi veya toz toprak içinde kalmış bir yoksulu doyurmaktır.",
             "originals": [
                 "يَت۪يماً",
                 "ذَا مَقْرَبَةٍۙ"
@@ -233,7 +234,7 @@
         {
             "id": "16",
             "sentence": "اَوْ مِسْك۪يناً ذَا مَتْرَبَةٍۜ",
-            "translation": "Veya sürünen bir yoksulu.",
+            "translation": "14,15,16. Veya bir açlık gününde akrabâlığı olan bir yetîmi veya toz toprak içinde kalmış bir yoksulu doyurmaktır.",
             "originals": [
                 "اَوْ",
                 "مِسْك۪يناً",
@@ -248,7 +249,7 @@
         {
             "id": "17",
             "sentence": "ثُمَّ كَانَ مِنَ الَّذ۪ينَ اٰمَنُوا وَتَوَاصَوْا بِالصَّبْرِ بِالْمَرْحَمَةِۜ",
-            "translation": "Sonra iman edenlerden, sabrı birbirlerine tavsiye edenlerden, merhameti birbirlerine tavsiye edenlerden olmak.",
+            "translation": "Sonra (bütün bunları yaparken) îmân edenlerden, birbirlerine sabrı tavsiye edenlerden ve birbirlerine merhameti tavsiye edenlerden olmaktır.",
             "originals": [
                 "ثُمَّ",
                 "كَانَ",
@@ -269,7 +270,7 @@
         {
             "id": "18",
             "sentence": "اُو۬لٰٓئِكَ اَصْحَابُ الْمَيْمَنَةِۜ",
-            "translation": "İşte bunlar, sağ yanın adamlarıdır (Ashab-ı Meymene).",
+            "translation": "İşte onlar Ashâb-ı Meymene (amel defterleri sağ eline verilenler)dir.",
             "originals": [
                 "اُو۬لٰٓئِكَ",
                 "اَصْحَابُ",
@@ -284,7 +285,7 @@
         {
             "id": "19",
             "sentence": "وَالَّذ۪ينَ كَفَرُوا بِاٰيَاتِنَا هُمْ اَصْحَابُ الْمَشْـَٔمَةِۜ",
-            "translation": "Ayetlerimizi inkar edenler ise, sol yanın adamlarıdır (Ashab-ı Meş´eme).",
+            "translation": "Âyetlerimizi inkâr edenler ise, onlar Ashâb-ı Meş'eme (amel defterleri sol eline verilenler)dir.",
             "originals": [
                 "وَالَّذ۪ينَ كَفَرُوا",
                 "بِاٰيَاتِنَا",
@@ -303,7 +304,7 @@
         {
             "id": "20",
             "sentence": "عَلَيْهِمْ نَارٌ مُؤْصَدَةٌ",
-            "translation": "&quot;Kapıları kilitlenmiş&quot; bir ateş onların üzerinedir.",
+            "translation": "Üzerlerinde (kapıları sımsıkı) kapatılmış bir ateş vardır!",
             "originals": [
                 "عَلَيْهِمْ",
                 "نَارٌ",

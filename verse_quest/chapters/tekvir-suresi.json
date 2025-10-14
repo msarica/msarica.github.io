@@ -1,12 +1,13 @@
 {
     "id": "tekvir-suresi",
     "name": "Tekvir Suresi",
-    "description": "Tekvir Suresi",
+    "description": "Tekvir Suresi - 81. sure",
+    "index": 81,
     "sentences": [
         {
             "id": "1",
             "sentence": "اِذَا الشَّمْسُ كُـوِّرَتْۙۖ",
-            "translation": "Güneş, köreltildiği zaman,",
+            "translation": "Güneş, tekvîr edildiği (dürüldüğü, nûru nârından ayrıldığı, ışığı giderildiği) zaman!",
             "originals": [
                 "اِذَا",
                 "الشَّمْسُ",
@@ -21,7 +22,7 @@
         {
             "id": "2",
             "sentence": "وَاِذَا النُّجُومُ انْكَدَرَتْۙۖ",
-            "translation": "Yıldızlar, bulanıklaşıp-döküldüğü zaman,",
+            "translation": "Ve yıldızlar, (karartılarak) döküldüğü zaman!",
             "originals": [
                 "وَاِذَا",
                 "النُّجُومُ",
@@ -36,7 +37,7 @@
         {
             "id": "3",
             "sentence": "وَاِذَا الْجِبَالُ سُيِّرَتْۙۖ",
-            "translation": "Dağlar, yürütüldüğü zaman,",
+            "translation": "Ve dağlar, yürütüldüğü zaman!",
             "originals": [
                 "وَاِذَا",
                 "الْجِبَالُ",
@@ -51,7 +52,7 @@
         {
             "id": "4",
             "sentence": "وَاِذَا الْعِشَارُ عُطِّلَتْۙۖ",
-            "translation": "Gebe develer, kendi başına terk edildiği zaman,",
+            "translation": "Ve yüklü develer, başıboş bırakıldığı zaman!",
             "originals": [
                 "وَاِذَا",
                 "الْعِشَارُ",
@@ -66,7 +67,7 @@
         {
             "id": "5",
             "sentence": "وَاِذَا الْوُحُوشُ حُشِرَتْۙۖ",
-            "translation": "Vahşi-hayvanlar, toplandığı zaman,",
+            "translation": "Vahşi hayvanlar, bir araya toplandığı zaman!",
             "originals": [
                 "وَاِذَا",
                 "الْوُحُوشُ",
@@ -81,7 +82,7 @@
         {
             "id": "6",
             "sentence": "وَاِذَا الْبِحَارُ سُجِّرَتْۙۖ",
-            "translation": "Denizler, tutuşturulduğu zaman,",
+            "translation": "Denizler, tutuşturulduğu zaman!",
             "originals": [
                 "وَاِذَا",
                 "الْبِحَارُ",
@@ -96,7 +97,7 @@
         {
             "id": "7",
             "sentence": "وَاِذَا النُّفُوسُ زُوِّجَتْۙۖ",
-            "translation": "Nefisler, birleştiği zaman,",
+            "translation": "Nefisler, birleştirildiği (ruhlar, bedenlerle bir araya getirildiği) zaman!",
             "originals": [
                 "وَاِذَا",
                 "النُّفُوسُ",
@@ -111,7 +112,7 @@
         {
             "id": "8",
             "sentence": "وَاِذَا الْمَوْءُ۫دَةُ سُئِلَتْۙ",
-            "translation": "Ve ´diri diri toprağa gömülen kızcağıza´ sorulduğu zaman:",
+            "translation": "8,9. Diri diri toprağa gömülen kıza, hangi günahtan dolayı öldürüldüğü sorulduğu zaman!",
             "originals": [
                 "وَاِذَا",
                 "الْمَوْءُ۫دَةُ",
@@ -126,7 +127,7 @@
         {
             "id": "9",
             "sentence": "بِاَيِّ ذَنْبٍ قُتِلَتْۚ",
-            "translation": "&quot;Hangi suçtan dolayı öldürüldü?&quot;",
+            "translation": "8,9. Diri diri toprağa gömülen kıza, hangi günahtan dolayı öldürüldüğü sorulduğu zaman!",
             "originals": [
                 "بِاَيِّ",
                 "ذَنْبٍ",
@@ -141,7 +142,7 @@
         {
             "id": "10",
             "sentence": "وَاِذَا الصُّحُفُ نُشِرَتْۙۖ",
-            "translation": "Sahifeler (amel defterleri) açıldığı zaman,",
+            "translation": "Sayfalar (amel defterleri), açıldığı zaman!",
             "originals": [
                 "وَاِذَا",
                 "الصُّحُفُ",
@@ -156,7 +157,7 @@
         {
             "id": "11",
             "sentence": "وَاِذَا السَّمَٓاءُ كُشِطَتْۙۖ",
-            "translation": "Gök, sıyrılıp-yüzüldüğü zaman",
+            "translation": "Gökyüzü, (yerinden sökülüp) koparıldığı zaman!",
             "originals": [
                 "وَاِذَا",
                 "السَّمَٓاءُ",
@@ -171,7 +172,7 @@
         {
             "id": "12",
             "sentence": "وَاِذَا الْجَح۪يمُ سُعِّرَتْۙۖ",
-            "translation": "Cehennem ateşi çılgınca kızıştırıldığı zaman,",
+            "translation": "Cehennem, iyice alevlendirildiği zaman!",
             "originals": [
                 "وَاِذَا",
                 "الْجَح۪يمُ",
@@ -186,7 +187,7 @@
         {
             "id": "13",
             "sentence": "وَاِذَا الْجَنَّةُ اُزْلِفَتْۙۖ",
-            "translation": "Cennet de yakınlaştırıldığı zaman,",
+            "translation": "Cennet, yaklaştırıldığı zaman!",
             "originals": [
                 "وَاِذَا",
                 "الْجَنَّةُ",
@@ -201,7 +202,7 @@
         {
             "id": "14",
             "sentence": "عَلِمَتْ نَفْسٌ مَٓا اَحْضَرَتْۜ",
-            "translation": "(Artık her) Nefis, neyi hazırladığını bilip-öğrenmiştir.",
+            "translation": "Her nefis, (hayır ve şer) ne hazırlamış olduğunu bilecektir!",
             "originals": [
                 "عَلِمَتْ",
                 "نَفْسٌ",
@@ -216,7 +217,7 @@
         {
             "id": "15",
             "sentence": "فَلَٓا اُقْسِمُ بِالْخُنَّسِۙ",
-            "translation": "Artık hayır; yemin ederim (gündüz) sinip (gece) dönen (gezegen)lere,",
+            "translation": "15,16. Artık yemîn ederim, (yörüngesini tamamlayıp) geri dönen o yıldızlara; o akıp akıp (gün ışıdığında) gizlenenlere!",
             "originals": [
                 "فَلَٓا",
                 "اُقْسِمُ",
@@ -231,7 +232,7 @@
         {
             "id": "16",
             "sentence": "اَلْجَوَارِ الْكُنَّسِۙ",
-            "translation": "Bir akış içinde yerini alanlara;",
+            "translation": "15,16. Artık yemîn ederim, (yörüngesini tamamlayıp) geri dönen o yıldızlara; o akıp akıp (gün ışıdığında) gizlenenlere!",
             "originals": [
                 "اَلْجَوَارِ",
                 "الْكُنَّسِۙ"
@@ -244,7 +245,7 @@
         {
             "id": "17",
             "sentence": "وَالَّيْلِ اِذَا عَسْعَسَۙ",
-            "translation": "Kararmaya ilk başladığı zaman, geceye andolsun,",
+            "translation": "Kararmaya başladığı zaman, geceye!",
             "originals": [
                 "وَالَّيْلِ",
                 "اِذَا عَسْعَسَۙ"
@@ -257,7 +258,7 @@
         {
             "id": "18",
             "sentence": "وَالصُّبْحِ اِذَا تَنَفَّسَۙ",
-            "translation": "Ve nefes almaya başladığı zaman, sabaha;",
+            "translation": "Nefes aldığı (ağarmaya yüz tuttuğu) vakit, sabaha!",
             "originals": [
                 "وَالصُّبْحِ",
                 "اِذَا تَنَفَّسَۙ"
@@ -270,7 +271,7 @@
         {
             "id": "19",
             "sentence": "اِنَّهُ لَقَوْلُ رَسُولٍ كَر۪يمٍۙ",
-            "translation": "Şüphesiz o (Kur´an), üstün onur sahibi bir elçinin gerçekten (Allah´tan getirdiği) sözüdür;",
+            "translation": "Şübhesiz o (Kur'ân), elbette çok şerefli bir elçinin (Cebrâîl'in, vahiyden ibâret)sözüdür!",
             "originals": [
                 "اِنَّهُ",
                 "لَقَوْلُ",
@@ -287,7 +288,7 @@
         {
             "id": "20",
             "sentence": "ذ۪ي قُوَّةٍ عِنْدَ ذِي الْعَرْشِ مَك۪ينٍۙ",
-            "translation": "(Bu elçi,) Bir güç sahibidir, arşın sahibi Katında şereflidir.",
+            "translation": "(O elçi) pek kuvvetlidir; arşın sâhibi (Allah'ın) katında çok i'tibarlıdır.",
             "originals": [
                 "ذ۪ي",
                 "قُوَّةٍ",
@@ -308,7 +309,7 @@
         {
             "id": "21",
             "sentence": "مُطَاعٍ ثَمَّ اَم۪ينٍۜ",
-            "translation": "Ona itaat edilir, sonra güvenilirdir.",
+            "translation": "(O Cibrîl,) orada (melekler tarafından kendisine) itâat edilendir; (vahiy husûsunda)çok güvenilendir!",
             "originals": [
                 "مُطَاعٍ",
                 "ثَمَّ",
@@ -323,7 +324,7 @@
         {
             "id": "22",
             "sentence": "وَمَا صَاحِبُكُمْ بِمَجْنُونٍۚ",
-            "translation": "Sizin sahibiniz bir deli değildir.",
+            "translation": "Arkadaşınız (Muhammed) ise mecnun değildir!",
             "originals": [
                 "وَمَا",
                 "صَاحِبُكُمْ",
@@ -338,7 +339,7 @@
         {
             "id": "23",
             "sentence": "وَلَقَدْ رَاٰهُ بِالْاُفُقِ الْمُب۪ينِۚ",
-            "translation": "Andolsun o (peygamber), onu apaçık bir ufukta görmüştür.",
+            "translation": "And olsun ki, onu (Cebrâîl'i) apaçık, ufukta gördü.",
             "originals": [
                 "وَلَقَدْ",
                 "رَاٰهُ",
@@ -355,7 +356,7 @@
         {
             "id": "24",
             "sentence": "وَمَا هُوَ عَلَى الْغَيْبِ بِضَن۪ينٍۚ",
-            "translation": "O, gayb (haberlerin)e karşı (söylediklerinden dolayı) suçlanamaz (ya da cimrilikte bulunup kıskançlık yapmaz.)",
+            "translation": "Ve o, gayb hakkında cimri değildir (aldığı vahyi aynen teblîğ eder)!",
             "originals": [
                 "وَمَا",
                 "هُوَ",
@@ -374,7 +375,7 @@
         {
             "id": "25",
             "sentence": "وَمَا هُوَ بِقَوْلِ شَيْطَانٍ رَج۪يمٍۚ",
-            "translation": "O (Kur´an) da kovulmuş şeytanın sözü değildir.",
+            "translation": "O (Kur'ân) da, kovulmuş şeytanın sözü değildir!",
             "originals": [
                 "وَمَا",
                 "هُوَ",
@@ -393,7 +394,7 @@
         {
             "id": "26",
             "sentence": "فَاَيْنَ تَذْهَبُونَۜ",
-            "translation": "Şu halde, siz nereye kaçıp-gidiyorsunuz?",
+            "translation": "O hâlde (ondan yüz çevirip) nereye gidiyorsunuz?",
             "originals": [
                 "فَاَيْنَ",
                 "تَذْهَبُونَۜ"
@@ -406,7 +407,7 @@
         {
             "id": "27",
             "sentence": "اِنْ هُوَ اِلَّا ذِكْرٌ لِلْعَالَم۪ينَۙ",
-            "translation": "O (Kur´an), alemler için yalnızca bir zikirdir;",
+            "translation": "27,28. O, ancak âlemler için, (ve) içinizden dosdoğru olmak isteyenler için bir nasîhattir!",
             "originals": [
                 "اِنْ هُوَ",
                 "اِلَّا",
@@ -423,7 +424,7 @@
         {
             "id": "28",
             "sentence": "لِمَنْ شَٓاءَ مِنْكُمْ اَنْ يَسْتَق۪يمَ",
-            "translation": "Sizden dosdoğru bir yön (istikamet) tutturmak dileyenler için.",
+            "translation": "27,28. O, ancak âlemler için, (ve) içinizden dosdoğru olmak isteyenler için bir nasîhattir!",
             "originals": [
                 "لِمَنْ شَٓاءَ",
                 "مِنْكُمْ",
@@ -438,7 +439,7 @@
         {
             "id": "29",
             "sentence": "وَمَا تَشَٓاؤُ۫نَ اِلَّٓا اَنْ يَشَٓاءَ اللّٰهُ رَبُّ الْعَالَم۪ينَ",
-            "translation": "Alemlerin Rabbi olan Allah dilemedikçe siz dileyemezsiniz.",
+            "translation": "Fakat, âlemlerin Rabbi olan Allah (size dileme kabiliyetini vermeyi) dilemedikçe, siz dileyemezsiniz!",
             "originals": [
                 "وَمَا تَشَٓاؤُ۫نَ",
                 "اِلَّٓا اَنْ يَشَٓاءَ",

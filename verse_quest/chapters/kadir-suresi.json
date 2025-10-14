@@ -1,12 +1,13 @@
 {
     "id": "kadir-suresi",
     "name": "Kadir Suresi",
-    "description": "Kadir Suresi",
+    "description": "Kadir Suresi - 97. sure",
+    "index": 97,
     "sentences": [
         {
             "id": "1",
             "sentence": "اِنَّٓا اَنْزَلْنَاهُ ف۪ي لَيْلَةِ الْقَدْرِۚ",
-            "translation": "Gerçek şu ki, Biz onu kadir gecesinde indirdik.",
+            "translation": "Şübhe yok ki biz onu (o Kur'ân'ı), Kadir Gecesinde indirdik.",
             "originals": [
                 "اِنَّٓا",
                 "اَنْزَلْنَاهُ",
@@ -23,7 +24,7 @@
         {
             "id": "2",
             "sentence": "وَمَٓا اَدْرٰيكَ مَا لَيْلَةُ الْقَدْرِۜ",
-            "translation": "Kadir gecesinin ne olduğunu sana bildiren nedir?",
+            "translation": "Kadir Gecesinin ne olduğunu (onun kıymetini) sana ne bildirdi?",
             "originals": [
                 "وَمَٓا اَدْرٰيكَ",
                 "مَا",
@@ -40,7 +41,7 @@
         {
             "id": "3",
             "sentence": "لَيْلَةُ الْقَدْرِ خَيْرٌ مِنْ اَلْفِ شَهْرٍۜ",
-            "translation": "Kadir gecesi, bin aydan daha hayırlıdır.",
+            "translation": "Kadir Gecesi, bin aydan daha hayırlıdır.",
             "originals": [
                 "لَيْلَةُ",
                 "الْقَدْرِ",
@@ -59,7 +60,7 @@
         {
             "id": "4",
             "sentence": "تَنَزَّلُ الْمَلٰٓئِكَةُ وَالرُّوحُ ف۪يهَا بِاِذْنِ رَبِّهِمْۚ مِنْ كُلِّ اَمْرٍۙۛ",
-            "translation": "Melekler ve ruh, onda Rablerinin izniyle her bir iş için inerler.",
+            "translation": "Melekler ve Ruh (Cebrâîl), onda (o gecede) Rablerinin izniyle her bir iş için peyderpey iner(ler).",
             "originals": [
                 "تَنَزَّلُ",
                 "الْمَلٰٓئِكَةُ",
@@ -84,7 +85,7 @@
         {
             "id": "5",
             "sentence": "سَلَامٌ۠ۛ هِيَ حَتّٰى مَطْلَعِ الْفَجْرِ",
-            "translation": "Fecrin çıkışına kadar bir esenliktir (selamdır) o.",
+            "translation": "O (gece), fecrin doğuşuna (gün ağarana) kadar selâmettir.",
             "originals": [
                 "سَلَامٌ۠ۛ",
                 "هِيَ",

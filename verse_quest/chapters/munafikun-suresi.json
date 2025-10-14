@@ -1,12 +1,13 @@
 {
     "id": "munafikun-suresi",
     "name": "Münafikun Suresi",
-    "description": "Münafikun Suresi",
+    "description": "Münafikun Suresi - 63. sure",
+    "index": 63,
     "sentences": [
         {
             "id": "1",
             "sentence": "اِذَا جَٓاءَكَ الْمُنَافِقُونَ قَالُوا نَشْهَدُ اِنَّكَ لَرَسُولُ اللّٰهِۢ وَاللّٰهُ يَعْلَمُ لَرَسُولُهُۜ وَاللّٰهُ يَشْهَدُ اِنَّ الْمُنَافِق۪ينَ لَـكَاذِبُونَۚ",
-            "translation": "Münafıklar sana geldikleri zaman: &quot;Biz gerçekten şehadet ederiz ki, sen kesin olarak Allah´ın elçisisin&quot; dediler. Allah da bilir ki sen elbette O´nun elçisisin. Allah, şüphesiz münafıkların yalan söylediklerine şahidlik eder.",
+            "translation": "(Ey Resûlüm!) Münâfikun (o münâfıklar) sana geldikleri zaman: “Şâhidlik ederiz ki, muhakkak sen, gerçekten Allah'ın Resûlüsün!” dediler. Allah da biliyor ki, şübhesiz sen, elbette (Allah'ın) peygamberisin! Bununla berâber Allah şâhidlik eder ki, doğrusu münâfıklar gerçekten yalancıdırlar.",
             "originals": [
                 "اِذَا",
                 "جَٓاءَكَ",
@@ -47,7 +48,7 @@
         {
             "id": "2",
             "sentence": "اِتَّخَذُٓوا اَيْمَانَهُمْ جُنَّةً فَصَدُّوا عَنْ سَب۪يلِ اللّٰهِۜ اِنَّهُمْ سَٓاءَ مَا كَانُوا يَعْمَلُونَ",
-            "translation": "Onlar, yeminlerini bir siper edinip Allah´ın yolundan alıkoydular. Doğrusu ne kötü şey yapıyorlar.",
+            "translation": "(Müslüman olduklarına dâir) yeminlerini bir kalkan edindiler de (insanları) Allah yolundan alıkoydular. Muhakkak ki onların yapmakta oldukları şey, ne kötüdür!",
             "originals": [
                 "اِتَّخَذُٓوا",
                 "اَيْمَانَهُمْ",
@@ -78,7 +79,7 @@
         {
             "id": "3",
             "sentence": "ذٰلِكَ بِاَنَّهُمْ اٰمَنُوا ثُمَّ كَفَرُوا فَطُبِعَ عَلٰى قُلُوبِهِمْ فَهُمْ لَا يَفْقَهُونَ",
-            "translation": "Bu, onların iman etmeleri sonra inkar etmeleri dolayısıyla böyledir. Böylece kalplerinin üzerini mühürlemiştir, artık onlar kavrayamazlar.",
+            "translation": "Bu, şübhesiz onların îmân edip sonra inkâr etmeleri yüzündendir; bunun üzerine kalbleri mühürlenmiştir; artık onlar (hakkı) anlamazlar.",
             "originals": [
                 "ذٰلِكَ",
                 "بِاَنَّهُمْ",
@@ -107,7 +108,7 @@
         {
             "id": "4",
             "sentence": "وَاِذَا رَاَيْتَهُمْ تُعْجِبُكَ اَجْسَامُهُمْۜ وَاِنْ يَقُولُوا تَسْمَعْ لِقَوْلِهِمْۜ كَاَنَّهُمْ خُشُبٌ مُسَنَّدَةٌۜ يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْۜ هُمُ الْعَدُوُّ فَاحْذَرْهُمْۜ قَاتَلَهُمُ اللّٰهُۘ اَنّٰى يُؤْفَـكُونَ",
-            "translation": "Sen onları gördüğün zaman cüsseli yapıları beğenini kazanmaktadır. Konuştukları zaman da onları dinlersin. (Oysa) Sanki onlar (sütun gibi) dayandırılmış ahşap-kütük gibidirler. (Bu dayanıksızlıklarından dolayı da) Her çağrıyı kendileri aleyhinde sanırlar. Onlar düşmandırlar, bu yüzden onlardan kaçınıp-sakının. Allah onları kahretsin; nasıl da çevriliyorlar.",
+            "translation": "Onları gördüğünde cüsseleri hoşuna gider. Ve konuşurlarsa sözlerini dinlersin. Sanki onlar (duvara) dayanmış keresteler gibidirler! Her (kuvvetli) sesi (nifaklarından dolayı)aleyhlerinde sanırlar. Onlar düşmandır; artık onlardan sakın! Allah onları kahretsin! (Haktan)nasıl çevriliyorlar?",
             "originals": [
                 "وَاِذَا",
                 "رَاَيْتَهُمْ",
@@ -160,7 +161,7 @@
         {
             "id": "5",
             "sentence": "وَاِذَا ق۪يلَ لَهُمْ تَعَالَوْا يَسْتَغْفِرْ لَكُمْ رَسُولُ اللّٰهِ لَـوَّوْا رُؤُ۫سَهُمْ وَرَاَيْتَهُمْ يَصُدُّونَ وَهُمْ مُسْتَكْبِرُونَ",
-            "translation": "Onlara: &quot;Gelin Allah´ın Resûlü sizin için mağfiret (bağışlanma) dilesin,&quot; denildiği zaman başlarını yana çevirdiler. Sen, onların büyüklük taslamışlar olarak yüz çevirmekte olduklarını görürsün.",
+            "translation": "Hem onlara (o münâfıklara): “Gelin! Allah'ın Resûlü sizin için mağfiret dilesin!” denildiği zaman, başlarını çevirirler. Ve (sen) onları görürsün ki, kendileri büyüklük taslayan kimseler olarak yüz çeviriyorlar!",
             "originals": [
                 "وَاِذَا",
                 "ق۪يلَ",
@@ -197,7 +198,7 @@
         {
             "id": "6",
             "sentence": "سَوَٓاءٌ عَلَيْهِمْ اَسْتَغْفَرْتَ لَهُمْ اَمْ لَمْ تَسْتَغْفِرْ لَهُمْۜ لَنْ يَغْفِرَ اللّٰهُ لَهُمْۜ اِنَّ اللّٰهَ لَا يَهْدِي الْقَوْمَ الْفَاسِق۪ينَ",
-            "translation": "Senin onlar adına mağfiret dilemen ile mağfiret dilememen onlar için birdir. Allah, onlara kesin olarak mağfiret etmeyecektir. Şüphesiz Allah, fasık bir kavme hidayet vermez.",
+            "translation": "Kendileri için mağfiret dilesen de, onlara mağfiret dilemesen de onlar için birdir. Allah onları aslâ bağışlamayacaktır. Şübhesiz ki Allah, o fâsıklar topluluğunu (küfürlerindeki ısrarları sebebiyle) hidâyete erdirmez.",
             "originals": [
                 "سَوَٓاءٌ",
                 "عَلَيْهِمْ",
@@ -236,7 +237,7 @@
         {
             "id": "7",
             "sentence": "هُمُ الَّذ۪ينَ يَقُولُونَ لَا تُنْفِقُوا عَلٰى مَنْ عِنْدَ رَسُولِ اللّٰهِ حَتّٰى يَنْفَضُّواۜ وَلِلّٰهِ خَزَٓائِنُ السَّمٰوَاتِ وَالْاَرْضِ وَلٰكِنَّ الْمُنَافِق۪ينَ لَا يَفْقَهُونَ",
-            "translation": "Onlar ki: &quot;Allah´ın Resûlü yanında bulunanlara hiçbir infak (harcama)da bulunmayın, sonunda dağılıp gitsinler,&quot; derler. Oysa göklerin ve yerin hazineleri Allah´ındır. Ancak münafıklar kavramıyorlar.",
+            "translation": "Onlar öyle kimselerdir ki: “Allah'ın Resûlünün yanında bulunanlara (fakir Muhâcirlere) bir şey vermeyin ki, dağılıp gitsinler!” diyorlar. Hâlbuki göklerin ve yerin hazîneleri Allah'ındır; fakat münâfıklar anlamazlar.",
             "originals": [
                 "هُمُ",
                 "الَّذ۪ينَ",
@@ -277,7 +278,7 @@
         {
             "id": "8",
             "sentence": "يَقُولُونَ لَئِنْ رَجَعْنَٓا اِلَى الْمَد۪ينَةِ لَيُخْرِجَنَّ الْاَعَزُّ مِنْهَا الْاَذَلَّۜ وَلِلّٰهِ الْعِزَّةُ وَلِرَسُولِه۪ وَلِلْمُؤْمِن۪ينَ وَلٰكِنَّ الْمُنَافِق۪ينَ لَا يَعْلَمُونَ۟",
-            "translation": "Derler ki, &quot;Andolsun, Medine´ye bir dönecek olursak, gücü ve onuru çok olan, düşkün ve zayıf olanı elbette oradan sürüp-çıkaracaktır.&quot; Oysa izzet (güç, onur ve üstünlük) Allah´ın, O´nun Resûlü’nün ve mü´minlerindir. Ancak münafıklar bilmiyorlar.",
+            "translation": "(O münâfıklar) diyorlar ki: “Yemîn olsun eğer Medîne'ye dönersek, en azîz olan, en zelîl olanı muhakkak oradan çıkaracaktır!” Hâlbuki izzet (şeref ve üstünlük) Allah'ındır! Hem peygamberinin ve mü'minlerindir! Fakat münâfıklar bilmezler.",
             "originals": [
                 "يَقُولُونَ",
                 "لَئِنْ",
@@ -316,7 +317,7 @@
         {
             "id": "9",
             "sentence": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُوا لَا تُلْهِكُمْ اَمْوَالُكُمْ وَلَٓا اَوْلَادُكُمْ عَنْ ذِكْرِ اللّٰهِۚ وَمَنْ يَفْعَلْ ذٰلِكَ فَاُو۬لٰٓئِكَ هُمُ الْخَاسِرُونَ",
-            "translation": "Ey iman edenler, ne mallarınız, ne çocuklarınız sizi Allah´ı zikretmekten ´tutkuya kaptırarak-alıkoymasın´; kim böyle yaparsa, artık onlar hüsrana uğrayanların ta kendileridir.",
+            "translation": "Ey îmân edenler! Mallarınız ve evlâdlarınız, sizi Allah'ın zikrinden alıkoymasın! Kim bunu yaparsa, işte onlar hüsrâna uğrayanların ta kendileridir!",
             "originals": [
                 "يَٓا اَيُّهَا",
                 "الَّذ۪ينَ اٰمَنُوا",
@@ -351,7 +352,7 @@
         {
             "id": "10",
             "sentence": "وَاَنْفِقُوا مِمَّا رَزَقْنَاكُمْ مِنْ قَبْلِ اَنْ يَأْتِيَ اَحَدَكُمُ الْمَوْتُ فَيَقُولَ رَبِّ لَوْلَٓا اَخَّرْتَـن۪ٓي اِلٰٓى اَجَلٍ قَر۪يبٍۙ فَاَصَّدَّقَ وَاَكُنْ مِنَ الصَّالِح۪ينَ",
-            "translation": "Sizden birinize ölüm gelip de: &quot;Rabbim, beni yakın bir süreye (ecele) kadar geciktirsen ben de böylece sadaka versem ve salihlerden olsam&quot; demezden önce, size rızık olarak verdiklerimizden infak edin.",
+            "translation": "Birinize ölüm gelip de: “Rabbim! Beni (ecelimi) yakın bir vakte (kadar) erteleseydin de sadaka verip sâlih kimselerden olsaydım!” demesinden önce, sizi rızıklandırdığımız şeylerden (Allah yolunda) sarf edin!",
             "originals": [
                 "وَاَنْفِقُوا",
                 "مِمَّا رَزَقْنَاكُمْ",
@@ -390,7 +391,7 @@
         {
             "id": "11",
             "sentence": "وَلَنْ يُؤَخِّرَ اللّٰهُ نَفْساً اِذَا جَٓاءَ اَجَلُهَاۜ وَاللّٰهُ خَب۪يرٌ بِمَا تَعْمَلُونَ",
-            "translation": "Oysa Allah, kendi eceli gelmiş bulunan hiçbir kimseyi kesinlikle ertelemez. Allah, yaptıklarınızdan haberdardır.",
+            "translation": "Çünki Allah, bir kimseyi eceli geldiği zaman aslâ ertelemez. Ve Allah, ne yaparsanız hakkıyla haberdar olandır.",
             "originals": [
                 "وَلَنْ يُؤَخِّرَ",
                 "اللّٰهُ",

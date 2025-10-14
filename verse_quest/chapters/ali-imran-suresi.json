@@ -1,12 +1,13 @@
 {
     "id": "ali-imran-suresi",
     "name": "Ali İmran Suresi",
-    "description": "Ali İmran Suresi",
+    "description": "Ali İmran Suresi - 3. sure",
+    "index": 3,
     "sentences": [
         {
             "id": "1",
             "sentence": "الٓمٓۚ",
-            "translation": "Elif, Lam, Mim.",
+            "translation": "Elif, Lâm, Mîm.",
             "originals": [
                 "الٓمٓۚ"
             ],
@@ -17,7 +18,7 @@
         {
             "id": "2",
             "sentence": "اَللّٰهُ لَٓا اِلٰهَ اِلَّا هُوَۙ الْحَيُّ الْقَيُّومُۜ",
-            "translation": "Allah... O´ndan başka İlah yoktur. Diridir, Kaimdir.",
+            "translation": "Allah ki, O'ndan başka ilâh yoktur. (O,) Hayy (ezelî ve ebedî hayat sâhibi olan)dır, Kayyûm (bütün mevcûdât kendisiyle kaim olan)dır.",
             "originals": [
                 "اَللّٰهُ",
                 "لَٓا",
@@ -40,7 +41,7 @@
         {
             "id": "3",
             "sentence": "نَزَّلَ عَلَيْكَ الْكِتَابَ بِالْحَقِّ مُصَدِّقاً لِمَا بَيْنَ يَدَيْهِ وَاَنْزَلَ التَّوْرٰيةَ وَالْاِنْج۪يلَۙ",
-            "translation": "O, sana Kitab’ı hak ve kendinden öncekileri doğrulayıcı olarak indirdi. O, Tevrat´ı ve İncil´i de indirmişti.",
+            "translation": "3,4. (O,) sana Kitâb'ı (Kur'ân'ı), kendinden öncekileri (diğer kitabları) tasdîk edici olarak hak ile indirdi; daha önce de, insanlara bir hidâyet olarak Tevrât ile İncîl'i indirdi, böylece Furkan'ı (hak ile bâtılı ayıran bütün kitabları) indirdi. Şübhesiz Allah'ın âyetlerini inkâr edenler yok mu, onlar için pek şiddetli bir azab vardır. Hâlbuki Allah, Azîz (kudreti dâimâ galib gelen)dir, intikam sâhibi (yapılan haksızlıkları cezâsız bırakmayan)dır.",
             "originals": [
                 "نَزَّلَ",
                 "عَلَيْكَ",
@@ -67,7 +68,7 @@
         {
             "id": "4",
             "sentence": "مِنْ قَبْلُ هُدًى لِلنَّاسِ وَاَنْزَلَ الْفُرْقَانَۜ اِنَّ الَّذ۪ينَ كَفَرُوا بِاٰيَاتِ اللّٰهِ لَهُمْ عَذَابٌ شَد۪يدٌۜ وَاللّٰهُ عَز۪يزٌ ذُوانْتِقَامٍ",
-            "translation": "Bundan (Kur’an’dan) önce (onlar) insanlar için bir hidayet idiler. Doğruyu yanlıştan ayıran (Furkan)ı da indirdi. Gerçek şu ki, Allah´ın ayetlerini inkar edenler için şiddetli bir azap vardır. Allah güçlüdür, intikam alıcıdır.",
+            "translation": "3,4. (O,) sana Kitâb'ı (Kur'ân'ı), kendinden öncekileri (diğer kitabları) tasdîk edici olarak hak ile indirdi; daha önce de, insanlara bir hidâyet olarak Tevrât ile İncîl'i indirdi, böylece Furkan'ı (hak ile bâtılı ayıran bütün kitabları) indirdi. Şübhesiz Allah'ın âyetlerini inkâr edenler yok mu, onlar için pek şiddetli bir azab vardır. Hâlbuki Allah, Azîz (kudreti dâimâ galib gelen)dir, intikam sâhibi (yapılan haksızlıkları cezâsız bırakmayan)dır.",
             "originals": [
                 "مِنْ قَبْلُ",
                 "هُدًى",
@@ -106,7 +107,7 @@
         {
             "id": "5",
             "sentence": "اِنَّ اللّٰهَ لَا يَخْفٰى عَلَيْهِ شَيْءٌ فِي الْاَرْضِ وَلَا فِي السَّمَٓاءِۜ",
-            "translation": "Şüphesiz, yerde ve gökte Allah´a hiçbir şey gizli kalmaz.",
+            "translation": "Şübhesiz ki ne yerde ne de gökte, hiçbir şey Allah'a gizli kalmaz!",
             "originals": [
                 "اِنَّ",
                 "اللّٰهَ",
@@ -127,7 +128,7 @@
         {
             "id": "6",
             "sentence": "هُوَ الَّذ۪ي يُصَوِّرُكُمْ فِي الْاَرْحَامِ كَيْفَ يَشَٓاءُۜ لَٓا اِلٰهَ اِلَّا هُوَ الْعَز۪يزُ الْحَك۪يمُ",
-            "translation": "Döl yataklarında size dilediği gibi suret veren O´dur. O´ndan başka İlah yoktur; üstün ve güçlü olandır, hüküm ve hikmet sahibidir.",
+            "translation": "Sizi (ana) rahimler(in)de nasıl dilerse (öyle) şekillendiren O'dur. O'ndan başka ilâh yoktur; (O,) Azîz (kudreti dâimâ galib gelen)dir, Hakîm (her işi hikmetli olan)dır.",
             "originals": [
                 "هُوَ الَّذ۪ي",
                 "يُصَوِّرُكُمْ",
@@ -158,7 +159,7 @@
         {
             "id": "7",
             "sentence": "هُوَ الَّـذ۪ٓي اَنْزَلَ عَلَيْكَ الْكِتَابَ مِنْهُ اٰيَاتٌ مُحْكَمَاتٌ هُنَّ اُمُّ الْكِتَابِ وَاُخَرُ مُتَشَابِهَاتٌۜ فَاَمَّا الَّذ۪ينَ ف۪ي قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَابَهَ ابْتِغَٓاءَ الْفِتْنَةِ وَابْتِغَٓاءَ تَأْو۪يلِه۪ۚ وَمَا يَعْلَمُ تَأْو۪يلَهُٓ اِلَّا اللّٰهُۢ وَالرَّاسِخُونَ فِي الْعِلْمِ يَقُولُونَ اٰمَنَّا بِه۪ۙ كُلٌّ مِنْ عِنْدِ رَبِّنَاۚ وَمَا يَذَّكَّرُ اِلَّٓا اُو۬لُوا الْاَلْبَابِ",
-            "translation": "Sana Kitab’ı indiren O´dur. Ondan, Kitab’ın anası (temeli) olan bir kısım ayetler muhkem´dir; diğerleri ise müteşabihtir. Kalplerinde bir kayma olanlar, fitne çıkarmak ve olmadık yorumlarını yapmak için ondan müteşabih olanına uyarlar. Oysa onun tevilini Allah´tan başkası bilmez. İlimde derinleşenler ise: &quot;Biz ona inandık, tümü Rabbimiz´in Katındandır&quot; derler. Temiz akıl sahiplerinden başkası öğüt alıp-düşünmez.",
+            "translation": "Sana Kitâb'ı (Kur'ân'ı) indiren O'dur; onun bir kısmı muhkem âyetlerdir ki onlar kitâbın anası (esâsı)dır, diğerleri ise müteşâbih (âyetler)dir. Ama kalblerinde bir eğrilik bulunanlar, fitne çıkarmak ve onun te'vîlini aramak için hemen ondan müteşâbih olanının peşine düşerler. Hâlbuki onun te'vîlini ancak Allah bilir. İlimde râsih (derinleşmiş) olanlar da.(Onlar:) “(Biz) ona inandık, hepsi Rabbimiz tarafındandır!” derler (ve o gizli hakikati izhâr ederler). Ve (ondan, selîm) akıl sâhiblerinden başkası ibret almaz.",
             "originals": [
                 "هُوَ الَّـذ۪ٓي",
                 "اَنْزَلَ",
@@ -241,7 +242,7 @@
         {
             "id": "8",
             "sentence": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ اِذْ هَدَيْتَنَا وَهَبْ لَنَا مِنْ لَدُنْكَ رَحْمَةًۚ اِنَّكَ اَنْتَ الْوَهَّابُ",
-            "translation": "&quot;Rabbimiz, bizi hidayete erdirdikten sonra kalplerimizi kaydırma ve Katından bize bir rahmet bağışla. Şüphesiz, bağışı en çok olan Sensin Sen.&quot;",
+            "translation": "(Hem onlar derler ki:) “Rabbimiz! Bizi hidâyete erdirdikten sonra kalblerimizi(haktan) eğriltme! Ve bize, tarafından bir rahmet ihsân eyle! Şübhesiz ki Vehhâb (çok ihsân edici) olan, ancak sensin!”",
             "originals": [
                 "رَبَّنَا",
                 "لَا تُزِغْ",
@@ -272,7 +273,7 @@
         {
             "id": "9",
             "sentence": "رَبَّنَٓا اِنَّكَ جَامِعُ النَّاسِ لِيَوْمٍ لَا رَيْبَ ف۪يهِۜ اِنَّ اللّٰهَ لَا يُخْلِفُ الْم۪يعَادَ۟",
-            "translation": "&quot;Rabbimiz, kendisinde şüphe olmayan bir günde insanları gerçekten Sen toplayacaksın. Doğrusu Allah, va´dinden cayıp-dönmez.&quot;",
+            "translation": "“Rabbimiz! Hakkında şübhe olmayan (geleceği muhakkak) bir günde insanları bir araya getirici olan muhakkak ki sensin!” Şübhesiz Allah, va'dinden dönmez.",
             "originals": [
                 "رَبَّنَٓا",
                 "اِنَّكَ",
@@ -303,7 +304,7 @@
         {
             "id": "10",
             "sentence": "اِنَّ الَّذ۪ينَ كَفَرُوا لَنْ تُغْنِيَ عَنْهُمْ اَمْوَالُهُمْ وَلَٓا اَوْلَادُهُمْ مِنَ اللّٰهِ شَيْـٔاًۜ وَاُو۬لٰٓئِكَ هُمْ وَقُودُ النَّارِۙ",
-            "translation": "Şüphesiz inkar edenler, onların malları da, çocukları da kendilerine Allah´tan (gelecek azaba karşı) hiçbir şey kazandırmaz. Ve onlar ateşin yakıtıdırlar.",
+            "translation": "Şübhesiz ki inkâr edenlerin ne malları ne de evlâdları, Allah'(ın azâbın)a karşı kendilerine hiçbir şeyle fayda vermeyecektir! (Cehennem) ateşin(in) yakacağı olanlar da işte ancak onlardır.",
             "originals": [
                 "اِنَّ",
                 "الَّذ۪ينَ كَفَرُوا",
@@ -336,7 +337,7 @@
         {
             "id": "11",
             "sentence": "كَدَأْبِ اٰلِ فِرْعَوْنَۙ وَالَّذ۪ينَ مِنْ قَبْلِهِمْۜ كَذَّبُوا بِاٰيَاتِنَاۚ فَاَخَذَهُمُ اللّٰهُ بِذُنُوبِهِمْۜ وَاللّٰهُ شَد۪يدُ الْعِقَابِ",
-            "translation": "Tıpkı Firavun ailesi ve onlardan öncekilerin gidiş tarzı gibi. Ayetlerimizi yalanladılar, böylece Allah günahları nedeniyle onları yakalayıverdi. Allah, (cezayla) sonuçlandırması pek şiddetli olandır.",
+            "translation": "(Bunların âdeti) Fir'avun ehlinin ve onlardan öncekilerin âdeti gibidir. (Onlar da)âyetlerimizi yalanlamışlardı. Allah da onları, günahları sebebi ile yakalayıvermişti. Allah ise, azâbı pek şiddetli olandır.",
             "originals": [
                 "كَدَأْبِ",
                 "اٰلِ",
@@ -369,7 +370,7 @@
         {
             "id": "12",
             "sentence": "قُلْ لِلَّذ۪ينَ كَفَرُوا سَتُغْلَبُونَ وَتُحْشَرُونَ اِلٰى جَهَنَّمَۜ وَبِئْسَ الْمِهَادُ",
-            "translation": "İnkar edenlere de ki: &quot;Yakında yenilgiye uğratılacaksınız ve toplanıp cehenneme sürüleceksiniz.&quot; Ne kötü yataktır o.",
+            "translation": "(Ey Resûlüm!) O inkâr edenlere de ki: “Yakında mağlûb olacaksınız ve (toplanarak)Cehenneme sevk edileceksiniz! Ki (o,) ne kötü bir yataktır!”",
             "originals": [
                 "قُلْ",
                 "لِلَّذ۪ينَ كَفَرُوا",
@@ -392,7 +393,7 @@
         {
             "id": "13",
             "sentence": "قَدْ كَانَ لَكُمْ اٰيَةٌ ف۪ي فِئَتَيْنِ الْتَقَتَاۜ فِئَةٌ تُقَاتِلُ ف۪ي سَب۪يلِ اللّٰهِ وَاُخْرٰى كَافِرَةٌ يَرَوْنَهُمْ مِثْلَيْهِمْ رَأْيَ الْعَيْنِۜ وَاللّٰهُ يُؤَيِّدُ بِنَصْرِه۪ مَنْ يَشَٓاءُۜ اِنَّ ف۪ي ذٰلِكَ لَعِبْرَةً لِاُو۬لِي الْاَبْصَارِ",
-            "translation": "Karşı karşıya gelen iki toplulukta, sizin için andolsun bir ayet (ibret) vardır. Bir topluluk, Allah yolunda çarpışıyordu, diğeri ise kafirdi ki göz görmesiyle karşılarındakini kendilerinin iki katı görüyorlardı. İşte Allah, dilediğini yardımıyla destekler. Şüphesiz bunda, basiret sahipleri için gerçekten bir ibret vardır.",
+            "translation": "(Bedir'de) karşılaşan iki cemâatte elbette sizin için bir delil vardır. Bir cemâat Allah yolunda savaşıyordu, diğeri ise kâfir idi ki, (kendi) göz görüş(ler)iyle onları (o mü'minleri, karşılarında) kendilerinin iki misli olarak görüyorlardı. Çünki Allah, dilediği kimseye yardımı ile kuvvet verir. Muhakkak ki bunda, basîret sâhibleri için gerçekten bir ibret vardır.",
             "originals": [
                 "قَدْ",
                 "كَانَ لَكُمْ",
@@ -447,7 +448,7 @@
         {
             "id": "14",
             "sentence": "زُيِّنَ لِلنَّاسِ حُبُّ الشَّهَوَاتِ مِنَ النِّسَٓاءِ وَالْبَن۪ينَ وَالْقَنَاط۪يرِ الْمُقَنْطَرَةِ مِنَ الذَّهَبِ وَالْفِضَّةِ وَالْخَيْلِ الْمُسَوَّمَةِ وَالْاَنْعَامِ وَالْحَرْثِۜ ذٰلِكَ مَتَاعُ الْحَيٰوةِ الدُّنْيَاۚ وَاللّٰهُ عِنْدَهُ حُسْنُ الْمَاٰبِ",
-            "translation": "Kadınlara, oğullara, kantar kantar yığılmış altın ve gümüşe, salma güzel atlara, hayvanlara ve ekinlere duyulan tutkulu şehvet insanlara ´süslü ve çekici´ kılındı. Bunlar, dünya hayatının metaıdır. Asıl varılacak güzel yer Allah Katında olandır.",
+            "translation": "Kadınlar, oğullar, yığılmış yüklerle altın ve gümüş yığınları, salma atlar, sağmal hayvanlar ve ekinler (kabîlin)den nefsin arzu duyduğu şeylerin sevgisi insanlara süslendi(güzel gösterildi). Bunlar dünya hayâtının (geçici) menfaatidir. Hâlbuki varılacak yerin güzeli ancak Allah katındadır.",
             "originals": [
                 "زُيِّنَ",
                 "لِلنَّاسِ",
@@ -500,7 +501,7 @@
         {
             "id": "15",
             "sentence": "قُلْ اَؤُ۬نَبِّئُكُمْ بِخَيْرٍ مِنْ ذٰلِكُمْۜ لِلَّذ۪ينَ اتَّقَوْا عِنْدَ رَبِّهِمْ جَنَّاتٌ تَجْر۪ي مِنْ تَحْتِهَا الْاَنْهَارُ خَالِد۪ينَ ف۪يهَا وَاَزْوَاجٌ مُطَهَّرَةٌ وَرِضْوَانٌ مِنَ اللّٰهِۜ وَاللّٰهُ بَص۪يرٌ بِالْعِبَادِۚ",
-            "translation": "De ki: &quot;Size bundan daha hayırlısını bildireyim mi? Korkup sakınanlar için Rablerinin Katında, içinde temelli kalacakları, altından ırmaklar akan cennetler, tertemiz eşler ve Allah´ın rızası vardır. Allah, kulları hakkıyla görendir.&quot;",
+            "translation": "(Habîbim, yâ Muhammed!) De ki: “Size bunlardan daha hayırlısını haber vereyim mi?” (Günahlardan) sakınanlar için Rableri katında altlarından nehirler akan, içinde ebedî olarak kalıcı oldukları Cennetler, tertemiz zevceler ve Allah'dan bir rıdvân (râzı olması)vardır! Ve Allah, kulları(nı) hakkıyla görendir.",
             "originals": [
                 "قُلْ",
                 "اَؤُ۬نَبِّئُكُمْ",
@@ -549,7 +550,7 @@
         {
             "id": "16",
             "sentence": "الَّذ۪ينَ يَقُولُونَ رَبَّنَٓا اِنَّـنَٓا اٰمَنَّا فَاغْفِرْ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ النَّارِۚ",
-            "translation": "Onlar: &quot;Rabbimiz şüphesiz biz iman ettik, artık bizim günahlarımızı bağışla ve bizi ateşin azabından koru&quot; diyenler;",
+            "translation": "Onlar ki: “Rabbimiz! Muhakkak ki biz îmân ettik; artık günahlarımızı bize bağışla ve bizi o ateşin azâbından muhâfaza eyle!” derler.",
             "originals": [
                 "الَّذ۪ينَ يَقُولُونَ",
                 "رَبَّنَٓا",
@@ -576,7 +577,7 @@
         {
             "id": "17",
             "sentence": "اَلصَّابِر۪ينَ وَالصَّادِق۪ينَ وَالْقَانِت۪ينَ وَالْمُنْفِق۪ينَ وَالْمُسْتَغْفِر۪ينَ بِالْاَسْحَارِ",
-            "translation": "Sabredenler, doğru olanlar, gönülden boyun eğenler, infak edenler ve ´seher vakitlerinde´ bağışlanma dileyenlerdir.",
+            "translation": "(Onlar:) Sabredenler, doğru olanlar, itâat edenler, (mallarını Allah yolunda) sarf edenler ve seherlerde (sabah namazı vaktinden önce) mağfiret dileyenlerdir.",
             "originals": [
                 "اَلصَّابِر۪ينَ",
                 "وَالصَّادِق۪ينَ",
@@ -597,7 +598,7 @@
         {
             "id": "18",
             "sentence": "شَهِدَ اللّٰهُ اَنَّهُ لَٓا اِلٰهَ اِلَّا هُوَۙ وَالْمَلٰٓئِكَةُ وَاُو۬لُوا الْعِلْمِ قَٓائِماً بِالْقِسْطِۜ هُوَ الْعَز۪يزُ الْحَك۪يمُۜ",
-            "translation": "Allah, gerçekten Kendisi´nden başka İlah olmadığına şahitlik etti; melekler ve ilim sahipleri de O´ndan başka İlah olmadığına adaletle şahitlik ettiler. Aziz ve Hakim olan O´ndan başka İlah yoktur.",
+            "translation": "Allah, adâleti kaim kılarak kendisinden başka ilâh olmadığına şâhidlik etti; melekler ve ilim sâhibleri de (adâletle kaim olarak buna şâhidlik ettiler). O'ndan başka ilâh yoktur;(O,) Azîz (kudreti dâimâ galib gelen)dir, Hakîm (her işi hikmetli olan)dır.",
             "originals": [
                 "شَهِدَ",
                 "اللّٰهُ",
@@ -636,7 +637,7 @@
         {
             "id": "19",
             "sentence": "اِنَّ الدّ۪ينَ عِنْدَ اللّٰهِ الْاِسْلَامُ۠ وَمَا اخْتَلَفَ الَّذ۪ينَ اُو۫تُوا الْكِتَابَ اِلَّا مِنْ بَعْدِ مَا جَٓاءَهُمُ الْعِلْمُ بَغْياً بَيْنَهُمْۜ وَمَنْ يَكْفُرْ بِاٰيَاتِ اللّٰهِ فَاِنَّ اللّٰهَ سَر۪يعُ الْحِسَابِ",
-            "translation": "Hiç şüphesiz din, Allah Katında İslam´dır. Kitap verilenler, ancak kendilerine ilim geldikten sonra, aralarındaki &quot;kıskançlık ve hakka başkaldırma&quot; (bağy) yüzünden ayrılığa düştüler. Kim Allah´ın ayetlerini inkar ederse, (bilsin ki) gerçekten Allah, hesabı pek çabuk görendir.",
+            "translation": "Muhakkak ki Allah katında (yegâne) din, İslâm'dır! Kendilerine kitab verilenler(yahudi ve hristiyanlar), ancak kendilerine ilim geldikten sonra aralarındaki hasedden dolayı ihtilâfa düştüler. Artık kim Allah'ın âyetlerini inkâr ederse, artık şübhesiz ki Allah, hesâbı pek çabuk görendir.",
             "originals": [
                 "اِنَّ",
                 "الدّ۪ينَ",
@@ -689,7 +690,7 @@
         {
             "id": "20",
             "sentence": "فَاِنْ حَٓاجُّوكَ فَقُلْ اَسْلَمْتُ وَجْهِيَ لِلّٰهِ وَمَنِ اتَّـبَعَنِۜ وَقُلْ لِلَّذ۪ينَ اُو۫تُوا الْكِتَابَ وَالْاُمِّيّ۪نَ ءَاَسْلَمْتُمْۜ اَسْلَمُوا فَقَدِ اهْتَدَوْاۚ وَاِنْ تَوَلَّوْا فَاِنَّمَا عَلَيْكَ الْبَلَاغُۜ وَاللّٰهُ بَص۪يرٌ بِالْعِبَادِ۟",
-            "translation": "Eğer seninle çekişip-tartışırlarsa, de ki: &quot;Ben, bana uyanlarla birlikte, kendimi Allah´a teslim ettim.&quot; Ve kitap verilenlerle ümmilere de ki: &quot;Siz de teslim oldunuz mu?&quot; Eğer teslim oldularsa, gerçekten hidayete ermişlerdir. Fakat yüz çevirdilerse, artık sana düşen yalnızca tebliğ(etmek)dir. Allah, kulları hakkıyla görendir.",
+            "translation": "(Ey Resûlüm!) Buna rağmen (onlar) seninle tartışırlarsa, artık de ki: “(Ben) kendimi Allah'a teslîm ettim, bana tâbi' olanlar da!” Hem kendilerine kitab verilenlere ve ümmîlere(diğer müşriklere) de ki: “(Siz de) teslîm oldunuz mu?” Bunun üzerine İslâm'a girerlerse, o hâlde muhakkak doğru yola ermiş olurlar. Artık yüz çevirirlerse, o takdirde sana düşen ancak tebliğdir. Allah ise, kulları(nı) hakkıyla görendir.",
             "originals": [
                 "فَاِنْ",
                 "حَٓاجُّوكَ",
@@ -746,7 +747,7 @@
         {
             "id": "21",
             "sentence": "اِنَّ الَّذ۪ينَ يَكْفُرُونَ بِاٰيَاتِ اللّٰهِ وَيَقْتُلُونَ النَّبِيّ۪نَ بِغَيْرِ حَقٍّۙ وَيَقْتُلُونَ الَّذ۪ينَ يَأْمُرُونَ بِالْقِسْطِ مِنَ النَّاسِۙ فَبَشِّرْهُمْ بِعَذَابٍ اَل۪يمٍ",
-            "translation": "Allah´ın ayetlerini inkar edenler, peygamberleri haksız yere öldürenler ve insanlardan adaleti emredenleri öldürenler; işte onlara acıklı bir azabı müjdele.",
+            "translation": "Doğrusu Allah'ın âyetlerini inkâr edenler, haksız yere (haksızlıklarını bile bile)peygamberleri öldürenler ve insanlardan adâleti emredenleri öldürenler yok mu, artık onları(pek) elemli bir azâb ile müjdele!",
             "originals": [
                 "اِنَّ",
                 "الَّذ۪ينَ يَكْفُرُونَ",
@@ -783,7 +784,7 @@
         {
             "id": "22",
             "sentence": "اُو۬لٰٓئِكَ الَّذ۪ينَ حَبِطَتْ اَعْمَالُهُمْ فِي الدُّنْيَا وَالْاٰخِرَةِۘ وَمَا لَهُمْ مِنْ نَاصِر۪ينَ",
-            "translation": "Onlar, yaptıkları dünyada ve ahirette boşa gitmiş olanlardır. Ve onların yardımcıları yoktur.",
+            "translation": "İşte onlar, dünya ve âhirette amelleri boşa gitmiş olanlardır. Onlar için yardımcılardan kimse de yoktur.",
             "originals": [
                 "اُو۬لٰٓئِكَ",
                 "الَّذ۪ينَ حَبِطَتْ",
@@ -808,7 +809,7 @@
         {
             "id": "23",
             "sentence": "اَلَمْ تَرَ اِلَى الَّذ۪ينَ اُو۫تُوا نَص۪يباً مِنَ الْكِتَابِ يُدْعَوْنَ اِلٰى كِتَابِ اللّٰهِ لِيَحْكُمَ بَيْنَهُمْ ثُمَّ يَتَوَلّٰى فَر۪يقٌ مِنْهُمْ وَهُمْ مُعْرِضُونَ",
-            "translation": "Kendilerine kitaptan bir pay verilenleri görmedin mi? Aralarında Allah´ın kitabı hükmetsin diye çağrılıyorlar da, onlardan bir bölümü yüz çeviriyor. Onlar, işte böyle arka dönenlerdir.",
+            "translation": "Kendilerine Kitab'dan (Tevrât'tan) bir nasib verilenleri görmedin mi? Aralarında hüküm vermesi için Allah'ın Kitâbı'na da'vet olunuyorlar da, sonra onlardan bir kısmı, kendileri (hakkı kabûlden) kaçınan kimseler olarak geri dönüyorlar.",
             "originals": [
                 "اَلَمْ تَرَ",
                 "اِلَى الَّذ۪ينَ اُو۫تُوا",
@@ -845,7 +846,7 @@
         {
             "id": "24",
             "sentence": "ذٰلِكَ بِاَنَّهُمْ قَالُوا لَنْ تَمَسَّنَا النَّارُ اِلَّٓا اَيَّاماً مَعْدُودَاتٍۖ وَغَرَّهُمْ ف۪ي د۪ينِهِمْ مَا كَانُوا يَفْتَرُونَ",
-            "translation": "Bu, onların: &quot;Ateş bize sayılı günler dışında kesinlikle dokunmayacak&quot; demelerindendir. Onların bu iftiraları, dinleri konusunda kendilerini yanılgıya düşürmüştür.",
+            "translation": "Bu (yüz çevirmeleri), şübhesiz onların: “Sayılı birkaç günden başka, bize ateş aslâ dokunmayacaktır!” demeleri yüzündendir. Ve uydurmakta oldukları şeyler, dinleri husûsunda kendilerini aldatmıştır.",
             "originals": [
                 "ذٰلِكَ",
                 "بِاَنَّهُمْ",
@@ -878,7 +879,7 @@
         {
             "id": "25",
             "sentence": "فَكَيْفَ اِذَا جَمَعْنَاهُمْ لِيَوْمٍ لَا رَيْبَ ف۪يهِ وَوُفِّيَتْ كُلُّ نَفْسٍ مَا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ",
-            "translation": "Artık onları, kendisinde şüphe olmayan bir gün topladığımızda ve her bir nefse -haksızlığa uğratılmaksızın- kazandığı tam olarak ödendiğinde nasıl olacak?",
+            "translation": "Peki, hakkında hiç şübhe olmayan (geleceği muhakkak) bir günde onları bir araya getirdiğimiz ve herkese kazandığı (amellerin karşılığı) tam olarak verilip de kendilerine haksızlık edilmediği zaman (bakalım hâlleri) nasıl olacak!",
             "originals": [
                 "فَكَيْفَ",
                 "اِذَا",
@@ -909,7 +910,7 @@
         {
             "id": "26",
             "sentence": "قُلِ اللّٰهُمَّ مَالِكَ الْمُلْكِ تُؤْتِي الْمُلْكَ مَنْ تَشَٓاءُ وَتَنْزِعُ مِمَّنْ تَشَٓاءُۘ وَتُعِزُّ مَنْ تَشَٓاءُ وَتُذِلُّ مَنْ تَشَٓاءُۜ بِيَدِكَ الْخَيْرُۜ اِنَّكَ عَلٰى كُلِّ شَيْءٍ قَد۪يرٌ",
-            "translation": "De ki: &quot;Ey mülkün sahibi Allah´ım, dilediğine mülkü verirsin ve dilediğinden mülkü çekip-alırsın, dilediğini aziz kılar, dilediğini alçaltırsın; hayır Senin elindedir. Gerçekten Sen, herşeye güç yetirensin.&quot;",
+            "translation": "(Habîbim, yâ Muhammed!) De ki: “Ey mülkün (gerçek) sâhibi olan Allah! Dilediğine mülkü verirsin, dilediğinden de mülkü çeker alırsın! Hem dilediğini azîz edersin, dilediğini de zelîl kılarsın! (Her) hayır (ancak senin) elindedir! Şübhesiz ki sen, herşeye hakkıyla gücü yetensin!”",
             "originals": [
                 "قُلِ",
                 "اللّٰهُمَّ",
@@ -954,7 +955,7 @@
         {
             "id": "27",
             "sentence": "تُولِجُ الَّيْلَ فِي النَّهَارِ وَتُولِجُ النَّهَارَ فِي الَّيْلِۘ وَتُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ الْمَيِّتَ مِنَ الْحَيِّۘ وَتَرْزُقُ مَنْ تَشَٓاءُ بِغَيْرِ حِسَابٍ",
-            "translation": "&quot;Geceyi gündüze bağlayıp-katarsın, gündüzü de geceye bağlayıp-katarsın; diriyi ölüden çıkarırsın, ölüyü de diriden çıkarırsın. Sen, dilediğine hesapsız rızık verirsin.&quot;",
+            "translation": "“Geceyi gündüze katarsın, gündüzü de geceye katarsın! Hem ölüden diriyi çıkarırsın, diriden de ölüyü çıkarırsın! Dilediğini ise hesabsız rızıklandırırsın!”",
             "originals": [
                 "تُولِجُ",
                 "الَّيْلَ",
@@ -991,7 +992,7 @@
         {
             "id": "28",
             "sentence": "لَا يَتَّخِذِ الْمُؤْمِنُونَ الْكَافِر۪ينَ اَوْلِيَٓاءَ مِنْ دُونِ الْمُؤْمِن۪ينَۚ وَمَنْ يَفْعَلْ ذٰلِكَ فَلَيْسَ مِنَ اللّٰهِ ف۪ي شَيْءٍ اِلَّٓا اَنْ تَتَّقُوا مِنْهُمْ تُقٰيةًۜ وَيُحَذِّرُكُمُ اللّٰهُ نَفْسَهُۜ وَاِلَى اللّٰهِ الْمَص۪يرُ",
-            "translation": "Mü´minler, mü´minleri bırakıp da kafirleri veliler edinmesinler. Kim böyle yaparsa, Allah´tan hiçbir şey (yardım) yoktur. Ancak onlardan korunma gayesiyle sakınma(nız) başka. Allah, sizi Kendisi´nden sakındırır. Varış Allah´adır.",
+            "translation": "Mü'minler, mü'minleri bırakıp da kâfirleri dostlar edinmesin! O hâlde kim böyle yaparsa, artık (o kişi,) Allah'dan (dostluk olarak göreceği) bir şey içinde değildir; ancak (dost görünerek) onlardan (gelebilecek) bir tehlikeden sakınmanız müstesnâ! Bununla berâber Allah, sizi kendisin(e karşı gelmek)den sakındırır! Dönüş ise ancak Allah'adır.",
             "originals": [
                 "لَا يَتَّخِذِ",
                 "الْمُؤْمِنُونَ",
@@ -1042,7 +1043,7 @@
         {
             "id": "29",
             "sentence": "قُلْ اِنْ تُخْفُوا مَا ف۪ي صُدُورِكُمْ اَوْ تُبْدُوهُ يَعْلَمْهُ اللّٰهُۜ وَيَعْلَمُ فِي السَّمٰوَاتِ وَمَا فِي الْاَرْضِۜ وَاللّٰهُ عَلٰى كُلِّ شَيْءٍ قَد۪يرٌ",
-            "translation": "De ki: &quot;Sinelerinizde olanı -gizleseniz de, açığa vursanız da- Allah bilir. Ve göklerde olanı da, yerde olanı da bilir. Allah, herşeye güç yetirendir.&quot;",
+            "translation": "De ki: “Sînelerinizde olanı gizleseniz de onu açıklasanız da, Allah onu bilir. Göklerde olanı da yerde bulunanı da bilir.” Ve Allah, herşeye hakkıyla gücü yetendir.",
             "originals": [
                 "قُلْ",
                 "اِنْ تُخْفُوا",
@@ -1081,7 +1082,7 @@
         {
             "id": "30",
             "sentence": "يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَا عَمِلَتْ مِنْ خَيْرٍ مُحْضَراًۚۛ وَمَا عَمِلَتْ مِنْ سُٓوءٍۚۛ تَوَدُّ لَوْ اَنَّ بَيْنَهَا وَبَيْنَهُٓ اَمَداً بَع۪يداًۜ وَيُحَذِّرُكُمُ اللّٰهُ نَفْسَهُۜ وَاللّٰهُ رَؤُ۫فٌ بِالْعِبَادِ۟",
-            "translation": "Her bir nefsin hayırdan yaptıklarını hazır bulduğu ve her ne kötülük işlediyse onunla kendisi arasında uzak bir mesafe olmasını istediği o günü (düşünün). Allah, sizi Kendisi´nden sakındırır. Allah, kullarına karşı şefkatli olandır.",
+            "translation": "Herkes, yaptığı her iyiliği ve yaptığı her kötülüğü hazır olarak bulacağı gün arzu eder ki, keşke onunla (o kötü amelleri ile) kendisi arasında uzak bir mesâfe olsa! Allah ise, sizi kendisin(e karşı gelmek)den sakındırır! Ve Allah, kullar(ın)a karşı çok şefkatli olandır.",
             "originals": [
                 "يَوْمَ",
                 "تَجِدُ",
@@ -1130,7 +1131,7 @@
         {
             "id": "31",
             "sentence": "قُلْ اِنْ كُنْتُمْ تُحِبُّونَ اللّٰهَ فَاتَّبِعُون۪ي يُحْبِبْكُمُ اللّٰهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْۜ وَاللّٰهُ غَفُورٌ رَح۪يمٌ",
-            "translation": "De ki: &quot;Eğer siz Allah´ı seviyorsanız bana uyun; Allah da sizi sevsin ve günahlarınızı bağışlasın. Allah bağışlayandır, esirgeyendir.&quot;",
+            "translation": "(Habîbim, yâ Muhammed!) De ki: “Eğer Allah'ı seviyorsanız, o hâlde bana tâbi' olun ki, Allah (da) sizi sevsin ve günahlarınızı size bağışlasın!” Çünki Allah, Gafûr (çok bağışlayan)dır, Rahîm (çok merhamet eden)dir.",
             "originals": [
                 "قُلْ",
                 "اِنْ",
@@ -1167,7 +1168,7 @@
         {
             "id": "32",
             "sentence": "قُلْ اَط۪يعُوا اللّٰهَ وَالرَّسُولَۚ فَاِنْ تَوَلَّوْا فَاِنَّ اللّٰهَ لَا يُحِبُّ الْكَافِر۪ينَ",
-            "translation": "De ki: &quot;Allah´a ve elçisine itaat edin.&quot; Eğer yüz çevirirlerse şüphesiz Allah, kafirleri sevmez.",
+            "translation": "De ki: “Allah'a ve peygambere itâat edin!” Buna rağmen yüz çevirirlerse, hiç şübhesiz Allah, kâfirleri sevmez.",
             "originals": [
                 "قُلْ",
                 "اَط۪يعُوا",
@@ -1196,7 +1197,7 @@
         {
             "id": "33",
             "sentence": "اِنَّ اللّٰهَ اصْطَفٰٓى اٰدَمَ وَنُوحاً وَاٰلَ اِبْرٰه۪يمَ وَاٰلَ عِمْرٰنَ عَلَى الْعَالَم۪ينَۙ",
-            "translation": "Gerçek şu ki, Allah, Adem´i, Nuh´u, İbrahim ailesini ve İmran ailesini alemler üzerine seçti;",
+            "translation": "33,34. Muhakkak ki Allah, Âdem'i, Nûh'u ve İbrâhîm hânedânı ile Âl-i İmrân'ı(İmran kızı Meryem ve Îsâ'yı) birbirinden gelen bir zürriyet olarak âlemler üzerine seçkin kıldı. Allah ise, Semî' (hakkıyla işiten)dir, Alîm (hakkıyla bilen)dir.",
             "originals": [
                 "اِنَّ",
                 "اللّٰهَ",
@@ -1225,7 +1226,7 @@
         {
             "id": "34",
             "sentence": "ذُرِّيَّةً بَعْضُهَا مِنْ بَعْضٍۜ وَاللّٰهُ سَم۪يعٌ عَل۪يمٌۚ",
-            "translation": "Onlar birbirlerinden (türeme tek) bir zürriyettir. Allah işitendir, bilendir.",
+            "translation": "33,34. Muhakkak ki Allah, Âdem'i, Nûh'u ve İbrâhîm hânedânı ile Âl-i İmrân'ı(İmran kızı Meryem ve Îsâ'yı) birbirinden gelen bir zürriyet olarak âlemler üzerine seçkin kıldı. Allah ise, Semî' (hakkıyla işiten)dir, Alîm (hakkıyla bilen)dir.",
             "originals": [
                 "ذُرِّيَّةً",
                 "بَعْضُهَا",
@@ -1246,7 +1247,7 @@
         {
             "id": "35",
             "sentence": "اِذْ قَالَتِ امْرَاَتُ عِمْرٰنَ رَبِّ اِنّ۪ي نَذَرْتُ لَكَ مَا ف۪ي بَطْن۪ي مُحَرَّراً فَتَقَبَّلْ مِنّ۪يۚ اِنَّكَ اَنْتَ السَّم۪يعُ الْعَل۪يمُ",
-            "translation": "Hani İmran´ın karısı: &quot;Rabbim, karnımda olanı, ´her türlü bağımlılıktan özgürlüğe kavuşturulmuş olarak´ Sana adadım, benden kabul et. Şüphesiz işiten bilen Sensin Sen&quot; demişti.",
+            "translation": "Bir zaman İmrân'ın hanımı (Hanne) şöyle demişti: “Rabbim! Gerçekten ben karnımdakini (ibâdet için) âzâd edilmiş (bir köle) olarak sana adadım, artık benden kabûl buyur! Şübhesiz ki Semî' (her niyâzı işiten), Alîm (herşeyi bilen) ancak sensin!”",
             "originals": [
                 "اِذْ قَالَتِ",
                 "امْرَاَتُ",
@@ -1287,7 +1288,7 @@
         {
             "id": "36",
             "sentence": "فَلَمَّا وَضَعَتْهَا قَالَتْ رَبِّ اِنّ۪ي وَضَعْتُهَٓا اُنْثٰىۜ وَاللّٰهُ اَعْلَمُ بِمَا وَضَعَتْۜ وَلَيْسَ الذَّكَرُ كَالْاُنْثٰىۚ وَاِنّ۪ي سَمَّيْتُهَا مَرْيَمَ وَاِنّ۪ٓي اُع۪يذُهَا بِكَ وَذُرِّيَّتَهَا مِنَ الشَّيْطَانِ الرَّج۪يمِ",
-            "translation": "Fakat onu doğurduğunda -Allah onun ne doğurduğunu daha iyi bilirken- dedi ki: &quot;Rabbim, doğrusu bir kız (çocuğu) doğurdum. Erkek ise, kız gibi değildir. Ona Meryem adını koydum. Ben onu ve soyunu o taşa tutulmuş (kovulmuş) şeytandan Sana sığındırırım.&quot;",
+            "translation": "Nihâyet onu doğurunca: “Rabbim! Gerçekten ben onu kız doğurdum!” dedi (ve bundan dolayı mahzun oldu). Hâlbuki Allah, onun ne doğurduğunu daha iyi bilendir. Ve erkek, (ma'bede hizmet için) kız gibi değildir. “Bununla berâber doğrusu ben ona Meryem adını verdim; artık şübhesiz ben onu ve zürriyetini kovulmuş şeytandan sana sığındırırım!”(dedi).",
             "originals": [
                 "فَلَمَّا وَضَعَتْهَا",
                 "قَالَتْ",
@@ -1338,7 +1339,7 @@
         {
             "id": "37",
             "sentence": "فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ وَاَنْبَتَهَا نَبَاتاً حَسَناًۙ وَكَفَّلَهَا زَكَرِيَّاۜ كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا الْمِحْرَابَۙ وَجَدَ عِنْدَهَا رِزْقاًۚ قَالَ يَا مَرْيَمُ اَنّٰى لَكِ هٰذَاۜ قَالَتْ هُوَ مِنْ عِنْدِ اللّٰهِۜ اِنَّ اللّٰهَ يَرْزُقُ مَنْ يَشَٓاءُ بِغَيْرِ حِسَابٍ",
-            "translation": "Bunun üzerine Rabbi onu güzel bir kabulle kabul etti ve onu güzel bir bitki gibi yetiştirdi. Zekeriya´yı ondan sorumlu kıldı. Zekeriya her ne zaman mihraba girdiyse, yanında bir yiyecek buldu: &quot;Meryem, bu sana nereden geldi?&quot; deyince, &quot;Bu, Allah Katındandır. Şüphesiz Allah, dilediğine hesapsız rızık verendir&quot; dedi.",
+            "translation": "Böylece Rabbi onu (Meryem'i, annesinden) güzel bir kabûl ile kabûl etti ve onu güzel bir bitki (bir çiçek) gibi yetiştirdi; ve onu (akrabâsı bulunan) Zekeriyyâ'nın himâyesine verdi. Ne zaman Zekeriyyâ onun yanına ma'bede girse, yanında bir rızık bulurdu. “Ey Meryem! Bu sana nereden (geldi)?” derdi. (O da:) “Bu, Allah tarafındandır!” derdi. Şübhesiz ki Allah, dilediğini hesabsız olarak rızıklandırır.",
             "originals": [
                 "فَتَقَبَّلَهَا",
                 "رَبُّهَا",
@@ -1411,7 +1412,7 @@
         {
             "id": "38",
             "sentence": "هُنَالِكَ دَعَا زَكَرِيَّا رَبَّهُۚ قَالَ رَبِّ هَبْ ل۪ي مِنْ لَدُنْكَ ذُرِّيَّةً طَيِّبَةًۚ اِنَّكَ سَم۪يعُ الدُّعَٓاءِ",
-            "translation": "Orada Zekeriya Rabbine dua etti: &quot;Rabbim, bana Katından tertemiz bir soy armağan et. Doğrusu Sen, duaları işitensin&quot; dedi.",
+            "translation": "Orada Zekeriyyâ Rabbine duâ etti. Dedi ki: “Rabbim! Bana, tarafından temiz bir zürriyet ihsân eyle! Şübhesiz ki sen, duâyı hakkıyla işitensin.”",
             "originals": [
                 "هُنَالِكَ",
                 "دَعَا",
@@ -1448,7 +1449,7 @@
         {
             "id": "39",
             "sentence": "فَنَادَتْهُ الْمَلٰٓئِكَةُ وَهُوَ قَٓائِمٌ يُصَلّ۪ي فِي الْمِحْرَابِۙ اَنَّ اللّٰهَ يُبَشِّرُكَ بِيَحْيٰى مُصَدِّقاً بِكَلِمَةٍ مِنَ اللّٰهِ وَسَيِّداً وَحَصُوراً وَنَبِياًّ مِنَ الصَّالِح۪ينَ",
-            "translation": "O mihrapta namaz kılarken, melekler ona seslendi: &quot;Allah, sana Yahya´yı müjdeler. O, Allah´tan olan bir kelimeyi (İsa´yı) doğrulayan, efendi, iffetli ve salihlerden bir peygamberdir.&quot;",
+            "translation": "Derken o, ma'bedde namaz kılarken ayakta olduğu bir sırada, melekler ona şöyle nidâ ettiler: “Doğrusu Allah, sana Allah'dan bir kelime (olan Îsâ')yı tasdîk edici, bir efendi, bir iffet sâhibi ve sâlihlerden bir peygamber olarak Yahyâ'yı müjdeliyor!”",
             "originals": [
                 "فَنَادَتْهُ",
                 "الْمَلٰٓئِكَةُ",
@@ -1491,7 +1492,7 @@
         {
             "id": "40",
             "sentence": "قَالَ رَبِّ اَنّٰى يَكُونُ ل۪ي غُلَامٌ وَقَدْ بَلَغَنِيَ الْكِبَرُ وَامْرَاَت۪ي عَاقِرٌۜ قَالَ كَذٰلِكَ اللّٰهُ يَفْعَلُ مَا يَشَٓاءُ",
-            "translation": "Dedi ki: &quot;Rabbim, bana gerçekten ihtiyarlık ulaşmışken ve karım da kısırken nasıl bir oğlum olabilir?&quot; &quot;Böyledir&quot; dedi, &quot;Allah dilediğini yapar.&quot;",
+            "translation": "(Zekeriyyâ) şöyle dedi: “Rabbim! Doğrusu bana ihtiyarlık geldiği, hanımım da kısır olduğu hâlde, benim için bir oğul nasıl olur?” (Rabbi de ona:) “Böyledir! Allah, dilediğini yapar!” buyurdu.",
             "originals": [
                 "قَالَ",
                 "رَبِّ",
@@ -1528,7 +1529,7 @@
         {
             "id": "41",
             "sentence": "قَالَ رَبِّ اجْعَلْ ل۪ٓي اٰيَةًۜ قَالَ اٰيَتُكَ اَلَّا تُكَلِّمَ النَّاسَ ثَلٰثَةَ اَيَّامٍ اِلَّا رَمْزاًۜ وَاذْكُرْ رَبَّكَ كَث۪يراً وَسَبِّـحْ بِالْعَشِيِّ وَالْاِبْكَارِ۟",
-            "translation": "(Zekeriya) &quot;Rabbim, bana bir alamet (ayet) ver.&quot; dedi. &quot;Sana alamet, işaretleşme dışında, insanlarla üç gün konuşmamandır. Rabbini çokça zikret ve akşam sabah O’nu tesbih et.&quot; dedi.",
+            "translation": "(Zekeriyyâ) dedi ki: “Rabbim! (Onun geleceğine dâir) bana bir alâmet kıl!” (Rabbiona şöyle) buyurdu: “Senin (ona dâir) alâmetin, insanlarla işâret (ile anlaşman) dışında, üç gün konuşamamandır. Hem Rabbini çok zikret ve akşam sabah (O'nu) tesbîh eyle!”",
             "originals": [
                 "قَالَ",
                 "رَبِّ",
@@ -1575,7 +1576,7 @@
         {
             "id": "42",
             "sentence": "وَاِذْ قَالَتِ الْمَلٰٓئِكَةُ يَا مَرْيَمُ اِنَّ اللّٰهَ اصْطَفٰيكِ وَطَهَّرَكِ وَاصْطَفٰيكِ عَلٰى نِسَٓاءِ الْعَالَم۪ينَ",
-            "translation": "Hani melekler: &quot;Meryem, şüphesiz Allah seni seçti, seni arındırdı ve alemlerin kadınlarına üstün kıldı,&quot; demişti.",
+            "translation": "Bir zaman da melekler şöyle demişlerdi: “Ey Meryem! Şübhesiz ki Allah, seni seçti, seni temiz kıldı ve seni âlemlerin kadınlarına seçkin kıldı.”",
             "originals": [
                 "وَاِذْ قَالَتِ",
                 "الْمَلٰٓئِكَةُ",
@@ -1606,7 +1607,7 @@
         {
             "id": "43",
             "sentence": "يَا مَرْيَمُ اقْنُت۪ي لِرَبِّكِ وَاسْجُد۪ي وَارْكَع۪ي مَعَ الرَّاكِع۪ينَ",
-            "translation": "&quot;Meryem, Rabbine gönülden itaatte bulun, secde et ve rüku edenlerle birlikte rüku et.&quot;",
+            "translation": "“Ey Meryem! Rabbine gönülden bağlan, secde et ve rükû' edenlerle berâber rükû' et!”",
             "originals": [
                 "يَا",
                 "مَرْيَمُ",
@@ -1631,7 +1632,7 @@
         {
             "id": "44",
             "sentence": "ذٰلِكَ مِنْ اَنْـبَٓاءِ الْغَيْبِ نُوح۪يهِ اِلَيْكَۜ وَمَا كُنْتَ لَدَيْهِمْ اِذْ يُلْقُونَ اَقْلَامَهُمْ اَيُّهُمْ يَكْفُلُ مَرْيَمَۖ لَدَيْهِمْ اِذْ يَخْتَصِمُونَ",
-            "translation": "Bunlar, gayb haberlerindendir; bunları sana vahyediyoruz. Onlardan hangisi Meryem´i sorumluluğuna alacak diye kalemleriyle kur´a atarlarken sen yanlarında değildin; çekişirlerken de yanlarında değildin.",
+            "translation": "(Habîbim, yâ Muhammed!) Bunlar gayb haberlerindendir ki, onu sana vahyediyoruz. Yoksa, içlerinden hangisi Meryem'i himâyesine alacak diye kalemlerini (kur'a için nehre) atarlarken, sen onların yanında değildin! (Onlar) birbirleriyle çekişirlerken de yanlarında değildin!",
             "originals": [
                 "ذٰلِكَ",
                 "مِنْ اَنْـبَٓاءِ",
@@ -1668,7 +1669,7 @@
         {
             "id": "45",
             "sentence": "اِذْ قَالَتِ الْمَلٰٓئِكَةُ يَا مَرْيَمُ اِنَّ اللّٰهَ يُبَشِّرُكِ بِكَلِمَةٍ مِنْهُۗ اِسْمُهُ الْمَس۪يحُ ع۪يسَى ابْنُ مَرْيَمَ وَج۪يهاً فِي الدُّنْيَا وَالْاٰخِرَةِ وَمِنَ الْمُقَرَّب۪ينَۙ",
-            "translation": "Hani melekler, dediler ki: &quot;Meryem, doğrusu Allah Kendinden bir kelimeyi sana müjdelemektedir. Onun adı Meryem oğlu İsa Mesih´tir. O, dünyada ve ahirette ´seçkin, onurlu, saygındır´ ve (Allah´a) yakın kılınanlardandır.&quot;",
+            "translation": "Hani melekler demişti ki: “Ey Meryem! Şübhesiz Allah, seni tarafından bir kelimeyle(bir çocukla) müjdeliyor! İsmi, Meryemoğlu Îsâ Mesîh'tir, dünya ve âhirette şereflidir ve Allah'a yakın kılınanlardandır.”",
             "originals": [
                 "اِذْ",
                 "قَالَتِ",
@@ -1715,7 +1716,7 @@
         {
             "id": "46",
             "sentence": "وَيُكَلِّمُ النَّاسَ فِي الْمَهْدِ وَكَهْلاً وَمِنَ الصَّالِح۪ينَ",
-            "translation": "&quot;Beşikte de, yetişkinliğinde de insanlarla konuşacaktır. Ve O salihlerdendir.&quot;",
+            "translation": "“Hem beşikte ve yetişkin hâlde insanlarla konuşacak ve sâlih kimselerden olacaktır.”",
             "originals": [
                 "وَيُكَلِّمُ",
                 "النَّاسَ",
@@ -1734,7 +1735,7 @@
         {
             "id": "47",
             "sentence": "قَالَتْ رَبِّ اَنّٰى يَكُونُ ل۪ي وَلَدٌ وَلَمْ يَمْسَسْن۪ي بَشَرٌۜ قَالَ كَذٰلِكِ اللّٰهُ يَخْلُقُ مَا يَشَٓاءُۜ اِذَا قَضٰٓى اَمْراً فَاِنَّمَا يَقُولُ لَهُ كُنْ فَيَكُونُ",
-            "translation": "&quot;Rabbim, bana bir beşer dokunmamışken, nasıl bir çocuğum olabilir?&quot; dedi. (Fakat) Allah neyi dilerse yaratır. Bir işin olmasına karar verirse, yalnızca ona &quot;ol&quot; der, o da hemen oluverir.&quot;",
+            "translation": "(Meryem:) “Rabbim! Bana bir insan dokunmadığı hâlde benim için bir çocuk nasıl olur?” dedi. (Rabbi de:) “Böyledir! Allah dilediğini yaratır. Bir işe hükmettiğinde, artık ona sâdece 'Ol!' der, (o da) hemen oluverir” buyurdu.",
             "originals": [
                 "قَالَتْ",
                 "رَبِّ",
@@ -1785,7 +1786,7 @@
         {
             "id": "48",
             "sentence": "وَيُعَلِّمُهُ الْكِتَابَ وَالْحِكْمَةَ وَالتَّوْرٰيةَ وَالْاِنْج۪يلَۚ",
-            "translation": "&quot;Ona Kitab’ı, hikmeti, Tevrat’ı ve İncil’i öğretecek.&quot;",
+            "translation": "(Melekler şöyle dediler:) “Hem (Allah) ona yazmayı, hikmeti, Tevrât'ı ve İncîl'i öğretecek!”",
             "originals": [
                 "وَيُعَلِّمُهُ",
                 "الْكِتَابَ",
@@ -1804,7 +1805,7 @@
         {
             "id": "49",
             "sentence": "وَرَسُولاً اِلٰى بَن۪ٓي اِسْرَٓائ۪لَ اَنّ۪ي قَدْ جِئْتُكُمْ بِاٰيَةٍ مِنْ رَبِّكُمْۙ اَنّ۪ٓي اَخْلُقُ لَكُمْ مِنَ الطّ۪ينِ كَهَيْـَٔةِ الطَّيْرِ فَاَنْفُخُ ف۪يهِ فَيَكُونُ طَيْراً بِاِذْنِ اللّٰهِۚ وَاُبْرِئُ الْاَكْمَهَ وَالْاَبْرَصَ وَاُحْـيِ الْمَوْتٰى وَاُنَبِّئُكُمْ بِمَا تَأْكُلُونَ وَمَا تَدَّخِرُونَۙ ف۪ي بُيُوتِكُمْۜ اِنَّ ف۪ي ذٰلِكَ لَاٰيَةً اِنْ كُنْتُمْ مُؤْمِن۪ينَۚ",
-            "translation": "İsrailoğulları’na elçi kılacak. (O, İsrailoğulları’na şöyle diyecek:) &quot;Gerçek şu, ben size Rabbinizden bir ayetle geldim. Ben size çamurdan kuş biçiminde bir şey oluşturur, içine üfürürüm, o da hemencecik Allah´ın izniyle kuş oluverir. Ve Allah´ın izniyle doğuştan kör olanı, alaca hastalığına tutulanı iyileştirir ve ölüyü diriltirim. Yediklerinizi ve biriktirdiklerinizi size haber veririm. Şüphesiz, eğer inanmışsanız bunda sizin için kesin bir ayet vardır.&quot;",
+            "translation": "Ve İsrâiloğullarına bir peygamber olarak (şöyle diyecek): “Hiç şübhesiz ben, size Rabbinizden bir delil (bir mu'cize) ile geldim. Doğrusu ben, size çamurdan kuş şekli gibi birşey yapıp içine üflerim, Allah'ın izniyle (o) hemen bir kuş olur! Hem Allah'ın izniyle(anadan doğma) körü ve (teni) alacalıyı iyi ederim, ölüleri de diriltirim! Ve evlerinizde ne yiyorsanız ve ne biriktiriyorsanız size bildiririm! Eğer mü'min kimseler iseniz, şübhesiz bunda sizin için elbette bir delil vardır.”",
             "originals": [
                 "وَرَسُولاً",
                 "اِلٰى بَن۪ٓي",
@@ -1883,7 +1884,7 @@
         {
             "id": "50",
             "sentence": "وَمُصَدِّقاً لِمَا بَيْنَ يَدَيَّ مِنَ التَّوْرٰيةِ وَلِاُحِلَّ لَكُمْ بَعْضَ الَّذ۪ي حُرِّمَ عَلَيْكُمْ وَجِئْتُكُمْ بِاٰيَةٍ مِنْ رَبِّكُمْ فَاتَّقُوا اللّٰهَ وَاَط۪يعُونِ",
-            "translation": "&quot;Benden önceki Tevrat´ı doğrulamak ve size haram kılınan bazı şeyleri helal kılmak üzere size Rabbinizden bir ayetle geldim. Artık Allah´tan korkup bana itaat edin.&quot;",
+            "translation": "“Hem benden önce gelen Tevrât'ı tasdîk edici olarak ve size haram kılınan bazı şeyleri size helâl kılayım diye (geldim) ve size Rabbinizden bir delil (bir mu'cize) getirdim; artık Allahdan sakının ve bana itâat edin!”",
             "originals": [
                 "وَمُصَدِّقاً",
                 "لِمَا بَيْنَ يَدَيَّ",
@@ -1920,7 +1921,7 @@
         {
             "id": "51",
             "sentence": "اِنَّ اللّٰهَ رَبّ۪ي وَرَبُّكُمْ فَاعْبُدُوهُۜ هٰذَا صِرَاطٌ مُسْتَق۪يمٌ",
-            "translation": "&quot;Gerçekten Allah, benim de Rabbim, sizin de Rabbinizdir. Öyleyse O´na ibadet edin. Dosdoğru olan yol işte budur.&quot;",
+            "translation": "“Muhakkak ki Allah, benim de Rabbim, sizin de Rabbinizdir; öyle ise O'na ibâdetedin! Bu, dosdoğru bir yoldur.”",
             "originals": [
                 "اِنَّ",
                 "اللّٰهَ",
@@ -1945,7 +1946,7 @@
         {
             "id": "52",
             "sentence": "فَلَمَّٓا اَحَسَّ ع۪يسٰى مِنْهُمُ الْكُفْرَ قَالَ مَنْ اَنْصَار۪ٓي اِلَى اللّٰهِۜ قَالَ الْحَوَارِيُّونَ نَحْنُ اَنْصَارُ اللّٰهِۚ اٰمَنَّا بِاللّٰهِۚ وَاشْهَدْ بِاَنَّا مُسْلِمُونَ",
-            "translation": "Nitekim İsa, onlarda inkarı sezince, dedi ki: &quot;Allah için bana yardım edecekler kimdir?&quot; Havariler: &quot;Allah´ın yardımcıları biziz; biz Allah´a inandık, bizim gerçekten Müslümanlar olduğumuza şahid ol&quot; dediler.",
+            "translation": "Sonunda Îsâ onlardan küfrü hissedince: “Allah'a (giden yolda) benim yardımcılarım kimlerdir?” dedi. Havârîler: “Biz, Allah'ın (dîninin) yardımcılarıyız. Allah'a îmân ettik. Hem şâhid ol ki biz, şübhesiz Müslümanlarız” dediler.",
             "originals": [
                 "فَلَمَّٓا اَحَسَّ",
                 "ع۪يسٰى",
@@ -1992,7 +1993,7 @@
         {
             "id": "53",
             "sentence": "رَبَّنَٓا اٰمَنَّا بِمَٓا اَنْزَلْتَ وَاتَّبَعْنَا الرَّسُولَ فَاكْتُبْنَا مَعَ الشَّاهِد۪ينَ",
-            "translation": "&quot;Rabbimiz, biz indirdiğine inandık ve elçiye uyduk. Böylece bizi şahidlerle beraber yaz.&quot;",
+            "translation": "(Havârîler:) “Rabbimiz! İndirdiğine îmân ettik ve peygambere tâbi' olduk. Artık bizi(seni ve peygamberlerini tasdîk eden) şâhidlerle berâber yaz!” (dediler).",
             "originals": [
                 "رَبَّنَٓا",
                 "اٰمَنَّا",
@@ -2017,7 +2018,7 @@
         {
             "id": "54",
             "sentence": "وَمَكَرُوا وَمَكَرَ اللّٰهُۜ وَاللّٰهُ خَيْرُ الْمَاكِر۪ينَ۟",
-            "translation": "Onlar (inanmayanlar) bir düzen kurdular. Allah da (buna karşılık) bir düzen kurdu. Allah, düzen kurucuların en hayırlısıdır.",
+            "translation": "Ve (o yahudiler, Îsâ'ya) tuzak kurdular, Allah da (onlara) tuzak kurdu (karşılık verdi). Allah ise, tuzak kuranların en hayırlısıdır.",
             "originals": [
                 "وَمَكَرُوا",
                 "وَمَكَرَ",
@@ -2038,7 +2039,7 @@
         {
             "id": "55",
             "sentence": "اِذْ قَالَ اللّٰهُ يَا ع۪يسٰٓى اِنّ۪ي مُتَوَفّ۪يكَ وَرَافِعُكَ اِلَيَّ وَمُطَهِّرُكَ مِنَ الَّذ۪ينَ كَفَرُوا وَجَاعِلُ الَّذ۪ينَ اتَّبَعُوكَ فَوْقَ الَّذ۪ينَ كَفَرُٓوا اِلٰى يَوْمِ الْقِيٰمَةِۚ ثُمَّ اِلَيَّ مَرْجِعُكُمْ فَاَحْكُمُ بَيْنَكُمْ ف۪يمَا كُنْتُمْ ف۪يهِ تَخْتَلِفُونَ",
-            "translation": "Hani Allah, İsa´ya demişti ki: &quot;Ey İsa, doğrusu senin hayatına Ben son vereceğim, seni Kendime yükselteceğim, seni inkar edenlerden temizleyeceğim ve sana uyanları kıyamete kadar inkara sapanların üstüne geçireceğim. Sonra dönüşünüz yalnızca Banadır, hakkında anlaşmazlığa düştüğünüz şeyde aranızda Ben hükmedeceğim.&quot;",
+            "translation": "O vakit Allah şöyle buyurdu: “Ey Îsâ! Seni (kıyâmete yakın) vefât ettirecek olan ve seni kendime yükseltici ve seni o inkâr edenlerden (onların iftirâlarından) temizleyici ve sana tâbi' olanları kıyâmet gününe kadar inkâr edenlerin üstünde tutacak olan, şübhesiz benim! Sonra dönüşünüz ancak banadır; artık hakkında ihtilâf etmekte olduğunuz şeyler husûsunda aranızda (ben) hüküm vereceğim!”",
             "originals": [
                 "اِذْ",
                 "قَالَ",
@@ -2099,7 +2100,7 @@
         {
             "id": "56",
             "sentence": "فَاَمَّا الَّذ۪ينَ كَفَرُوا فَاُعَذِّبُهُمْ عَذَاباً شَد۪يداً فِي الدُّنْيَا وَالْاٰخِرَةِۘ وَمَا لَهُمْ مِنْ نَاصِر۪ينَ",
-            "translation": "&quot;İnkar edenleri ise, dünyada ve ahirette şiddetli bir azapla azaplandıracağım. Onların hiç yardımcıları yoktur.&quot;",
+            "translation": "Fakat o inkâr edenler yok mu, artık onları dünyada ve âhirette şiddetli bir azâb ile cezâlandıracağım! Onlar için yardımcılardan kimse de yoktur.",
             "originals": [
                 "فَاَمَّا",
                 "الَّذ۪ينَ كَفَرُوا",
@@ -2128,7 +2129,7 @@
         {
             "id": "57",
             "sentence": "وَاَمَّا الَّذ۪ينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَيُوَفّ۪يهِمْ اُجُورَهُمْۜ وَاللّٰهُ لَا يُحِبُّ الظَّالِم۪ينَ",
-            "translation": "&quot;İman edip salih amellerde bulunanların ecirleri eksiksiz ödenecektir. Allah, zalim olanları sevmez.&quot;",
+            "translation": "Hâlbuki îmân edip sâlih ameller işleyenlere gelince, artık (Rabbin) onlara mükâfâtlarını tam olarak verecektir. Çünki Allah, zâlimleri sevmez.",
             "originals": [
                 "وَاَمَّا",
                 "الَّذ۪ينَ اٰمَنُوا",
@@ -2155,7 +2156,7 @@
         {
             "id": "58",
             "sentence": "ذٰلِكَ نَتْلُوهُ عَلَيْكَ مِنَ الْاٰيَاتِ وَالذِّكْرِ الْحَك۪يمِ",
-            "translation": "Bunları Biz sana ayetlerden ve hikmetli zikirden (Kur´an´dan) okuyoruz.",
+            "translation": "(Ey Resûlüm!) Bu (anlatılanlar) ki, onu sana âyetlerden ve hikmetli olan zikirden(Kur'ândan) okuyoruz.",
             "originals": [
                 "ذٰلِكَ",
                 "نَتْلُوهُ",
@@ -2176,7 +2177,7 @@
         {
             "id": "59",
             "sentence": "اِنَّ مَثَلَ ع۪يسٰى عِنْدَ اللّٰهِ كَمَثَلِ اٰدَمَۜ خَلَقَهُ مِنْ تُرَابٍ ثُمَّ قَالَ لَهُ كُنْ فَيَكُونُ",
-            "translation": "Şüphesiz, Allah Katında İsa´nın durumu, Adem´in durumu gibidir. Onu topraktan yarattı, sonra ona &quot;ol&quot; demesiyle o da hemen oluverdi.",
+            "translation": "Şübhesiz ki Allah katında Îsâ'nın (babasız yaratılışının) misâli, Âdem'in misâli gibidir. (Allah) onu (da babası olmadan) bir topraktan yarattı, sonra ona “Ol!” dedi, (o da)hemen oluverdi.",
             "originals": [
                 "اِنَّ",
                 "مَثَلَ",
@@ -2213,7 +2214,7 @@
         {
             "id": "60",
             "sentence": "اَلْحَقُّ مِنْ رَبِّكَ فَلَا تَكُنْ مِنَ الْمُمْتَر۪ينَ",
-            "translation": "Gerçek, Rabbinden (gelen)dir. Öyleyse kuşkuya kapılanlardan olma.",
+            "translation": "Bu hak (gerçek haber), Rabbinden (gelen)dir; öyle ise şübhe edenlerden olma!",
             "originals": [
                 "اَلْحَقُّ",
                 "مِنْ رَبِّكَ",
@@ -2230,7 +2231,7 @@
         {
             "id": "61",
             "sentence": "فَمَنْ حَٓاجَّكَ ف۪يهِ مِنْ بَعْدِ مَا جَٓاءَكَ مِنَ الْعِلْمِ فَقُلْ تَعَالَوْا نَدْعُ اَبْنَٓاءَنَا وَاَبْنَٓاءَكُمْ وَنِسَٓاءَنَا وَنِسَٓاءَكُمْ وَاَنْفُسَنَا وَاَنْفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَلْ لَعْنَتَ اللّٰهِ عَلَى الْكَاذِب۪ينَ",
-            "translation": "Artık sana gelen bunca ilimden sonra, onun hakkında seninle ´çekişip-tartışmalara girişirlerse´ de ki: &quot;Gelin, oğullarımızı ve oğullarınızı, kadınlarımızı ve kadınlarınızı, kendimizi ve kendinizi çağıralım; sonra karşılıklı lanetleşelim de Allah´ın lanetini yalan söyleyenlerin üstüne kılalım.&quot;",
+            "translation": "Artık sana ilim geldikten sonra, kim onun (Îsâ'nın) hakkında seninle tartışırsa, bunun üzerine de ki: “(İddiânızda samîmî iseniz) gelin, oğullarımızı ve oğullarınızı, kadınlarımızı ve kadınlarınızı, kendimizi ve kendinizi çağıralım, sonra gönülden duâ edelim de Allah'ın lâ'netini yalancıların üzerine kılalım!”",
             "originals": [
                 "فَمَنْ",
                 "حَٓاجَّكَ",
@@ -2283,7 +2284,7 @@
         {
             "id": "62",
             "sentence": "اِنَّ هٰذَا لَهُوَ الْقَصَصُ الْحَقُّۚ وَمَا مِنْ اِلٰهٍ اِلَّا اللّٰهُۜ وَاِنَّ اللّٰهَ لَهُوَ الْعَز۪يزُ الْحَك۪يمُ",
-            "translation": "Şüphesiz bu, gerçek bir olayın haberidir. Allah´tan başka İlah yoktur. Ve şüphesiz Allah, üstün ve güçlü olandır, hüküm ve hikmet sahibidir.",
+            "translation": "Doğrusu bu, (Îsâ hakkında anlatılan) elbette gerçek kıssadır. Ve Allah'dan başka hiçbir ilâh yoktur! Muhakkak ki Azîz (kudreti dâimâ galib gelen), Hakîm (her işi hikmetli olan) ise, ancak Allah'dır.",
             "originals": [
                 "اِنَّ",
                 "هٰذَا",
@@ -2318,7 +2319,7 @@
         {
             "id": "63",
             "sentence": "فَاِنْ تَوَلَّوْا فَاِنَّ اللّٰهَ عَل۪يمٌ بِالْمُفْسِد۪ينَ۟",
-            "translation": "Eğer yüz çevirirlerse elbette Allah, fesat çıkaranları bilir.",
+            "translation": "(Ey Resûlüm!) Bundan sonra (yine) yüz çevirirlerse, artık şübhesiz ki Allah, fesad çıkaranları hakkıyla bilendir.",
             "originals": [
                 "فَاِنْ",
                 "تَوَلَّوْا",
@@ -2339,7 +2340,7 @@
         {
             "id": "64",
             "sentence": "قُلْ يَٓا اَهْلَ الْكِتَابِ تَعَالَوْا اِلٰى كَلِمَةٍ سَوَٓاءٍ بَيْنَنَا وَبَيْنَكُمْ اَلَّا نَعْبُدَ اِلَّا اللّٰهَ وَلَا نُشْرِكَ بِه۪ شَيْـٔاً وَلَا يَتَّخِذَ بَعْضُنَا بَعْضاً اَرْبَاباً مِنْ دُونِ اللّٰهِۜ فَاِنْ تَوَلَّوْا فَقُولُوا اشْهَدُوا بِاَنَّا مُسْلِمُونَ",
-            "translation": "De ki: &quot;Ey Kitap Ehli, bizimle sizin aranızda müşterek (olan) bir kelimeye (tevhide) gelin. Allah´tan başkasına kulluk etmeyelim, O´na hiçbir şeyi ortak koşmayalım ve Allah´ı bırakıp bir kısmımız (diğer) bir kısmımızı Rabler edinmeyelim.&quot; Eğer yine yüz çevirirlerse, deyin ki: &quot;Şahid olun, biz gerçekten Müslümanlarız.&quot;",
+            "translation": "De ki: “Ey ehl-i kitab! Bizimle sizin aranızda eşit olan bir kelimeye gelin! Şöyle ki: 'Allah'dan başkasına ibâdet etmeyelim, O'na hiçbir şeyi ortak koşmayalım ve Allah'ı bırakıp da bazımız bazımızı rabler edinmesin!' ” Buna rağmen (onlar yine de) yüz çevirirlerse artık: “Şâhid olun ki gerçekten biz Müslümanlarız” deyin!",
             "originals": [
                 "قُلْ",
                 "يَٓا",
@@ -2402,7 +2403,7 @@
         {
             "id": "65",
             "sentence": "يَٓا اَهْلَ الْكِتَابِ لِمَ تُحَٓاجُّونَ ف۪ٓي اِبْرٰه۪يمَ وَمَٓا اُنْزِلَتِ التَّوْرٰيةُ وَالْاِنْج۪يلُ اِلَّا مِنْ بَعْدِه۪ۜ اَفَلَا تَعْقِلُونَ",
-            "translation": "&quot;Ey Kitap Ehli, İbrahim konusunda ne diye çekişip tartışıyorsunuz? Tevrat da, İncil de ancak ondan sonra indirilmiştir. Yine de akıl erdirmeyecek misiniz?&quot;",
+            "translation": "Ey ehl-i kitab! İbrâhîm hakkında niçin münâkaşa ediyorsunuz? Hâlbuki Tevrât ve İncîl, ancak ondan sonra indirildi. Hiç akıl erdirmez misiniz?",
             "originals": [
                 "يَٓا",
                 "اَهْلَ",
@@ -2437,7 +2438,7 @@
         {
             "id": "66",
             "sentence": "هَٓا اَنْتُمْ هٰٓؤُ۬لَٓاءِ حَاجَجْتُمْ ف۪يمَا لَكُمْ بِه۪ عِلْمٌ فَلِمَ تُحَٓاجُّونَ ف۪يمَا لَيْسَ لَكُمْ بِه۪ عِلْمٌۜ وَاللّٰهُ يَعْلَمُ وَاَنْتُمْ لَا تَعْلَمُونَ",
-            "translation": "İşte sizler böylesiniz; (diyelim ki) hakkında bilginiz olan şeyde tartıştınız, ama hiç bilginiz olmayan bir konuda ne diye tartışıp-duruyorsunuz? Oysa Allah bilir, sizler bilmezsiniz.",
+            "translation": "İşte siz öyle kimselersiniz ki, (haydi) hakkında (biraz) bilgi sâhibi olduğunuz şeyde(Mûsâ ve Îsâ mes'elesinde) tartıştınız; fakat hakkında hiç bilgi sâhibi olmadığınız şeyde(İbrâhîm mes'elesinde) niçin tartışıyorsunuz? Hâlbuki (onun gerçek mâhiyetini) Allah bilir, siz ise bilmezsiniz.",
             "originals": [
                 "هَٓا اَنْتُمْ",
                 "هٰٓؤُ۬لَٓاءِ",
@@ -2474,7 +2475,7 @@
         {
             "id": "67",
             "sentence": "مَا كَانَ اِبْرٰه۪يمُ يَهُودِياًّ وَلَا نَصْرَانِياًّ وَلٰكِنْ كَانَ حَن۪يفاً مُسْلِماًۜ وَمَا كَانَ مِنَ الْمُشْرِك۪ينَ",
-            "translation": "İbrahim, ne Yahudi idi, ne de Hıristiyandı: ancak, O hanif (muvahhid) bir Müslümandı, müşriklerden de değildi.",
+            "translation": "İbrâhîm, ne bir yahudi ne de bir hristiyandı; fakat (o, Allah'a) teslim olmuş bir Hanîf (hakka yönelmiş bir mü'min) idi. Ve (o, sizin gibi) müşriklerden değildi.",
             "originals": [
                 "مَا كَانَ",
                 "اِبْرٰه۪يمُ",
@@ -2503,7 +2504,7 @@
         {
             "id": "68",
             "sentence": "اِنَّ اَوْلَى النَّاسِ بِاِبْرٰه۪يمَ لَلَّذ۪ينَ اتَّبَعُوهُ وَهٰذَا النَّبِيُّ وَالَّذ۪ينَ اٰمَنُواۜ وَاللّٰهُ وَلِيُّ الْمُؤْمِن۪ينَ",
-            "translation": "Doğrusu, insanların İbrahim´e en yakın olanı, ona uyanlar ve bu peygamber ile iman edenlerdir. Allah, mü´minlerin velisidir.",
+            "translation": "Şübhesiz ki İbrâhîm'e insanların en yakını, elbette ona tâbi' olanlar ile bu peygamber(Muhammed) ve (ona) îmân edenlerdir. Allah ise, mü'minlerin dostudur.",
             "originals": [
                 "اِنَّ",
                 "اَوْلَى",
@@ -2534,7 +2535,7 @@
         {
             "id": "69",
             "sentence": "وَدَّتْ طَٓائِفَةٌ مِنْ اَهْلِ الْكِتَابِ لَوْ يُضِلُّونَكُمْۜ وَمَا يُضِلُّونَ اِلَّٓا اَنْفُسَهُمْ وَمَا يَشْعُرُونَ",
-            "translation": "Kitap Ehlinden bir grup, sizi şaşırtıp saptırmayı arzuladı; fakat onlar ancak kendi nefislerini şaşırtıp-saptırırlar da şuuruna varmazlar.",
+            "translation": "Ehl-i kitabdan bir tâife arzu ettiler ki, keşke sizi dalâlete düşürseler! Hâlbuki sâdece kendilerini dalâlete düşürürler de farkına varmazlar.",
             "originals": [
                 "وَدَّتْ",
                 "طَٓائِفَةٌ",
@@ -2563,7 +2564,7 @@
         {
             "id": "70",
             "sentence": "يَٓا اَهْلَ الْكِتَابِ لِمَ تَكْفُرُونَ بِاٰيَاتِ اللّٰهِ وَاَنْتُمْ تَشْهَدُونَ",
-            "translation": "Ey Kitap Ehli, siz şahid olup dururken, ne diye Allah´ın ayetlerini inkar ediyorsunuz?",
+            "translation": "Ey ehl-i kitab! Siz (hakikati) görüp durduğunuz hâlde, niçin Allah'ın âyetlerini inkâr ediyorsunuz?",
             "originals": [
                 "يَٓا",
                 "اَهْلَ",
@@ -2586,7 +2587,7 @@
         {
             "id": "71",
             "sentence": "يَٓا اَهْلَ الْكِتَابِ لِمَ تَلْبِسُونَ الْحَقَّ بِالْبَاطِلِ وَتَكْتُمُونَ الْحَقَّ وَاَنْتُمْ تَعْلَمُونَ۟",
-            "translation": "Ey Kitap Ehli, neden hakkı batıl ile örtüyor ve bildiğiniz halde hakkı gizliyorsunuz?",
+            "translation": "Ey ehl-i kitab! Niçin siz bile bile hakkı bâtıl ile karıştırıyor ve hakkı gizliyorsunuz?",
             "originals": [
                 "يَٓا",
                 "اَهْلَ",
@@ -2617,7 +2618,7 @@
         {
             "id": "72",
             "sentence": "وَقَالَتْ طَٓائِفَةٌ مِنْ اَهْلِ الْكِتَابِ اٰمِنُوا بِالَّـذ۪ٓي اُنْزِلَ عَلَى الَّذ۪ينَ اٰمَنُوا وَجْهَ النَّهَارِ وَاكْفُرُٓوا اٰخِرَهُ لَعَلَّهُمْ يَرْجِعُونَۚ",
-            "translation": "Kitap Ehlinden bir bölümü, dedi ki: &quot;İman edenlere inene gündüzün başlangıcında inanın, bitiminde ise inkar edin. Belki onlar da dönerler.&quot;",
+            "translation": "Ehl-i kitabdan bir tâife de şöyle dedi: “Îmân edenlere indirilmiş olan (Kur'ân')a günün evvelinde (sabahleyin yalandan) îmân edin, sonunda (akşam üstü) de inkâr edin; umulur ki (dinlerinden) dönerler.”",
             "originals": [
                 "وَقَالَتْ",
                 "طَٓائِفَةٌ",
@@ -2652,7 +2653,7 @@
         {
             "id": "73",
             "sentence": "وَلَا تُؤْمِنُٓوا اِلَّا لِمَنْ تَبِـعَ د۪ينَكُمْۜ قُلْ اِنَّ الْهُدٰى هُدَى اللّٰهِۙ اَنْ يُؤْتٰٓى اَحَدٌ مِثْلَ مَٓا اُو۫ت۪يتُمْ اَوْ يُحَٓاجُّوكُمْ عِنْدَ رَبِّكُمْۜ الْفَضْلَ بِيَدِ اللّٰهِۚ يُؤْت۪يهِ مَنْ يَشَٓاءُۜ وَاللّٰهُ وَاسِعٌ عَل۪يمٌۚ",
-            "translation": "&quot;Ve sizin dininize uyanlardan başkasına inanıp güvenmeyin.&quot; De ki: &quot;Şüphesiz doğru yol Allah´ın dosdoğru yoludur. Size verilenin bir benzeri birine (İslam peygamberine) veriliyor ya da Rabbinizin Katında onlar (Müslümanlar) size karşı deliller getiriyorlar, diye mi (bu telaşınız?) De ki: &quot;Şüphesiz ´lütuf ve ihsan (fazl)´ Allah´ın elindedir, onu dilediğine verir. Allah (rahmeti) geniş olandır, bilendir.&quot;",
+            "translation": "Fakat dîninize tâbi' olandan başkasına inanmayın!” (dediler). (Ey Resûlüm!) De ki: “Şübhesiz hidâyet, Allah'ın hidâyetidir. Size verilenin benzeri, (başka) birine (de) veriliyor veya (kıyâmet günü) Rabbinizin huzûrunda (mü'minler) size karşı delil getirecekler (de galipgelecekler) diye mi (böyle söylüyorsunuz)?” De ki: “Şübhesiz lütuf, Allah'ın elindedir. Onu dilediğine verir!” Allah ise, Vâsi' (lütfu geniş olan)dır, Alîm (hakkıyla bilen)dir.",
             "originals": [
                 "وَلَا تُؤْمِنُٓوا",
                 "اِلَّا",
@@ -2711,7 +2712,7 @@
         {
             "id": "74",
             "sentence": "يَخْتَصُّ بِرَحْمَتِه۪ مَنْ يَشَٓاءُۜ وَاللّٰهُ ذُو الْفَضْلِ الْعَظ۪يمِ",
-            "translation": "O, kime dilerse rahmetini tahsis eder, Allah büyük ´lütuf ve ihsan (fazl)´ sahibidir.",
+            "translation": "Rahmetini dilediğine tahsîs eder. Çünki Allah, pek büyük ihsan sâhibidir.",
             "originals": [
                 "يَخْتَصُّ",
                 "بِرَحْمَتِه۪",
@@ -2734,7 +2735,7 @@
         {
             "id": "75",
             "sentence": "وَمِنْ اَهْلِ الْكِتَابِ مَنْ اِنْ تَأْمَنْهُ بِقِنْطَارٍ يُؤَدِّه۪ٓ اِلَيْكَۚ وَمِنْهُمْ مَنْ تَأْمَنْهُ بِد۪ينَارٍ لَا يُؤَدِّه۪ٓ اِلَيْكَ اِلَّا مَا دُمْتَ عَلَيْهِ قَٓائِماًۜ ذٰلِكَ بِاَنَّهُمْ قَالُوا لَيْسَ عَلَيْنَا فِي الْاُمِّيّ۪نَ سَب۪يلٌۚ وَيَقُولُونَ عَلَى اللّٰهِ الْكَذِبَ وَهُمْ يَعْلَمُونَ",
-            "translation": "Kitap Ehlinden öylesi vardır ki, bir kantar emanet bıraksan onu sana geri verir; öylesi de vardır ki, ona bir dinar emanet bıraksan, sen, onun tepesine dikilip durmadıkça onu sana ödemez. Bu onların &quot;ümmiler (zayıf ve bilgisizler veya Ehl-i Kitap olmayanlar) konusunda üzerinizde bir yol (sorumluluk) yoktur&quot; demiş olmalarındandır. Oysa kendileri (gerçeği) bildikleri halde Allah´a karşı yalan söylemektedirler.",
+            "translation": "Ehl-i kitabdan öylesi de vardır ki, ona yığınla (altın) emânet etsen, onu sana iâde eder. Onlardan öylesi de vardır ki, ona bir dinar (bir altın) emânet etsen, tepesine dikilip durmazsan, onu sana iâde etmez. Bu, şübhesiz onların: “Ümmîler (ehl-i kitab olmayanlara yaptığımız haksızlıklar) hakkında üzerimize bir yol (bir vebâl) yoktur!” demeleri sebebiyledir. Ve onlar (hakikati) biliyor oldukları hâlde, Allah'a karşı yalan söylüyorlar.",
             "originals": [
                 "وَمِنْ اَهْلِ",
                 "الْكِتَابِ",
@@ -2799,7 +2800,7 @@
         {
             "id": "76",
             "sentence": "بَلٰى مَنْ اَوْفٰى بِعَهْدِه۪ وَاتَّقٰى فَاِنَّ اللّٰهَ يُحِبُّ الْمُتَّق۪ينَ",
-            "translation": "Hayır; kim ahdine vefa eder ve sakınırsa şüphesiz Allah da sakınanları sever.",
+            "translation": "Hayır! Kim sözünü yerine getirir ve (günahlardan) sakınırsa, hiç şübhesiz ki Allah, takvâ sâhiblerini sever.",
             "originals": [
                 "بَلٰى",
                 "مَنْ",
@@ -2826,7 +2827,7 @@
         {
             "id": "77",
             "sentence": "اِنَّ الَّذ۪ينَ يَشْتَرُونَ بِعَهْدِ اللّٰهِ وَاَيْمَانِهِمْ ثَمَناً قَل۪يلاً اُو۬لٰٓئِكَ لَا خَلَاقَ لَهُمْ فِي الْاٰخِرَةِ وَلَا يُكَلِّمُهُمُ اللّٰهُ وَلَا يَنْظُرُ اِلَيْهِمْ يَوْمَ الْقِيٰمَةِ وَلَا يُزَكّ۪يهِمْۖ وَلَهُمْ عَذَابٌ اَل۪يمٌ",
-            "translation": "Allah´ın ahdini ve yeminlerini az bir değere karşılık satanlar... İşte onlar; onlar için ahirette hiçbir pay yoktur, kıyamet gününde Allah onlarla konuşmaz, onları gözetmez ve onları arındırmaz. Ve onlar için acı bir azap vardır.",
+            "translation": "Doğrusu (peygambere îman husûsunda) Allah'a verdikleri sözü ve yeminlerini az bir fiyata (dünyalık menfaate) satanlar var ya, işte onlar, âhirette kendileri için bir nasib olmayanlardır. Hem Allah onlarla konuşmaz; hem kıyâmet günü onlara (rahmet nazarıyla)bakmaz ve onları (günahlardan) temizlemez! Ve onlar için (pek) elemli bir azab vardır.",
             "originals": [
                 "اِنَّ",
                 "الَّذ۪ينَ يَشْتَرُونَ",
@@ -2877,7 +2878,7 @@
         {
             "id": "78",
             "sentence": "وَاِنَّ مِنْهُمْ لَفَر۪يقاً يَلْوُ۫نَ اَلْسِنَتَهُمْ بِالْكِتَابِ لِتَحْسَبُوهُ مِنَ الْكِتَابِ وَمَا هُوَ مِنَ الْكِتَابِۚ وَيَقُولُونَ هُوَ مِنْ عِنْدِ اللّٰهِ وَمَا هُوَ مِنْ عِنْدِ اللّٰهِۚ وَيَقُولُونَ عَلَى اللّٰهِ الْكَذِبَ وَهُمْ يَعْلَمُونَ",
-            "translation": "Onlardan öyleleri vardır ki, dillerini kitaba doğru eğip bükerler, siz onu (bu okur göründüklerini) kitaptan sanasınız diye. Oysa o kitaptan değildir. &quot;Bu Allah Katındandır&quot; derler. Oysa o, Allah Katından değildir. Kendileri de bildikleri halde Allah´a karşı (böyle) yalan söylerler.",
+            "translation": "Doğrusu onlardan (ehl-i kitabdan) elbette bir fırka da vardır ki, kendisi Kitab'dan olmadığı hâlde, onu Kitab'dan sanasınız diye, (doğru kelimeyi değiştirerek) dillerini Kitab'la eğip bükerler. Ve o, Allah tarafından olmadığı hâlde: “Bu, Allah katındandır!” derler. Bu sûretle onlar, Allah'a karşı (hakikati) bile bile yalan söylerler.",
             "originals": [
                 "وَاِنَّ",
                 "مِنْهُمْ",
@@ -2930,7 +2931,7 @@
         {
             "id": "79",
             "sentence": "مَا كَانَ لِبَشَرٍ اَنْ يُؤْتِيَهُ اللّٰهُ الْكِتَابَ وَالْحُكْمَ وَالنُّبُوَّةَ ثُمَّ يَقُولَ لِلنَّاسِ كُونُوا عِبَاداً ل۪ي مِنْ دُونِ اللّٰهِ وَلٰكِنْ رَبَّانِيّ۪نَ بِمَا كُنْتُمْ تُعَلِّمُونَ وَبِمَا كُنْتُمْ تَدْرُسُونَۙ",
-            "translation": "Beşerden hiç kimsenin, Allah kendisine kitabı, hükmü ve peygamberliği verdikten, sonra insanlara: &quot;Allah´ı bırakıp bana kulluk edin&quot; deme (hakkı ve yetki)si yoktur. Fakat o, &quot;Öğrettiğiniz ve ders verdiğiniz kitaba göre Rabbaniler olunuz” (deme görevindedir.)",
+            "translation": "Bir insan için, Allah ona kitab, hikmet ve peygamberlik versin de, sonra (o kimse)insanlara: “Allah'ı bırakıp bana kul olun!” desin, (bu) olur şey değildir; fakat (bir peygamber ancak şöyle der): “(Öğrenip) öğretmekte ve oku(yup, okut)makta olduğunuz Kitab sâyesinde Rabbânî (ilim ve ihlâsla kulluk ederek Rabbe mensûb olan kimse)ler olun!”",
             "originals": [
                 "مَا كَانَ",
                 "لِبَشَرٍ",
@@ -2979,7 +2980,7 @@
         {
             "id": "80",
             "sentence": "وَلَا يَأْمُرَكُمْ اَنْ تَتَّخِذُوا الْمَلٰٓئِكَةَ وَالنَّبِيّ۪نَ اَرْبَاباًۜ اَيَأْمُرُكُمْ بِالْكُفْرِ بَعْدَ اِذْ اَنْتُمْ مُسْلِمُونَ۟",
-            "translation": "O, melekleri ve peygamberleri Rabler edinmenizi emretmez. Siz, Müslüman olduktan sonra, size küfrü mü emredecek?",
+            "translation": "(Bir peygamber) size, melekleri ve peygamberleri rabler edinmenizi de emretmez. Siz Müslüman kimseler olduktan sonra, (hiç) size küfr(e girmey)i emreder mi?",
             "originals": [
                 "وَلَا يَأْمُرَكُمْ",
                 "اَنْ تَتَّخِذُوا",
@@ -3010,7 +3011,7 @@
         {
             "id": "81",
             "sentence": "وَاِذْ اَخَذَ اللّٰهُ م۪يثَاقَ النَّبِيّ۪نَ لَـمَٓا اٰتَيْتُكُمْ مِنْ كِتَابٍ وَحِكْمَةٍ ثُمَّ جَٓاءَكُمْ رَسُولٌ مُصَدِّقٌ لِمَا مَعَكُمْ لَتُؤْمِنُنَّ بِه۪ وَلَتَنْصُرُنَّهُۜ قَالَ ءَاَقْرَرْتُمْ وَاَخَذْتُمْ عَلٰى ذٰلِكُمْ اِصْر۪يۜ قَالُٓوا اَقْرَرْنَاۜ قَالَ فَاشْهَدُوا وَاَنَا۬ مَعَكُمْ مِنَ الشَّاهِد۪ينَ",
-            "translation": "Hani Allah peygamberlerden ´kesin bir söz (misak)´ almıştı: &quot;Andolsun size kitap ve hikmetten verip sonra size beraberinizdekini doğrulayan bir elçi geldiğinde, ona kesin olarak iman edecek ve ona yardımda bulunacaksınız.&quot; Demişti ki: &quot;Bunu ikrar ettiniz ve bu ağır yükümü aldınız mı?&quot; Onlar: &quot;İkrar ettik&quot; demişlerdi de &quot;Öyleyse şahid olun, Ben de sizinle birlikte şahid olanlardanım&quot; demişti.",
+            "translation": "Hem Allah, vaktiyle peygamberlerin: “Size kitab ve hikmetten her ne versem, sonra size berâberinizde olanı tasdîk edici bir peygamber gelse, mutlaka ona îmân edeceksiniz ve mutlaka ona yardım edeceksiniz!” diye sağlam sözlerini aldığında: “İkrâr ettiniz (mi) ve bu ağır ahdimi (üzerinize) aldınız mı?” buyurdu. (Onlar:) “İkrâr ettik!” dediler. (Allah:) “Öyle ise şâhid olun, ben de sizinle berâber şâhidlerdenim!” buyurdu.",
             "originals": [
                 "وَاِذْ",
                 "اَخَذَ",
@@ -3079,7 +3080,7 @@
         {
             "id": "82",
             "sentence": "فَمَنْ تَوَلّٰى بَعْدَ ذٰلِكَ فَاُو۬لٰٓئِكَ هُمُ الْفَاسِقُونَ",
-            "translation": "Artık kim bundan sonra yüz çevirirse, onlar fasık olanlardır.",
+            "translation": "Artık kim bundan sonra yüz çevirirse, işte onlar fâsıkların ta kendileridir.",
             "originals": [
                 "فَمَنْ",
                 "تَوَلّٰى",
@@ -3102,7 +3103,7 @@
         {
             "id": "83",
             "sentence": "اَفَغَيْرَ د۪ينِ اللّٰهِ يَبْغُونَ وَلَهُٓ اَسْلَمَ مَنْ فِي السَّمٰوَاتِ وَالْاَرْضِ طَوْعاً وَكَرْهاً وَاِلَيْهِ يُرْجَعُونَ",
-            "translation": "Peki onlar, Allah´ın dininden başka bir din mi arıyorlar? Oysa göklerde ve yerde her ne varsa -istese de, istemese de- O´na teslim olmuştur ve O´na döndürülmektedirler.",
+            "translation": "O hâlde Allah'ın dîninden başkasını mı arıyorlar? Hâlbuki göklerde ve yerde kim varsa, isteyerek veya istemeyerek O'na teslîm olmuştur ve ancak O'na döndürüleceklerdir.",
             "originals": [
                 "اَفَغَيْرَ",
                 "د۪ينِ",
@@ -3137,7 +3138,7 @@
         {
             "id": "84",
             "sentence": "قُلْ اٰمَنَّا بِاللّٰهِ وَمَٓا اُنْزِلَ عَلَيْنَا وَمَٓا اُنْزِلَ عَلٰٓى اِبْرٰه۪يمَ وَاِسْمٰع۪يلَ وَاِسْحٰقَ وَيَعْقُوبَ وَالْاَسْبَاطِ وَمَٓا اُو۫تِيَ مُوسٰى وَع۪يسٰى وَالنَّبِيُّونَ مِنْ رَبِّهِمْۖ لَا نُفَرِّقُ بَيْنَ اَحَدٍ مِنْهُمْۘ وَنَحْنُ لَهُ مُسْلِمُونَ",
-            "translation": "De ki: &quot;Biz Allah´a, bize indirilene, İbrahim, İsmail, İshak, Yakup ve torunlarına indirilene, Musa´ya, İsa´ya ve peygamberlere Rablerinden verilenlere iman ettik. Onlardan hiçbiri arasında ayrılık gözetmeyiz. Ve biz O´na teslim olmuşlarız.&quot;",
+            "translation": "(Ey Resûlüm!) De ki: “(Biz) Allah'a, bize indirilene ve İbrâhîm'e, İsmâîl'e, İshâk'a, Ya'kub'a ve (onun) torunlar(ın)a indirilenlere ve Mûsâ'ya, Îsâ'ya ve (bütün) peygamberlere Rableri tarafından verilenlere îmân ettik. Onlardan hiçbirinin arasında (peygamberlik cihetiyle)fark gözetmeyiz. Ve biz, ancak O'na teslîm olan kimseleriz.”",
             "originals": [
                 "قُلْ",
                 "اٰمَنَّا",
@@ -3192,7 +3193,7 @@
         {
             "id": "85",
             "sentence": "وَمَنْ يَبْتَغِ غَيْرَ الْاِسْلَامِ د۪يناً فَلَنْ يُقْبَلَ مِنْهُۚ وَهُوَ فِي الْاٰخِرَةِ مِنَ الْخَاسِر۪ينَ",
-            "translation": "Kim İslam´dan başka bir din ararsa asla ondan kabul edilmez. O, ahirette de kayba uğrayanlardandır.",
+            "translation": "Kim de İslâm'dan başka bir din ararsa, artık kendisinden aslâ kabûl edilmeyecektir. Âhirette ise o, hüsrâna uğrayanlardan (olacak)tır.",
             "originals": [
                 "وَمَنْ",
                 "يَبْتَغِ",
@@ -3223,7 +3224,7 @@
         {
             "id": "86",
             "sentence": "كَيْفَ يَهْدِي اللّٰهُ قَوْماً كَفَرُوا بَعْدَ ا۪يمَانِهِمْ وَشَهِدُٓوا اَنَّ الرَّسُولَ حَقٌّ وَجَٓاءَهُمُ الْبَيِّنَاتُۜ وَاللّٰهُ لَا يَهْدِي الْقَوْمَ الظَّالِم۪ينَ",
-            "translation": "Kendilerine apaçık belgeler geldiği ve elçinin hak olduğuna şahid oldukları halde, imanlarından sonra küfre sapan bir kavmi Allah nasıl hidayete erdirir? Allah, zulmeden bir kavmi hidayete erdirmez.",
+            "translation": "Îmân (etme)lerinden ve şübhesiz peygamberin hak olduğuna şâhidlik yapmalarından, hem kendilerine apaçık deliller gelmesinden sonra, (bunlara rağmen) inkâr eden bir kavmi, Allah nasıl hidâyete erdirir? Çünki Allah, zâlimler topluluğunu (küfürlerindeki ısrarları sebebiyle) hidâyete erdirmez!",
             "originals": [
                 "كَيْفَ",
                 "يَهْدِي",
@@ -3266,7 +3267,7 @@
         {
             "id": "87",
             "sentence": "اُو۬لٰٓئِكَ جَزَٓاؤُ۬هُمْ اَنَّ عَلَيْهِمْ لَعْنَةَ اللّٰهِ وَالْمَلٰٓئِكَةِ وَالنَّاسِ اَجْمَع۪ينَۙ",
-            "translation": "İşte bunların cezası, Allah´ın meleklerin ve bütün insanların lanetlerinin üzerine olmasıdır.",
+            "translation": "İşte onlar yok mu, onların cezâsı, Allah'ın, meleklerin ve bütün insanların lâ'neti şübhesiz kendilerinin üzerine olmasıdır.",
             "originals": [
                 "اُو۬لٰٓئِكَ",
                 "جَزَٓاؤُ۬هُمْ",
@@ -3293,7 +3294,7 @@
         {
             "id": "88",
             "sentence": "خَالِد۪ينَ ف۪يهَاۚ لَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلَا هُمْ يُنْظَرُونَۙ",
-            "translation": "İçinde temelli kalıcıdırlar. Onların azabı hafifletilmez ve onlar gözetilmezler.",
+            "translation": "(Onlar,) orada (Cehennemde) ebedî olarak kalıcıdırlar. Onlardan ne azab hafifletilir, ne de onlar (rahmet nazarıyla) gözetilirler.",
             "originals": [
                 "خَالِد۪ينَ",
                 "ف۪يهَاۚ",
@@ -3314,7 +3315,7 @@
         {
             "id": "89",
             "sentence": "اِلَّا الَّذ۪ينَ تَابُوا مِنْ بَعْدِ ذٰلِكَ وَاَصْلَحُوا فَاِنَّ اللّٰهَ غَفُورٌ رَح۪يمٌ",
-            "translation": "Ancak bundan sonra tevbe edenler, ´salih olarak davrananlar´ başka. Çünkü Allah, gerçekten bağışlayandır, esirgeyendir.",
+            "translation": "Ancak, bundan sonra tevbe edip (hâllerini) ıslâh edenler müstesnâdırlar; hiç şübhesiz ki Allah, Gafûr (çok bağışlayan)dır, Rahîm (çok merhamet eden)dir.",
             "originals": [
                 "اِلَّا",
                 "الَّذ۪ينَ تَابُوا",
@@ -3341,7 +3342,7 @@
         {
             "id": "90",
             "sentence": "اِنَّ الَّذ۪ينَ كَفَرُوا بَعْدَ ا۪يمَانِهِمْ ثُمَّ ازْدَادُوا كُفْراً لَنْ تُقْبَلَ تَوْبَتُهُمْۚ وَاُو۬لٰٓئِكَ هُمُ الضَّٓالُّونَ",
-            "translation": "Doğrusu, imanlarından sonra inkar edenler, sonra inkarlarını arttıranlar; bunların tevbeleri kesinlikle kabul edilmez. İşte bunlar, sapıkların ta kendileridir.",
+            "translation": "Şübhesiz îmân (etme)lerinden sonra inkâr edenler, sonra da inkâr cihetiyle ileri gidenler yok mu, onların (son nefesteki) tevbeleri aslâ kabûl edilmeyecektir! İşte onlar ise, dalâlete düşenlerin ta kendileridir.",
             "originals": [
                 "اِنَّ",
                 "الَّذ۪ينَ كَفَرُوا",
@@ -3374,7 +3375,7 @@
         {
             "id": "91",
             "sentence": "اِنَّ الَّذ۪ينَ كَفَرُوا وَمَاتُوا وَهُمْ كُفَّارٌ فَلَنْ يُقْبَلَ مِنْ اَحَدِهِمْ مِلْءُ الْاَرْضِ ذَهَباً وَلَوِ افْتَدٰى بِه۪ۜ اُو۬لٰٓئِكَ لَهُمْ عَذَابٌ اَل۪يمٌ وَمَا لَهُمْ مِنْ نَاصِر۪ينَ۟",
-            "translation": "Şüphesiz küfredip kafir olarak ölenler, bunların hiçbirisinden, yeryüzü dolusu altını olsa -bunu fidye olarak verse de- kesin olarak kabul edilmez. Onlar için acı bir azap vardır ve onların yardımcıları yoktur.",
+            "translation": "Muhakkak ki o inkâr edip de kendileri kâfir kimseler olarak ölenler yok mu, artık dünya dolusu altın, velev ki (kendisini kurtarmak üzere) onu fedâ edecek (de) olsa, artık onların hiçbirinden aslâ kabûl edilmeyecektir! İşte onlar yok mu, kendileri için (pek) elemli bir azab vardır ve onlar için yardımcılardan kimse yoktur.",
             "originals": [
                 "اِنَّ",
                 "الَّذ۪ينَ كَفَرُوا",
@@ -3419,7 +3420,7 @@
         {
             "id": "92",
             "sentence": "لَنْ تَنَالُوا الْبِرَّ حَتّٰى تُنْفِقُوا مِمَّا تُحِبُّونَۜ وَمَا تُنْفِقُوا مِنْ شَيْءٍ فَاِنَّ اللّٰهَ بِه۪ عَل۪يمٌ",
-            "translation": "Sevdiğiniz şeylerden infak edinceye kadar asla iyiliğe eremezsiniz. Her ne infak ederseniz, şüphesiz Allah onu bilir.",
+            "translation": "Sevmekte olduğunuz şeylerden (Allah yolunda) sarf etmedikçe, (gerçek) iyiliğe aslâ erişemezsiniz. O hâlde her ne sarf ederseniz, artık şübhesiz ki Allah, onu hakkıyla bilendir.",
             "originals": [
                 "لَنْ تَنَالُوا",
                 "الْبِرَّ",
@@ -3452,7 +3453,7 @@
         {
             "id": "93",
             "sentence": "كُلُّ الطَّعَامِ كَانَ حِلاًّ لِبَن۪ٓي اِسْرَٓائ۪لَ اِلَّا مَا حَرَّمَ اِسْرَٓائ۪لُ عَلٰى نَفْسِه۪ مِنْ قَبْلِ اَنْ تُنَزَّلَ التَّوْرٰيةُۜ قُلْ فَأْتُوا بِالتَّوْرٰيةِ فَاتْلُوهَٓا اِنْ كُنْتُمْ صَادِق۪ينَ",
-            "translation": "Tevrat indirilmeden evvel, İsrail´in kendine haram kıldıklarından başka, İsrailoğulları’na bütün yiyecekler helal idi. De ki: &quot;Şu halde eğer doğruysanız, Tevrat´ı getirin de onu okuyun&quot;.",
+            "translation": "Tevrât indirilmeden önce (bir adağına binâen) İsrâîl'in (Ya'kub'un) kendine haram kıldığı şeyler dışında, bütün yiyecekler İsrâiloğullarına helâl idi. De ki: “Eğer (iddiânızda)doğru kimseler iseniz, haydi Tevrât'ı getirin de onu okuyun!”",
             "originals": [
                 "كُلُّ",
                 "الطَّعَامِ",
@@ -3503,7 +3504,7 @@
         {
             "id": "94",
             "sentence": "فَمَنِ افْتَرٰى عَلَى اللّٰهِ الْكَذِبَ مِنْ بَعْدِ ذٰلِكَ فَاُو۬لٰٓئِكَ هُمُ الظَّالِمُونَ",
-            "translation": "Artık bundan sonra kim Allah´a karşı yalan uydurup iftira düzerse, işte onlar, zalim olanlardır.",
+            "translation": "Artık bundan sonra, kim Allah'a karşı yalan uydurursa, işte onlar zâlimlerin ta kendileridir!",
             "originals": [
                 "فَمَنِ",
                 "افْتَرٰى",
@@ -3530,7 +3531,7 @@
         {
             "id": "95",
             "sentence": "قُلْ صَدَقَ اللّٰهُ فَاتَّبِعُوا مِلَّةَ اِبْرٰه۪يمَ حَن۪يفاًۜ وَمَا كَانَ مِنَ الْمُشْرِك۪ينَ",
-            "translation": "De ki: &quot;Allah doğru söyledi. Öyleyse Allah´ı bir tanıyan (Hanif)ler olarak İbrahim´in dinine uyun. O, müşriklerden değildi.&quot;",
+            "translation": "De ki: “Allah doğru söylemiştir; öyle ise Hanîf (hakka yönelmiş) olan İbrâhîm'in dînine tâbi' olun! Hem (o, sizin gibi) müşriklerden değildi.”",
             "originals": [
                 "قُلْ",
                 "صَدَقَ",
@@ -3557,7 +3558,7 @@
         {
             "id": "96",
             "sentence": "اِنَّ اَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذ۪ي بِبَكَّةَ مُبَارَكاً وَهُدًى لِلْعَالَم۪ينَۚ",
-            "translation": "Gerçek şu ki, insanlar için ilk kurulan Ev, Bekke (Mekke) de, o, kutlu ve bütün insanlar (alemler) için hidayet olan (Ka´be)dir.",
+            "translation": "Muhakkak ki mübârek ve âlemlere bir hidâyet olarak insanlar için kurulan ilk ev (ilkma'bed), elbette Mekke'deki (Kâ'be)dir.",
             "originals": [
                 "اِنَّ",
                 "اَوَّلَ",
@@ -3584,7 +3585,7 @@
         {
             "id": "97",
             "sentence": "ف۪يهِ اٰيَاتٌ بَيِّنَاتٌ مَقَامُ اِبْرٰه۪يمَۚ وَمَنْ دَخَلَهُ كَانَ اٰمِناًۜ وَلِلّٰهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ اِلَيْهِ سَب۪يلاًۜ وَمَنْ كَفَرَ فَاِنَّ اللّٰهَ غَنِيٌّ عَنِ الْعَالَم۪ينَ",
-            "translation": "Orada apaçık ayetler (ve) İbrahim´in makamı vardır. Kim oraya girerse o güvenliktedir. Ona bir yol bulup güç yetirenlerin Ev´i haccetmesi Allah´ın insanlar üzerindeki hakkıdır. Kim de inkar ederse, şüphesiz, Allah alemlere karşı muhtaç olmayandır.",
+            "translation": "Orada apaçık alâmetler, İbrâhîm'in makamı vardır. Oraya giren ise emniyette olur(ona dokunulmaz). Hem ona (, oraya gitmek için) bir yola gücü yeten bir kimsenin o evi(Kâ'be'yi) haccetmesi, insanlar üzerinde Allah'ın bir hakkıdır. Kim de inkâr ederse, artık şübhe yok ki Allah, âlemlerden müstağnîdir (hiçbir şeye muhtaç değildir)!",
             "originals": [
                 "ف۪يهِ",
                 "اٰيَاتٌ",
@@ -3637,7 +3638,7 @@
         {
             "id": "98",
             "sentence": "قُلْ يَٓا اَهْلَ الْكِتَابِ لِمَ تَكْفُرُونَ بِاٰيَاتِ اللّٰهِۗ وَاللّٰهُ شَه۪يدٌ عَلٰى مَا تَعْمَلُونَ",
-            "translation": "De ki: &quot;Ey Kitap Ehli, Allah yaptıklarınıza şahid iken, ne diye Allah´ın ayetlerini inkar ediyorsunuz?&quot;",
+            "translation": "De ki: “Ey ehl-i kitab! Niçin Allah'ın âyetlerini inkâr ediyorsunuz?” Hâlbuki Allah, yapmakta olduklarınıza hakkıyla şâhiddir.",
             "originals": [
                 "قُلْ",
                 "يَٓا",
@@ -3666,7 +3667,7 @@
         {
             "id": "99",
             "sentence": "قُلْ يَٓا اَهْلَ الْكِتَابِ لِمَ تَصُدُّونَ عَنْ سَب۪يلِ اللّٰهِ مَنْ اٰمَنَ تَبْغُونَهَا عِوَجاً وَاَنْتُمْ شُهَدَٓاءُۜ وَمَا اللّٰهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ",
-            "translation": "De ki: &quot;Ey Kitap Ehli, sizler şahidler olduğunuz halde, ne diye iman edenleri Allah yolundan -onda bir çarpıklık bulmaya yeltenerek- çevirmeye çalışıyorsunuz? Allah, yaptıklarınızdan gafil değildir.&quot;",
+            "translation": "De ki: “Ey ehl-i kitab! (Hakka) şâhid kimseler olduğunuz hâlde, niçin ona bir eğrilik arayarak, îmân eden kimseyi Allah yolundan men' ediyorsunuz?” Hâlbuki Allah, yapmaktaolduklarınızdan gafil değildir.",
             "originals": [
                 "قُلْ",
                 "يَٓا",
@@ -3707,7 +3708,7 @@
         {
             "id": "100",
             "sentence": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُٓوا اِنْ تُط۪يعُوا فَر۪يقاً مِنَ الَّذ۪ينَ اُو۫تُوا الْكِتَابَ يَرُدُّوكُمْ بَعْدَ ا۪يمَانِكُمْ كَافِر۪ينَ",
-            "translation": "Ey iman edenler, eğer kendilerine kitap verilenlerden herhangi bir gruba boyun eğecek olursanız, sizi imanınızdan sonra tekrar küfre döndürürler.",
+            "translation": "Ey îmân edenler! Eğer kendilerine kitab verilenlerden bir fırkaya uyarsanız,(Allah'a olan) îmânınızdan sonra sizi, kâfirler olarak (küfre) geri döndürürler.",
             "originals": [
                 "يَٓا اَيُّهَا",
                 "الَّذ۪ينَ اٰمَنُٓوا",
@@ -3738,7 +3739,7 @@
         {
             "id": "101",
             "sentence": "وَكَيْفَ تَكْفُرُونَ وَاَنْتُمْ تُتْلٰى عَلَيْكُمْ اٰيَاتُ اللّٰهِ وَف۪يكُمْ رَسُولُهُۜ وَمَنْ يَعْتَصِمْ بِاللّٰهِ فَقَدْ هُدِيَ اِلٰى صِرَاطٍ مُسْتَق۪يمٍ۟",
-            "translation": "Allah´ın ayetleri size okunuyorken ve O´nun elçisi içinizdeyken nasıl oluyor da inkar ediyorsunuz? Kim Allah´a sımsıkı tutunursa, artık elbette o, dosdoğru olan bir yola iletilmiştir.",
+            "translation": "Ve siz, Allah'ın âyetleri kendinize okunurken, hem içinizde peygamberi varken, nasıl inkâr edersiniz? Artık kim Allah'a (O'nun dînine) sımsıkı tutunursa, böylece muhakkak dosdoğru bir yola hidâyet edilmiştir.",
             "originals": [
                 "وَكَيْفَ",
                 "تَكْفُرُونَ",
@@ -3779,7 +3780,7 @@
         {
             "id": "102",
             "sentence": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُوا اتَّقُوا اللّٰهَ حَقَّ تُقَاتِه۪ وَلَا تَمُوتُنَّ اِلَّا وَاَنْتُمْ مُسْلِمُونَ",
-            "translation": "Ey iman edenler, Allah´tan nasıl korkup-sakınmak gerekiyorsa öylece korkup-sakının ve siz, ancak Müslüman olmaktan başka (bir din ve tutum üzerinde) ölmeyin.",
+            "translation": "Ey îmân edenler! Kendisinden nasıl sakınmak gerekiyorsa, Allah'dan öyle sakının ve siz ancak Müslüman kimseler olarak can verin!",
             "originals": [
                 "يَٓا اَيُّهَا",
                 "الَّذ۪ينَ اٰمَنُوا",
@@ -3808,7 +3809,7 @@
         {
             "id": "103",
             "sentence": "وَاعْتَصِمُوا بِحَبْلِ اللّٰهِ جَم۪يعاً وَلَا تَفَرَّقُواۖ وَاذْكُرُوا نِعْمَتَ عَلَيْكُمْ اِذْ كُنْتُمْ اَعْدَٓاءً فَاَلَّفَ بَيْنَ قُلُوبِكُمْ فَاَصْبَحْتُمْ بِنِعْمَتِه۪ٓ اِخْوَاناًۚ وَكُنْتُمْ عَلٰى شَفَا حُفْرَةٍ مِنَ النَّارِ فَاَنْقَذَكُمْ مِنْهَاۜ كَذٰلِكَ يُبَيِّنُ اللّٰهُ لَكُمْ اٰيَاتِه۪ لَعَلَّكُمْ تَهْتَدُونَ",
-            "translation": "Allah´ın ipine hepiniz sımsıkı sarılın. Dağılıp ayrılmayın. Ve Allah´ın sizin üzerinizdeki nimetini hatırlayın. Hani siz düşmanlar idiniz. O, kalplerinizin arasını uzlaştırıp-ısındırdı ve siz O´nun nimetiyle kardeşler olarak sabahladınız. Yine siz, tam ateş çukurunun kıyısındayken, oradan sizi kurtardı. Umulur ki hidayete erersiniz diye, Allah, size ayetlerini böyle açıklar.",
+            "translation": "O hâlde hep birlikte Allah'ın ipine (Kur'ân'a) sımsıkı sarılın ve parçalanmayın!Hem Allah'ın size olan ni'metini hatırlayın! Hani (siz) (birbirinize) düşmanlar idiniz de (Allah)kalblerinizin arasını (İslâm ile) birleştirdi; böylece O'nun ni'meti sâyesinde kardeşler oldunuz. Hem ateşten bir çukurun kenarında (küfür içinde) idiniz de sizi oradan kurtardı. Allah, size âyetlerini böyle açıklar, tâ ki hidâyete eresiniz.",
             "originals": [
                 "وَاعْتَصِمُوا",
                 "بِحَبْلِ",
@@ -3877,7 +3878,7 @@
         {
             "id": "104",
             "sentence": "وَلْتَكُنْ مِنْكُمْ اُمَّةٌ يَدْعُونَ اِلَى الْخَيْرِ وَيَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنْكَرِۜ وَاُو۬لٰٓئِكَ هُمُ الْمُفْلِحُونَ",
-            "translation": "Sizden; hayra çağıran, iyiliği (marufu) emreden ve kötülükten (münkerden) sakındıran bir topluluk bulunsun. Kurtuluşa erenler işte bunlardır.",
+            "translation": "O hâlde içinizden, hayra da'vet eden ve iyiliği emredip kötülükten men' eden bir topluluk bulunsun! Ve işte kurtuluşa erenler, ancak onlardır.",
             "originals": [
                 "وَلْتَكُنْ",
                 "مِنْكُمْ",
@@ -3910,7 +3911,7 @@
         {
             "id": "105",
             "sentence": "وَلَا تَكُونُوا كَالَّذ۪ينَ تَفَرَّقُوا وَاخْتَلَفُوا مِنْ بَعْدِ مَا جَٓاءَهُمُ الْبَيِّنَاتُۜ وَاُو۬لٰٓئِكَ لَهُمْ عَذَابٌ عَظ۪يمٌۙ",
-            "translation": "Kendilerine apaçık belgeler geldikten sonra, parçalanıp ayrılan ve anlaşmazlığa düşenler gibi olmayın. İşte onlar için büyük bir azap vardır.",
+            "translation": "Kendilerine apaçık deliller geldikten sonra parçalanıp ihtilâfa düşenler (yahudi ve hristiyanlar) gibi de olmayın! Hem işte onlar yok mu, kendileri için (pek) büyük bir azab vardır.",
             "originals": [
                 "وَلَا تَكُونُوا",
                 "كَالَّذ۪ينَ",
@@ -3941,7 +3942,7 @@
         {
             "id": "106",
             "sentence": "يَوْمَ تَبْيَضُّ وُجُوهٌ وَتَسْوَدُّ وُجُوهٌۚ فَاَمَّا الَّذ۪ينَ اسْوَدَّتْ وُجُوهُهُمْ۠ اَكَفَرْتُمْ بَعْدَ ا۪يمَانِكُمْ فَذُوقُوا الْعَذَابَ بِمَا كُنْتُمْ تَكْفُرُونَ",
-            "translation": "Bazı yüzlerin ağaracağı, bazı yüzlerin de kararacağı gün... Yüzleri kapkara-kesilecek olanlara: &quot;İmanınızdan sonra inkar ettiniz, öyle mi? Öyleyse inkar etmenize karşılık olarak azabı tadın” (denilir).",
+            "translation": "O gün bazı yüzler (vardır ki) ağaracak, birtakım yüzler de kararacaktır. Artık o yüzleri kararanlara: “(Allah'a olan) îmânınızdan sonra inkâr mı ettiniz? Öyle ise, (vaktiyle)inkâr etmekte olduğunuzdan dolayı tadın azâbı!” (denecektir).",
             "originals": [
                 "يَوْمَ",
                 "تَبْيَضُّ",
@@ -3978,7 +3979,7 @@
         {
             "id": "107",
             "sentence": "وَاَمَّا الَّذ۪ينَ ابْيَضَّتْ وُجُوهُهُمْ فَف۪ي رَحْمَةِ اللّٰهِۜ هُمْ ف۪يهَا خَالِدُونَ",
-            "translation": "Yüzleri ağaranlar ise, artık onlar Allah´ın rahmeti içindedirler, içinde de temelli kalacaklardır.",
+            "translation": "Yüzleri ağaranlar ise, artık Allah'ın rahmetinde (Cennetinde)dirler. Onlar orada ebedî olarak kalıcıdırlar.",
             "originals": [
                 "وَاَمَّا",
                 "الَّذ۪ينَ ابْيَضَّتْ",
@@ -4005,7 +4006,7 @@
         {
             "id": "108",
             "sentence": "تِلْكَ اٰيَاتُ اللّٰهِ نَتْلُوهَا عَلَيْكَ بِالْحَقِّۜ وَمَا اللّٰهُ يُر۪يدُ ظُلْماً لِلْعَالَم۪ينَ",
-            "translation": "Bunlar sana hak olarak okumakta olduğumuz Allah´ın ayetleridir. Allah, alemlere zulüm isteyen değildir.",
+            "translation": "(Ey Resûlüm!) Bunlar Allah'ın âyetleridir ki, onları sana hakkıyla okuyoruz. Ve Allah, âlemlere zulmetmek istemez.",
             "originals": [
                 "تِلْكَ",
                 "اٰيَاتُ",
@@ -4034,7 +4035,7 @@
         {
             "id": "109",
             "sentence": "وَلِلّٰهِ مَا فِي السَّمٰوَاتِ وَمَا فِي الْاَرْضِۜ وَاِلَى اللّٰهِ تُرْجَعُ الْاُمُورُ۟",
-            "translation": "Göklerde ve yerde olanlar Allah´ındır ve (bütün) işler Allah´a döndürülür.",
+            "translation": "Ve göklerde ne var, yerde ne varsa Allah'ındır. (Bütün) işler ise ancak Allah'a döndürülür.",
             "originals": [
                 "وَلِلّٰهِ",
                 "مَا فِي السَّمٰوَاتِ",
@@ -4055,7 +4056,7 @@
         {
             "id": "110",
             "sentence": "كُنْتُمْ خَيْرَ اُمَّةٍ اُخْرِجَتْ لِلنَّاسِ تَأْمُرُونَ بِالْمَعْرُوفِ وَتَنْهَوْنَ عَنِ الْمُنْكَرِ وَتُؤْمِنُونَ بِاللّٰهِۜ وَلَوْ اٰمَنَ اَهْلُ الْكِتَابِ لَكَانَ خَيْراً لَهُمْۜ مِنْهُمُ الْمُؤْمِنُونَ وَاَكْثَرُهُمُ الْفَاسِقُونَ",
-            "translation": "Siz, insanlar için çıkarılmış hayırlı bir ümmetsiniz; maruf (iyi ve İslam´a uygun) olanı emreder, münker olandan sakındırır ve Allah´a iman edersiniz. Kitap Ehli de inanmış olsaydı, elbette kendileri için hayırlı olurdu. İçlerinden iman edenler vardır, fakat çoğunluğu fıska sapanlardır.",
+            "translation": "(Ey ashâb-ı Muhammed! Siz,) insanlar(ın iyiliği) için (ortaya) çıkarılmış en hayırlı bir ümmet oldunuz; iyiliği emreder, kötülükten men' eder ve Allah'a îmân edersiniz! Eğer ehl-i kitab (yahudilerle hristiyanlar) da îmân etseydi, elbette kendileri için hayırlı olurdu. İçlerinden îmân edenler vardır, ama onların çoğu (dinden çıkmış) fâsıklardır.",
             "originals": [
                 "كُنْتُمْ",
                 "خَيْرَ",
@@ -4108,7 +4109,7 @@
         {
             "id": "111",
             "sentence": "لَنْ يَضُرُّوكُمْ اِلَّٓا اَذًىۜ وَاِنْ يُقَاتِلُوكُمْ يُوَلُّوكُمُ الْاَدْبَارَ۠ ثُمَّ لَا يُنْصَرُونَ",
-            "translation": "Onlar size ezadan başka kesinlikle bir zarar veremezler. Eğer sizinle savaşırlarsa size arkalarını dönüp kaçarlar. Sonra kendilerine yardım da edilmez.",
+            "translation": "Onlar size, eziyetten başka aslâ bir zarar veremezler. Hem sizinle savaşırlarsa, size arkalarını dönüp kaçarlar. Sonra onlara yardım (da) edilmez.",
             "originals": [
                 "لَنْ يَضُرُّوكُمْ",
                 "اِلَّٓا",
@@ -4135,7 +4136,7 @@
         {
             "id": "112",
             "sentence": "ضُرِبَتْ عَلَيْهِمُ الذِّلَّةُ اَيْنَ مَا ثُقِفُٓوا اِلَّا بِحَبْلٍ مِنَ اللّٰهِ وَحَبْلٍ مِنَ النَّاسِ وَبَٓاؤُ۫ بِغَضَبٍ وَضُرِبَتْ عَلَيْهِمُ الْمَسْكَنَةُۜ ذٰلِكَ بِاَنَّهُمْ كَانُوا يَكْفُرُونَ بِاٰيَاتِ اللّٰهِ وَيَقْتُلُونَ الْاَنْبِيَٓاءَ بِغَيْرِ حَقٍّۜ ذٰلِكَ بِمَا عَصَوْا وَكَانُوا يَعْتَدُونَ۠",
-            "translation": "Her nerede bulunurlarsa bulunsunlar -Allah´ın ipine ve insanların ipine (ahdine) sığınanlar başka- onlara zillet (zorluk damgası) vurulmuştur. Onlar, Allah´tan bir gazaba uğradılar da üzerlerine aşağılanma (damgası) vuruldu. Bu, Allah´ın ayetlerini inkar etmeleri ve peygamberleri haksız yere öldürmeleri nedeniyledir. (Yine) Bu, isyan etmeleri ve haddi aşmaları dolayısıyladır.",
+            "translation": "Nerede bulunsalar, (cizye vermek şartıyla) Allah'ın ahdi ve insanların(mü'minlerin) ahdi ile (sığınmış olmaları) müstesnâ, üzerlerine aşağılık (damgası)vurulmuştur; Hem Allah'ın gazabına uğradılar ve üzerlerine meskenet (yoksulluk damgası)vuruldu! Bu, şübhesiz onların, Allah'ın âyetlerini inkâr etmekte ve haksız yere peygamberleri öldürmekte olmaları sebebiyledir. (Ve yine) bu, (onların) isyân etmeleri ve haddi aşmakta olduklarından dolayıdır.",
             "originals": [
                 "ضُرِبَتْ",
                 "عَلَيْهِمُ",
@@ -4198,7 +4199,7 @@
         {
             "id": "113",
             "sentence": "لَيْسُوا سَوَٓاءًۜ مِنْ اَهْلِ الْكِتَابِ اُمَّةٌ قَٓائِمَةٌ يَتْلُونَ اٰيَاتِ اللّٰهِ اٰنَٓاءَ الَّيْلِ وَهُمْ يَسْجُدُونَ۠",
-            "translation": "Onların hepsi bir değildir. Kitap Ehli´nden bir topluluk vardır ki, gece vaktinde ayakta durup Allah´ın ayetlerini okuyarak secdeye kapanırlar.",
+            "translation": "(Ancak, onların) hepsi bir değildir. Ehl-i kitabdan (istikamet üzere) doğru olan bir topluluk vardır ki, gece saatlerinde Allah'ın âyetlerini okurlar ve onlar (namaz kılarak) secde ederler.",
             "originals": [
                 "لَيْسُوا",
                 "سَوَٓاءًۜ",
@@ -4231,7 +4232,7 @@
         {
             "id": "114",
             "sentence": "يُؤْمِنُونَ بِاللّٰهِ وَالْيَوْمِ الْاٰخِرِ وَيَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنْكَرِ وَيُسَارِعُونَ فِي الْخَيْرَاتِۜ وَاُو۬لٰٓئِكَ مِنَ الصَّالِح۪ينَ",
-            "translation": "Bunlar, Allah´a ve ahiret gününe iman eder, maruf olanı emreder, münker olandan sakındırır ve hayırlarda yarışırlar. İşte bunlar salih olanlardandır.",
+            "translation": "Allah'a ve âhiret gününe îmân ederler, hem iyiliği emreder, kötülükten men' ederler ve hayırlı işlerde birbirleriyle yarışırlar! Böylece işte onlar sâlihlerdendir.",
             "originals": [
                 "يُؤْمِنُونَ",
                 "بِاللّٰهِ",
@@ -4264,7 +4265,7 @@
         {
             "id": "115",
             "sentence": "وَمَا يَفْعَلُوا مِنْ خَيْرٍ فَلَنْ يُكْفَرُوهُۜ وَاللّٰهُ عَل۪يمٌ بِالْمُتَّق۪ينَ",
-            "translation": "Onlar hayırdan her ne yaparlarsa, elbette ondan yoksun bırakılmazlar. Allah, muttakileri bilendir.",
+            "translation": "Ve (onlar) ne hayır işlerlerse, artık şübhesiz ondan (sevâbından) mahrum bırakılmayacaklardır. Çünki Allah, takvâ sâhiblerini hakkıyla bilendir.",
             "originals": [
                 "وَمَا يَفْعَلُوا",
                 "مِنْ خَيْرٍ",
@@ -4285,7 +4286,7 @@
         {
             "id": "116",
             "sentence": "اِنَّ الَّذ۪ينَ كَفَرُوا لَنْ تُغْنِيَ عَنْهُمْ اَمْوَالُهُمْ وَلَٓا اَوْلَادُهُمْ مِنَ اللّٰهِ شَيْـٔاًۜ وَاُو۬لٰٓئِكَ اَصْحَابُ النَّارِۚ هُمْ ف۪يهَا خَالِدُونَ",
-            "translation": "Gerçekten inkar edenlerin ise, ne malları, ne çocukları, onlara Allah´tan yana bir şey sağlayamaz. İşte onlar, ateşin halkıdırlar, onda temelli olarak kalacaklardır.",
+            "translation": "Şübhesiz ki inkâr edenlerin ne malları ne de evlâdları, Allah'(ın azâbın)a karşı kendilerine hiçbir şeyle fayda vermeyecektir! Ve işte onlar ateş ehlidirler. Onlar orada ebedî olarak kalıcıdırlar.",
             "originals": [
                 "اِنَّ",
                 "الَّذ۪ينَ كَفَرُوا",
@@ -4322,7 +4323,7 @@
         {
             "id": "117",
             "sentence": "مَثَلُ مَا يُنْفِقُونَ ف۪ي هٰذِهِ الْحَيٰوةِ الدُّنْيَا كَمَثَلِ ر۪يحٍ ف۪يهَا صِرٌّ اَصَابَتْ حَرْثَ قَوْمٍ ظَلَمُٓوا اَنْفُسَهُمْ فَاَهْلَكَتْهُۜ وَمَا ظَلَمَهُمُ اللّٰهُ وَلٰكِنْ اَنْفُسَهُمْ يَظْلِمُونَ",
-            "translation": "Onların bu dünya hayatındaki harcamaları kendi nefislerine zulmetmiş olan bir kavmin ekinine isabet eden kavurucu soğukluktaki bir rüzgara benzer ki onu (ekini) helak etmiştir. Allah, onlara zulmetmedi, fakat onlar kendi nefislerine zulmetmektedirler.",
+            "translation": "(Onların) bu dünya hayâtında sarf etmekte oldukları şeylerin misâli, içinde şiddetli soğuk bulunan bir rüzgârın hâli gibidir ki, (inkâr ederek) kendilerine zulmeden bir kavmin ekinine isâbet edip de onu helâk etmiştir. Allah (amellerini boşa çıkarmakla) onlara zulmetmedi, fakat onlar (inkârlarıyla) kendilerine zulmediyorlar.",
             "originals": [
                 "مَثَلُ",
                 "مَا يُنْفِقُونَ",
@@ -4371,7 +4372,7 @@
         {
             "id": "118",
             "sentence": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُوا لَا تَتَّخِذُوا بِطَانَةً مِنْ دُونِكُمْ لَا يَأْلُونَكُمْ خَبَالاًۜ وَدُّوا مَا عَنِتُّمْۚ قَدْ بَدَتِ الْبَغْضَٓاءُ مِنْ اَفْوَاهِهِمْۚ وَمَا تُخْف۪ي صُدُورُهُمْ اَكْـبَرُۜ قَدْ بَيَّنَّا لَكُمُ الْاٰيَاتِ اِنْ كُنْتُمْ تَعْقِلُونَ",
-            "translation": "Ey iman edenler, sizden olmayanları sırdaş edinmeyin. Onlar size kötülük ve zarar vermeye çalışıyor, size zorlu bir sıkıntı verecek şeyden hoşlanırlar. Buğz (ve düşmanlıkları) ağızlarından dışa vurmuştur, sinelerinin gizli tuttukları ise, daha büyüktür. Size ayetlerimizi açıkladık; belki akıl erdirirsiniz.",
+            "translation": "Ey îmân edenler! Kendinizden başkasını sırdaş edinmeyin; onlar size fesad çıkarmakta kusûr etmezler. (Her zaman) sıkıntıya düşmenizi istediler. Doğrusu kinleri ağızlarından taşmıştır (hep aleyhinizde konuşurlar). Sînelerinin gizlediği (kin ve düşmanlık)ise daha büyüktür. Eğer akıl erdirirseniz, doğrusu âyetlerimizi size iyice açıkladık.",
             "originals": [
                 "يَٓا اَيُّهَا",
                 "الَّذ۪ينَ اٰمَنُوا",
@@ -4426,7 +4427,7 @@
         {
             "id": "119",
             "sentence": "هَٓا اَنْتُمْ اُو۬لَٓاءِ تُحِبُّونَهُمْ وَلَا يُحِبُّونَكُمْ وَتُؤْمِنُونَ بِالْكِتَابِ كُلِّه۪ۚ وَاِذَا لَقُوكُمْ قَالُٓوا اٰمَنَّاۗ خَلَوْا عَضُّوا عَلَيْكُمُ الْاَنَامِلَ مِنَ الْغَيْظِۜ قُلْ مُوتُوا بِغَيْظِكُمْۜ اِنَّ اللّٰهَ عَل۪يمٌ بِذَاتِ الصُّدُورِ",
-            "translation": "Sizler, işte böylesiniz; onları seversiniz, oysa onlar sizi sevmezler. Siz kitabın tümüne inanırsınız, onlar sizinle karşılaştıklarında &quot;inandık&quot; derler, kendi başlarına kaldıklarında ise, size olan kin ve öfkelerinden dolayı parmak uçlarını ısırırlar. De ki: &quot;Kin ve öfkenizle ölün.&quot; Şüphesiz Allah, sinelerin özünde saklı duranı bilendir.",
+            "translation": "İşte siz öyle kimselersiniz ki onları seversiniz; (onlar ise) kitabların tamâmına îmân ettiğiniz hâlde sizi sevmezler. Hâlbuki sizinle karşılaştıkları zamân: “Îmân ettik!” derler. Kendi başlarına kalınca da, size olan öfkelerinden parmaklarını ısırırlar. De ki: “Öfkenizle geberin!” Muhakkak ki Allah, sînelerin içinde olanı hakkıyla bilendir.",
             "originals": [
                 "هَٓا اَنْتُمْ",
                 "اُو۬لَٓاءِ",
@@ -4483,7 +4484,7 @@
         {
             "id": "120",
             "sentence": "اِنْ تَمْسَسْكُمْ حَسَنَةٌ تَسُؤْهُمْۘ وَاِنْ تُصِبْكُمْ سَيِّئَةٌ يَفْرَحُوا بِهَاۜ وَاِنْ تَصْبِرُوا وَتَتَّقُوا لَا يَضُرُّكُمْ كَيْدُهُمْ شَيْـٔاًۜ اِنَّ اللّٰهَ بِمَا يَعْمَلُونَ مُح۪يطٌ۟",
-            "translation": "Size bir iyilik dokununca tasalanırlar, size bir kötülük isabet ettiğindeyse buna sevinirler. Eğer siz sabreder ve sakınırsanız, onların ´hileli düzenleri´ size hiçbir zarar veremez. Şüphesiz, Allah, yapmakta olduklarını kuşatandır.",
+            "translation": "Eğer size bir iyilik dokunursa, (bu) onları üzer; fakat size bir kötülük gelirse, onunla sevinirler. Buna rağmen sabreder ve (günahlardan) sakınırsanız, onların hîlesi size hiçbir şeyle zarar vermez. Şübhesiz ki Allah, onların yapmakta olduklarını hakkıyla kuşatıcıdır.",
             "originals": [
                 "اِنْ",
                 "تَمْسَسْكُمْ",
@@ -4530,7 +4531,7 @@
         {
             "id": "121",
             "sentence": "وَاِذْ غَدَوْتَ مِنْ اَهْلِكَ تُبَوِّئُ الْمُؤْمِن۪ينَ مَقَاعِدَ لِلْقِتَالِۜ وَاللّٰهُ سَم۪يعٌ عَل۪يمٌۙ",
-            "translation": "Hani sen, mü´minleri savaşmak için elverişli yerlere yerleştirmek için evinden erkenden ayrılmıştın. Allah işitendir, bilendir.",
+            "translation": "(Habîbim, yâ Muhammed!) Hani, mü'minleri (Uhud'da) savaş için mevzi'lere yerleştirmek üzere âilenden erkenden ayrılmıştın. Allah ise, Semî' (neler söylediğinizi işiten)dir, Alîm (ne düşündüğünüzü bilen)dir.",
             "originals": [
                 "وَاِذْ",
                 "غَدَوْتَ",
@@ -4559,7 +4560,7 @@
         {
             "id": "122",
             "sentence": "اِذْ هَمَّتْ طَٓائِفَتَانِ مِنْكُمْ اَنْ تَفْشَلَاۙ وَاللّٰهُ وَلِيُّهُمَاۜ وَعَلَى اللّٰهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ",
-            "translation": "O zaman sizden iki grup, neredeyse ´çözülüp geri çekilmek´ istemişti. Oysa Allah onların (Velisi) yardımcısıydı. Artık mü´minler, yalnızca Allah´a tevekkül etmelidir.",
+            "translation": "O vakit içinizden iki tâife bozulmaya yüz tutmuştu; hâlbuki onların yardımcısı Allah'dır! O hâlde mü'minler artık, ancak Allah'a tevekkül etsinler!",
             "originals": [
                 "اِذْ هَمَّتْ",
                 "طَٓائِفَتَانِ",
@@ -4586,7 +4587,7 @@
         {
             "id": "123",
             "sentence": "وَلَقَدْ نَصَرَكُمُ اللّٰهُ بِبَدْرٍ وَاَنْتُمْ اَذِلَّةٌۚ فَاتَّقُوا اللّٰهَ لَعَلَّكُمْ تَشْكُرُونَ",
-            "translation": "Andolsun, siz güçsüz iken Allah size Bedir´de yardımıyla zafer verdi. Şu halde Allah´tan sakının, O´na şükredebilesiniz.",
+            "translation": "Buna rağmen, siz (daha) zayıf olduğunuz hâlde, Allah Bedir'de size (zafer vererek)şübhesiz yardım etmişti. Öyle ise Allah'dan sakının, tâ ki şükredesiniz.",
             "originals": [
                 "وَلَقَدْ",
                 "نَصَرَكُمُ",
@@ -4615,7 +4616,7 @@
         {
             "id": "124",
             "sentence": "اِذْ تَقُولُ لِلْمُؤْمِن۪ينَ اَلَنْ يَكْفِيَكُمْ اَنْ يُمِدَّكُمْ رَبُّكُمْ بِثَلٰثَةِ اٰلَافٍ مِنَ الْمَلٰٓئِكَةِ مُنْزَل۪ينَۜ",
-            "translation": "Sen mü´minlere: &quot;Rabbinizin size meleklerden indirilmiş üç bin kişiyle yardım-iletmesi size yetmez mi?&quot; diyordun.",
+            "translation": "O zaman sen mü'minlere şöyle diyordun: “Rabbinizin size, indirilmiş üç bin melekle yardım etmesi size yetmez mi?”",
             "originals": [
                 "اِذْ",
                 "تَقُولُ",
@@ -4644,7 +4645,7 @@
         {
             "id": "125",
             "sentence": "بَلٰٓىۙ اِنْ تَصْبِرُوا وَتَتَّقُوا وَيَأْتُوكُمْ مِنْ فَوْرِهِمْ هٰذَا يُمْدِدْكُمْ رَبُّكُمْ بِخَمْسَةِ اٰلَافٍ مِنَ الْمَلٰٓئِكَةِ مُسَوِّم۪ينَ",
-            "translation": "Evet, eğer sabrederseniz, sakınırsanız ve onlar da aniden üstünüze çullanıverirlerse, Rabbiniz size meleklerden nişanlı beş bin kişiyle yardım ulaştıracaktır.",
+            "translation": "Evet, eğer sabreder ve (günahlardan) sakınırsanız, (onlar) şu anlarında bile size gelseler, Rabbiniz size (öncekinin daha da fazlasıyla) alâmetli beş bin melekle yardım eder.",
             "originals": [
                 "بَلٰٓىۙ",
                 "اِنْ تَصْبِرُوا",
@@ -4675,7 +4676,7 @@
         {
             "id": "126",
             "sentence": "وَمَا جَعَلَهُ اللّٰهُ اِلَّا بُشْرٰى لَكُمْ وَلِتَطْمَئِنَّ قُلُوبُكُمْ بِه۪ۜ وَمَا النَّصْرُ اِلَّا مِنْ عِنْدِ اللّٰهِ الْعَز۪يزِ الْحَك۪يمِۙ",
-            "translation": "Allah bunu (yardımı) size ancak bir müjde olsun ve kalpleriniz bununla tatmin bulsun diye yaptı. ´Yardım ve zafer’ (nusret) ancak üstün ve güçlü, hüküm ve hikmet sahibi olan Allah´ın Katındandır.",
+            "translation": "Çünki Allah, bu (yardımı)nı size sâdece bir müjde olsun ve kalbleriniz onunla mutmain olsun diye yaptı. Yoksa zafer, ancak Azîz (kudreti dâimâ galib gelen), Hakîm (her işi hikmetli) olan Allah katındandır.",
             "originals": [
                 "وَمَا جَعَلَهُ",
                 "اللّٰهُ",
@@ -4714,7 +4715,7 @@
         {
             "id": "127",
             "sentence": "لِيَقْطَعَ طَرَفاً مِنَ الَّذ۪ينَ كَفَرُٓوا اَوْ يَكْبِتَهُمْ فَيَنْقَلِبُوا خَٓائِب۪ينَ",
-            "translation": "(Ki bununla) İnkar edenlerin önde gelenlerinden bir kısmını kessin (helak etsin) ya da ´umutları suya düşmüşler olarak onları´ tepesi aşağı getirsin de geri dönüp gitsinler.´",
+            "translation": "Tâ ki inkâr edenlerden bir kısmını helâk etsin veya onları perîşan etsin de maksadlarına erişemeyen kimseler olarak dönüp gitsinler!",
             "originals": [
                 "لِيَقْطَعَ",
                 "طَرَفاً",
@@ -4735,7 +4736,7 @@
         {
             "id": "128",
             "sentence": "لَيْسَ لَكَ مِنَ الْاَمْرِ شَيْءٌ اَوْ يَتُوبَ عَلَيْهِمْ اَوْ يُعَذِّبَهُمْ فَاِنَّهُمْ ظَالِمُونَ",
-            "translation": "(Allah´ın) Onların tevbelerini kabul etmesi veya zalim olduklarından dolayı azaplandırması işinden sana bir şey (sorumluluk ve görev) yoktur.",
+            "translation": "(Ey Resûlüm!) Bu işte (îman veya inkârlarında) sana düşen bir şey yoktur; ya(îmâna gelirler de Allah) onların tevbelerini kabûl eder veya (küfürde ısrarlarından dolayı)onlara azâb eder; çünki doğrusu onlar zâlimlerdir.",
             "originals": [
                 "لَيْسَ",
                 "لَكَ",
@@ -4766,7 +4767,7 @@
         {
             "id": "129",
             "sentence": "وَلِلّٰهِ مَا فِي السَّمٰوَاتِ وَمَا فِي الْاَرْضِۜ يَغْفِرُ لِمَنْ يَشَٓاءُ وَيُعَذِّبُ مَنْ يَشَٓاءُۜ وَاللّٰهُ غَفُورٌ رَح۪يمٌ۟",
-            "translation": "Göklerde ve yerde olanların tümü Allah´ındır. Kimi dilerse bağışlar, kimi dilerse azaplandırır. Allah bağışlayandır, esirgeyendir.",
+            "translation": "Hem göklerde bulunan ve yerde olan ne varsa Allah'ındır. Dilediğine (kendi lûtfundan) mağfiret eder, dilediğine de (hak ettiği üzere) azâb eder. Çünki Allah, Gafûr (çok bağışlayan)dır, Rahîm (çok merhamet eden)dir.",
             "originals": [
                 "وَلِلّٰهِ",
                 "مَا فِي",
@@ -4799,7 +4800,7 @@
         {
             "id": "130",
             "sentence": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُوا لَا تَأْكُلُوا الرِّبٰٓوا اَضْعَافاً مُضَاعَفَةًۖ وَاتَّقُوا اللّٰهَ لَعَلَّكُمْ تُفْلِحُونَۚ",
-            "translation": "Ey iman edenler, faizi kat kat artırılmış olarak yemeyin. Ve Allah´tan sakının, umulur ki kurtulursunuz.",
+            "translation": "Ey îmân edenler! Kat kat artırılmış olarak fâizi yemeyin! Ve Allah'dan sakının, tâ ki kurtuluşa eresiniz!",
             "originals": [
                 "يَٓا اَيُّهَا",
                 "الَّذ۪ينَ اٰمَنُوا",
@@ -4828,7 +4829,7 @@
         {
             "id": "131",
             "sentence": "وَاتَّقُوا النَّارَ الَّت۪ٓي اُعِدَّتْ لِلْكَافِر۪ينَۚ",
-            "translation": "Ve kafirler için hazırlanmış olan ateşten sakının.",
+            "translation": "Ve kâfirler için hazırlanmış olan ateşten sakının!",
             "originals": [
                 "وَاتَّقُوا",
                 "النَّارَ",
@@ -4845,7 +4846,7 @@
         {
             "id": "132",
             "sentence": "وَاَط۪يعُوا اللّٰهَ وَالرَّسُولَ لَعَلَّكُمْ تُرْحَمُونَۚ",
-            "translation": "Allah´a ve elçisine itaat edin, ki merhamet olunasınız.",
+            "translation": "Hem Allah'a ve peygambere itâat edin! Tâ ki merhamet olunasınız.",
             "originals": [
                 "وَاَط۪يعُوا",
                 "اللّٰهَ",
@@ -4864,7 +4865,7 @@
         {
             "id": "133",
             "sentence": "وَسَارِعُٓوا اِلٰى مَغْفِرَةٍ مِنْ رَبِّكُمْ وَجَنَّةٍ عَرْضُهَا السَّمٰوَاتُ وَالْاَرْضُۙ اُعِدَّتْ لِلْمُتَّق۪ينَۙ",
-            "translation": "Rabbinizden olan mağfiret ve eni göklerle yer kadar olan cennete (kavuşmak için) yarışın; o, muttakiler için hazırlanmıştır.",
+            "translation": "Ve (sâlih ameller işleyerek) Rabbinizden bir bağışlanmaya ve genişliği göklerle yer(kadar) olan Cennete koşuşun! (Ki orası,) takvâ sâhibleri için hazırlanmıştır.",
             "originals": [
                 "وَسَارِعُٓوا",
                 "اِلٰى مَغْفِرَةٍ",
@@ -4891,7 +4892,7 @@
         {
             "id": "134",
             "sentence": "الَّذ۪ينَ يُنْفِقُونَ فِي السَّرَّٓاءِ وَالضَّرَّٓاءِ وَالْكَاظِم۪ينَ الْغَيْظَ وَالْعَاف۪ينَ عَنِ النَّاسِۜ وَاللّٰهُ يُحِبُّ الْمُحْسِن۪ينَۚ",
-            "translation": "Onlar, bollukta da, darlıkta da infak edenler, öfkelerini yenenler ve insanlar(daki hakların)dan bağışlama ile (vaz)geçenlerdir. Allah, iyilik yapanları sever.",
+            "translation": "Onlar ki, bollukta ve darlıkta (mallarını Allah yolunda) sarf ederler, (kızdıkları zaman) öfkelerini yenerler ve insanları affederler. Allah ise, iyilik yapanları sever.",
             "originals": [
                 "الَّذ۪ينَ يُنْفِقُونَ",
                 "فِي السَّرَّٓاءِ",
@@ -4920,7 +4921,7 @@
         {
             "id": "135",
             "sentence": "وَالَّذ۪ينَ اِذَا فَعَلُوا فَاحِشَةً اَوْ ظَلَمُٓوا اَنْفُسَهُمْ ذَكَرُوا اللّٰهَ فَاسْتَغْفَرُوا لِذُنُوبِهِمْۖ وَمَنْ يَغْفِرُ الذُّنُوبَ اِلَّا اللّٰهُۖ وَلَمْ يُصِرُّوا عَلٰى مَا فَعَلُوا وَهُمْ يَعْلَمُونَ",
-            "translation": "Ve ´çirkin bir hayasızlık´ işledikleri ya da nefislerine zulmettikleri zaman, Allah´ı hatırlayıp hemen günahlarından dolayı bağışlanma isteyenlerdir. Allah´tan başka günahları bağışlayan kimdir? Bir de onlar yaptıkları (kötü şeylerde) bile bile ısrar etmeyenlerdir.",
+            "translation": "Ve (onlar,) çirkin bir iş yaptıkları veya nefislerine zulmettikleri zaman, Allah'ı zikredip günahlarının bağışlanmasını isterler. Zâten Allah'dan başka, günahları kim bağışlar? Hem (onlar,) işledikleri (günahları)nda kendileri bile bile ısrâr etmeyen kimselerdir.",
             "originals": [
                 "وَالَّذ۪ينَ",
                 "اِذَا",
@@ -4967,7 +4968,7 @@
         {
             "id": "136",
             "sentence": "اُو۬لٰٓئِكَ جَزَٓاؤُ۬هُمْ مَغْفِرَةٌ مِنْ رَبِّهِمْ وَجَنَّاتٌ تَجْر۪ي مِنْ تَحْتِهَا الْاَنْهَارُ خَالِد۪ينَ ف۪يهَاۜ وَنِعْمَ اَجْرُ الْعَامِل۪ينَۜ",
-            "translation": "İşte bunların karşılığı, Rablerinden bağışlanma ve içinde ebedi kalacakları, altından ırmaklar akan cennetlerdir. (Böyle) Yapıp-edenlere ne güzel bir karşılık (ecir var).",
+            "translation": "İşte onlar var ya, mükâfâtları Rablerinden bir mağfiret ve altlarından nehirler akan Cennetlerdir; (onlar) orada ebedî olarak kalıcıdırlar. Artık (böyle) amel işleyenlerin mükâfâtı ne güzeldir!",
             "originals": [
                 "اُو۬لٰٓئِكَ",
                 "جَزَٓاؤُ۬هُمْ",
@@ -5002,7 +5003,7 @@
         {
             "id": "137",
             "sentence": "قَدْ خَلَتْ مِنْ قَبْلِكُمْ سُنَنٌۙ فَس۪يرُوا فِي الْاَرْضِ فَانْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّب۪ينَ",
-            "translation": "Gerçek şu ki, sizden önce nice sünnetler gelip-geçmiştir. Bundan dolayı yeryüzünde gezip-dolaşın da yalanlayanların uğradıkları sonuç nasıl oldu bir görün.",
+            "translation": "Şübhesiz sizden önce(ki ümmetlere tatbîk edilen) nice yollar gelip geçmiştir; öyle ise yeryüzünde dolaşın da (peygamberleri) yalanlayanların âkıbeti nasıl olmuş, bir bakın!",
             "originals": [
                 "قَدْ",
                 "خَلَتْ",
@@ -5033,7 +5034,7 @@
         {
             "id": "138",
             "sentence": "هٰذَا بَيَانٌ لِلنَّاسِ وَهُدًى وَمَوْعِظَةٌ لِلْمُتَّق۪ينَ",
-            "translation": "Bu (Kur´an) insanlar için bir beyan sakınanlar için de bir hidayet ve öğüttür.",
+            "translation": "Bu (Kur'ân), insanlar için bir açıklama, takvâ sâhibleri için ise bir hidâyet ve bir nasîhattir.",
             "originals": [
                 "هٰذَا",
                 "بَيَانٌ",
@@ -5054,7 +5055,7 @@
         {
             "id": "139",
             "sentence": "وَلَا تَهِنُوا وَلَا تَحْزَنُوا وَاَنْتُمُ الْاَعْلَوْنَ اِنْ كُنْتُمْ مُؤْمِن۪ينَ",
-            "translation": "Gevşemeyin, üzülmeyin; eğer (gerçekten) iman etmişseniz en üstün olan sizlersiniz.",
+            "translation": "O hâlde gevşemeyin ve üzülmeyin! Eğer (gerçekten) mü'min kimseler iseniz, en üstün olanlar sizsiniz!",
             "originals": [
                 "وَلَا تَهِنُوا",
                 "وَلَا تَحْزَنُوا",
@@ -5075,7 +5076,7 @@
         {
             "id": "140",
             "sentence": "اِنْ يَمْسَسْكُمْ قَرْحٌ فَقَدْ مَسَّ الْقَوْمَ مِثْلُهُۜ وَتِلْكَ الْاَيَّامُ نُدَاوِلُهَا بَيْنَ النَّاسِۚ وَلِيَعْلَمَ اللّٰهُ الَّذ۪ينَ اٰمَنُوا وَيَتَّخِذَ مِنْكُمْ شُهَدَٓاءَۜ وَاللّٰهُ لَا يُحِبُّ الظَّالِم۪ينَۙ",
-            "translation": "Eğer bir yara aldıysanız, o kavme de benzeri bir yara değmiştir. İşte o günleri Biz onları insanlar arasında devrettirip dururuz. Bu, Allah´ın iman edenleri belirtip-ayırması ve sizden şahidler (veya şehidler) edinmesi içindir. Allah, zulmedenleri sevmez;",
+            "translation": "Eğer (Uhud'da) size bir yara dokunduysa, doğrusu (size düşman olan) o kavme de (Bedir'de) onun misli olan bir yara dokunmuştu. İşte bu günler (öyle günlerdir) ki, onları insanlar arasında evirir çeviririz. Tâ ki Allah, îmân edenleri ortaya çıkarsın ve içinizden (bu uğurda can veren) şehîdler (ve yaptıklarınıza şâhidler) edinsin! Çünki Allah, zâlimleri sevmez.",
             "originals": [
                 "اِنْ",
                 "يَمْسَسْكُمْ",
@@ -5126,7 +5127,7 @@
         {
             "id": "141",
             "sentence": "وَلِيُمَحِّصَ اللّٰهُ الَّذ۪ينَ اٰمَنُوا وَيَمْحَقَ الْكَافِر۪ينَ",
-            "translation": "(Yine bu) Allah´ın, iman edenleri arındırması ve inkar edenleri yok etmesi içindir.",
+            "translation": "Bir de Allah, îmân edenleri (bu sıkıntılarla günahlardan) temizlesin ve kâfirleri (bu zulümleri sebebiyle) helâk etsin!",
             "originals": [
                 "وَلِيُمَحِّصَ",
                 "اللّٰهُ",
@@ -5145,7 +5146,7 @@
         {
             "id": "142",
             "sentence": "اَمْ حَسِبْتُمْ اَنْ تَدْخُلُوا الْجَنَّةَ وَلَمَّا يَعْلَمِ اللّٰهُ الَّذ۪ينَ جَاهَدُوا مِنْكُمْ وَيَعْلَمَ الصَّابِر۪ينَ",
-            "translation": "Yoksa siz, Allah, içinizden cihad edenleri belirtip-ayırt etmeden ve sabredenleri de belirtip-ayırt etmeden cennete gireceğinizi mi sandınız?",
+            "translation": "Yoksa, Allah içinizden cihâd edenleri ortaya çıkarıp, sabredenleri belli etmeden Cennete girivereceğinizi mi sandınız?",
             "originals": [
                 "اَمْ حَسِبْتُمْ",
                 "اَنْ تَدْخُلُوا",
@@ -5172,7 +5173,7 @@
         {
             "id": "143",
             "sentence": "وَلَقَدْ كُنْتُمْ تَمَنَّوْنَ الْمَوْتَ مِنْ قَبْلِ اَنْ تَلْقَوْهُۖ فَقَدْ رَاَيْتُمُوهُ وَاَنْتُمْ تَنْظُرُونَ۟",
-            "translation": "Andolsun, siz onunla karşılaşmadan önce ölümü temenni ediyordunuz. İşte onu gördünüz, ama bakıp duruyorsunuz.",
+            "translation": "Ve and olsun ki (siz) onunla karşılaşmadan önce ölümü (şehâdeti) temennî ediyordunuz; işte siz (kardeşleriniz şehîd edilirken) bakakaldığınız bir hâlde, yakinen onu(ölümü) gördünüz.",
             "originals": [
                 "وَلَقَدْ",
                 "كُنْتُمْ",
@@ -5199,7 +5200,7 @@
         {
             "id": "144",
             "sentence": "وَمَا مُحَمَّدٌ اِلَّا رَسُولٌۚ قَدْ خَلَتْ مِنْ قَبْلِهِ الرُّسُلُۜ اَفَا۬ئِنْ مَاتَ اَوْ قُتِلَ انْقَلَبْتُمْ عَلٰٓى اَعْقَابِكُمْۜ وَمَنْ يَنْقَلِبْ عَلٰى عَقِبَيْهِ فَلَنْ يَضُرَّ اللّٰهَ شَيْـٔاًۜ وَسَيَجْزِي اللّٰهُ الشَّاكِر۪ينَ",
-            "translation": "Muhammed, yalnızca bir elçidir. Ondan önce nice elçiler gelip-geçmiştir. Şimdi O ölürse ya da öldürülürse, siz topuklarınız üzerinde gerisin geriye mi döneceksiniz? İki topuğu üzerinde gerisin geri dönen kimse, Allah´a kesinlikle zarar veremez. Allah, şükredenleri pek yakında ödüllendirecektir.",
+            "translation": "Muhammed ise, ancak bir peygamberdir. Ondan önce (de) şübhesiz peygamberler gelip geçmiştir. Şimdi (o) ölür veya öldürülürse, ökçeleriniz üzerinde geriye (küfre) mi döneceksiniz? Kim ökçeleri üzerinde geriye dönerse, o takdirde Allah'a, aslâ en ufak bir zarar veremez! Allah ise, şükredenleri mükâfâtlandıracaktır.",
             "originals": [
                 "وَمَا مُحَمَّدٌ",
                 "اِلَّا",
@@ -5254,7 +5255,7 @@
         {
             "id": "145",
             "sentence": "وَمَا كَانَ لِنَفْسٍ اَنْ تَمُوتَ اِلَّا بِاِذْنِ اللّٰهِ كِتَاباً مُؤَجَّلاًۜ وَمَنْ يُرِدْ ثَوَابَ الدُّنْيَا نُؤْتِه۪ مِنْهَاۚ ثَوَابَ الْاٰخِرَةِ مِنْهَاۜ وَسَنَجْزِي الشَّاكِر۪ينَ",
-            "translation": "Allah´ın izni olmaksızın hiçbir nefis için ölmek yoktur. O, süresi belirtilmiş bir yazıdır. Kim dünyanın yararını (sevabını) isterse ona ondan veririz, kim ahiret sevabını isterse ona da ondan veririz. Biz şükredenleri pek yakında ödüllendireceğiz.",
+            "translation": "Hem va'desi belli olan bir yazı (bir kader) olarak, Allah'ın izni olmadıkça hiçbir kimsenin ölmesi mümkün değildir. Artık kim dünya mükâfâtını isterse, ona ondan veririz. Kim de âhiret mükâfâtını isterse, ona (da) ondan veririz. Şükredenleri ise mükâfâtlandıracağız.",
             "originals": [
                 "وَمَا كَانَ لِنَفْسٍ",
                 "اَنْ تَمُوتَ",
@@ -5299,7 +5300,7 @@
         {
             "id": "146",
             "sentence": "وَكَاَيِّنْ مِنْ نَبِيٍّ قَاتَلَۙ مَعَهُ رِبِّيُّونَ كَث۪يرٌۚ فَمَا وَهَنُوا لِمَٓا اَصَابَهُمْ ف۪ي سَب۪يلِ اللّٰهِ وَمَا ضَعُفُوا وَمَا اسْتَكَانُواۜ وَاللّٰهُ يُحِبُّ الصَّابِر۪ينَ",
-            "translation": "Nice peygamberle birlikte birçok Rabbani (bilgin)ler savaşa girdiler de, Allah yolunda kendilerine isabet eden (güçlük ve mihnet)den dolayı ne gevşeklik gösterdiler, ne boyun eğdiler. Allah, sabredenleri sever.",
+            "translation": "Nice peygamberler vardı ki, berâberlerinde birçok Rabbânî (Rabbe kulluk eden kimse)ler bulunduğu hâlde savaştı(lar). Bununla berâber Allah yolunda başlarına gelenlerdendolayı gevşemediler ve zaafa düşmediler, hem (düşmanlarına) boyun eğmediler! Allah ise, sabredenleri sever.",
             "originals": [
                 "وَكَاَيِّنْ",
                 "مِنْ نَبِيٍّ",
@@ -5338,7 +5339,7 @@
         {
             "id": "147",
             "sentence": "وَمَا كَانَ قَوْلَهُمْ اِلَّٓا اَنْ قَالُوا رَبَّنَا اغْفِرْ لَنَا ذُنُوبَنَا وَاِسْرَافَنَا ف۪ٓي اَمْرِنَا وَثَبِّتْ اَقْدَامَنَا وَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِر۪ينَ",
-            "translation": "Onların söyledikleri: &quot;Rabbimiz, günahlarımızı ve işimizdeki aşırılıklarımızı bağışla, ayaklarımızı (bastıkları yerde) sağlamlaştır ve bize kafirler topluluğuna karşı yardım et&quot; demelerinden başka bir şey değildi.",
+            "translation": "Bunun üzerine (onların:) “Rabbimiz! Bizim için günahlarımızı ve işimizdeki taşkınlıklarımızı bağışla, ayaklarımızı sâbit kıl ve kâfirler topluluğuna karşı bize yardım eyle!” demelerinden başka bir sözleri olmadı.",
             "originals": [
                 "وَمَا كَانَ",
                 "قَوْلَهُمْ",
@@ -5379,7 +5380,7 @@
         {
             "id": "148",
             "sentence": "فَاٰتٰيهُمُ اللّٰهُ ثَوَابَ الدُّنْيَا وَحُسْنَ ثَوَابِ الْاٰخِرَةِۜ وَاللّٰهُ يُحِبُّ الْمُحْسِن۪ينَ۟",
-            "translation": "Böylece Allah, dünya ve ahiret sevabının güzelliğini onlara verdi. Allah iyilikte bulunanları sever.",
+            "translation": "Allah da onlara, (hem) dünya mükâfâtını hem âhiret mküâfâtının güzelliğini verdi. Çünki Allah, iyilik edenleri sever.",
             "originals": [
                 "فَاٰتٰيهُمُ",
                 "اللّٰهُ",
@@ -5408,7 +5409,7 @@
         {
             "id": "149",
             "sentence": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُٓوا اِنْ تُط۪يعُوا الَّذ۪ينَ كَفَرُوا يَرُدُّوكُمْ عَلٰٓى اَعْقَابِكُمْ فَتَنْقَلِبُوا خَاسِر۪ينَ",
-            "translation": "Ey iman edenler, eğer inkar edenlere itaat ederseniz, sizi topuklarınız üzerinde gerisin-geri çevirirler, böylece büyük hüsrana uğrayanlara dönersiniz.",
+            "translation": "Ey îmân edenler! Eğer inkâr edenlere uyarsanız, sizi ökçeleriniz üzerinde geriye(küfre) çevirirler de hüsrâna uğrayanlara dönersiniz.",
             "originals": [
                 "يَٓا اَيُّهَا",
                 "الَّذ۪ينَ اٰمَنُٓوا",
@@ -5435,7 +5436,7 @@
         {
             "id": "150",
             "sentence": "بَلِ اللّٰهُ مَوْلٰيكُمْۚ وَهُوَ خَيْرُ النَّاصِر۪ينَ",
-            "translation": "Hayır, sizin Mevlanız Allah´tır. O, yardım edenlerin en hayırlısıdır.",
+            "translation": "Hayır! Sizin Mevlânız Allah'dır! Ve O, yardım edenlerin en hayırlısıdır.",
             "originals": [
                 "بَلِ",
                 "اللّٰهُ",
@@ -5456,7 +5457,7 @@
         {
             "id": "151",
             "sentence": "سَنُلْق۪ي ف۪ي قُلُوبِ الَّذ۪ينَ كَفَرُوا الرُّعْبَ بِمَٓا اَشْرَكُوا بِاللّٰهِ مَا لَمْ يُنَزِّلْ بِه۪ سُلْطَاناًۚ وَمَأْوٰيهُمُ النَّارُۜ وَبِئْسَ مَثْوَى الظَّالِم۪ينَ",
-            "translation": "Kendisi hakkında hiçbir delil indirmediği şeyi Allah´a ortak koştuklarından dolayı küfredenlerin kalplerine korku salacağız. Onların barınma yerleri ateştir. Zalimlerin konaklama yeri ne kötüdür.",
+            "translation": "Hakkında hiçbir delil indirmediği şeyleri Allah'a ortak koşmaları sebebiyle, inkâr edenlerin kalblerine korku salacağız! Varacakları yer de ateştir. Zâlimlerin kalacağı yer ise ne kötüdür!",
             "originals": [
                 "سَنُلْق۪ي",
                 "ف۪ي قُلُوبِ",
@@ -5493,7 +5494,7 @@
         {
             "id": "152",
             "sentence": "وَلَقَدْ صَدَقَكُمُ اللّٰهُ وَعْدَهُٓ اِذْ تَحُسُّونَهُمْ بِاِذْنِه۪ۚ حَتّٰٓى اِذَا فَشِلْتُمْ وَتَنَازَعْتُمْ فِي الْاَمْرِ وَعَصَيْتُمْ مِنْ بَعْدِ مَٓا اَرٰيكُمْ مَا تُحِبُّونَۜ مِنْكُمْ مَنْ يُر۪يدُ الدُّنْيَا وَمِنْكُمْ الْاٰخِرَةَۚ ثُمَّ صَرَفَكُمْ عَنْهُمْ لِيَبْتَلِيَكُمْۚ وَلَقَدْ عَفَا عَنْكُمْۜ وَاللّٰهُ ذُوفَضْلٍ عَلَى الْمُؤْمِن۪ينَ",
-            "translation": "Andolsun, Allah size verdiği sözünde sadık kaldı; siz O´nun izniyle onları kırıp-geçiriyordunuz. Öyle ki sevdiğiniz (zafer)i size gösterdikten sonra, siz yılgınlık gösterdiniz, isyan ettiniz ve emir hakkında çekiştiniz. Sizden kiminiz dünyayı, kiminiz ahireti istiyordu. Sonra (Allah) denemek için sizi ondan çevirdi. Ama (yine de) sizi bağışladı. Allah mü´minlere karşı fazl (ve ihsan) sahibi olandır.",
+            "translation": "Ve and olsun ki Allah, (siz) izni ile onları öldürürken, size olan va'dini yerine getirmiştir; tâ ki (Allah) arzu ediyor olduğunuz (zafer)i size gösterdikten sonra, zaafa düşüp(peygamberin geçidi tutan okçulara verdiği) emir husûsunda ihtilâfa düşerek isyân ettiğiniz zamâna kadar! İçinizden dünyayı (ganîmeti) isteyen de vardı, (ve yine) içinizden âhireti isteyen de vardı. Sonra (Allah) sizi imtihân etmek için, sizi onlardan (onları mağlûb etmekten) alıkoydu. Bununla berâber muhakkak ki (O) sizi affetti. Hem Allah, mü'minlere karşı (pek büyük) ihsan sâhibidir.",
             "originals": [
                 "وَلَقَدْ",
                 "صَدَقَكُمُ",
@@ -5566,7 +5567,7 @@
         {
             "id": "153",
             "sentence": "اِذْ تُصْعِدُونَ وَلَا تَلْوُ۫نَ عَلٰٓى اَحَدٍ وَالرَّسُولُ يَدْعُوكُمْ ف۪ٓي اُخْرٰيكُمْ فَاَثَابَكُمْ غَماًّ بِغَمٍّ لِكَيْلَا تَحْزَنُوا عَلٰى مَا فَاتَكُمْ وَلَا مَٓا اَصَابَكُمْۜ وَاللّٰهُ خَب۪يرٌ بِمَا تَعْمَلُونَ",
-            "translation": "Siz o zaman durmaksızın uzaklaşıyor, kimseye dönüp bakmıyordunuz. Elçi de sürekli sizi arkadan çağırıyordu. (Allah) Elinizden kaçırdıklarınıza ve size isabet edene üzülmemeniz için sizi kederden kedere uğrattı. Allah, yaptıklarınızdan haberi olandır.",
+            "translation": "O zaman (siz harb sâhasından) uzaklaşıyor ve kimseye dönüp bakmıyordunuz, peygamber ise arkanızdan sizi çağırıyordu; böylece (Allah) sizi, keder üstüne kederle cezâlandırdı. Tâ ki ne elinizden gidene, ne de başınıza gelene üzülesiniz! Çünki Allah, yapmakta olduklarınızdan hakkıyla haberdardır.",
             "originals": [
                 "اِذْ تُصْعِدُونَ",
                 "وَلَا تَلْوُ۫نَ",
@@ -5605,7 +5606,7 @@
         {
             "id": "154",
             "sentence": "ثُمَّ اَنْزَلَ عَلَيْكُمْ مِنْ بَعْدِ الْغَمِّ اَمَنَةً نُعَاساً يَغْشٰى طَٓائِفَةً مِنْكُمْۙ وَطَٓائِفَةٌ قَدْ اَهَمَّتْهُمْ اَنْفُسُهُمْ يَظُنُّونَ بِاللّٰهِ غَيْرَ الْحَقِّ ظَنَّ الْجَاهِلِيَّةِۜ يَقُولُونَ هَلْ لَنَا مِنَ الْاَمْرِ مِنْ شَيْءٍۜ قُلْ اِنَّ الْاَمْرَ كُلَّهُ لِلّٰهِۜ يُخْفُونَ ف۪ٓي اَنْفُسِهِمْ مَا لَا يُبْدُونَ لَكَۜ يَقُولُونَ لَوْ كَانَ شَيْءٌ مَا قُتِلْنَا هٰهُنَاۜ لَوْ كُنْتُمْ ف۪ي بُيُوتِكُمْ لَبَرَزَ الَّذ۪ينَ كُتِبَ عَلَيْهِمُ الْقَتْلُ اِلٰى مَضَاجِعِهِمْۚ وَلِيَبْتَلِيَ اللّٰهُ مَا ف۪ي صُدُورِكُمْ وَلِيُمَحِّصَ مَا ف۪ي قُلُوبِكُمْۜ وَاللّٰهُ عَل۪يمٌ بِذَاتِ الصُّدُورِ",
-            "translation": "Sonra kederin ardından üzerinize bir güvenlik (duygusu) indirdi, bir uyuklama ki, içinizden bir grubu sarıveriyordu. Bir grup da, canları derdine düşmüştü; Allah´a karşı haksız yere cahiliye zannıyla zanlara kapılarak: &quot;Bu işten bize ne var ki?&quot; diyorlardı. De ki: &quot;Şüphesiz işin tümü Allah´ındır.&quot; Onlar, sana açıklamadıkları şeyi içlerinde gizli tutuyorlar, &quot;Bu işten bize bir şey olsaydı, biz burada öldürülmezdik&quot; diyorlar. De ki: &quot;Evlerinizde olsaydınız da üzerlerine öldürülmesi yazılmış olanlar, yine devrilecekleri yerlere gidecekti. (Bunu) Allah, sinelerinizdekini denemek ve kalplerinizde olanı arındırmak için (yaptı). Allah, sinelerin özünde saklı duranı bilendir.",
+            "translation": "Sonra o kederin ardından (Allah) üzerinize bir emniyet, bir uyku indirdi ki, (o hâl)içinizden bir tâifeyi (samîmî mü'minleri) bürüyordu; (münâfıklardan) bir tâife de vardı ki, doğrusu nefisleri, kendilerini derde düşürmüş, Allah hakkında haksız yere, câhiliye zannıyla zanda bulunuyorlardı. “Bu işten (zafer ve galibiyet va'dinden) bize bir şey var mı?” diyorlardı.(Ey Resûlüm!) De ki: “Şübhesiz iş tamâmıyla Allah'a âiddir!” Sana açıklayamayacaklarını içlerinde gizliyorlar. (Birbirlerine:) “Eğer (Muhammed'in dediği gibi) bu işten bize bir şey olsaydı, burada öldürülmezdik” diyorlardı.De ki: “Evlerinizde bile bulunsaydınız, üzerlerine ölüm yazılmış olanlar, (öldürülerek)yatacakları yerlere mutlaka çıkıp giderlerdi!” Artık (bu, birçok hikmetler ve) Allah'ın sînelerinizde olanı denemesi, hem kalblerinizde olanı temizlemesi içindir. Çünki Allah, sînelerin içinde olanı hakkıyla bilendir.",
             "originals": [
                 "ثُمَّ",
                 "اَنْزَلَ",
@@ -5720,7 +5721,7 @@
         {
             "id": "155",
             "sentence": "اِنَّ الَّذ۪ينَ تَوَلَّوْا مِنْكُمْ يَوْمَ الْتَقَى الْجَمْعَانِۙ اِنَّمَا اسْتَزَلَّهُمُ الشَّيْطَانُ بِبَعْضِ مَا كَسَبُواۚ وَلَقَدْ عَفَا اللّٰهُ عَنْهُمْۜ اللّٰهَ غَفُورٌ حَل۪يمٌ۟",
-            "translation": "İki topluluğun karşı karşıya geldikleri gün, sizden geri dönenleri, kazandıkları bazı şeyler dolayısıyla şeytan onların ayağını kaydırmak istemişti. Ama andolsun ki, Allah onları affetti. Şüphesiz Allah, bağışlayandır, yumuşak olandır.",
+            "translation": "Şübhesiz ki (Uhud'da) iki ordu karşılaştığı gün, içinizden geri dönüp gidenler yok mu, şeytan ancak, yaptıkları bazı şeyler (hatâlar) yüzünden onları(n ayaklarını îmandan)kaydırmak istemişti. Buna rağmen and olsun ki Allah onları affetti. Muhakkak ki Allah, Gafûr(çok bağışlayan)dır, Halîm (azabda hiç acele etmeyen)dir.",
             "originals": [
                 "اِنَّ",
                 "الَّذ۪ينَ تَوَلَّوْا",
@@ -5763,7 +5764,7 @@
         {
             "id": "156",
             "sentence": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُوا لَا تَكُونُوا كَالَّذ۪ينَ كَفَرُوا وَقَالُوا لِاِخْوَانِهِمْ اِذَا ضَرَبُوا فِي الْاَرْضِ اَوْ كَانُوا غُزًّى لَوْ كَانُوا عِنْدَنَا مَا مَاتُوا وَمَا قُتِلُواۚ لِيَجْعَلَ اللّٰهُ ذٰلِكَ حَسْرَةً ف۪ي قُلُوبِهِمْۜ وَاللّٰهُ يُحْـي۪ وَيُم۪يتُۜ وَاللّٰهُ بِمَا تَعْمَلُونَ بَص۪يرٌ",
-            "translation": "Ey iman edenler, inkar edenler ile yeryüzünde gezip dolaşırken veya savaşta bulundukları sırada (ölen) kardeşleri için: &quot;Yanımızda olsalardı, ölmezlerdi, öldürülmezlerdi&quot; diyenler gibi olmayın. Allah, bunu onların kalplerinde onulmaz bir hasret olarak kıldı. Dirilten ve öldüren Allah´tır. Allah, yaptıklarınızı görendir.",
+            "translation": "Ey îmân edenler! İnkâr eden ve kardeşleri hakkında yeryüzünde yolculuğa çıktıkları veya gaziler oldukları (savaşa gittikleri) zaman: “Eğer yanımızda olsalardı ne ölürler, ne de öldürülürlerdi!” diyenler gibi olmayın ki, Allah bunu (bu sözü) onların kalblerinde bir hasret (ve pişmanlık) kılsın! Çünki hayâtı veren de öldüren de (ancak) Allah'dır. Allah ise,yapmakta olduklarınızı hakkıyla görendir.",
             "originals": [
                 "يَٓا اَيُّهَا",
                 "الَّذ۪ينَ اٰمَنُوا",
@@ -5826,7 +5827,7 @@
         {
             "id": "157",
             "sentence": "وَلَئِنْ قُتِلْتُمْ ف۪ي سَب۪يلِ اللّٰهِ اَوْ مُتُّمْ لَمَغْفِرَةٌ مِنَ اللّٰهِ وَرَحْمَةٌ خَيْرٌ مِمَّا يَجْمَعُونَ",
-            "translation": "Andolsun, eğer Allah yolunda öldürülür ya da ölürseniz, Allah´tan olan bir bağışlanma ve rahmet, onların bütün toplamakta olduklarından daha hayırlıdır.",
+            "translation": "Ve şânım hakkı için, eğer Allah yolunda öldürülür veya (o yolda iken) ölürseniz,elbette Allah'dan bir mağfiret ve bir rahmet, onların (dünyada) toplamakta olduklarından daha hayırlıdır!",
             "originals": [
                 "وَلَئِنْ",
                 "قُتِلْتُمْ",
@@ -5857,7 +5858,7 @@
         {
             "id": "158",
             "sentence": "وَلَئِنْ مُتُّمْ اَوْ قُتِلْتُمْ لَاِلَى اللّٰهِ تُحْشَرُونَ",
-            "translation": "Andolsun, ölseniz de, öldürülseniz de şüphesiz Allah´a (varıp) toplanacaksınız.",
+            "translation": "And olsun ki, ölseniz de öldürülseniz de, muhakkak Allah'ın huzûruna toplanacaksınız!",
             "originals": [
                 "وَلَئِنْ",
                 "مُتُّمْ",
@@ -5878,7 +5879,7 @@
         {
             "id": "159",
             "sentence": "فَبِمَا رَحْمَةٍ مِنَ اللّٰهِ لِنْتَ لَهُمْۚ وَلَوْ كُنْتَ فَظًّا غَل۪يظَ الْقَلْبِ لَانْفَضُّوا مِنْ حَوْلِكَۖ فَاعْفُ عَنْهُمْ وَاسْتَغْفِرْ لَهُمْ وَشَاوِرْهُمْ فِي الْاَمْرِۚ فَاِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى اللّٰهِۜ اِنَّ اللّٰهَ يُحِبُّ الْمُتَوَكِّل۪ينَ",
-            "translation": "Allah´tan bir rahmet dolayısıyla, onlara yumuşak davrandın. Eğer kaba, katı yürekli olsaydın onlar çevrenden dağılır giderlerdi. Öyleyse onları bağışla, onlar için bağışlanma dile ve iş konusunda onlarla müşavere et. Eğer azmedersen artık Allah´a tevekkül et. Şüphesiz Allah, tevekkül edenleri sever.",
+            "translation": "İşte Allah'dan bir rahmet iledir ki, sen onlara yumuşak davrandın. Hâlbuki kaba, katı kalbli olsaydın, elbette (onlar) etrâfından dağılırlardı. Artık onları affet, onlar için mağfiret dile ve (hakkında vahiy gelmeyen bir) iş husûsunda onlarla istişâre et! Fakat (bir görüşte)karar kıldığında, artık (işe giriş ve) Allah'a tevekkül et! Muhakkak ki Allah, tevekkül edenleri sever.",
             "originals": [
                 "فَبِمَا",
                 "رَحْمَةٍ",
@@ -5939,7 +5940,7 @@
         {
             "id": "160",
             "sentence": "اِنْ يَنْصُرْكُمُ اللّٰهُ فَلَا غَالِبَ لَكُمْۚ وَاِنْ يَخْذُلْكُمْ فَمَنْ ذَا الَّذ۪ي يَنْصُرُكُمْ مِنْ بَعْدِه۪ۜ وَعَلَى اللّٰهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ",
-            "translation": "Eğer Allah size yardım ederse, artık sizi yenilgiye uğratacak yoktur ve eğer sizi ´yapayalnız ve yardımsız´ bırakacak olursa, O’ndan sonra size yardım edecek kimdir? Öyleyse mü´minler, yalnızca Allah´a tevekkül etsinler.",
+            "translation": "Eğer Allah size yardım ederse, artık size galib gelecek kimse yoktur! Hâlbuki sizi yardımsız bırakırsa, o takdirde O'ndan sonra size kim yardım edebilir? Öyle ise mü'minler artık ancak Allah'a tevekkül etsinler!",
             "originals": [
                 "اِنْ",
                 "يَنْصُرْكُمُ",
@@ -5976,7 +5977,7 @@
         {
             "id": "161",
             "sentence": "وَمَا كَانَ لِنَبِيٍّ اَنْ يَغُلَّۜ وَمَنْ يَغْلُلْ يَأْتِ بِمَا غَلَّ يَوْمَ الْقِيٰمَةِۚ ثُمَّ تُوَفّٰى كُلُّ نَفْسٍ مَا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ",
-            "translation": "Hiçbir peygambere, emanete ihanet yaraşmaz. Kim ihanet ederse, kıyamet günü ihanet ettiğiyle gelir. Sonra her nefis ne kazandıysa, (ona) eksiksiz olarak ödenir. Onlar haksızlığa uğratılmazlar.",
+            "translation": "Ve bir peygamber için (emânete) hıyânet etme (aslâ söz konusu) olmaz! Kim(emânete) hıyânet ederse, kıyâmet günü hıyânet ettiği şeyle (yüklü olarak) gelir. Sonra herkese, yaptıklarının karşılığı tam olarak verilir ve onlar haksızlığa uğratılmazlar.",
             "originals": [
                 "وَمَا كَانَ",
                 "لِنَبِيٍّ",
@@ -6015,7 +6016,7 @@
         {
             "id": "162",
             "sentence": "اَفَمَنِ اتَّبَعَ رِضْوَانَ اللّٰهِ كَمَنْ بَٓاءَ بِسَخَطٍ مِنَ اللّٰهِ وَمَأْوٰيهُ جَهَنَّمُۜ وَبِئْسَ الْمَص۪يرُ",
-            "translation": "Allah´ın rızasına uyan kişi, Allah´tan bir gazaba uğrayan ve barınma yeri cehennem olan kişi gibi midir? Ne köt�� barınaktır o.",
+            "translation": "Hiç Allah'ın rızâsına tâbi' olan kimse, Allahdan (gelen) bir gazaba uğrayan ve varacağı yer Cehennem olan kimse gibi olur mu? Hâlbuki (o,) ne kötü varılacak yerdir!",
             "originals": [
                 "اَفَمَنِ",
                 "اتَّبَعَ",
@@ -6048,7 +6049,7 @@
         {
             "id": "163",
             "sentence": "هُمْ دَرَجَاتٌ عِنْدَ اللّٰهِۜ وَاللّٰهُ بَص۪يرٌ بِمَا يَعْمَلُونَ۟",
-            "translation": "Allah Katında onlar derece derecedir. Allah yaptıklarını görendir.",
+            "translation": "Onlar Allah katında derece derecedirler. Allah ise, (onların) yapmakta olduklarını hakkıyla görendir.",
             "originals": [
                 "هُمْ",
                 "دَرَجَاتٌ",
@@ -6071,7 +6072,7 @@
         {
             "id": "164",
             "sentence": "لَقَدْ مَنَّ اللّٰهُ عَلَى الْمُؤْمِن۪ينَ اِذْ بَعَثَ ف۪يهِمْ رَسُولاً مِنْ اَنْفُسِهِمْ يَتْلُوا عَلَيْهِمْ اٰيَاتِه۪ وَيُزَكّ۪يهِمْ وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَۚ وَاِنْ كَانُوا مِنْ قَبْلُ لَف۪ي ضَلَالٍ مُب۪ينٍ",
-            "translation": "Andolsun ki Allah, mü´minlere, içlerinde kendilerinden onlara bir peygamber göndermekle lütufta bulunmuştur. (Ki O) Onlara ayetlerini okuyor, onları arındırıyor ve onlara kitabı ve hikmeti öğretiyor. Ondan önce ise onlar apaçık bir sapıklık içindeydiler.",
+            "translation": "And olsun ki, Allah mü'minlere lütufta bulunmuştur. Çünki onlara içlerinden bir peygamber gönderdi, onlara (Allah'ın) âyetlerini okuyor, onları (günahlardan) temizliyor ve onlara Kitâb'ı ve hikmeti öğretiyor. Hâlbuki (onlar) daha evvel gerçekten apaçık bir sapıklık içinde idiler.",
             "originals": [
                 "لَقَدْ",
                 "مَنَّ",
@@ -6120,7 +6121,7 @@
         {
             "id": "165",
             "sentence": "اَوَلَمَّٓا اَصَابَتْكُمْ مُص۪يبَةٌ قَدْ اَصَبْتُمْ مِثْلَيْهَاۙ قُلْتُمْ اَنّٰى هٰذَاۜ قُلْ هُوَ مِنْ عِنْدِ اَنْفُسِكُمْۜ اِنَّ اللّٰهَ عَلٰى كُلِّ شَيْءٍ قَد۪يرٌ",
-            "translation": "İki misline uğrattığınız bir musibet size isabet edince mi: &quot;Bu nereden&quot; dediniz? De ki: &quot;O, sizin kendinizdendir.&quot; Şüphesiz Allah, herşeye güç yetirendir.",
+            "translation": "(Bedir'de düşmanınıza) iki mislini uğrattığınız bir musîbet şimdi (Uhud'da) size gelince: “Bu nereden?” mi dediniz. (Habîbim, yâ Muhammed!) De ki: “O, kendi nefisleriniz tarafındandır!” Şübhesiz ki Allah, herşeye hakkıyla gücü yetendir.",
             "originals": [
                 "اَوَلَمَّٓا",
                 "اَصَابَتْكُمْ",
@@ -6161,7 +6162,7 @@
         {
             "id": "166",
             "sentence": "وَمَٓا اَصَابَكُمْ يَوْمَ الْتَقَى الْجَمْعَانِ فَبِاِذْنِ اللّٰهِ وَلِيَعْلَمَ الْمُؤْمِن۪ينَۙ",
-            "translation": "İki topluluğun karşı karşıya geldiği gün, size isabet eden ancak Allah´ın izniyle idi. (Bu, Allah´ın) mü´minleri ayırt etmesi;",
+            "translation": "Hâlbuki (Uhud'da) iki ordunun karşılaştığı gün başınıza gelenler, böylece Allah'ın izniyle olup, mü'minleri ortaya çıkarması içindi.",
             "originals": [
                 "وَمَٓا اَصَابَكُمْ",
                 "يَوْمَ",
@@ -6186,7 +6187,7 @@
         {
             "id": "167",
             "sentence": "وَلِيَعْلَمَ الَّذ۪ينَ نَافَقُواۚ وَق۪يلَ لَهُمْ تَعَالَوْا قَاتِلُوا ف۪ي سَب۪يلِ اللّٰهِ اَوِ ادْفَعُواۜ قَالُوا لَوْ نَعْلَمُ قِتَالاً لَاتَّبَعْنَاكُمْۜ هُمْ لِلْكُفْرِ يَوْمَئِذٍ اَقْرَبُ مِنْهُمْ لِلْا۪يمَانِۚ يَقُولُونَ بِاَفْوَاهِهِمْ مَا لَيْسَ ف۪ي قُلُوبِهِمْۜ وَاللّٰهُ اَعْلَمُ بِمَا يَكْتُمُونَۚ",
-            "translation": "Münafıklık yapanları da belirtmesi içindi. Onlara: &quot;Gelin, Allah´ın yolunda savaşın ya da savunma yapın&quot; denildiğinde, &quot;Biz savaşmayı bilseydik elbette sizi izlerdik&quot; dediler. O gün onlar, imandan çok küfre daha yakındılar. Kalplerinde olmayanı ağızlarıyla söylüyorlardı. Allah, onların gizli tuttuklarını daha iyi bilir.",
+            "translation": "Bir de münâfıklık edenleri ortaya çıkarması içindi. Bunlara: “Gelin, Allah yolunda savaşın veya müdâfaada bulunun!” denilmişti. (Onlar ise:) “Eğer harb etmeyi bilseydik, elbette size tâbi' olurduk” dediler. Onlar o gün îmandan daha çok küfre yakın idiler! Ağızlarıyla, kalblerinde olmayanı söylüyorlardı. Hâlbuki Allah, (onların) gizlemekte olduklarını en iyi bilendir.",
             "originals": [
                 "وَلِيَعْلَمَ",
                 "الَّذ۪ينَ نَافَقُواۚ",
@@ -6251,7 +6252,7 @@
         {
             "id": "168",
             "sentence": "الَّذ۪ينَ قَالُوا لِاِخْوَانِهِمْ وَقَعَدُوا لَوْ اَطَاعُونَا مَا قُتِلُواۜ قُلْ فَادْرَؤُ۫ا عَنْ اَنْفُسِكُمُ الْمَوْتَ اِنْ كُنْتُمْ صَادِق۪ينَ",
-            "translation": "Onlar, kendileri oturup kardeşleri için: &quot;Eğer bize itaat etselerdi, öldürülmezlerdi&quot; diyenlerdir. De ki: &quot;Eğer doğru sözlüler iseniz, ölümü kendinizden savın öyleyse.&quot;",
+            "translation": "Onlar ki (savaşa gitmeyip, evlerinde) oturdukları hâlde, (Uhud günü şehîd edilen)kardeşleri için: “Eğer bize itaat etselerdi, öldürülmezlerdi!” dediler. (Ey Habîbim!) De ki: “Eğer (iddiânızda) doğru kimseler iseniz, haydi kendinizden ölümü def' edin!”",
             "originals": [
                 "الَّذ۪ينَ قَالُوا",
                 "لِاِخْوَانِهِمْ",
@@ -6286,7 +6287,7 @@
         {
             "id": "169",
             "sentence": "وَلَا تَحْسَبَنَّ الَّذ۪ينَ قُتِلُوا ف۪ي سَب۪يلِ اللّٰهِ اَمْوَاتاًۜ بَلْ اَحْيَٓاءٌ عِنْدَ رَبِّهِمْ يُرْزَقُونَۙ",
-            "translation": "Allah yolunda öldürülenleri sakın ´ölüler´ saymayın. Hayır, onlar, Rableri Katında diridirler, rızıklanmaktadırlar.",
+            "translation": "Ve sakın Allah yolunda öldürülenleri ölüler sanma! Bil'akis (onlar) hayatdardırlar, Rableri katında rızıklandırılmaktadırlar.",
             "originals": [
                 "وَلَا تَحْسَبَنَّ",
                 "الَّذ۪ينَ قُتِلُوا",
@@ -6315,7 +6316,7 @@
         {
             "id": "170",
             "sentence": "فَرِح۪ينَ بِمَٓا اٰتٰيهُمُ اللّٰهُ مِنْ فَضْلِه۪ۙ وَيَسْتَبْشِرُونَ بِالَّذ۪ينَ لَمْ يَلْحَقُوا بِهِمْ مِنْ خَلْفِهِمْۙ اَلَّا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَۢ",
-            "translation": "Allah´ın Kendi fazlından onlara verdikleriyle sevinç içindedirler. Onlara arkalarından henüz ulaşmayanlara müjdelemeyi isterler ki, onlara hiçbir korku yoktur, mahzun da olacak değillerdir.",
+            "translation": "(Hem onlar,) Allah'ın kendilerine ihsânından verdiği şeylerle sevinen kimselerdir ve arkalarından kendilerine (henüz) katılamayanları: “Onlara hiçbir korku yoktur ve onlar mahzun(da) olmayacaklardır” diye müjdelemek isterler!",
             "originals": [
                 "فَرِح۪ينَ",
                 "بِمَٓا اٰتٰيهُمُ",
@@ -6346,7 +6347,7 @@
         {
             "id": "171",
             "sentence": "يَسْتَبْشِرُونَ بِنِعْمَةٍ مِنَ اللّٰهِ وَفَضْلٍۙ وَاَنَّ اللّٰهَ لَا يُض۪يعُ اَجْرَ الْمُؤْمِن۪ينَۚۛ",
-            "translation": "Onlar, Allah´tan bir nimeti, bir fazlı (bolluğu) ve gerçekten Allah´ın mü´minlerin ecrini boşa çıkarmadığını müjdelemektedirler.",
+            "translation": "(Onlar) Allah'dan (gelen) bir ni'meti ve bir ihsânı ve şübhesiz Allah'ın, mü'minlerin mükâfâtını zâyi' etmeyeceğini (de) müjdelemek isterler.",
             "originals": [
                 "يَسْتَبْشِرُونَ",
                 "بِنِعْمَةٍ",
@@ -6373,7 +6374,7 @@
         {
             "id": "172",
             "sentence": "الَّذ۪ينَ اسْتَجَابُوا لِلّٰهِ وَالرَّسُولِ مِنْ بَعْدِ مَٓا اَصَابَهُمُ الْقَرْحُۜۛ لِلَّذ۪ينَ اَحْسَنُوا مِنْهُمْ وَاتَّقَوْا اَجْرٌ عَظ۪يمٌۚ",
-            "translation": "Kendilerine yara isabet ettikten sonra, Allah ve elçisinin çağrısına icabet edenler, içlerinden iyilik yapanlar ve sakınanlar için büyük bir ecir vardır.",
+            "translation": "(Uhud'da) kendilerine yara isâbet ettikten sonra Allah ve Resûlünün (cihad)da'vetine icâbet edenler var ya, işte onlardan iyilik eden ve (günahlardan) sakınanlar için pek büyük bir mükâfât vardır.",
             "originals": [
                 "الَّذ۪ينَ",
                 "اسْتَجَابُوا",
@@ -6406,7 +6407,7 @@
         {
             "id": "173",
             "sentence": "الَّذ۪ينَ قَالَ لَهُمُ النَّاسُ اِنَّ النَّاسَ قَدْ جَمَعُوا لَكُمْ فَاخْشَوْهُمْ فَزَادَهُمْ ا۪يمَاناًۗ وَقَالُوا حَسْبُنَا اللّٰهُ وَنِعْمَ الْوَك۪يلُ",
-            "translation": "Onlar, kendilerine insanlar: &quot;Size karşı insanlar topla(n)dılar, artık onlardan korkun&quot; dedikleri halde imanları artanlar ve: &quot;Allah bize yeter, O ne güzel vekildir&quot; diyenlerdir.",
+            "translation": "Onlar ki, (bir kısım) insanlar kendilerine: “Şübhesiz insanlar (düşmanlarınız), gerçekten size karşı toplandılar; işte onlardan korkun!” dediler de (bu) onların îmanlarını artırdı ve: “Allah bize yeter! Ve (O) ne güzel Vekîldir!” dediler.",
             "originals": [
                 "الَّذ۪ينَ",
                 "قَالَ",
@@ -6447,7 +6448,7 @@
         {
             "id": "174",
             "sentence": "فَانْقَلَبُوا بِنِعْمَةٍ مِنَ اللّٰهِ وَفَضْلٍ لَمْ يَمْسَسْهُمْ سُٓوءٌۙ وَاتَّبَعُوا رِضْوَانَ اللّٰهِۜ وَاللّٰهُ ذُوفَضْلٍ عَظ۪يمٍ",
-            "translation": "Bundan dolayı, kendilerine hiçbir kötülük dokunmadan bir bolluk (fazl) ve Allah´tan bir nimetle geri döndüler. Onlar, Allah´ın rızasına uydular. Allah, büyük fazl (ve ihsan) sahibidir.",
+            "translation": "Bunun üzerine, kendilerine hiçbir kötülük dokunmadan, Allah'dan bir ni'met ve bir ihsân ile (Bedir'den) geri döndüler; böylece Allah'ın rızâsına tâbi' oldular. Allah ise, pek büyük ihsan sâhibidir.",
             "originals": [
                 "فَانْقَلَبُوا",
                 "بِنِعْمَةٍ",
@@ -6480,7 +6481,7 @@
         {
             "id": "175",
             "sentence": "اِنَّمَا ذٰلِكُمُ الشَّيْطَانُ يُخَوِّفُ اَوْلِيَٓاءَهُۖ فَلَا تَخَافُوهُمْ وَخَافُونِ اِنْ كُنْتُمْ مُؤْمِن۪ينَ",
-            "translation": "İşte bu şeytan, ancak kendi dostlarını korkutur. Siz onlardan korkmayın, eğer mü´minlerseniz, Benden korkun.",
+            "translation": "İşte (size haber getiren) o şeytan, ancak kendi dostlarını korkutur. Eğer îmân eden kimseler iseniz, artık onlardan korkmayın da (ancak) benden korkun!",
             "originals": [
                 "اِنَّمَا",
                 "ذٰلِكُمُ",
@@ -6509,7 +6510,7 @@
         {
             "id": "176",
             "sentence": "وَلَا يَحْزُنْكَ الَّذ۪ينَ يُسَارِعُونَ فِي الْكُفْرِۚ اِنَّهُمْ لَنْ يَضُرُّوا اللّٰهَ شَيْـٔاًۜ يُر۪يدُ اللّٰهُ اَلَّا يَجْعَلَ لَهُمْ حَظًّا فِي الْاٰخِرَةِۚ وَلَهُمْ عَذَابٌ عَظ۪يمٌ",
-            "translation": "Küfürde ´büyük çaba harcayanlar´ seni üzmesin. Çünkü onlar, Allah´a hiçbir şeyle zarar veremezler. Allah, onları ahirette pay sahibi kılmamayı ister. Onlar için büyük bir azap vardır.",
+            "translation": "(Habîbim, yâ Muhammed!) İşte o küfürde birbiriyle yarışanlar seni üzmesin! Çünki onlar Allah'a aslâ hiçbir şeyle zarar veremezler! Allah onlara (bu inkârları yüzünden)âhirette bir nasib vermemek istiyor. Ve onlar için (pek) büyük bir azab vardır.",
             "originals": [
                 "وَلَا يَحْزُنْكَ",
                 "الَّذ۪ينَ يُسَارِعُونَ",
@@ -6550,7 +6551,7 @@
         {
             "id": "177",
             "sentence": "اِنَّ الَّذ۪ينَ اشْتَرَوُا الْكُفْرَ بِالْا۪يمَانِ لَنْ يَضُرُّوا اللّٰهَ شَيْـٔاًۚ وَلَهُمْ عَذَابٌ اَل۪يمٌ",
-            "translation": "Onlar, imana karşılık küfrü satın alanlardır. Onlar, Allah´a hiçbir şeyle zarar veremezler. Onlar için acıklı bir azap vardır.",
+            "translation": "Şübhesiz ki îmâna karşılık küfrü satın alanlar, Allah'a aslâ hiçbir şeyle zarar veremezler! Hem onlar için (pek) elemli bir azab vardır.",
             "originals": [
                 "اِنَّ",
                 "الَّذ۪ينَ اشْتَرَوُا",
@@ -6579,7 +6580,7 @@
         {
             "id": "178",
             "sentence": "وَلَا يَحْسَبَنَّ الَّذ۪ينَ كَفَرُٓوا اَنَّمَا نُمْل۪ي لَهُمْ خَيْرٌ لِاَنْفُسِهِمْۜ اِنَّمَا نُمْل۪ي لَهُمْ لِيَزْدَادُٓوا اِثْماًۚ وَلَهُمْ عَذَابٌ مُه۪ينٌ",
-            "translation": "O küfre sapanlar, kendilerine tanıdığımız süreyi sakın kendileri için hayırlı sanmasınlar, Biz onlara, ancak günahları daha da artsın, diye süre vermekteyiz. Onlar için aşağılatıcı bir azap vardır.",
+            "translation": "O hâlde inkâr edenler, gerçekten onlara mühlet vermemizi kendileri için sakın bir hayır sanmasınlar! Onlara ancak, (pek istedikleri şekilde) günahlarının artması için mühlet veriyoruz! Hâlbuki onlara aşağılayıcı bir azab vardır.",
             "originals": [
                 "وَلَا يَحْسَبَنَّ",
                 "الَّذ۪ينَ كَفَرُٓوا",
@@ -6614,7 +6615,7 @@
         {
             "id": "179",
             "sentence": "مَا كَانَ اللّٰهُ لِيَذَرَ الْمُؤْمِن۪ينَ عَلٰى مَٓا اَنْتُمْ عَلَيْهِ حَتّٰى يَم۪يزَ الْخَب۪يثَ مِنَ الطَّيِّبِۜ وَمَا كَانَ لِيُطْلِعَكُمْ عَلَى الْغَيْبِ وَلٰكِنَّ اللّٰهَ يَجْتَب۪ي مِنْ رُسُلِه۪ مَنْ يَشَٓاءُ فَاٰمِنُوا بِاللّٰهِ وَرُسُلِه۪ۚ وَاِنْ تُؤْمِنُوا وَتَتَّقُوا فَلَكُمْ اَجْرٌ عَظ۪يمٌ",
-            "translation": "Allah, murdar olanı, temiz olandan ayırt edinceye kadar mü´minleri, sizin kendisi üzerinde bulunduğunuz durumda bırakacak değildir. Allah sizi gayb üzerine muttali kılacak değildir. Ama Allah, elçilerinden dilediğini seçer. Öyleyse siz de Allah´a ve elçisine iman edin. Eğer iman eder ve sakınırsanız, sizin için büyük bir ecir vardır.",
+            "translation": "Allah, mü'minleri üzerinde bulunduğunuz hâlde bırakacak değildir; nihâyet, pis olanı temiz olandan (münâfığı mü'minden) ayıracaktır. Allah size gaybı bildirecek de değildir; fakat Allah, peygamberlerinden dilediğini seçer (ve onlara gaybı bildirir); öyle ise Allah'a ve peygamberlerine îmân edin! Artık îmân edip (günahlardan) sakınırsanız, o takdirde sizin için(pek) büyük bir mükâfât vardır.",
             "originals": [
                 "مَا كَانَ",
                 "اللّٰهُ",
@@ -6679,7 +6680,7 @@
         {
             "id": "180",
             "sentence": "وَلَا يَحْسَبَنَّ الَّذ۪ينَ يَبْخَلُونَ بِمَٓا اٰتٰيهُمُ اللّٰهُ مِنْ فَضْلِه۪ هُوَ خَيْراً لَهُمْۜ بَلْ هُوَ شَرٌّ سَيُطَوَّقُونَ مَا بَخِلُوا بِهِ يَوْمَ الْقِيٰمَةِۜ وَلِلّٰهِ م۪يرَاثُ السَّمٰوَاتِ وَالْاَرْضِۜ وَاللّٰهُ بِمَا تَعْمَلُونَ خَب۪يرٌ۟",
-            "translation": "Allah´ın, bol ihsanından kendilerine verdiği şeylerde cimrilik edenler, bunun kendileri için hayırlı olduğunu sanmasınlar. Hayır; bu, onlar için şerdir; kıyamet günü, cimrilik ettikleriyle tasmalandırılacaklardır. Göklerin ve yerin mirası Allah´ındır. Allah yaptıklarınızdan haberi olandır.",
+            "translation": "Allah'ın, kendilerine ihsânından verdiği şeylerde cimrilik edenler de, onu kendileri için sakın bir hayır sanmasınlar! Bil'akis o, onlar için bir şerdir. O cimrilik ettikleri şeyler, kıyâmet günü boyunlarına dolanacaktır. Hem göklerin ve yerin mîrâsı Allah'ındır (mülk, umûmen O'nundur). Ve Allah, yapmakta olduklarınızdan hakkıyla haberdardır.",
             "originals": [
                 "وَلَا يَحْسَبَنَّ",
                 "الَّذ۪ينَ يَبْخَلُونَ",
@@ -6734,7 +6735,7 @@
         {
             "id": "181",
             "sentence": "لَقَدْ سَمِـعَ اللّٰهُ قَوْلَ الَّذ۪ينَ قَالُٓوا اِنَّ اللّٰهَ فَق۪يرٌ وَنَحْنُ اَغْنِيَٓاءُۢ سَنَكْتُبُ مَا قَالُوا وَقَتْلَهُمُ الْاَنْبِيَٓاءَ بِغَيْرِ حَقٍّۙ وَنَقُولُ ذُوقُوا عَذَابَ الْحَر۪يقِ",
-            "translation": "Andolsun; &quot;Gerçek, Allah fakirdir, biz ise zenginiz&quot; diyenlerin sözlerini Allah işitmiştir. Onların bu sözlerini ve peygamberleri haksız yere öldürmelerini yazacağız ve: &quot;Yakıcı olan azabı tadın&quot; diyeceğiz.",
+            "translation": "And olsun ki, “Şübhesiz Allah fakirdir, biz ise zengin kimseleriz!” diyenlerin sözünü Allah işitmiştir. Dediklerini ve haksız yere peygamberleri öldürmelerini yazacağız ve(biz de o gün onlara): “Yakıcı azâbı tadın (bakalım)!” diyeceğiz.",
             "originals": [
                 "لَقَدْ",
                 "سَمِـعَ",
@@ -6781,7 +6782,7 @@
         {
             "id": "182",
             "sentence": "ذٰلِكَ بِمَا قَدَّمَتْ اَيْد۪يكُمْ وَاَنَّ اللّٰهَ لَيْسَ بِظَلَّامٍ لِلْعَب۪يدِۚ",
-            "translation": "Bu, ellerinizin önden sunduklarıdır. Allah, gerçekten kullara zulmedici değildir.",
+            "translation": "Bu (azab), ellerinizin işlediği (günahlar) yüzündendir; yoksa muhakkak ki Allah, kullar(ın)a zulümkâr değildir.",
             "originals": [
                 "ذٰلِكَ",
                 "بِمَا قَدَّمَتْ",
@@ -6806,7 +6807,7 @@
         {
             "id": "183",
             "sentence": "الَّذ۪ينَ قَالُٓوا اِنَّ اللّٰهَ عَهِدَ اِلَيْنَٓا اَلَّا نُؤْمِنَ لِرَسُولٍ حَتّٰى يَأْتِيَنَا بِقُرْبَانٍ تَأْكُلُهُ النَّارُۜ قُلْ قَدْ جَٓاءَكُمْ رُسُلٌ مِنْ قَبْل۪ي بِالْبَيِّنَاتِ وَبِالَّذ۪ي قُلْتُمْ فَلِمَ قَتَلْتُمُوهُمْ اِنْ كُنْتُمْ صَادِق۪ينَ",
-            "translation": "&quot;Allah bize ateşin yiyeceği bir kurban getirmedikçe hiçbir elçiye inanmamamız konusunda and verdi,&quot; diyenlere de ki: &quot;Şüphesiz, benden önce nice elçiler, apaçık belgeler ve söylediklerinizle geldi; eğer, siz doğru idiyseniz, o halde onları ne diye öldürdünüz?&quot;",
+            "translation": "Onlar ki: “Şübhesiz Allah, (gökten inen) ateşin kendisini yiyeceği (onu yakacağı)bir kurban getirmedikçe hiçbir peygambere îmân etmememizi bize emretti” dediler. De ki: “Size, gerçekten benden önce apaçık mu'cizelerle ve dediğiniz (mu'cize) ile (de) peygamberler gelmişti. O hâlde (iddiânızda) doğru kimseler iseniz, onları niçin öldürdünüz?”",
             "originals": [
                 "الَّذ۪ينَ قَالُٓوا",
                 "اِنَّ",
@@ -6863,7 +6864,7 @@
         {
             "id": "184",
             "sentence": "فَاِنْ كَذَّبُوكَ فَقَدْ كُذِّبَ رُسُلٌ مِنْ قَبْلِكَ جَٓاؤُ۫ بِالْبَيِّنَاتِ وَالزُّبُرِ وَالْكِتَابِ الْمُن۪يرِ",
-            "translation": "Eğer seni yalanlarlarsa, senden önce apaçık belgeler, Zeburlar ve aydınlık kitapla gelen elçileri de yalanlamışlardır.",
+            "translation": "(Habîbim, yâ Muhammed!) Artık seni yalanladılarsa (üzülme ve bil ki), şübhesiz senden önce apaçık mu'cizeler, sayfalar ve nûrlandırıcı kitab getiren peygamberler de yalanlanmıştı.",
             "originals": [
                 "فَاِنْ",
                 "كَذَّبُوكَ",
@@ -6894,7 +6895,7 @@
         {
             "id": "185",
             "sentence": "كُلُّ نَفْسٍ ذَٓائِقَةُ الْمَوْتِۜ وَاِنَّمَا تُوَفَّوْنَ اُجُورَكُمْ يَوْمَ الْقِيٰمَةِۜ فَمَنْ زُحْزِحَ عَنِ النَّارِ وَاُدْخِلَ الْجَنَّةَ فَقَدْ فَازَۜ وَمَا الْحَيٰوةُ الدُّنْيَٓا اِلَّا مَتَاعُ الْغُرُورِ",
-            "translation": "Her nefis ölümü tadıcıdır. Kıyamet günü elbette ecirleriniz eksiksizce ödenecektir. Kim ateşten uzaklaştırılır ve cennete sokulursa, artık o gerçekten kurtuluşa ermiştir. Dünya hayatı, aldatıcı metadan başka bir şey değildir.",
+            "translation": "Her nefis ölümü tadıcıdır! Amellerinizin karşılığı ise, ancak kıyâmet günü size tam olarak verilecektir. Artık kim ateşten uzaklaştırılıp Cennete sokulursa, işte (o kişi)gerçekten kurtulmuş (murâdına ermiş)tir. Hâlbuki dünya hayâtı, aldatıcı menfaatten başka bir şey değildir.",
             "originals": [
                 "كُلُّ",
                 "نَفْسٍ",
@@ -6947,7 +6948,7 @@
         {
             "id": "186",
             "sentence": "لَتُبْلَوُنَّ ف۪ٓي اَمْوَالِكُمْ وَاَنْفُسِكُمْ وَلَتَسْمَعُنَّ مِنَ الَّذ۪ينَ اُو۫تُوا الْكِتَابَ مِنْ قَبْلِكُمْ وَمِنَ الَّذ۪ينَ اَشْرَكُٓوا اَذًى كَث۪يراًۜ وَاِنْ تَصْبِرُوا وَتَتَّقُوا فَاِنَّ ذٰلِكَ مِنْ عَزْمِ الْاُمُورِ",
-            "translation": "Andolsun, mallarınızla ve canlarınızla imtihan edileceksiniz ve sizden önce kendilerine kitap verilenlerden ve şirk koşmakta olanlardan elbette çok eziyet verici (sözler) işiteceksiniz. Eğer sabreder ve sakınırsanız (bu) emirlere olan azimdendir.",
+            "translation": "Celâlim hakkı için, mallarınız ve canlarınız husûsunda imtihan olunacaksınız ve sizden önce kendilerine kitab verilenlerden (yahudi ve hristiyanlardan) ve şirk koşanlardan şübhesiz birçok ezalar (incitici sözler) işiteceksiniz! Buna rağmen sabreder ve (günahlardan)sakınırsanız, artık şübhesiz ki bu, azmedilecek (kararlı sabra lâyık) işlerdendir.",
             "originals": [
                 "لَتُبْلَوُنَّ",
                 "ف۪ٓي اَمْوَالِكُمْ",
@@ -6990,7 +6991,7 @@
         {
             "id": "187",
             "sentence": "وَاِذْ اَخَذَ اللّٰهُ م۪يثَاقَ الَّذ۪ينَ اُو۫تُوا الْكِتَابَ لَتُبَيِّنُنَّهُ لِلنَّاسِ وَلَا تَكْتُمُونَهُۘ فَنَبَذُوهُ وَرَٓاءَ ظُهُورِهِمْ وَاشْتَرَوْا بِه۪ ثَمَناً قَل۪يلاًۜ فَبِئْسَ مَا يَشْتَرُونَ",
-            "translation": "Hani kitap verilenlerden: &quot;Onu mutlaka insanlara açıklayacaksınız, onu gizlemeyeceksiniz&quot; diye kesin söz almıştı. Fakat onlar, bunu arkalarına attılar ve ona karşılık az bir değeri satın aldılar. O aldıkları şey ne kötüdür.",
+            "translation": "Ve hani Allah, kendilerine kitab verilenlerin “Onu mutlaka insanlara açıklayacaksınız ve onu gizlemeyeceksiniz!” diye sağlam sözlerini almıştı. Hâlbuki (onlar) onu (kulak ardı ederek) sırtlarının gerisine attılar ve onunla az bir baha (kıymetsiz bir menfaat) satın aldılar. İşte (bu) satın almakta oldukları şey ne kötüdür!",
             "originals": [
                 "وَاِذْ",
                 "اَخَذَ",
@@ -7035,7 +7036,7 @@
         {
             "id": "188",
             "sentence": "لَا تَحْسَبَنَّ الَّذ۪ينَ يَفْرَحُونَ بِمَٓا اَتَوْا وَيُحِبُّونَ اَنْ يُحْمَدُوا بِمَا لَمْ يَفْعَلُوا فَلَا تَحْسَبَنَّهُمْ بِمَفَازَةٍ مِنَ الْعَذَابِۚ وَلَهُمْ عَذَابٌ اَل۪يمٌ",
-            "translation": "Getirdikleriyle sevinen ve yapmadıkları şeyler nedeniyle övülmekten hoşlananları (kazançlı) sayma; onları azaptan kurtulmuş olarak sayma. Onlar için acı bir azap vardır.",
+            "translation": "Sakın zannetme ki o yaptıklarıyla sevinen, yapmadıkları şeylerle de övülmeyi arzu edenler, evet, sakın onları sanma ki azabdan kurtulacaklar! Çünki onlar için (pek) acı bir azab vardır.",
             "originals": [
                 "لَا تَحْسَبَنَّ",
                 "الَّذ۪ينَ يَفْرَحُونَ",
@@ -7068,7 +7069,7 @@
         {
             "id": "189",
             "sentence": "وَلِلّٰهِ مُلْكُ السَّمٰوَاتِ وَالْاَرْضِۜ وَاللّٰهُ عَلٰى كُلِّ شَيْءٍ قَد۪يرٌ۟",
-            "translation": "Göklerin ve yerin mülkü Allah´ındır. Allah, herşeye güç yetirendir.",
+            "translation": "Hem göklerin ve yerin mülkü (saltanatı) Allah'ındır. Ve Allah, herşeye hakkıyla gücü yetendir.",
             "originals": [
                 "وَلِلّٰهِ",
                 "مُلْكُ",
@@ -7091,7 +7092,7 @@
         {
             "id": "190",
             "sentence": "اِنَّ ف۪ي خَلْقِ السَّمٰوَاتِ وَالْاَرْضِ وَاخْتِلَافِ الَّيْلِ وَالنَّهَارِ لَاٰيَاتٍ لِاُو۬لِي الْاَلْبَابِۚ",
-            "translation": "Şüphesiz göklerin ve yerin yaratılışında, gece ile gündüzün art arda gelişinde temiz akıl sahipleri için gerçekten ayetler vardır.",
+            "translation": "Şübhesiz ki göklerin ve yerin yaratılışında ve gece ile gündüzün ihtilâfında (ard arda gelmesinde, istikametli) akıl sâhibleri için elbette deliller vardır.",
             "originals": [
                 "اِنَّ",
                 "ف۪ي خَلْقِ",
@@ -7120,7 +7121,7 @@
         {
             "id": "191",
             "sentence": "الَّذ۪ينَ يَذْكُرُونَ اللّٰهَ قِيَاماً وَقُعُوداً وَعَلٰى جُنُوبِهِمْ وَيَتَفَكَّرُونَ ف۪ي خَلْقِ السَّمٰوَاتِ وَالْاَرْضِۚ رَبَّنَا مَا خَلَقْتَ هٰذَا بَاطِلاًۚ سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ",
-            "translation": "Onlar, ayakta iken, otururken, yan yatarken Allah´ı zikrederler ve göklerin ve yerin yaratılışı konusunda düşünürler. (Ve derler ki:) &quot;Rabbimiz, Sen bunu boşuna yaratmadın. Sen pek Yücesin, bizi ateşin azabından koru.&quot;",
+            "translation": "Onlar ki, ayakta dururken, otururken ve yanları üzerine (yatar) iken Allah'ı zikrederler ve gökler ile yerin yaratılışı hakkında (derin derin) düşünürler. (Ve şöyle duâ ederler:) “Rabbimiz! (Sen) bunları boş yere yaratmadın; sen (bundan) münezzehsin, artık bizi ateşin azâbından muhâfaza eyle!”",
             "originals": [
                 "الَّذ۪ينَ يَذْكُرُونَ",
                 "اللّٰهَ",
@@ -7163,7 +7164,7 @@
         {
             "id": "192",
             "sentence": "رَبَّنَٓا اِنَّكَ مَنْ تُدْخِلِ النَّارَ فَقَدْ اَخْزَيْتَهُۜ وَمَا لِلظَّالِم۪ينَ مِنْ اَنْصَارٍ",
-            "translation": "&quot;Rabbimiz, şüphesiz Sen kimi ateşe sokarsan, artık onu ´hor ve aşağılık´ kılmışsındır; zulmedenlerin yardımcıları yoktur.&quot;",
+            "translation": "Rabbimiz! Şübhesiz ki sen kimi ateşe koyarsan bu sebeble onu gerçekten rezîl edersin! Zâlimlerin ise hiç yardımcıları yoktur.”",
             "originals": [
                 "رَبَّنَٓا",
                 "اِنَّكَ",
@@ -7192,7 +7193,7 @@
         {
             "id": "193",
             "sentence": "رَبَّنَٓا اِنَّـنَا سَمِعْنَا مُنَادِياً يُنَاد۪ي لِلْا۪يمَانِ اَنْ اٰمِنُوا بِرَبِّكُمْ فَاٰمَنَّاۗ رَبَّنَا فَاغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّـَٔاتِنَا وَتَوَفَّـنَا مَعَ الْاَبْرَارِۚ",
-            "translation": "&quot;Rabbimiz, biz: &quot;Rabbinize iman edin&quot; diye imana çağrıda bulunan bir çağırıcıyı işittik, hemen iman ettik. Rabbimiz, bizim günahlarımızı bağışla, kötülüklerimizi ört ve bizi de iyilik yapanlarla birlikte öldür.&quot;",
+            "translation": "Rabbimiz! Muhakkak ki biz, 'Rabbinize îmân edin!' diye îmâna çağıran bir da'vetçiyi (peygamberi) işittik ve hemen îmân ettik. Rabbimiz! Artık bizim için günahlarımızı bağışla, kötülüklerimizi bizden ört ve canımızı ebrâr (içi dışı tertemiz olan iyi kulların) ile berâber al!”",
             "originals": [
                 "رَبَّنَٓا",
                 "اِنَّـنَا",
@@ -7235,7 +7236,7 @@
         {
             "id": "194",
             "sentence": "رَبَّنَا وَاٰتِنَا مَا وَعَدْتَنَا عَلٰى رُسُلِكَ وَلَا تُخْزِنَا يَوْمَ الْقِيٰمَةِۜ اِنَّكَ لَا تُخْلِفُ الْم۪يعَادَ",
-            "translation": "&quot;Rabbimiz, elçilerine va´dettiklerini bize ver, kıyamet gününde de bizi ´hor ve aşağılık´ kılma. Şüphesiz Sen, va´dine muhalefet etmeyensin.&quot;",
+            "translation": "Rabbimiz! Artık peygamberlerin vâsıtasıyla bize va'd ettiklerini bize ver ve bizi kıyâmet günü rezîl etme! Şübhesiz ki sen, va'd(in)den dönmezsin.”",
             "originals": [
                 "رَبَّنَا",
                 "وَاٰتِنَا",
@@ -7264,7 +7265,7 @@
         {
             "id": "195",
             "sentence": "فَاسْتَجَابَ لَهُمْ رَبُّهُمْ اَنّ۪ي لَٓا اُض۪يعُ عَمَلَ عَامِلٍ مِنْكُمْ مِنْ ذَكَرٍ اَوْ اُنْثٰىۚ بَعْضُكُمْ مِنْ بَعْضٍۚ فَالَّذ۪ينَ هَاجَرُوا وَاُخْرِجُوا مِنْ دِيَارِهِمْ وَاُو۫ذُوا ف۪ي سَب۪يل۪ي وَقَاتَلُوا وَقُتِلُوا لَاُكَفِّرَنَّ عَنْهُمْ سَيِّـَٔاتِهِمْ وَلَاُدْخِلَنَّهُمْ جَنَّاتٍ تَجْر۪ي مِنْ تَحْتِهَا الْاَنْهَارُۚ ثَوَاباً مِنْ عِنْدِ اللّٰهِۜ وَاللّٰهُ عِنْدَهُ حُسْنُ الثَّوَابِ",
-            "translation": "Nitekim Rableri onlara (dualarını kabul ederek) cevab verdi: &quot;Şüphesiz Ben, erkek olsun, kadın olsun, sizden bir işte bulunanın işini boşa çıkarmam. Sizin kiminiz kiminizdendir. İşte, hicret edenlerin, yurtlarından sürülüp-çıkarılanların ve yolumda işkence görenlerin, çarpışıp öldürülenlerin, mutlaka kötülüklerini örteceğim ve onları, altlarından ırmaklar akan cennetlere sokacağım. (Bu,) Allah Katından bir karşılık (sevap)tır. (O) Allah, karşılığın (sevabın) en güzeli O´nun Katındadır.&quot;",
+            "translation": "Rableri de onlar(ın duâların)a şöyle cevab verdi: “Muhakkak ki ben, içinizden erkek olsun kadın olsun, (sâlih) bir iş yapanın amelini zâyi' etmem. Hep birbirinizdensiniz. İşte hicret edenler, yurtlarından çıkarılanlar, yolumda eziyet edilenler, savaşanlar ve öldürülenler var ya, kötülüklerini onlardan mutlaka örteceğim ve Allah katından bir mükâfât olarak onları elbette altlarından nehirler akan Cennetlere koyacağım!” (Rabbiniz olan) Allah ki, mükâfâtın güzeli O'nun katındadır.",
             "originals": [
                 "فَاسْتَجَابَ",
                 "لَهُمْ",
@@ -7343,7 +7344,7 @@
         {
             "id": "196",
             "sentence": "لَا يَغُرَّنَّكَ تَقَلُّبُ الَّذ۪ينَ كَفَرُوا فِي الْبِلَادِۜ",
-            "translation": "İnkar edenlerin ülke ülke dönüp-dolaşmaları seni aldatmasın.",
+            "translation": "İnkâr edenlerin diyar diyar gezip dolaşmaları sakın seni aldatmasın!",
             "originals": [
                 "لَا يَغُرَّنَّكَ",
                 "تَقَلُّبُ",
@@ -7360,7 +7361,7 @@
         {
             "id": "197",
             "sentence": "مَتَاعٌ قَل۪يلٌ ثُمَّ مَأْوٰيهُمْ جَهَنَّمُۜ وَبِئْسَ الْمِهَادُ",
-            "translation": "(Bu) Az bir yarar(lanma)dır. Sonra bunların barınma yerleri cehennemdir. Ne kötü bir yataktır o!",
+            "translation": "(Bu, onlar için dünyada) az bir faydalanmadır! Sonra varacakları yer, Cehennemdir. Ve (o,) ne kötü yataktır!",
             "originals": [
                 "مَتَاعٌ",
                 "قَل۪يلٌ",
@@ -7383,7 +7384,7 @@
         {
             "id": "198",
             "sentence": "لٰكِنِ الَّذ۪ينَ اتَّقَوْا رَبَّهُمْ لَهُمْ جَنَّاتٌ تَجْر۪ي مِنْ تَحْتِهَا الْاَنْهَارُ خَالِد۪ينَ ف۪يهَا نُزُلاً مِنْ عِنْدِ اللّٰهِۜ وَمَا عِنْدَ اللّٰهِ خَيْرٌ لِلْاَبْرَارِ",
-            "translation": "Ama Rablerinden korkup-sakınanlar; onlar için Allah Katında -bir şölen olarak- altlarından ırmaklar akan -içinde ebedi kalacakları- cennetler vardır. İyilik yapanlar için, Allah´ın Katında olanlar daha hayırlıdır.",
+            "translation": "Fakat Rablerinden sakınanlar var ya, onlar için, Allah katından bir ağırlama olarak, altlarından ırmaklar akan Cennetler vardır; orada ebedî olarak kalıcıdırlar. Allah katında olan(ni'metler) ise, ebrâr (özü sözü tertemiz olan sâlih kullar) için daha hayırlıdır.",
             "originals": [
                 "لٰكِنِ",
                 "الَّذ۪ينَ اتَّقَوْا",
@@ -7428,7 +7429,7 @@
         {
             "id": "199",
             "sentence": "وَاِنَّ مِنْ اَهْلِ الْكِتَابِ لَمَنْ يُؤْمِنُ بِاللّٰهِ وَمَٓا اُنْزِلَ اِلَيْكُمْ وَمَٓا اُنْزِلَ اِلَيْهِمْ خَاشِع۪ينَ لِلّٰهِۙ لَا يَشْتَرُونَ بِاٰيَاتِ اللّٰهِ ثَمَناً قَل۪يلاًۜ اُو۬لٰٓئِكَ لَهُمْ اَجْرُهُمْ عِنْدَ رَبِّهِمْۜ اِنَّ اللّٰهَ سَر۪يعُ الْحِسَابِ",
-            "translation": "Şüphesiz, Kitap Ehlinden, Allah´a; size indirilene ve kendilerine indirilene -Allah´a derin saygı gösterenler olarak- inananlar vardır. Onlar Allah´ın ayetlerine karşılık olarak az bir değeri satın almazlar. İşte bunların Rableri Katında ecirleri vardır. Şüphesiz Allah, hesabı çok çabuk görendir.",
+            "translation": "Hem doğrusu ehl-i kitabdan, Allah'a, size indirilen (Kur'ân')a ve kendilerine indirilene (Tevrât ve İncîl'e), Allah'a gönülden bağlı kimseler olarak gerçekten îmân edenler vardır. Allah'ın âyetlerini (karşılığında ne alsalar) az (düşecek) bir fiyata satmazlar. İşte onlar var ya, kendileri için Rableri katında mükâfâtları vardır. Muhakkak ki Allah, hesâbı pek çabuk görendir.",
             "originals": [
                 "وَاِنَّ",
                 "مِنْ اَهْلِ",
@@ -7489,7 +7490,7 @@
         {
             "id": "200",
             "sentence": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُوا اصْبِرُوا وَصَابِرُوا وَرَابِطُوا وَاتَّقُوا اللّٰهَ لَعَلَّكُمْ تُفْلِحُونَ",
-            "translation": "Ey iman edenler, sabredin ve sabırda yarışın, (sınırlarda) nöbetleşin. Allah´tan korkun. Umulur ki kurtulursunuz.",
+            "translation": "Ey îmân edenler! Sabredin! Sabırda (düşmanlarınıza) üstün gelin! (Her an cihâda) hazırlıklı olun ve Allah'dan sakının! Tâ ki kurtuluşa eresiniz.",
             "originals": [
                 "يَٓا اَيُّهَا",
                 "الَّذ۪ينَ اٰمَنُوا",

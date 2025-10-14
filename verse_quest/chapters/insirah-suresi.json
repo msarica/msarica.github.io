@@ -1,12 +1,13 @@
 {
     "id": "insirah-suresi",
     "name": "İnşirah Suresi",
-    "description": "İnşirah Suresi",
+    "description": "İnşirah Suresi - 94. sure",
+    "index": 94,
     "sentences": [
         {
             "id": "1",
             "sentence": "اَلَمْ نَشْرَحْ لَكَ صَدْرَكَۙ",
-            "translation": "Biz, senin göğsünü yarıp-genişletmedik mi?",
+            "translation": "Göğsüne senin için (ilim ve hikmetle) inşirâh vermedik mi (genişletmedik mi)?",
             "originals": [
                 "اَلَمْ نَشْرَحْ",
                 "لَكَ",
@@ -21,7 +22,7 @@
         {
             "id": "2",
             "sentence": "وَوَضَعْنَا عَنْكَ وِزْرَكَۙ",
-            "translation": "Ve yükünü indirip-atmadık mı?",
+            "translation": "2,3. Ve sırtına çok ağır gelen yükünü, senden indirmedik mi?",
             "originals": [
                 "وَوَضَعْنَا",
                 "عَنْكَ",
@@ -36,7 +37,7 @@
         {
             "id": "3",
             "sentence": "الَّـذ۪ٓي اَنْقَضَ ظَهْرَكَۙ",
-            "translation": "Ki o, senin belini bükmüştü;",
+            "translation": "2,3. Ve sırtına çok ağır gelen yükünü, senden indirmedik mi?",
             "originals": [
                 "الَّـذ۪ٓي",
                 "اَنْقَضَ",
@@ -51,7 +52,7 @@
         {
             "id": "4",
             "sentence": "وَرَفَعْنَا لَكَ ذِكْرَكَۜ",
-            "translation": "Senin zikrini (şanını) yüceltmedik mi?",
+            "translation": "Hem senin için şânını yükseltmedik mi?",
             "originals": [
                 "وَرَفَعْنَا",
                 "لَكَ",
@@ -66,7 +67,7 @@
         {
             "id": "5",
             "sentence": "فَاِنَّ مَعَ الْعُسْرِ يُسْراًۙ",
-            "translation": "Demek ki, gerçekten zorlukla beraber kolaylık vardır.",
+            "translation": "İşte şübhesiz zorlukla berâber, bir kolaylık vardır.",
             "originals": [
                 "فَاِنَّ",
                 "مَعَ",
@@ -83,7 +84,7 @@
         {
             "id": "6",
             "sentence": "اِنَّ مَعَ الْعُسْرِ يُسْراًۜ",
-            "translation": "Gerçekten güçlükle beraber kolaylık vardır.",
+            "translation": "Gerçekten zorlukla berâber, bir kolaylık vardır.",
             "originals": [
                 "اِنَّ",
                 "مَعَ",
@@ -100,7 +101,7 @@
         {
             "id": "7",
             "sentence": "فَاِذَا فَرَغْتَ فَانْصَبْۙ",
-            "translation": "Şu halde boş kaldığın zaman, durmaksızın (dua ve ibadetle) yorulmaya-devam et.",
+            "translation": "O hâlde boş kaldığın zaman, hemen (başka bir işe giriş) yorul!",
             "originals": [
                 "فَاِذَا",
                 "فَرَغْتَ",
@@ -115,7 +116,7 @@
         {
             "id": "8",
             "sentence": "وَاِلٰى رَبِّكَ فَارْغَبْ",
-            "translation": "Ve yalnızca Rabbine rağbet et.",
+            "translation": "Ve artık ancak Rabbini arzula!",
             "originals": [
                 "وَاِلٰى رَبِّكَ",
                 "فَارْغَبْ"

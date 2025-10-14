@@ -1,12 +1,13 @@
 {
     "id": "fatiha-suresi",
     "name": "Fatiha Suresi",
-    "description": "Fatiha Suresi",
+    "description": "Fatiha Suresi - 1. sure",
+    "index": 1,
     "sentences": [
         {
             "id": "1",
             "sentence": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-            "translation": "Rahman Rahim olan Allah´ın adıyla",
+            "translation": "Rahmân, Rahîm olan Allah'ın ismiyle.",
             "originals": [
                 "بِسْمِ",
                 "اللّٰهِ",
@@ -23,7 +24,7 @@
         {
             "id": "2",
             "sentence": "اَلْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَۙ",
-            "translation": "Hamd* Alemlerin Rabbinedir.",
+            "translation": "Hamd, âlemlerin Rabbi olan Allah'a mahsustur.",
             "originals": [
                 "اَلْحَمْدُ",
                 "لِلّٰهِ",
@@ -40,7 +41,7 @@
         {
             "id": "3",
             "sentence": "اَلرَّحْمٰنِ الرَّح۪يمِۙ",
-            "translation": "Rahman ve Rahimdir.",
+            "translation": "(O,) Rahmândır, Rahîmdir.",
             "originals": [
                 "اَلرَّحْمٰنِ",
                 "الرَّح۪يمِۙ"
@@ -53,7 +54,7 @@
         {
             "id": "4",
             "sentence": "مَالِكِ يَوْمِ الدّ۪ينِۜ",
-            "translation": "Din gününün malikidir.",
+            "translation": "Dîn (hesab) gününün mâlikidir.",
             "originals": [
                 "مَالِكِ",
                 "يَوْمِ",
@@ -68,7 +69,7 @@
         {
             "id": "5",
             "sentence": "اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَع۪ينُۜ",
-            "translation": "Biz yalnızca Sana ibadet eder ve yalnızca Senden yardım dileriz.",
+            "translation": "(Rabbimiz!) Ancak sana ibâdet ederiz ve ancak senden yardım dileriz.",
             "originals": [
                 "اِيَّاكَ",
                 "نَعْبُدُ",
@@ -85,7 +86,7 @@
         {
             "id": "6",
             "sentence": "اِهْدِنَا الصِّرَاطَ الْمُسْتَق۪يمَۙ",
-            "translation": "Bizi doğru yola ilet;",
+            "translation": "Bizi dosdoğru yola hidâyet eyle!",
             "originals": [
                 "اِهْدِنَا",
                 "الصِّرَاطَ",
@@ -100,7 +101,7 @@
         {
             "id": "7",
             "sentence": "صِرَاطَ الَّذ۪ينَ اَنْعَمْتَ عَلَيْهِمْۙ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّٓالّ۪ينَ",
-            "translation": "Kendilerine nimet verdiklerinin yoluna gazaba uğrayanların ve sapmışlarınkine değil.",
+            "translation": "Kendilerine ni'met verdiğin kimselerin yoluna; gazab edilmiş olanların ve dalâlete düşenlerin (yoluna) değil! (Âmîn!)",
             "originals": [
                 "صِرَاطَ",
                 "الَّذ۪ينَ اَنْعَمْتَ",

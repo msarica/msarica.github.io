@@ -1,12 +1,13 @@
 {
     "id": "intifar-suresi",
     "name": "İntifar Suresi",
-    "description": "İntifar Suresi",
+    "description": "İntifar Suresi - 82. sure",
+    "index": 82,
     "sentences": [
         {
             "id": "1",
             "sentence": "اِذَا السَّمَٓاءُ انْفَطَرَتْۙ",
-            "translation": "Gök, çatlayıp-yarıldığı zaman,",
+            "translation": "Gök, infitâr ettiği (yarıldığı) zaman!",
             "originals": [
                 "اِذَا",
                 "السَّمَٓاءُ",
@@ -21,7 +22,7 @@
         {
             "id": "2",
             "sentence": "وَاِذَا الْـكَوَاكِبُ انْتَثَرَتْۙ",
-            "translation": "Yıldızlar, dağılıp-yayıldığı zaman,",
+            "translation": "Yıldızlar, (dökülüp) saçıldığı zaman!",
             "originals": [
                 "وَاِذَا",
                 "الْـكَوَاكِبُ",
@@ -36,7 +37,7 @@
         {
             "id": "3",
             "sentence": "وَاِذَا الْبِحَارُ فُجِّرَتْۙ",
-            "translation": "Denizler, fışkırtılıp-taşırıldığı zaman,",
+            "translation": "Denizler, (birbirine) açıldığı (ve yeryüzü düzlenerek hepsi bir deniz olduğu) zaman!",
             "originals": [
                 "وَاِذَا",
                 "الْبِحَارُ",
@@ -51,7 +52,7 @@
         {
             "id": "4",
             "sentence": "وَاِذَا الْقُبُورُ بُعْثِرَتْۙ",
-            "translation": "Ve kabirlerin içi ´deşilip dışa atıldığı´ zaman;",
+            "translation": "Kabirler, alt üst edildiği (ölüler diriltilip çıkarıldığı) zaman!",
             "originals": [
                 "وَاِذَا",
                 "الْقُبُورُ",
@@ -66,7 +67,7 @@
         {
             "id": "5",
             "sentence": "عَلِمَتْ نَفْسٌ مَا قَدَّمَتْ وَاَخَّرَتْۜ",
-            "translation": "(Artık her) Nefis önceden takdim ettiklerini ve ertelediklerini bilip-öğrenmiştir.",
+            "translation": "(O gün) her nefis, neyi (yapıp) öne sürdüğünü ve (neyi yapmayıp) geri bıraktığını bilir!",
             "originals": [
                 "عَلِمَتْ",
                 "نَفْسٌ",
@@ -83,7 +84,7 @@
         {
             "id": "6",
             "sentence": "يَٓا اَيُّهَا الْاِنْسَانُ مَا غَرَّكَ بِرَبِّكَ الْـكَر۪يمِۙ",
-            "translation": "Ey insan, ´üstün kerem sahibi´ olan Rabbine karşı seni aldatıp-yanıltan nedir?",
+            "translation": "Ey insan! O Kerîm (çok cömert olan) Rabbine karşı seni aldatan nedir?",
             "originals": [
                 "يَٓا اَيُّهَا",
                 "الْاِنْسَانُ",
@@ -102,7 +103,7 @@
         {
             "id": "7",
             "sentence": "اَلَّذ۪ي خَلَقَكَ فَسَوّٰيكَ فَعَدَلَكَۙ",
-            "translation": "Ki O, seni yarattı, ´sana bir düzen içinde biçim verdi´ ve seni bir itidal üzere kıldı.",
+            "translation": "O ki, seni yarattı da seni düzgün (yaratılışlı ve a'zâları tam bir insan) yaptı; nihâyet seni ölçülü (ve dengeli) kıldı.",
             "originals": [
                 "اَلَّذ۪ي",
                 "خَلَقَكَ",
@@ -119,7 +120,7 @@
         {
             "id": "8",
             "sentence": "ف۪ٓي اَيِّ صُورَةٍ مَا شَٓاءَ رَكَّبَكَۜ",
-            "translation": "Dilediği bir surette seni tertib etti.",
+            "translation": "Seni dilediği herhangi bir sûrette terkîb etti.",
             "originals": [
                 "ف۪ٓي اَيِّ صُورَةٍ",
                 "مَا شَٓاءَ",
@@ -134,7 +135,7 @@
         {
             "id": "9",
             "sentence": "كَلَّا بَلْ تُكَذِّبُونَ بِالدّ۪ينِۙ",
-            "translation": "Asla, hayır; siz dini yalanlıyorsunuz;",
+            "translation": "Hayır! Aksine (siz), dîni (hesab gününde amellere verilecek cezâyı) yalanlıyorsunuz.",
             "originals": [
                 "كَلَّا",
                 "بَلْ",
@@ -151,7 +152,7 @@
         {
             "id": "10",
             "sentence": "وَاِنَّ عَلَيْكُمْ لَحَافِظ۪ينَۙ",
-            "translation": "Oysa gerçekten sizin üzerinizde koruyucular var,",
+            "translation": "Hem şübhesiz üzerinizde, elbette (amellerinizi) muhâfaza edici (melek)ler vardır.",
             "originals": [
                 "وَاِنَّ",
                 "عَلَيْكُمْ",
@@ -166,7 +167,7 @@
         {
             "id": "11",
             "sentence": "كِرَاماً كَاتِب۪ينَۙ",
-            "translation": "´Şerefli-üstün´ yazıcılar.",
+            "translation": "Kirâmen kâtibîn (şerefli yazıcılar)!",
             "originals": [
                 "كِرَاماً",
                 "كَاتِب۪ينَۙ"
@@ -179,7 +180,7 @@
         {
             "id": "12",
             "sentence": "يَعْلَمُونَ مَا تَفْعَلُونَ",
-            "translation": "Her yapmakta olduğunuzu bilirler.",
+            "translation": "Her ne yaparsanız bilirler!",
             "originals": [
                 "يَعْلَمُونَ",
                 "مَا",
@@ -194,7 +195,7 @@
         {
             "id": "13",
             "sentence": "اِنَّ الْاَبْرَارَ لَف۪ي نَع۪يمٍۚ",
-            "translation": "Şüphesiz ebrar olanlar, elbette nimetler(le donatılmış cennetler) içindedirler.",
+            "translation": "Şübhesiz ki ebrâr, (güzel amel sâhibi, içi dışı tertemiz hayırlı insanlar) ni'met içinde (Naîm Cennetinde)dirler!",
             "originals": [
                 "اِنَّ",
                 "الْاَبْرَارَ",
@@ -211,7 +212,7 @@
         {
             "id": "14",
             "sentence": "وَاِنَّ الْفُجَّارَ لَف۪ي جَح۪يمٍۚ",
-            "translation": "Ve şüphesiz facir (kötü) olanlar da, elbette çılgınca yanan ateşin içindedirler.",
+            "translation": "Şübhesiz günahkârlar da, yakıcı ateş içinde (Cehennemde)dirler!",
             "originals": [
                 "وَاِنَّ",
                 "الْفُجَّارَ",
@@ -228,7 +229,7 @@
         {
             "id": "15",
             "sentence": "يَصْلَوْنَهَا يَوْمَ الدّ۪ينِ",
-            "translation": "Onlar, din günü oraya yollanırlar.",
+            "translation": "Dîn (hesab) günü oraya girerler!",
             "originals": [
                 "يَصْلَوْنَهَا",
                 "يَوْمَ",
@@ -243,7 +244,7 @@
         {
             "id": "16",
             "sentence": "وَمَا هُمْ عَنْهَا بِغَٓائِب۪ينَۜ",
-            "translation": "Ve ondan ayrılıp-kaybolacak değildirler.",
+            "translation": "Onlar oradan (çıkıp) kaybolacak kimseler de değildir!",
             "originals": [
                 "وَمَا",
                 "هُمْ",
@@ -260,7 +261,7 @@
         {
             "id": "17",
             "sentence": "وَمَٓا اَدْرٰيكَ مَا يَوْمُ الدّ۪ينِۙ",
-            "translation": "Din gününü sana bildiren şey nedir?",
+            "translation": "(Ey Resûlüm!) Dîn (hesab) gününün ne olduğunu sana ne bildirdi?",
             "originals": [
                 "وَمَٓا اَدْرٰيكَ",
                 "مَا",
@@ -277,7 +278,7 @@
         {
             "id": "18",
             "sentence": "ثُمَّ مَٓا اَدْرٰيكَ مَا يَوْمُ الدّ۪ينِۜ",
-            "translation": "Ve yine din gününü sana bildiren şey nedir?",
+            "translation": "Sonra, dîn (hesab) gününün ne olduğunu sana ne bildirdi?",
             "originals": [
                 "ثُمَّ",
                 "مَٓا اَدْرٰيكَ",
@@ -296,7 +297,7 @@
         {
             "id": "19",
             "sentence": "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِنَفْسٍ شَيْـٔاًۜ وَالْاَمْرُ يَوْمَئِذٍ لِلّٰهِ",
-            "translation": "Hiçbir nefsin bir başka nefse herhangi bir şeye güç yetiremeyeceği gündür; o gün emir yalnızca Allah´ındır.",
+            "translation": "O gün kimse, kimse nâmına bir şeye mâlik olamaz! Ve o gün emir ancak Allah'ındır!",
             "originals": [
                 "يَوْمَ",
                 "لَا تَمْلِكُ",

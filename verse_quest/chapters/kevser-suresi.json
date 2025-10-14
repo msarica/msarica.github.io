@@ -1,12 +1,13 @@
 {
     "id": "kevser-suresi",
     "name": "Kevser Suresi",
-    "description": "Kevser Suresi",
+    "description": "Kevser Suresi - 108. sure",
+    "index": 108,
     "sentences": [
         {
             "id": "1",
             "sentence": "اِنَّٓا اَعْطَيْنَاكَ الْـكَوْثَرَۜ",
-            "translation": "Şüphesiz, Biz sana Kevser´i verdik.",
+            "translation": "(Habîbim, yâ Muhammed!) Şübhesiz ki biz sana Kevser'i verdik.",
             "originals": [
                 "اِنَّٓا",
                 "اَعْطَيْنَاكَ",
@@ -21,7 +22,7 @@
         {
             "id": "2",
             "sentence": "فَصَلِّ لِرَبِّكَ وَانْحَرْۜ",
-            "translation": "Şu halde Rabbin için namaz kıl ve kurban kes.",
+            "translation": "Öyleyse Rabbin için namaz kıl ve kurban kes!",
             "originals": [
                 "فَصَلِّ",
                 "لِرَبِّكَ",
@@ -36,7 +37,7 @@
         {
             "id": "3",
             "sentence": "اِنَّ شَانِئَكَ هُوَ الْاَبْتَرُ",
-            "translation": "Doğrusu, asıl ebter (soyu kesik) olan sana kin duyandır.",
+            "translation": "Doğrusu asıl ebter (nesli kesik) olan, sana kin besleyendir.",
             "originals": [
                 "اِنَّ",
                 "شَانِئَكَ",

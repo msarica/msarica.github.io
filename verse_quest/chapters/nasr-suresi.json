@@ -1,12 +1,13 @@
 {
     "id": "nasr-suresi",
     "name": "Nasr Suresi",
-    "description": "Nasr Suresi",
+    "description": "Nasr Suresi - 110. sure",
+    "index": 110,
     "sentences": [
         {
             "id": "1",
             "sentence": "اِذَا جَٓاءَ نَصْرُ اللّٰهِ وَالْفَتْحُۙ",
-            "translation": "Allah´ın yardımı ve fetih geldiği zaman,",
+            "translation": "Allah'ın nasr'ı (yardımı) ve fetih geldiği zaman!",
             "originals": [
                 "اِذَا",
                 "جَٓاءَ",
@@ -25,7 +26,7 @@
         {
             "id": "2",
             "sentence": "وَرَاَيْتَ النَّاسَ يَدْخُلُونَ ف۪ي د۪ينِ اللّٰهِ اَفْوَاجاًۙ",
-            "translation": "Ve insanların Allah´ın dinine dalga dalga girdiklerini gördüğünde,",
+            "translation": "Ve insanları bölük bölük Allah'ın dînine girerken gördüğün (zaman)!",
             "originals": [
                 "وَرَاَيْتَ",
                 "النَّاسَ",
@@ -46,7 +47,7 @@
         {
             "id": "3",
             "sentence": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُۜ اِنَّهُ كَانَ تَوَّاباً",
-            "translation": "Hemen Rabbini hamd ile tesbih et ve O´ndan mağfiret dile. Çünkü O, tevbeleri çok kabul edendir.",
+            "translation": "Artık Rabbine hamd ile tesbîh et ve O'ndan mağfiret dile! Çünki O, Tevvâb(tevbeleri çok kabûl eden)dir.",
             "originals": [
                 "فَسَبِّحْ",
                 "بِحَمْدِ",
