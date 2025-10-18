@@ -1,0 +1,426 @@
+{
+    "id": "gasiye-suresi",
+    "name": "The Overwhelming",
+    "description": "The Overwhelming - 88",
+    "index": 88,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " هَلْ أَتَىٰكَ حَدِيثُ ٱلْغَـٰشِيَةِ",
+            "translation": "Has the news of the Overwhelming Event reached you ˹O Prophet˺?",
+            "originals": [
+                "هَلْ",
+                "أَتَىٰكَ",
+                "حَدِيثُ",
+                "ٱلْغَـٰشِيَةِ"
+            ],
+            "translations": [
+                "Has",
+                "(there) come to you",
+                "(the) news",
+                "(of) the Overwhelming"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "وُجُوهٌ يَوْمَئِذٍ خَـٰشِعَةٌ",
+            "translation": "On that Day ˹some˺ faces will be downcast,",
+            "originals": [
+                "وُجُوهٌۭ",
+                "يَوْمَئِذٍ",
+                "خَـٰشِعَةٌ"
+            ],
+            "translations": [
+                "Faces",
+                "that Day",
+                "(will be) humbled"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "عَامِلَةٌ نَّاصِبَةٌ",
+            "translation": "˹totally˺ overburdened, exhausted,",
+            "originals": [
+                "عَامِلَةٌۭ",
+                "نَّاصِبَةٌۭ"
+            ],
+            "translations": [
+                "Laboring",
+                "exhausted"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "تَصْلَىٰ نَارًا حَامِيَةً",
+            "translation": "burning in a scorching Fire,",
+            "originals": [
+                "تَصْلَىٰ",
+                "نَارًا",
+                "حَامِيَةًۭ"
+            ],
+            "translations": [
+                "They will burn",
+                "(in) a Fire",
+                "intensely hot"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "تُسْقَىٰ مِنْ عَيْنٍ ءَانِيَةٍ",
+            "translation": "left to drink from a scalding spring.",
+            "originals": [
+                "تُسْقَىٰ",
+                "مِنْ",
+                "عَيْنٍ",
+                "ءَانِيَةٍۢ"
+            ],
+            "translations": [
+                "They will be given to drink",
+                "from",
+                "a spring",
+                "boiling"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ",
+            "translation": "They will have no food except a foul, thorny shrub,",
+            "originals": [
+                "لَّيْسَ",
+                "لَهُمْ",
+                "طَعَامٌ",
+                "إِلَّا",
+                "مِن",
+                "ضَرِيعٍۢ"
+            ],
+            "translations": [
+                "Not is",
+                "for them",
+                "food",
+                "except",
+                "from",
+                "a bitter thorny plant"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "لَّا يُسْمِنُ وَلَا يُغْنِى مِن جُوعٍ",
+            "translation": "neither nourishing nor satisfying hunger.",
+            "originals": [
+                "لَّا",
+                "يُسْمِنُ",
+                "وَلَا",
+                "يُغْنِى",
+                "مِن",
+                "جُوعٍۢ"
+            ],
+            "translations": [
+                "Not",
+                "it nourishes",
+                "and not",
+                "it avails",
+                "from",
+                "hunger"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ",
+            "translation": "On that Day ˹other˺ faces will be glowing with bliss,",
+            "originals": [
+                "وُجُوهٌۭ",
+                "يَوْمَئِذٍۢ",
+                "نَّاعِمَةٌۭ"
+            ],
+            "translations": [
+                "Faces",
+                "that Day",
+                "(will be) joyful"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "لِّسَعْيِهَا رَاضِيَةٌ",
+            "translation": "˹fully˺ pleased with their striving,",
+            "originals": [
+                "لِّسَعْيِهَا",
+                "رَاضِيَةٌۭ"
+            ],
+            "translations": [
+                "With their effort",
+                "satisfied"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "فِى جَنَّةٍ عَالِيَةٍ",
+            "translation": "in an elevated Garden,",
+            "originals": [
+                "فِى",
+                "جَنَّةٍ",
+                "عَالِيَةٍۢ"
+            ],
+            "translations": [
+                "In",
+                "a garden",
+                "elevated"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "لَّا تَسْمَعُ فِيهَا لَـٰغِيَةً",
+            "translation": "where no idle talk will be heard.",
+            "originals": [
+                "لَّا",
+                "تَسْمَعُ",
+                "فِيهَا",
+                "لَـٰغِيَةًۭ"
+            ],
+            "translations": [
+                "Not",
+                "they will hear",
+                "therein",
+                "vain talk"
+            ]
+        },
+        {
+            "id": "12",
+            "sentence": "فِيهَا عَيْنٌ جَارِيَةٌ",
+            "translation": "In it will be a running spring,",
+            "originals": [
+                "فِيهَا",
+                "عَيْنٌۭ",
+                "جَارِيَةٌۭ"
+            ],
+            "translations": [
+                "Therein",
+                "(will be) a spring",
+                "flowing"
+            ]
+        },
+        {
+            "id": "13",
+            "sentence": "فِيهَا سُرُرٌ مَّرْفُوعَةٌ",
+            "translation": "along with thrones raised high,",
+            "originals": [
+                "فِيهَا",
+                "سُرُرٌۭ",
+                "مَّرْفُوعَةٌۭ"
+            ],
+            "translations": [
+                "Therein",
+                "(will be) thrones",
+                "raised high"
+            ]
+        },
+        {
+            "id": "14",
+            "sentence": "وَأَكْوَابٌ مَّوْضُوعَةٌ",
+            "translation": "and cups set at hand,",
+            "originals": [
+                "وَأَكْوَابٌۭ",
+                "مَّوْضُوعَةٌۭ"
+            ],
+            "translations": [
+                "And cups",
+                "put in place"
+            ]
+        },
+        {
+            "id": "15",
+            "sentence": "وَنَمَارِقُ مَصْفُوفَةٌ",
+            "translation": "and ˹fine˺ cushions lined up,",
+            "originals": [
+                "وَنَمَارِقُ",
+                "مَصْفُوفَةٌۭ"
+            ],
+            "translations": [
+                "And cushions",
+                "lined up"
+            ]
+        },
+        {
+            "id": "16",
+            "sentence": "وَزَرَابِىُّ مَبْثُوثَةٌ",
+            "translation": "and ˹splendid˺ carpets spread out.",
+            "originals": [
+                "وَزَرَابِىُّ",
+                "مَبْثُوثَةٌ"
+            ],
+            "translations": [
+                "And carpets",
+                "spread out"
+            ]
+        },
+        {
+            "id": "17",
+            "sentence": "أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ",
+            "translation": "Do they not ever reflect on camels—how they were ˹masterfully˺ created;<sup foot_note=77614>1</sup>",
+            "originals": [
+                "أَفَلَا",
+                "يَنظُرُونَ",
+                "إِلَى",
+                "ٱلْإِبِلِ",
+                "كَيْفَ",
+                "خُلِقَتْ"
+            ],
+            "translations": [
+                "Then do not",
+                "they look",
+                "towards",
+                "the camels",
+                "how",
+                "they are created"
+            ]
+        },
+        {
+            "id": "18",
+            "sentence": "وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ",
+            "translation": "and the sky—how it was raised ˹high˺;",
+            "originals": [
+                "وَإِلَى",
+                "ٱلسَّمَآءِ",
+                "كَيْفَ",
+                "رُفِعَتْ"
+            ],
+            "translations": [
+                "And towards",
+                "the sky",
+                "how",
+                "it is raised"
+            ]
+        },
+        {
+            "id": "19",
+            "sentence": "وَإِلَى ٱلْجِبَالِ كَيْفَ نُصِبَتْ",
+            "translation": "and the mountains—how they were firmly set up;",
+            "originals": [
+                "وَإِلَى",
+                "ٱلْجِبَالِ",
+                "كَيْفَ",
+                "نُصِبَتْ"
+            ],
+            "translations": [
+                "And towards",
+                "the mountains",
+                "how",
+                "they are fixed"
+            ]
+        },
+        {
+            "id": "20",
+            "sentence": "وَإِلَى ٱلْأَرْضِ كَيْفَ سُطِحَتْ",
+            "translation": "and the earth—how it was levelled out?",
+            "originals": [
+                "وَإِلَى",
+                "ٱلْأَرْضِ",
+                "كَيْفَ",
+                "سُطِحَتْ"
+            ],
+            "translations": [
+                "And towards",
+                "the earth",
+                "how",
+                "it is spread out"
+            ]
+        },
+        {
+            "id": "21",
+            "sentence": "فَذَكِّرْ إِنَّمَآ أَنتَ مُذَكِّرٌ",
+            "translation": "So, ˹continue to˺ remind ˹all, O  Prophet˺, for your duty is only to remind.",
+            "originals": [
+                "فَذَكِّرْ",
+                "إِنَّمَآ",
+                "أَنتَ",
+                "مُذَكِّرٌۭ"
+            ],
+            "translations": [
+                "So remind",
+                "only",
+                "you",
+                "(are) a reminder"
+            ]
+        },
+        {
+            "id": "22",
+            "sentence": "لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ",
+            "translation": "You are not ˹there˺ to compel them ˹to believe˺.",
+            "originals": [
+                "لَّسْتَ",
+                "عَلَيْهِم",
+                "بِمُصَيْطِرٍ"
+            ],
+            "translations": [
+                "You are not",
+                "over them",
+                "a controller"
+            ]
+        },
+        {
+            "id": "23",
+            "sentence": "إِلَّا مَن تَوَلَّىٰ وَكَفَرَ",
+            "translation": "But whoever turns away, persisting in disbelief,",
+            "originals": [
+                "إِلَّا",
+                "مَن",
+                "تَوَلَّىٰ",
+                "وَكَفَرَ"
+            ],
+            "translations": [
+                "But",
+                "whoever",
+                "turns away",
+                "and disbelieves"
+            ]
+        },
+        {
+            "id": "24",
+            "sentence": "فَيُعَذِّبُهُ ٱللَّهُ ٱلْعَذَابَ ٱلْأَكْبَرَ",
+            "translation": "then Allah will inflict upon them the major punishment.<sup foot_note=77615>1</sup>",
+            "originals": [
+                "فَيُعَذِّبُهُ",
+                "ٱللَّهُ",
+                "ٱلْعَذَابَ",
+                "ٱلْأَكْبَرَ"
+            ],
+            "translations": [
+                "Then will punish him",
+                "Allah",
+                "(with) the punishment",
+                "greatest"
+            ]
+        },
+        {
+            "id": "25",
+            "sentence": "إِنَّ إِلَيْنَآ إِيَابَهُمْ",
+            "translation": "Surely to Us is their return,",
+            "originals": [
+                "إِنَّ",
+                "إِلَيْنَآ",
+                "إِيَابَهُمْ"
+            ],
+            "translations": [
+                "Indeed",
+                "to Us",
+                "(will be) their return"
+            ]
+        },
+        {
+            "id": "26",
+            "sentence": "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم",
+            "translation": "then surely with Us is their reckoning.",
+            "originals": [
+                "ثُمَّ",
+                "إِنَّ",
+                "عَلَيْنَا",
+                "حِسَابَهُم"
+            ],
+            "translations": [
+                "Then",
+                "indeed",
+                "upon Us",
+                "(is) their account"
+            ]
+        }
+    ]
+}

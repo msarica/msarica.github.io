@@ -20,6 +20,41 @@
                 "nextChapter": "Sonraki Sure",
                 "playAgain": "Yeniden Oyna"
             }
+        },
+    "settings": {
+        "title": "Ayarlar",
+        "language": {
+            "title": "Dil",
+            "options": {
+                "turkish": "Türkçe",
+                "english": "English"
+            }
+        },
+        "optionsPerWord": {
+                "title": "Kelime başına seçenek sayısı",
+                "options": {
+                    "two": "2 seçenek",
+                    "four": "4 seçenek",
+                    "six": "6 seçenek",
+                    "eight": "8 seçenek",
+                    "all": "Tüm kelimeler"
+                }
+            },
+            "audio": {
+                "title": "Ses",
+                "readWord": "Kelimeyi oku (deneysel)",
+                "soundFeedback": "Cevaplar için ses geri bildirimi"
+            },
+            "wrongAnswer": {
+                "title": "Yanlış cevap durumunda",
+                "restart": "Baştan başla",
+                "back4": "4 kelime geri git",
+                "none": "Ceza yok"
+            },
+            "buttons": {
+                "cancel": "İptal",
+                "save": "Kaydet"
+            }
         }
     },
     "chapters": [

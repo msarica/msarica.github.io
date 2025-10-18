@@ -1,0 +1,148 @@
+{
+    "id": "tin-suresi",
+    "name": "The Fig",
+    "description": "The Fig - 95",
+    "index": 95,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": "وَٱلتِّينِ وَٱلزَّيْتُونِ",
+            "translation": "By the fig and the olive ˹of Jerusalem˺,",
+            "originals": [
+                "وَٱلتِّينِ",
+                "وَٱلزَّيْتُونِ"
+            ],
+            "translations": [
+                "By the fig",
+                "and the olive"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "وَطُورِ سِينِينَ",
+            "translation": "and Mount Sinai,",
+            "originals": [
+                "وَطُورِ",
+                "سِينِينَ"
+            ],
+            "translations": [
+                "And (the) Mount",
+                "Sinai"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "وَهَـٰذَا ٱلْبَلَدِ ٱلْأَمِينِ",
+            "translation": "and this secure city ˹of Mecca˺!<sup foot_note=77628>1</sup>",
+            "originals": [
+                "وَهَـٰذَا",
+                "ٱلْبَلَدِ",
+                "ٱلْأَمِينِ"
+            ],
+            "translations": [
+                "And this",
+                "[the] city",
+                "[the] secure"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِىٓ أَحْسَنِ تَقْوِيمٍ",
+            "translation": "Indeed, We created humans in the best form.",
+            "originals": [
+                "لَقَدْ",
+                "خَلَقْنَا",
+                "ٱلْإِنسَـٰنَ",
+                "فِىٓ",
+                "أَحْسَنِ",
+                "تَقْوِيمٍۢ"
+            ],
+            "translations": [
+                "Indeed",
+                "We created",
+                "man",
+                "in",
+                "(the) best",
+                "mould"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "ثُمَّ رَدَدْنَـٰهُ أَسْفَلَ سَـٰفِلِينَ",
+            "translation": "But We will reduce them to the lowest of the low ˹in Hell˺,",
+            "originals": [
+                "ثُمَّ",
+                "رَدَدْنَـٰهُ",
+                "أَسْفَلَ",
+                "سَـٰفِلِينَ"
+            ],
+            "translations": [
+                "Then",
+                "We returned him",
+                "(to the) lowest",
+                "(of the) low"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
+            "translation": "except those who believe and do good—they will have a never-ending reward.",
+            "originals": [
+                "إِلَّا",
+                "ٱلَّذِينَ",
+                "ءَامَنُوا۟",
+                "وَعَمِلُوا۟",
+                "ٱلصَّـٰلِحَـٰتِ",
+                "فَلَهُمْ",
+                "أَجْرٌ",
+                "غَيْرُ",
+                "مَمْنُونٍۢ"
+            ],
+            "translations": [
+                "Except",
+                "those who",
+                "believe",
+                "and do",
+                "righteous deeds",
+                "then for them",
+                "(is a) reward",
+                "never",
+                "ending"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "فَمَا يُكَذِّبُكَ بَعْدُ بِٱلدِّينِ",
+            "translation": "Now, what makes you deny the ˹final˺ Judgment?",
+            "originals": [
+                "فَمَا",
+                "يُكَذِّبُكَ",
+                "بَعْدُ",
+                "بِٱلدِّينِ"
+            ],
+            "translations": [
+                "Then what",
+                "causes you to deny",
+                "after (this)",
+                "the judgment"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "أَلَيْسَ ٱللَّهُ بِأَحْكَمِ ٱلْحَـٰكِمِينَ",
+            "translation": "Is Allah not the most just of all judges?",
+            "originals": [
+                "أَلَيْسَ",
+                "ٱللَّهُ",
+                "بِأَحْكَمِ",
+                "ٱلْحَـٰكِمِينَ"
+            ],
+            "translations": [
+                "Is not",
+                "Allah",
+                "(the) Most Just",
+                "(of) the Judges"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,447 @@
+{
+    "id": "insikak-suresi",
+    "name": "The Sundering",
+    "description": "The Sundering - 84",
+    "index": 84,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " إِذَا ٱلسَّمَآءُ ٱنشَقَّتْ",
+            "translation": "When the sky bursts open,",
+            "originals": [
+                "إِذَا",
+                "ٱلسَّمَآءُ",
+                "ٱنشَقَّتْ"
+            ],
+            "translations": [
+                "When",
+                "the sky",
+                "is split asunder"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ",
+            "translation": "obeying its Lord as it must,",
+            "originals": [
+                "وَأَذِنَتْ",
+                "لِرَبِّهَا",
+                "وَحُقَّتْ"
+            ],
+            "translations": [
+                "And has listened",
+                "to its Lord",
+                "and was obligated"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "وَإِذَا ٱلْأَرْضُ مُدَّتْ",
+            "translation": "and when the earth is flattened out,",
+            "originals": [
+                "وَإِذَا",
+                "ٱلْأَرْضُ",
+                "مُدَّتْ"
+            ],
+            "translations": [
+                "And when",
+                "the earth",
+                "is spread"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ",
+            "translation": "and ejects ˹all˺ its contents<sup foot_note=77607>1</sup> and becomes empty,",
+            "originals": [
+                "وَأَلْقَتْ",
+                "مَا",
+                "فِيهَا",
+                "وَتَخَلَّتْ"
+            ],
+            "translations": [
+                "And has cast out",
+                "what",
+                "(is) in it",
+                "and becomes empty"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ",
+            "translation": "obeying its Lord as it must, ˹surely you will all be judged˺.",
+            "originals": [
+                "وَأَذِنَتْ",
+                "لِرَبِّهَا",
+                "وَحُقَّتْ"
+            ],
+            "translations": [
+                "And has listened",
+                "to its Lord",
+                "and was obligated"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "يَـٰٓأَيُّهَا ٱلْإِنسَـٰنُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا فَمُلَـٰقِيهِ",
+            "translation": "O humanity! Indeed, you are labouring restlessly towards your Lord, and will ˹eventually˺ meet the consequences.",
+            "originals": [
+                "يَـٰٓأَيُّهَا",
+                "ٱلْإِنسَـٰنُ",
+                "إِنَّكَ",
+                "كَادِحٌ",
+                "إِلَىٰ",
+                "رَبِّكَ",
+                "كَدْحًۭا",
+                "فَمُلَـٰقِيهِ"
+            ],
+            "translations": [
+                "O",
+                "mankind",
+                "Indeed, you",
+                "(are) laboring",
+                "to",
+                "your Lord",
+                "(with) exertion",
+                "and you (will) meet Him"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "فَأَمَّا مَنْ أُوتِىَ كِتَـٰبَهُۥ بِيَمِينِهِۦ",
+            "translation": "As for those who are given their record in their right hand,",
+            "originals": [
+                "فَأَمَّا",
+                "مَنْ",
+                "أُوتِىَ",
+                "كِتَـٰبَهُۥ",
+                "بِيَمِينِهِۦ"
+            ],
+            "translations": [
+                "Then as for",
+                "(him) who",
+                "is given",
+                "his record",
+                "in his right (hand)"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا",
+            "translation": "they will have an easy reckoning,",
+            "originals": [
+                "فَسَوْفَ",
+                "يُحَاسَبُ",
+                "حِسَابًۭا",
+                "يَسِيرًۭا"
+            ],
+            "translations": [
+                "Then soon",
+                "his account will be taken",
+                "an account",
+                "easy"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "وَيَنقَلِبُ إِلَىٰٓ أَهْلِهِۦ مَسْرُورًا",
+            "translation": "and will return to their people joyfully.",
+            "originals": [
+                "وَيَنقَلِبُ",
+                "إِلَىٰٓ",
+                "أَهْلِهِۦ",
+                "مَسْرُورًۭا"
+            ],
+            "translations": [
+                "And he will return",
+                "to",
+                "his people",
+                "happily"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "وَأَمَّا مَنْ أُوتِىَ كِتَـٰبَهُۥ وَرَآءَ ظَهْرِهِۦ",
+            "translation": "And as for those who are given their record ˹in their left hand˺ from behind their backs,",
+            "originals": [
+                "وَأَمَّا",
+                "مَنْ",
+                "أُوتِىَ",
+                "كِتَـٰبَهُۥ",
+                "وَرَآءَ",
+                "ظَهْرِهِۦ"
+            ],
+            "translations": [
+                "But as for",
+                "(him) who",
+                "is given",
+                "his record",
+                "behind",
+                "his back"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "فَسَوْفَ يَدْعُوا۟ ثُبُورًا",
+            "translation": "they will cry for ˹instant˺ destruction,",
+            "originals": [
+                "فَسَوْفَ",
+                "يَدْعُوا۟",
+                "ثُبُورًۭا"
+            ],
+            "translations": [
+                "Then soon",
+                "he will call",
+                "(for) destruction"
+            ]
+        },
+        {
+            "id": "12",
+            "sentence": "وَيَصْلَىٰ سَعِيرًا",
+            "translation": "and will burn in the blazing Fire.",
+            "originals": [
+                "وَيَصْلَىٰ",
+                "سَعِيرًا"
+            ],
+            "translations": [
+                "And he will burn",
+                "(in) a Blaze"
+            ]
+        },
+        {
+            "id": "13",
+            "sentence": "إِنَّهُۥ كَانَ فِىٓ أَهْلِهِۦ مَسْرُورًا",
+            "translation": "For they used to be prideful among their people,",
+            "originals": [
+                "إِنَّهُۥ",
+                "كَانَ",
+                "فِىٓ",
+                "أَهْلِهِۦ",
+                "مَسْرُورًا"
+            ],
+            "translations": [
+                "Indeed, he",
+                "had been",
+                "among",
+                "his people",
+                "happy"
+            ]
+        },
+        {
+            "id": "14",
+            "sentence": "إِنَّهُۥ ظَنَّ أَن لَّن يَحُورَ",
+            "translation": "thinking they would never return ˹to Allah˺.",
+            "originals": [
+                "إِنَّهُۥ",
+                "ظَنَّ",
+                "أَن",
+                "لَّن",
+                "يَحُورَ"
+            ],
+            "translations": [
+                "Indeed, he",
+                "(had) thought",
+                "that",
+                "never",
+                "he would return"
+            ]
+        },
+        {
+            "id": "15",
+            "sentence": "بَلَىٰٓ إِنَّ رَبَّهُۥ كَانَ بِهِۦ بَصِيرًا",
+            "translation": "Yes ˹they would˺! Surely their Lord has always been All-Seeing of them.",
+            "originals": [
+                "بَلَىٰٓ",
+                "إِنَّ",
+                "رَبَّهُۥ",
+                "كَانَ",
+                "بِهِۦ",
+                "بَصِيرًۭا"
+            ],
+            "translations": [
+                "Yes",
+                "Indeed",
+                "his Lord",
+                "was",
+                "of him",
+                "All-Seer"
+            ]
+        },
+        {
+            "id": "16",
+            "sentence": "فَلَآ أُقْسِمُ بِٱلشَّفَقِ",
+            "translation": "So, I do swear by the twilight!",
+            "originals": [
+                "فَلَآ",
+                "أُقْسِمُ",
+                "بِٱلشَّفَقِ"
+            ],
+            "translations": [
+                "But nay",
+                "I swear",
+                "by the twilight glow"
+            ]
+        },
+        {
+            "id": "17",
+            "sentence": "وَٱلَّيْلِ وَمَا وَسَقَ",
+            "translation": "And by the night and whatever it envelops!",
+            "originals": [
+                "وَٱلَّيْلِ",
+                "وَمَا",
+                "وَسَقَ"
+            ],
+            "translations": [
+                "And the night",
+                "and what",
+                "it envelops"
+            ]
+        },
+        {
+            "id": "18",
+            "sentence": "وَٱلْقَمَرِ إِذَا ٱتَّسَقَ",
+            "translation": "And by the moon when it waxes full!",
+            "originals": [
+                "وَٱلْقَمَرِ",
+                "إِذَا",
+                "ٱتَّسَقَ"
+            ],
+            "translations": [
+                "And the moon",
+                "when",
+                "it becomes full"
+            ]
+        },
+        {
+            "id": "19",
+            "sentence": "لَتَرْكَبُنَّ طَبَقًا عَن طَبَقٍ",
+            "translation": "You will certainly pass from one state to another.<sup foot_note=77608>1</sup>",
+            "originals": [
+                "لَتَرْكَبُنَّ",
+                "طَبَقًا",
+                "عَن",
+                "طَبَقٍۢ"
+            ],
+            "translations": [
+                "You will surely embark",
+                "(to) stage",
+                "from",
+                "stage"
+            ]
+        },
+        {
+            "id": "20",
+            "sentence": "فَمَا لَهُمْ لَا يُؤْمِنُونَ",
+            "translation": "So what is the matter with them that they do not believe,",
+            "originals": [
+                "فَمَا",
+                "لَهُمْ",
+                "لَا",
+                "يُؤْمِنُونَ"
+            ],
+            "translations": [
+                "So what",
+                "(is) for them",
+                "not",
+                "they believe"
+            ]
+        },
+        {
+            "id": "21",
+            "sentence": "وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ ۩",
+            "translation": "and when the Quran is recited to them, they do not bow down ˹in submission˺?<sup foot_note=77609>1</sup>",
+            "originals": [
+                "وَإِذَا",
+                "قُرِئَ",
+                "عَلَيْهِمُ",
+                "ٱلْقُرْءَانُ",
+                "لَا",
+                "يَسْجُدُونَ ۩"
+            ],
+            "translations": [
+                "And when",
+                "is recited",
+                "to them",
+                "the Quran",
+                "not",
+                "they prostrate"
+            ]
+        },
+        {
+            "id": "22",
+            "sentence": "بَلِ ٱلَّذِينَ كَفَرُوا۟ يُكَذِّبُونَ",
+            "translation": "In fact, the disbelievers persist in denial.",
+            "originals": [
+                "بَلِ",
+                "ٱلَّذِينَ",
+                "كَفَرُوا۟",
+                "يُكَذِّبُونَ"
+            ],
+            "translations": [
+                "Nay",
+                "Those who",
+                "disbelieved",
+                "deny"
+            ]
+        },
+        {
+            "id": "23",
+            "sentence": "وَٱللَّهُ أَعْلَمُ بِمَا يُوعُونَ",
+            "translation": "But Allah knows best whatever they hide.",
+            "originals": [
+                "وَٱللَّهُ",
+                "أَعْلَمُ",
+                "بِمَا",
+                "يُوعُونَ"
+            ],
+            "translations": [
+                "And Allah",
+                "(is) most knowing",
+                "of what",
+                "they keep within themselves"
+            ]
+        },
+        {
+            "id": "24",
+            "sentence": "فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ",
+            "translation": "So give them good news of a painful punishment.",
+            "originals": [
+                "فَبَشِّرْهُم",
+                "بِعَذَابٍ",
+                "أَلِيمٍ"
+            ],
+            "translations": [
+                "so give them tidings",
+                "of a punishment",
+                "painful"
+            ]
+        },
+        {
+            "id": "25",
+            "sentence": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍۭ",
+            "translation": "But those who believe and do good will have a never-ending reward.",
+            "originals": [
+                "إِلَّا",
+                "ٱلَّذِينَ",
+                "ءَامَنُوا۟",
+                "وَعَمِلُوا۟",
+                "ٱلصَّـٰلِحَـٰتِ",
+                "لَهُمْ",
+                "أَجْرٌ",
+                "غَيْرُ",
+                "مَمْنُونٍۭ"
+            ],
+            "translations": [
+                "Except",
+                "those who",
+                "believe",
+                "and do",
+                "righteous deeds",
+                "For them",
+                "(is) a reward",
+                "never",
+                "ending"
+            ]
+        }
+    ]
+}

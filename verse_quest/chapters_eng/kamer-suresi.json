@@ -1,0 +1,136 @@
+{
+    "id": "kamer-suresi",
+    "name": "The Moon",
+    "description": "The Moon - 54",
+    "index": 54,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " ٱقْتَرَبَتِ ٱلسَّاعَةُ وَٱنشَقَّ ٱلْقَمَرُ",
+            "translation": "The Hour has drawn near and the moon was split ˹in two˺.<sup foot_note=77457>1</sup>",
+            "originals": [
+                "ٱقْتَرَبَتِ",
+                "ٱلسَّاعَةُ",
+                "وَٱنشَقَّ",
+                "ٱلْقَمَرُ"
+            ],
+            "translations": [
+                "Has come near",
+                "the Hour",
+                "and has split",
+                "the moon"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "وَإِن يَرَوْا۟ ءَايَةً يُعْرِضُوا۟ وَيَقُولُوا۟ سِحْرٌ مُّسْتَمِرٌّ",
+            "translation": "Yet, whenever they see a sign, they turn away,<sup foot_note=77458>1</sup> saying, “Same old magic!”",
+            "originals": [
+                "وَإِن",
+                "يَرَوْا۟",
+                "ءَايَةًۭ",
+                "يُعْرِضُوا۟",
+                "وَيَقُولُوا۟",
+                "سِحْرٌۭ",
+                "مُّسْتَمِرٌّۭ"
+            ],
+            "translations": [
+                "And if",
+                "they see",
+                "a Sign",
+                "they turn away",
+                "and say",
+                "Magic",
+                "continuing"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "وَكَذَّبُوا۟ وَٱتَّبَعُوٓا۟ أَهْوَآءَهُمْ ۚ وَكُلُّ أَمْرٍ مُّسْتَقِرٌّ",
+            "translation": "They rejected ˹the truth˺ and followed their own desires—and every matter will be settled—",
+            "originals": [
+                "وَكَذَّبُوا۟",
+                "وَٱتَّبَعُوٓا۟",
+                "أَهْوَآءَهُمْ ۚ",
+                "وَكُلُّ",
+                "أَمْرٍۢ",
+                "مُّسْتَقِرٌّۭ"
+            ],
+            "translations": [
+                "And they denied",
+                "and followed",
+                "their desires",
+                "but (for) every",
+                "matter",
+                "(will be a) settlement"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "وَلَقَدْ جَآءَهُم مِّنَ ٱلْأَنۢبَآءِ مَا فِيهِ مُزْدَجَرٌ",
+            "translation": "even though the stories ˹of destroyed nations˺ that have already come to them are a sufficient deterrent.",
+            "originals": [
+                "وَلَقَدْ",
+                "جَآءَهُم",
+                "مِّنَ",
+                "ٱلْأَنۢبَآءِ",
+                "مَا",
+                "فِيهِ",
+                "مُزْدَجَرٌ"
+            ],
+            "translations": [
+                "And certainly",
+                "has come to them",
+                "of",
+                "the information",
+                "wherein",
+                "wherein",
+                "(is) deterrence"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "حِكْمَةٌۢ بَـٰلِغَةٌ ۖ فَمَا تُغْنِ ٱلنُّذُرُ",
+            "translation": "˹This Quran is˺ profound ˹in˺ wisdom, but warnings are of no benefit ˹to them˺.",
+            "originals": [
+                "حِكْمَةٌۢ",
+                "بَـٰلِغَةٌۭ ۖ",
+                "فَمَا",
+                "تُغْنِ",
+                "ٱلنُّذُرُ"
+            ],
+            "translations": [
+                "Wisdom",
+                "perfect",
+                "but not",
+                "will avail",
+                "the warnings"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "فَتَوَلَّ عَنْهُمْ ۘ يَوْمَ يَدْعُ ٱلدَّاعِ إِلَىٰ شَىْءٍ نُّكُرٍ",
+            "translation": "So turn away from them ˹O Prophet˺. ˹And wait for˺ the Day ˹when˺ the caller<sup foot_note=77459>1</sup> will summon ˹them˺ for something horrifying.<sup foot_note=77460>2</sup>",
+            "originals": [
+                "فَتَوَلَّ",
+                "عَنْهُمْ ۘ",
+                "يَوْمَ",
+                "يَدْعُ",
+                "ٱلدَّاعِ",
+                "إِلَىٰ",
+                "شَىْءٍۢ",
+                "نُّكُرٍ"
+            ],
+            "translations": [
+                "So turn away",
+                "from them",
+                "(The) Day",
+                "will call",
+                "the caller",
+                "to",
+                "a thing",
+                "terrible"
+            ]
+        }
+    ]
+}

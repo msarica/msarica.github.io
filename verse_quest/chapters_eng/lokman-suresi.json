@@ -1,0 +1,339 @@
+{
+    "id": "lokman-suresi",
+    "name": "Luqman",
+    "description": "Luqman - 31",
+    "index": 31,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " الٓمٓ",
+            "translation": "Alif-Lãm-Mĩm.",
+            "originals": [
+                "الٓمٓ"
+            ],
+            "translations": [
+                "Alif Lam Meem"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ ٱلْحَكِيمِ",
+            "translation": "These are the verses of the Book, rich in wisdom.",
+            "originals": [
+                "تِلْكَ",
+                "ءَايَـٰتُ",
+                "ٱلْكِتَـٰبِ",
+                "ٱلْحَكِيمِ"
+            ],
+            "translations": [
+                "These",
+                "(are) Verses",
+                "(of) the Book",
+                "the Wise"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "هُدًى وَرَحْمَةً لِّلْمُحْسِنِينَ",
+            "translation": "˹It is˺ a guide and mercy for the good-doers—",
+            "originals": [
+                "هُدًۭى",
+                "وَرَحْمَةًۭ",
+                "لِّلْمُحْسِنِينَ"
+            ],
+            "translations": [
+                "A guidance",
+                "and a mercy",
+                "for the good-doers"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَهُم بِٱلْـَٔاخِرَةِ هُمْ يُوقِنُونَ",
+            "translation": "those who establish prayer, pay alms-tax, and have sure faith in the Hereafter.",
+            "originals": [
+                "ٱلَّذِينَ",
+                "يُقِيمُونَ",
+                "ٱلصَّلَوٰةَ",
+                "وَيُؤْتُونَ",
+                "ٱلزَّكَوٰةَ",
+                "وَهُم",
+                "بِٱلْـَٔاخِرَةِ",
+                "هُمْ",
+                "يُوقِنُونَ"
+            ],
+            "translations": [
+                "Those who",
+                "establish",
+                "the prayer",
+                "and give",
+                "zakah",
+                "and they",
+                "in the Hereafter",
+                "[they]",
+                "believe firmly"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "أُو۟لَـٰٓئِكَ عَلَىٰ هُدًى مِّن رَّبِّهِمْ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+            "translation": "It is they who are ˹truly˺ guided by their Lord, and it is they who will be successful.         ",
+            "originals": [
+                "أُو۟لَـٰٓئِكَ",
+                "عَلَىٰ",
+                "هُدًۭى",
+                "مِّن",
+                "رَّبِّهِمْ ۖ",
+                "وَأُو۟لَـٰٓئِكَ",
+                "هُمُ",
+                "ٱلْمُفْلِحُونَ"
+            ],
+            "translations": [
+                "Those",
+                "(are) on",
+                "guidance",
+                "from",
+                "their Lord",
+                "and those",
+                "[they]",
+                "(are) the successful"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "وَمِنَ ٱلنَّاسِ مَن يَشْتَرِى لَهْوَ ٱلْحَدِيثِ لِيُضِلَّ عَن سَبِيلِ ٱللَّهِ بِغَيْرِ عِلْمٍ وَيَتَّخِذَهَا هُزُوًا ۚ أُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌ مُّهِينٌ",
+            "translation": "But there are some who employ theatrics,<sup foot_note=77165>1</sup> only to lead others away from Allah’s Way—without any knowledge—and to make a mockery of it. They will suffer a humiliating punishment.",
+            "originals": [
+                "وَمِنَ",
+                "ٱلنَّاسِ",
+                "مَن",
+                "يَشْتَرِى",
+                "لَهْوَ",
+                "ٱلْحَدِيثِ",
+                "لِيُضِلَّ",
+                "عَن",
+                "سَبِيلِ",
+                "ٱللَّهِ",
+                "بِغَيْرِ",
+                "عِلْمٍۢ",
+                "وَيَتَّخِذَهَا",
+                "هُزُوًا ۚ",
+                "أُو۟لَـٰٓئِكَ",
+                "لَهُمْ",
+                "عَذَابٌۭ",
+                "مُّهِينٌۭ"
+            ],
+            "translations": [
+                "And of",
+                "the mankind",
+                "(is he) who",
+                "purchases",
+                "idle tales",
+                "idle tales",
+                "to mislead",
+                "from",
+                "(the) path",
+                "(of) Allah",
+                "without",
+                "knowledge",
+                "and takes it",
+                "(in) ridicule",
+                "Those",
+                "for them",
+                "(is) a punishment",
+                "humiliating"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "وَإِذَا تُتْلَىٰ عَلَيْهِ ءَايَـٰتُنَا وَلَّىٰ مُسْتَكْبِرًا كَأَن لَّمْ يَسْمَعْهَا كَأَنَّ فِىٓ أُذُنَيْهِ وَقْرًا ۖ فَبَشِّرْهُ بِعَذَابٍ أَلِيمٍ",
+            "translation": "Whenever Our revelations are recited to them, they turn away in arrogance as if they did not hear them, as if there is deafness in their ears. So give them good news ˹O Prophet˺ of a painful punishment.",
+            "originals": [
+                "وَإِذَا",
+                "تُتْلَىٰ",
+                "عَلَيْهِ",
+                "ءَايَـٰتُنَا",
+                "وَلَّىٰ",
+                "مُسْتَكْبِرًۭا",
+                "كَأَن",
+                "لَّمْ",
+                "يَسْمَعْهَا",
+                "كَأَنَّ",
+                "فِىٓ",
+                "أُذُنَيْهِ",
+                "وَقْرًۭا ۖ",
+                "فَبَشِّرْهُ",
+                "بِعَذَابٍ",
+                "أَلِيمٍ"
+            ],
+            "translations": [
+                "And when",
+                "are recited",
+                "to him",
+                "Our Verses",
+                "he turns away",
+                "arrogantly",
+                "as if",
+                "not",
+                "he (had) heard them",
+                "as if",
+                "in",
+                "his ears",
+                "(is) deafness",
+                "So give him tidings",
+                "of a punishment",
+                "painful"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمْ جَنَّـٰتُ ٱلنَّعِيمِ",
+            "translation": "Surely those who believe and do good will have the Gardens of Bliss,",
+            "originals": [
+                "إِنَّ",
+                "ٱلَّذِينَ",
+                "ءَامَنُوا۟",
+                "وَعَمِلُوا۟",
+                "ٱلصَّـٰلِحَـٰتِ",
+                "لَهُمْ",
+                "جَنَّـٰتُ",
+                "ٱلنَّعِيمِ"
+            ],
+            "translations": [
+                "Indeed",
+                "those who",
+                "believe",
+                "and do",
+                "righteous deeds",
+                "for them",
+                "(are) Gardens",
+                "(of) Delight"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "خَـٰلِدِينَ فِيهَا ۖ وَعْدَ ٱللَّهِ حَقًّا ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+            "translation": "staying there forever. Allah’s promise is true. And He is the Almighty, All-Wise.",
+            "originals": [
+                "خَـٰلِدِينَ",
+                "فِيهَا ۖ",
+                "وَعْدَ",
+                "ٱللَّهِ",
+                "حَقًّۭا ۚ",
+                "وَهُوَ",
+                "ٱلْعَزِيزُ",
+                "ٱلْحَكِيمُ"
+            ],
+            "translations": [
+                "(To) abide forever",
+                "in it",
+                "(The) Promise of Allah",
+                "(The) Promise of Allah",
+                "(is) true",
+                "And He",
+                "(is) the All-Mighty",
+                "the All-Wise"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "خَلَقَ ٱلسَّمَـٰوَٰتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا ۖ وَأَلْقَىٰ فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ بِكُمْ وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍ ۚ وَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءً فَأَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍ كَرِيمٍ",
+            "translation": "He created the heavens without pillars—as you can see—and placed firm mountains upon the earth so it does not shake with you, and scattered throughout it all types of creatures. And We send down rain from the sky, causing every type of fine plant to grow on earth.",
+            "originals": [
+                "خَلَقَ",
+                "ٱلسَّمَـٰوَٰتِ",
+                "بِغَيْرِ",
+                "عَمَدٍۢ",
+                "تَرَوْنَهَا ۖ",
+                "وَأَلْقَىٰ",
+                "فِى",
+                "ٱلْأَرْضِ",
+                "رَوَٰسِىَ",
+                "أَن",
+                "تَمِيدَ",
+                "بِكُمْ",
+                "وَبَثَّ",
+                "فِيهَا",
+                "مِن",
+                "كُلِّ",
+                "دَآبَّةٍۢ ۚ",
+                "وَأَنزَلْنَا",
+                "مِنَ",
+                "ٱلسَّمَآءِ",
+                "مَآءًۭ",
+                "فَأَنۢبَتْنَا",
+                "فِيهَا",
+                "مِن",
+                "كُلِّ",
+                "زَوْجٍۢ",
+                "كَرِيمٍ"
+            ],
+            "translations": [
+                "He created",
+                "the heavens",
+                "without",
+                "pillars",
+                "that you see",
+                "and has cast",
+                "in",
+                "the earth",
+                "firm mountains",
+                "lest",
+                "it (might) shake",
+                "with you",
+                "and He dispersed",
+                "in it",
+                "from",
+                "every",
+                "creature",
+                "And We sent down",
+                "from",
+                "the sky",
+                "water",
+                "then We caused to grow",
+                "therein",
+                "of",
+                "every",
+                "kind",
+                "noble"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "هَـٰذَا خَلْقُ ٱللَّهِ فَأَرُونِى مَاذَا خَلَقَ ٱلَّذِينَ مِن دُونِهِۦ ۚ بَلِ ٱلظَّـٰلِمُونَ فِى ضَلَـٰلٍ مُّبِينٍ",
+            "translation": "This is Allah’s creation. Now show Me what those ˹gods˺ other than Him have created. In fact, the wrongdoers are clearly astray.",
+            "originals": [
+                "هَـٰذَا",
+                "خَلْقُ",
+                "ٱللَّهِ",
+                "فَأَرُونِى",
+                "مَاذَا",
+                "خَلَقَ",
+                "ٱلَّذِينَ",
+                "مِن",
+                "دُونِهِۦ ۚ",
+                "بَلِ",
+                "ٱلظَّـٰلِمُونَ",
+                "فِى",
+                "ضَلَـٰلٍۢ",
+                "مُّبِينٍۢ"
+            ],
+            "translations": [
+                "This",
+                "(is the) creation",
+                "(of) Allah",
+                "So show Me",
+                "what",
+                "have created",
+                "those",
+                "besides Him",
+                "besides Him",
+                "Nay",
+                "the wrongdoers",
+                "(are) in",
+                "error",
+                "clear"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,424 @@
+{
+    "id": "buruc-suresi",
+    "name": "The Mansions of the Stars",
+    "description": "The Mansions of the Stars - 85",
+    "index": 85,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " وَٱلسَّمَآءِ ذَاتِ ٱلْبُرُوجِ",
+            "translation": "By the sky full of constellations,",
+            "originals": [
+                "وَٱلسَّمَآءِ",
+                "ذَاتِ",
+                "ٱلْبُرُوجِ"
+            ],
+            "translations": [
+                "By the sky",
+                "containing",
+                "the constellations"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "وَٱلْيَوْمِ ٱلْمَوْعُودِ",
+            "translation": "and the promised Day ˹of Judgment˺,",
+            "originals": [
+                "وَٱلْيَوْمِ",
+                "ٱلْمَوْعُودِ"
+            ],
+            "translations": [
+                "And the Day",
+                "Promised"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "وَشَاهِدٍ وَمَشْهُودٍ",
+            "translation": "and the witness and what is witnessed!<sup foot_note=77610>1</sup>",
+            "originals": [
+                "وَشَاهِدٍۢ",
+                "وَمَشْهُودٍۢ"
+            ],
+            "translations": [
+                "And (the) witness",
+                "and what is witnessed"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "قُتِلَ أَصْحَـٰبُ ٱلْأُخْدُودِ",
+            "translation": "Condemned are the makers of the ditch—",
+            "originals": [
+                "قُتِلَ",
+                "أَصْحَـٰبُ",
+                "ٱلْأُخْدُودِ"
+            ],
+            "translations": [
+                "Destroyed were",
+                "(the) companions",
+                "(of) the pit"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "ٱلنَّارِ ذَاتِ ٱلْوَقُودِ",
+            "translation": "the fire ˹pit˺, filled with fuel—",
+            "originals": [
+                "ٱلنَّارِ",
+                "ذَاتِ",
+                "ٱلْوَقُودِ"
+            ],
+            "translations": [
+                "(Of) the fire",
+                "full",
+                "(of) the fuel"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "إِذْ هُمْ عَلَيْهَا قُعُودٌ",
+            "translation": "when they sat around it,",
+            "originals": [
+                "إِذْ",
+                "هُمْ",
+                "عَلَيْهَا",
+                "قُعُودٌۭ"
+            ],
+            "translations": [
+                "When",
+                "they",
+                "by it",
+                "(were) sitting"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِٱلْمُؤْمِنِينَ شُهُودٌ",
+            "translation": "watching what they had ˹ordered to be˺ done to the believers,",
+            "originals": [
+                "وَهُمْ",
+                "عَلَىٰ",
+                "مَا",
+                "يَفْعَلُونَ",
+                "بِٱلْمُؤْمِنِينَ",
+                "شُهُودٌۭ"
+            ],
+            "translations": [
+                "And they",
+                "over",
+                "what",
+                "they were doing",
+                "to the believers",
+                "witnesses"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+            "translation": "who they resented for no reason other than belief in Allah—the Almighty, the Praiseworthy—",
+            "originals": [
+                "وَمَا",
+                "نَقَمُوا۟",
+                "مِنْهُمْ",
+                "إِلَّآ",
+                "أَن",
+                "يُؤْمِنُوا۟",
+                "بِٱللَّهِ",
+                "ٱلْعَزِيزِ",
+                "ٱلْحَمِيدِ"
+            ],
+            "translations": [
+                "And not",
+                "they resented",
+                "[of] them",
+                "except",
+                "that",
+                "they believed",
+                "in Allah",
+                "the All-Mighty",
+                "the Praiseworthy"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ",
+            "translation": "˹the One˺ to Whom belongs the kingdom of the heavens and earth. And Allah is a Witness over all things.",
+            "originals": [
+                "ٱلَّذِى",
+                "لَهُۥ",
+                "مُلْكُ",
+                "ٱلسَّمَـٰوَٰتِ",
+                "وَٱلْأَرْضِ ۚ",
+                "وَٱللَّهُ",
+                "عَلَىٰ",
+                "كُلِّ",
+                "شَىْءٍۢ",
+                "شَهِيدٌ"
+            ],
+            "translations": [
+                "The One Who",
+                "for Him",
+                "(is) the dominion",
+                "(of) the heavens",
+                "and the earth",
+                "and Allah",
+                "on",
+                "every",
+                "thing",
+                "(is) a Witness"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "إِنَّ ٱلَّذِينَ فَتَنُوا۟ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ ثُمَّ لَمْ يَتُوبُوا۟ فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ ٱلْحَرِيقِ",
+            "translation": "Those who persecute the believing men and women and then do not repent will certainly suffer the punishment of Hell and the torment of burning.",
+            "originals": [
+                "إِنَّ",
+                "ٱلَّذِينَ",
+                "فَتَنُوا۟",
+                "ٱلْمُؤْمِنِينَ",
+                "وَٱلْمُؤْمِنَـٰتِ",
+                "ثُمَّ",
+                "لَمْ",
+                "يَتُوبُوا۟",
+                "فَلَهُمْ",
+                "عَذَابُ",
+                "جَهَنَّمَ",
+                "وَلَهُمْ",
+                "عَذَابُ",
+                "ٱلْحَرِيقِ"
+            ],
+            "translations": [
+                "Indeed",
+                "those who",
+                "persecuted",
+                "the believing men",
+                "and the believing women",
+                "then",
+                "not",
+                "they repented",
+                "then for them",
+                "(is the) punishment",
+                "(of) Hell",
+                "and for them",
+                "(is the) punishment",
+                "(of) the Burning Fire"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمْ جَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْكَبِيرُ",
+            "translation": "Surely those who believe and do good will have Gardens under which rivers flow. That is the greatest triumph.",
+            "originals": [
+                "إِنَّ",
+                "ٱلَّذِينَ",
+                "ءَامَنُوا۟",
+                "وَعَمِلُوا۟",
+                "ٱلصَّـٰلِحَـٰتِ",
+                "لَهُمْ",
+                "جَنَّـٰتٌۭ",
+                "تَجْرِى",
+                "مِن",
+                "تَحْتِهَا",
+                "ٱلْأَنْهَـٰرُ ۚ",
+                "ذَٰلِكَ",
+                "ٱلْفَوْزُ",
+                "ٱلْكَبِيرُ"
+            ],
+            "translations": [
+                "Indeed",
+                "those who",
+                "believe",
+                "and do",
+                "the righteous deeds",
+                "for them",
+                "(will be) Gardens",
+                "flow",
+                "from",
+                "underneath it",
+                "the rivers",
+                "That",
+                "(is) the success",
+                "the great"
+            ]
+        },
+        {
+            "id": "12",
+            "sentence": "إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ",
+            "translation": "Indeed, the ˹crushing˺ grip of your Lord is severe.",
+            "originals": [
+                "إِنَّ",
+                "بَطْشَ",
+                "رَبِّكَ",
+                "لَشَدِيدٌ"
+            ],
+            "translations": [
+                "Indeed",
+                "(the) Grip",
+                "(of) your Lord",
+                "(is) surely strong"
+            ]
+        },
+        {
+            "id": "13",
+            "sentence": "إِنَّهُۥ هُوَ يُبْدِئُ وَيُعِيدُ",
+            "translation": "˹For˺ He is certainly the One Who originates and resurrects ˹all˺.",
+            "originals": [
+                "إِنَّهُۥ",
+                "هُوَ",
+                "يُبْدِئُ",
+                "وَيُعِيدُ"
+            ],
+            "translations": [
+                "Indeed He",
+                "He",
+                "originates",
+                "and repeats"
+            ]
+        },
+        {
+            "id": "14",
+            "sentence": "وَهُوَ ٱلْغَفُورُ ٱلْوَدُودُ",
+            "translation": "And He is the All-Forgiving, All-Loving—",
+            "originals": [
+                "وَهُوَ",
+                "ٱلْغَفُورُ",
+                "ٱلْوَدُودُ"
+            ],
+            "translations": [
+                "And He",
+                "(is) the Oft-Forgiving",
+                "the Most Loving"
+            ]
+        },
+        {
+            "id": "15",
+            "sentence": "ذُو ٱلْعَرْشِ ٱلْمَجِيدُ",
+            "translation": "Lord of the Throne, the All-Glorious,",
+            "originals": [
+                "ذُو",
+                "ٱلْعَرْشِ",
+                "ٱلْمَجِيدُ"
+            ],
+            "translations": [
+                "Owner (of)",
+                "the Throne",
+                "the Glorious"
+            ]
+        },
+        {
+            "id": "16",
+            "sentence": "فَعَّالٌ لِّمَا يُرِيدُ",
+            "translation": "Doer of whatever He wills.",
+            "originals": [
+                "فَعَّالٌۭ",
+                "لِّمَا",
+                "يُرِيدُ"
+            ],
+            "translations": [
+                "Doer",
+                "of what",
+                "He intends"
+            ]
+        },
+        {
+            "id": "17",
+            "sentence": "هَلْ أَتَىٰكَ حَدِيثُ ٱلْجُنُودِ",
+            "translation": "Has the story of the ˹destroyed˺ forces reached you ˹O Prophet˺—",
+            "originals": [
+                "هَلْ",
+                "أَتَىٰكَ",
+                "حَدِيثُ",
+                "ٱلْجُنُودِ"
+            ],
+            "translations": [
+                "Has",
+                "come to you",
+                "(the) story",
+                "(of) the hosts"
+            ]
+        },
+        {
+            "id": "18",
+            "sentence": "فِرْعَوْنَ وَثَمُودَ",
+            "translation": "˹the forces of˺ Pharaoh and Thamûd?",
+            "originals": [
+                "فِرْعَوْنَ",
+                "وَثَمُودَ"
+            ],
+            "translations": [
+                "Firaun",
+                "and Thamud"
+            ]
+        },
+        {
+            "id": "19",
+            "sentence": "بَلِ ٱلَّذِينَ كَفَرُوا۟ فِى تَكْذِيبٍ",
+            "translation": "Yet the disbelievers ˹still˺ persist in denial.",
+            "originals": [
+                "بَلِ",
+                "ٱلَّذِينَ",
+                "كَفَرُوا۟",
+                "فِى",
+                "تَكْذِيبٍۢ"
+            ],
+            "translations": [
+                "Nay",
+                "Those who",
+                "disbelieve",
+                "(are) in",
+                "denial"
+            ]
+        },
+        {
+            "id": "20",
+            "sentence": "وَٱللَّهُ مِن وَرَآئِهِم مُّحِيطٌۢ",
+            "translation": "But Allah encompasses them from all sides.",
+            "originals": [
+                "وَٱللَّهُ",
+                "مِن",
+                "وَرَآئِهِم",
+                "مُّحِيطٌۢ"
+            ],
+            "translations": [
+                "But Allah",
+                "from",
+                "behind them",
+                "encompasses"
+            ]
+        },
+        {
+            "id": "21",
+            "sentence": "بَلْ هُوَ قُرْءَانٌ مَّجِيدٌ",
+            "translation": "In fact, this is a glorious Quran,",
+            "originals": [
+                "بَلْ",
+                "هُوَ",
+                "قُرْءَانٌۭ",
+                "مَّجِيدٌۭ"
+            ],
+            "translations": [
+                "Nay",
+                "It",
+                "(is) a Quran",
+                "Glorious"
+            ]
+        },
+        {
+            "id": "22",
+            "sentence": "فِى لَوْحٍ مَّحْفُوظٍۭ",
+            "translation": "˹recorded˺ in a Preserved Tablet.",
+            "originals": [
+                "فِى",
+                "لَوْحٍۢ",
+                "مَّحْفُوظٍۭ"
+            ],
+            "translations": [
+                "In",
+                "a Tablet",
+                "Guarded"
+            ]
+        }
+    ]
+}

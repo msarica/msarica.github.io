@@ -1,0 +1,179 @@
+{
+    "id": "karia-suresi",
+    "name": "The Calamity",
+    "description": "The Calamity - 101",
+    "index": 101,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " ٱلْقَارِعَةُ",
+            "translation": "The Striking Disaster!",
+            "originals": [
+                "ٱلْقَارِعَةُ"
+            ],
+            "translations": [
+                "The Striking Calamity"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "مَا ٱلْقَارِعَةُ",
+            "translation": "What is the Striking Disaster?",
+            "originals": [
+                "مَا",
+                "ٱلْقَارِعَةُ"
+            ],
+            "translations": [
+                "What",
+                "(is) the Striking Calamity"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ",
+            "translation": "And what will make you realize what the Striking Disaster is?",
+            "originals": [
+                "وَمَآ",
+                "أَدْرَىٰكَ",
+                "مَا",
+                "ٱلْقَارِعَةُ"
+            ],
+            "translations": [
+                "And what",
+                "will make you know",
+                "what",
+                "(is) the Striking Calamity"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+            "translation": "˹It is˺ the Day people will be like scattered moths,",
+            "originals": [
+                "يَوْمَ",
+                "يَكُونُ",
+                "ٱلنَّاسُ",
+                "كَٱلْفَرَاشِ",
+                "ٱلْمَبْثُوثِ"
+            ],
+            "translations": [
+                "(The) Day",
+                "will be",
+                "the mankind",
+                "like moths",
+                "scattered"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ",
+            "translation": "and the mountains will be like carded wool.",
+            "originals": [
+                "وَتَكُونُ",
+                "ٱلْجِبَالُ",
+                "كَٱلْعِهْنِ",
+                "ٱلْمَنفُوشِ"
+            ],
+            "translations": [
+                "And will be",
+                "the mountains",
+                "like wool",
+                "fluffed up"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ",
+            "translation": "So as for those whose scale is heavy ˹with good deeds˺,",
+            "originals": [
+                "فَأَمَّا",
+                "مَن",
+                "ثَقُلَتْ",
+                "مَوَٰزِينُهُۥ"
+            ],
+            "translations": [
+                "Then as for",
+                "(him) whose",
+                "(are) heavy",
+                "his scales"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ",
+            "translation": "they will be in a life of bliss.",
+            "originals": [
+                "فَهُوَ",
+                "فِى",
+                "عِيشَةٍۢ",
+                "رَّاضِيَةٍۢ"
+            ],
+            "translations": [
+                "Then he",
+                "(will be) in",
+                "a life",
+                "pleasant"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
+            "translation": "And as for those whose scale is light,",
+            "originals": [
+                "وَأَمَّا",
+                "مَنْ",
+                "خَفَّتْ",
+                "مَوَٰزِينُهُۥ"
+            ],
+            "translations": [
+                "But as for",
+                "(him) whose",
+                "(are) light",
+                "his scales"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "فَأُمُّهُۥ هَاوِيَةٌ",
+            "translation": "their home will be the abyss.",
+            "originals": [
+                "فَأُمُّهُۥ",
+                "هَاوِيَةٌۭ"
+            ],
+            "translations": [
+                "His abode",
+                "(will be the) Pit"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ",
+            "translation": "And what will make you realize what that is?",
+            "originals": [
+                "وَمَآ",
+                "أَدْرَىٰكَ",
+                "مَا",
+                "هِيَهْ"
+            ],
+            "translations": [
+                "And what",
+                "will make you know",
+                "what",
+                "it is"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "نَارٌ حَامِيَةٌۢ",
+            "translation": "˹It is˺ a scorching Fire.",
+            "originals": [
+                "نَارٌ",
+                "حَامِيَةٌۢ"
+            ],
+            "translations": [
+                "A Fire",
+                "intensely hot"
+            ]
+        }
+    ]
+}

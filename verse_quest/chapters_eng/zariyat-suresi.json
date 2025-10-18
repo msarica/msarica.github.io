@@ -1,0 +1,90 @@
+{
+    "id": "zariyat-suresi",
+    "name": "The Winnowing Winds",
+    "description": "The Winnowing Winds - 51",
+    "index": 51,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " وَٱلذَّٰرِيَـٰتِ ذَرْوًا",
+            "translation": "By the winds scattering ˹dust˺,",
+            "originals": [
+                "وَٱلذَّٰرِيَـٰتِ",
+                "ذَرْوًۭا"
+            ],
+            "translations": [
+                "By those scattering",
+                "dispersing"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "فَٱلْحَـٰمِلَـٰتِ وِقْرًا",
+            "translation": "and ˹the clouds˺ loaded with rain,",
+            "originals": [
+                "فَٱلْحَـٰمِلَـٰتِ",
+                "وِقْرًۭا"
+            ],
+            "translations": [
+                "And those carrying",
+                "a load"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "فَٱلْجَـٰرِيَـٰتِ يُسْرًا",
+            "translation": "and ˹the ships˺ gliding with ease,",
+            "originals": [
+                "فَٱلْجَـٰرِيَـٰتِ",
+                "يُسْرًۭا"
+            ],
+            "translations": [
+                "And those sailing",
+                "(with) ease"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "فَٱلْمُقَسِّمَـٰتِ أَمْرًا",
+            "translation": "and ˹the angels˺ administering affairs by ˹Allah’s˺ command!",
+            "originals": [
+                "فَٱلْمُقَسِّمَـٰتِ",
+                "أَمْرًا"
+            ],
+            "translations": [
+                "And those distributing",
+                "Command"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "إِنَّمَا تُوعَدُونَ لَصَادِقٌ",
+            "translation": "Indeed, what you are promised is true.",
+            "originals": [
+                "إِنَّمَا",
+                "تُوعَدُونَ",
+                "لَصَادِقٌۭ"
+            ],
+            "translations": [
+                "Indeed, what",
+                "you are promised",
+                "(is) surely true"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "وَإِنَّ ٱلدِّينَ لَوَٰقِعٌ",
+            "translation": "And the Judgment will certainly come to pass.",
+            "originals": [
+                "وَإِنَّ",
+                "ٱلدِّينَ",
+                "لَوَٰقِعٌۭ"
+            ],
+            "translations": [
+                "And indeed",
+                "the Judgment",
+                "(is) surely to occur"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "id": "leheb-suresi",
+    "name": "The Palm Fiber",
+    "description": "The Palm Fiber - 111",
+    "index": 111,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ",
+            "translation": "May the hands of Abu Lahab perish, and he ˹himself˺ perish!",
+            "originals": [
+                "تَبَّتْ",
+                "يَدَآ",
+                "أَبِى",
+                "لَهَبٍۢ",
+                "وَتَبَّ"
+            ],
+            "translations": [
+                "Perish",
+                "(the) hands",
+                "(of) Abu",
+                "Lahab",
+                "and perish he"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+            "translation": "Neither his wealth nor ˹worldly˺ gains will benefit him.",
+            "originals": [
+                "مَآ",
+                "أَغْنَىٰ",
+                "عَنْهُ",
+                "مَالُهُۥ",
+                "وَمَا",
+                "كَسَبَ"
+            ],
+            "translations": [
+                "Not",
+                "(will) avail",
+                "him",
+                "his wealth",
+                "and what",
+                "he earned"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+            "translation": "He will burn in a flaming Fire,",
+            "originals": [
+                "سَيَصْلَىٰ",
+                "نَارًۭا",
+                "ذَاتَ",
+                "لَهَبٍۢ"
+            ],
+            "translations": [
+                "He will be burnt",
+                "(in) a Fire",
+                "of",
+                "Blazing Flames"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ",
+            "translation": "and ˹so will˺ his wife, the carrier of ˹thorny˺ kindling,<sup foot_note=77643>1</sup>",
+            "originals": [
+                "وَٱمْرَأَتُهُۥ",
+                "حَمَّالَةَ",
+                "ٱلْحَطَبِ"
+            ],
+            "translations": [
+                "And his wife",
+                "(the) carrier",
+                "(of) firewood"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "فِى جِيدِهَا حَبْلٌ مِّن مَّسَدٍۭ",
+            "translation": "around her neck will be a rope of palm-fibre.<sup foot_note=77644>1</sup>",
+            "originals": [
+                "فِى",
+                "جِيدِهَا",
+                "حَبْلٌۭ",
+                "مِّن",
+                "مَّسَدٍۭ"
+            ],
+            "translations": [
+                "In",
+                "her neck",
+                "(will be) a rope",
+                "of",
+                "palm-fiber"
+            ]
+        }
+    ]
+}

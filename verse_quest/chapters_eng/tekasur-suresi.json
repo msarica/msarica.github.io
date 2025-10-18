@@ -1,0 +1,136 @@
+{
+    "id": "tekasur-suresi",
+    "name": "The Rivalry in world increase",
+    "description": "The Rivalry in world increase - 102",
+    "index": 102,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " أَلْهَىٰكُمُ ٱلتَّكَاثُرُ",
+            "translation": "Competition for more ˹gains˺ diverts you ˹from Allah˺,",
+            "originals": [
+                "أَلْهَىٰكُمُ",
+                "ٱلتَّكَاثُرُ"
+            ],
+            "translations": [
+                "Diverts you",
+                "the competition to increase"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ",
+            "translation": "until you end up in ˹your˺ graves.<sup foot_note=77637>1</sup>",
+            "originals": [
+                "حَتَّىٰ",
+                "زُرْتُمُ",
+                "ٱلْمَقَابِرَ"
+            ],
+            "translations": [
+                "Until",
+                "you visit",
+                "the graves"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "كَلَّا سَوْفَ تَعْلَمُونَ",
+            "translation": "But no! You will soon come to know.",
+            "originals": [
+                "كَلَّا",
+                "سَوْفَ",
+                "تَعْلَمُونَ"
+            ],
+            "translations": [
+                "Nay",
+                "Soon",
+                "you will know"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+            "translation": "Again, no! You will soon come to know.",
+            "originals": [
+                "ثُمَّ",
+                "كَلَّا",
+                "سَوْفَ",
+                "تَعْلَمُونَ"
+            ],
+            "translations": [
+                "Then",
+                "nay",
+                "Soon",
+                "you will know"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ",
+            "translation": "Indeed, if you were to know ˹your fate˺ with certainty, ˹you would have acted differently˺.",
+            "originals": [
+                "كَلَّا",
+                "لَوْ",
+                "تَعْلَمُونَ",
+                "عِلْمَ",
+                "ٱلْيَقِينِ"
+            ],
+            "translations": [
+                "Nay",
+                "If",
+                "you know",
+                "(with) a knowledge",
+                "(of) certainty"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "لَتَرَوُنَّ ٱلْجَحِيمَ",
+            "translation": "˹But˺ you will surely see the Hellfire.",
+            "originals": [
+                "لَتَرَوُنَّ",
+                "ٱلْجَحِيمَ"
+            ],
+            "translations": [
+                "Surely you will see",
+                "the Hellfire"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ",
+            "translation": "Again, you will surely see it with the eye of certainty.",
+            "originals": [
+                "ثُمَّ",
+                "لَتَرَوُنَّهَا",
+                "عَيْنَ",
+                "ٱلْيَقِينِ"
+            ],
+            "translations": [
+                "Then",
+                "surely you will see it",
+                "(with the) eye",
+                "(of) certainty"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ",
+            "translation": "Then, on that Day, you will definitely be questioned about ˹your worldly˺ pleasures.",
+            "originals": [
+                "ثُمَّ",
+                "لَتُسْـَٔلُنَّ",
+                "يَوْمَئِذٍ",
+                "عَنِ",
+                "ٱلنَّعِيمِ"
+            ],
+            "translations": [
+                "Then",
+                "surely you will be asked",
+                "that Day",
+                "about",
+                "the pleasures"
+            ]
+        }
+    ]
+}

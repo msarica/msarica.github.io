@@ -1,0 +1,93 @@
+{
+    "id": "hadid-suresi",
+    "name": "The Iron",
+    "description": "The Iron - 57",
+    "index": 57,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " سَبَّحَ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+            "translation": "Whatever is in the heavens and the earth glorifies Allah, for He is the Almighty, All-Wise.",
+            "originals": [
+                "سَبَّحَ",
+                "لِلَّهِ",
+                "مَا",
+                "فِى",
+                "ٱلسَّمَـٰوَٰتِ",
+                "وَٱلْأَرْضِ ۖ",
+                "وَهُوَ",
+                "ٱلْعَزِيزُ",
+                "ٱلْحَكِيمُ"
+            ],
+            "translations": [
+                "Glorifies",
+                "[to] Allah",
+                "whatever",
+                "(is) in",
+                "the heavens",
+                "and the earth",
+                "and He",
+                "(is) the All-Mighty",
+                "the All-Wise"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ يُحْىِۦ وَيُمِيتُ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+            "translation": "To Him belongs the kingdom of the heavens and the earth. He gives life and causes death. And He is Most Capable of everything.",
+            "originals": [
+                "لَهُۥ",
+                "مُلْكُ",
+                "ٱلسَّمَـٰوَٰتِ",
+                "وَٱلْأَرْضِ ۖ",
+                "يُحْىِۦ",
+                "وَيُمِيتُ ۖ",
+                "وَهُوَ",
+                "عَلَىٰ",
+                "كُلِّ",
+                "شَىْءٍۢ",
+                "قَدِيرٌ"
+            ],
+            "translations": [
+                "For Him",
+                "(is the) dominion",
+                "(of) the heavens",
+                "and the earth",
+                "He gives life",
+                "and causes death",
+                "and He",
+                "(is) over",
+                "all",
+                "things",
+                "All-Powerful"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "هُوَ ٱلْأَوَّلُ وَٱلْـَٔاخِرُ وَٱلظَّـٰهِرُ وَٱلْبَاطِنُ ۖ وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌ",
+            "translation": "He is the First and the Last, the Most High and Most Near,<sup foot_note=77488>1</sup> and He has ˹perfect˺ knowledge of all things.",
+            "originals": [
+                "هُوَ",
+                "ٱلْأَوَّلُ",
+                "وَٱلْـَٔاخِرُ",
+                "وَٱلظَّـٰهِرُ",
+                "وَٱلْبَاطِنُ ۖ",
+                "وَهُوَ",
+                "بِكُلِّ",
+                "شَىْءٍ",
+                "عَلِيمٌ"
+            ],
+            "translations": [
+                "He",
+                "(is) the First",
+                "and the Last",
+                "and the Apparent",
+                "and the Unapparent",
+                "and He",
+                "(is) of every",
+                "thing",
+                "All-Knower"
+            ]
+        }
+    ]
+}

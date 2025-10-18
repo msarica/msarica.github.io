@@ -1,0 +1,437 @@
+{
+    "id": "fecr-suresi",
+    "name": "The Dawn",
+    "description": "The Dawn - 89",
+    "index": 89,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " وَٱلْفَجْرِ",
+            "translation": "By the dawn,<sup foot_note=77616>1</sup>",
+            "originals": [
+                "وَٱلْفَجْرِ"
+            ],
+            "translations": [
+                "By the dawn"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "وَلَيَالٍ عَشْرٍ",
+            "translation": "and the ten nights,<sup foot_note=77617>1</sup>",
+            "originals": [
+                "وَلَيَالٍ",
+                "عَشْرٍۢ"
+            ],
+            "translations": [
+                "And the nights",
+                "ten"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "وَٱلشَّفْعِ وَٱلْوَتْرِ",
+            "translation": "and the even and the odd,",
+            "originals": [
+                "وَٱلشَّفْعِ",
+                "وَٱلْوَتْرِ"
+            ],
+            "translations": [
+                "And the even",
+                "and the odd"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "وَٱلَّيْلِ إِذَا يَسْرِ",
+            "translation": "and the night when it passes!",
+            "originals": [
+                "وَٱلَّيْلِ",
+                "إِذَا",
+                "يَسْرِ"
+            ],
+            "translations": [
+                "And the night",
+                "when",
+                "it passes"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "هَلْ فِى ذَٰلِكَ قَسَمٌ لِّذِى حِجْرٍ",
+            "translation": "Is all this ˹not˺ a sufficient oath for those who have sense?",
+            "originals": [
+                "هَلْ",
+                "فِى",
+                "ذَٰلِكَ",
+                "قَسَمٌۭ",
+                "لِّذِى",
+                "حِجْرٍ"
+            ],
+            "translations": [
+                "Is",
+                "in",
+                "that",
+                "(not) an oath",
+                "for those",
+                "who understand"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ",
+            "translation": "Did you not see how your Lord dealt with ’Ȃd—",
+            "originals": [
+                "أَلَمْ",
+                "تَرَ",
+                "كَيْفَ",
+                "فَعَلَ",
+                "رَبُّكَ",
+                "بِعَادٍ"
+            ],
+            "translations": [
+                "Did not",
+                "you see",
+                "how",
+                "dealt",
+                "your Lord",
+                "with Aad"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+            "translation": "˹the people˺ of Iram—with ˹their˺ great stature,",
+            "originals": [
+                "إِرَمَ",
+                "ذَاتِ",
+                "ٱلْعِمَادِ"
+            ],
+            "translations": [
+                "Iram",
+                "possessors (of)",
+                "lofty pillars"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "ٱلَّتِى لَمْ يُخْلَقْ مِثْلُهَا فِى ٱلْبِلَـٰدِ",
+            "translation": "unmatched in any other land;",
+            "originals": [
+                "ٱلَّتِى",
+                "لَمْ",
+                "يُخْلَقْ",
+                "مِثْلُهَا",
+                "فِى",
+                "ٱلْبِلَـٰدِ"
+            ],
+            "translations": [
+                "Which",
+                "not",
+                "had been created",
+                "like them",
+                "in",
+                "the cities"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "وَثَمُودَ ٱلَّذِينَ جَابُوا۟ ٱلصَّخْرَ بِٱلْوَادِ",
+            "translation": "and Thamûd who carved ˹their homes into˺ the rocks in the ˹Stone˺ Valley;",
+            "originals": [
+                "وَثَمُودَ",
+                "ٱلَّذِينَ",
+                "جَابُوا۟",
+                "ٱلصَّخْرَ",
+                "بِٱلْوَادِ"
+            ],
+            "translations": [
+                "And Thamud",
+                "who",
+                "carved out",
+                "the rocks",
+                "in the valley"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "وَفِرْعَوْنَ ذِى ٱلْأَوْتَادِ",
+            "translation": "and the Pharaoh of mighty structures?<sup foot_note=77618>1</sup>",
+            "originals": [
+                "وَفِرْعَوْنَ",
+                "ذِى",
+                "ٱلْأَوْتَادِ"
+            ],
+            "translations": [
+                "And Firaun",
+                "owner of",
+                "stakes"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "ٱلَّذِينَ طَغَوْا۟ فِى ٱلْبِلَـٰدِ",
+            "translation": "They all transgressed throughout the land,",
+            "originals": [
+                "ٱلَّذِينَ",
+                "طَغَوْا۟",
+                "فِى",
+                "ٱلْبِلَـٰدِ"
+            ],
+            "translations": [
+                "Who",
+                "transgressed",
+                "in",
+                "the lands"
+            ]
+        },
+        {
+            "id": "12",
+            "sentence": "فَأَكْثَرُوا۟ فِيهَا ٱلْفَسَادَ",
+            "translation": "spreading much corruption there.",
+            "originals": [
+                "فَأَكْثَرُوا۟",
+                "فِيهَا",
+                "ٱلْفَسَادَ"
+            ],
+            "translations": [
+                "And (made) much",
+                "therein",
+                "corruption"
+            ]
+        },
+        {
+            "id": "13",
+            "sentence": "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ",
+            "translation": "So your Lord unleashed on them a scourge of punishment.<sup foot_note=77619>1</sup>",
+            "originals": [
+                "فَصَبَّ",
+                "عَلَيْهِمْ",
+                "رَبُّكَ",
+                "سَوْطَ",
+                "عَذَابٍ"
+            ],
+            "translations": [
+                "So poured",
+                "on them",
+                "your Lord",
+                "scourge",
+                "(of) punishment"
+            ]
+        },
+        {
+            "id": "14",
+            "sentence": "إِنَّ رَبَّكَ لَبِٱلْمِرْصَادِ",
+            "translation": "˹For˺ your Lord is truly vigilant.",
+            "originals": [
+                "إِنَّ",
+                "رَبَّكَ",
+                "لَبِٱلْمِرْصَادِ"
+            ],
+            "translations": [
+                "Indeed",
+                "your Lord",
+                "(is) surely Ever Watchful"
+            ]
+        },
+        {
+            "id": "15",
+            "sentence": "فَأَمَّا ٱلْإِنسَـٰنُ إِذَا مَا ٱبْتَلَىٰهُ رَبُّهُۥ فَأَكْرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّىٓ أَكْرَمَنِ",
+            "translation": "Now, whenever a human being is tested by their Lord through ˹His˺ generosity and blessings, they boast, “My Lord has ˹deservedly˺ honoured me!”",
+            "originals": [
+                "فَأَمَّا",
+                "ٱلْإِنسَـٰنُ",
+                "إِذَا",
+                "مَا",
+                "ٱبْتَلَىٰهُ",
+                "رَبُّهُۥ",
+                "فَأَكْرَمَهُۥ",
+                "وَنَعَّمَهُۥ",
+                "فَيَقُولُ",
+                "رَبِّىٓ",
+                "أَكْرَمَنِ"
+            ],
+            "translations": [
+                "And as for",
+                "man",
+                "when",
+                "does",
+                "try him",
+                "his Lord",
+                "and is generous to him",
+                "and favors him",
+                "he says",
+                "My Lord",
+                "has honored me"
+            ]
+        },
+        {
+            "id": "16",
+            "sentence": "وَأَمَّآ إِذَا مَا ٱبْتَلَىٰهُ فَقَدَرَ عَلَيْهِ رِزْقَهُۥ فَيَقُولُ رَبِّىٓ أَهَـٰنَنِ",
+            "translation": "But when He tests them by limiting their provision, they protest, “My Lord has ˹undeservedly˺ humiliated me!”",
+            "originals": [
+                "وَأَمَّآ",
+                "إِذَا",
+                "مَا",
+                "ٱبْتَلَىٰهُ",
+                "فَقَدَرَ",
+                "عَلَيْهِ",
+                "رِزْقَهُۥ",
+                "فَيَقُولُ",
+                "رَبِّىٓ",
+                "أَهَـٰنَنِ"
+            ],
+            "translations": [
+                "But",
+                "when",
+                "does",
+                "He try him",
+                "and restricts",
+                "for him",
+                "his provision",
+                "then he says",
+                "My Lord",
+                "(has) humiliated me"
+            ]
+        },
+        {
+            "id": "17",
+            "sentence": "كَلَّا ۖ بَل لَّا تُكْرِمُونَ ٱلْيَتِيمَ",
+            "translation": "Absolutely not! In fact, you are not ˹even˺ gracious to the orphan,",
+            "originals": [
+                "كَلَّا ۖ",
+                "بَل",
+                "لَّا",
+                "تُكْرِمُونَ",
+                "ٱلْيَتِيمَ"
+            ],
+            "translations": [
+                "Nay",
+                "But",
+                "not",
+                "you honor",
+                "the orphan"
+            ]
+        },
+        {
+            "id": "18",
+            "sentence": "وَلَا تَحَـٰٓضُّونَ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+            "translation": "nor do you urge one another to feed the poor.",
+            "originals": [
+                "وَلَا",
+                "تَحَـٰٓضُّونَ",
+                "عَلَىٰ",
+                "طَعَامِ",
+                "ٱلْمِسْكِينِ"
+            ],
+            "translations": [
+                "And not",
+                "you feel the urge",
+                "to",
+                "feed",
+                "the poor"
+            ]
+        },
+        {
+            "id": "19",
+            "sentence": "وَتَأْكُلُونَ ٱلتُّرَاثَ أَكْلًا لَّمًّا",
+            "translation": "And you devour ˹others’˺ inheritance greedily,<sup foot_note=77620>1</sup>",
+            "originals": [
+                "وَتَأْكُلُونَ",
+                "ٱلتُّرَاثَ",
+                "أَكْلًۭا",
+                "لَّمًّۭا"
+            ],
+            "translations": [
+                "And you consume",
+                "the inheritance",
+                "devouring",
+                "altogether"
+            ]
+        },
+        {
+            "id": "20",
+            "sentence": "وَتُحِبُّونَ ٱلْمَالَ حُبًّا جَمًّا",
+            "translation": "and love wealth fervently.",
+            "originals": [
+                "وَتُحِبُّونَ",
+                "ٱلْمَالَ",
+                "حُبًّۭا",
+                "جَمًّۭا"
+            ],
+            "translations": [
+                "And you love",
+                "wealth",
+                "(with) love",
+                "immense"
+            ]
+        },
+        {
+            "id": "21",
+            "sentence": "كَلَّآ إِذَا دُكَّتِ ٱلْأَرْضُ دَكًّا دَكًّا",
+            "translation": "Enough! When the earth is entirely crushed over and over,",
+            "originals": [
+                "كَلَّآ",
+                "إِذَا",
+                "دُكَّتِ",
+                "ٱلْأَرْضُ",
+                "دَكًّۭا",
+                "دَكًّۭا"
+            ],
+            "translations": [
+                "Nay",
+                "When",
+                "is leveled",
+                "the earth",
+                "pounded",
+                "(and) crushed"
+            ]
+        },
+        {
+            "id": "22",
+            "sentence": "وَجَآءَ رَبُّكَ وَٱلْمَلَكُ صَفًّا صَفًّا",
+            "translation": "and your Lord comes ˹to judge˺ with angels, rank upon rank,",
+            "originals": [
+                "وَجَآءَ",
+                "رَبُّكَ",
+                "وَٱلْمَلَكُ",
+                "صَفًّۭا",
+                "صَفًّۭا"
+            ],
+            "translations": [
+                "And comes",
+                "your Lord",
+                "and the Angels",
+                "rank",
+                "(upon) rank"
+            ]
+        },
+        {
+            "id": "23",
+            "sentence": "وَجِا۟ىٓءَ يَوْمَئِذٍۭ بِجَهَنَّمَ ۚ يَوْمَئِذٍ يَتَذَكَّرُ ٱلْإِنسَـٰنُ وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ",
+            "translation": "and Hell is brought forth on that Day—this is when every ˹disbelieving˺ person will remember ˹their own sins˺. But what is the use of remembering then?",
+            "originals": [
+                "وَجِا۟ىٓءَ",
+                "يَوْمَئِذٍۭ",
+                "بِجَهَنَّمَ ۚ",
+                "يَوْمَئِذٍۢ",
+                "يَتَذَكَّرُ",
+                "ٱلْإِنسَـٰنُ",
+                "وَأَنَّىٰ",
+                "لَهُ",
+                "ٱلذِّكْرَىٰ"
+            ],
+            "translations": [
+                "And is brought",
+                "that Day",
+                "Hell",
+                "That Day",
+                "will remember",
+                "man",
+                "but how",
+                "(will be) for him",
+                "the remembrance"
+            ]
+        }
+    ]
+}

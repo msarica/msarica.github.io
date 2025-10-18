@@ -1,0 +1,327 @@
+{
+    "id": "meryem-suresi",
+    "name": "Mary",
+    "description": "Mary - 19",
+    "index": 19,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " كٓهيعٓصٓ",
+            "translation": "Kãf-Ha-Ya-’Aĩn- Ṣãd.",
+            "originals": [
+                "كٓهيعٓصٓ"
+            ],
+            "translations": [
+                "Kaaf Ha Ya Ain Sad"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "ذِكْرُ رَحْمَتِ رَبِّكَ عَبْدَهُۥ زَكَرِيَّآ",
+            "translation": "˹This is˺ a reminder of your Lord’s mercy to His servant Zachariah,",
+            "originals": [
+                "ذِكْرُ",
+                "رَحْمَتِ",
+                "رَبِّكَ",
+                "عَبْدَهُۥ",
+                "زَكَرِيَّآ"
+            ],
+            "translations": [
+                "(A) mention",
+                "(of the) Mercy",
+                "(of) your Lord",
+                "(to) His servant",
+                "Zakariya"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "إِذْ نَادَىٰ رَبَّهُۥ نِدَآءً خَفِيًّا",
+            "translation": "when he cried out to his Lord privately,",
+            "originals": [
+                "إِذْ",
+                "نَادَىٰ",
+                "رَبَّهُۥ",
+                "نِدَآءً",
+                "خَفِيًّۭا"
+            ],
+            "translations": [
+                "When",
+                "he called",
+                "(to) his Lord",
+                "a call ",
+                "secret"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "قَالَ رَبِّ إِنِّى وَهَنَ ٱلْعَظْمُ مِنِّى وَٱشْتَعَلَ ٱلرَّأْسُ شَيْبًا وَلَمْ أَكُنۢ بِدُعَآئِكَ رَبِّ شَقِيًّا",
+            "translation": "saying, “My Lord! Surely my bones have become brittle, and grey hair has spread across my head, but I have never been disappointed in my prayer to You, my Lord!",
+            "originals": [
+                "قَالَ",
+                "رَبِّ",
+                "إِنِّى",
+                "وَهَنَ",
+                "ٱلْعَظْمُ",
+                "مِنِّى",
+                "وَٱشْتَعَلَ",
+                "ٱلرَّأْسُ",
+                "شَيْبًۭا",
+                "وَلَمْ",
+                "أَكُنۢ",
+                "بِدُعَآئِكَ",
+                "رَبِّ",
+                "شَقِيًّۭا"
+            ],
+            "translations": [
+                "He said",
+                "My Lord",
+                "Indeed, [I]",
+                "(have) weakened",
+                "my bones",
+                "my bones",
+                "and flared",
+                "(my) head",
+                "(with) white",
+                "and not",
+                "I have been",
+                "in (my) supplication (to) You",
+                "my Lord",
+                "unblessed"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّا",
+            "translation": "And I am concerned about ˹the faith of˺ my relatives after me, since my wife is barren. So grant me, by Your grace, an heir,",
+            "originals": [
+                "وَإِنِّى",
+                "خِفْتُ",
+                "ٱلْمَوَٰلِىَ",
+                "مِن",
+                "وَرَآءِى",
+                "وَكَانَتِ",
+                "ٱمْرَأَتِى",
+                "عَاقِرًۭا",
+                "فَهَبْ",
+                "لِى",
+                "مِن",
+                "لَّدُنكَ",
+                "وَلِيًّۭا"
+            ],
+            "translations": [
+                "And indeed, I",
+                "[I] fear",
+                "the successors",
+                "after me",
+                "after me",
+                "and is",
+                "my wife",
+                "barren",
+                "So give",
+                "[to] me",
+                "from",
+                "Yourself",
+                "an heir"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "يَرِثُنِى وَيَرِثُ مِنْ ءَالِ يَعْقُوبَ ۖ وَٱجْعَلْهُ رَبِّ رَضِيًّا",
+            "translation": "who will inherit ˹prophethood˺ from me and the family of Jacob, and make him, O  Lord, pleasing ˹to You˺!”",
+            "originals": [
+                "يَرِثُنِى",
+                "وَيَرِثُ",
+                "مِنْ",
+                "ءَالِ",
+                "يَعْقُوبَ ۖ",
+                "وَٱجْعَلْهُ",
+                "رَبِّ",
+                "رَضِيًّۭا"
+            ],
+            "translations": [
+                "Who will inherit me",
+                "and inherit",
+                "from",
+                "(the) family",
+                "(of) Yaqub",
+                "And make him",
+                "my Lord",
+                "pleasing"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "يَـٰزَكَرِيَّآ إِنَّا نُبَشِّرُكَ بِغُلَـٰمٍ ٱسْمُهُۥ يَحْيَىٰ لَمْ نَجْعَل لَّهُۥ مِن قَبْلُ سَمِيًّا",
+            "translation": "˹The angels announced,˺ “O Zachariah! Indeed, We give you the good news of ˹the birth of˺ a son, whose name will be John—a name We have not given to anyone before.”",
+            "originals": [
+                "يَـٰزَكَرِيَّآ",
+                "إِنَّا",
+                "نُبَشِّرُكَ",
+                "بِغُلَـٰمٍ",
+                "ٱسْمُهُۥ",
+                "يَحْيَىٰ",
+                "لَمْ",
+                "نَجْعَل",
+                "لَّهُۥ",
+                "مِن",
+                "قَبْلُ",
+                "سَمِيًّۭا"
+            ],
+            "translations": [
+                "O Zakariya",
+                "Indeed, We",
+                "[We] give you glad tidings",
+                "of a boy",
+                "his name",
+                "(will be) Yahya",
+                "not",
+                "We (have) assigned",
+                "[for] it",
+                "before",
+                "before",
+                "(this) name"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَـٰمٌ وَكَانَتِ ٱمْرَأَتِى عَاقِرًا وَقَدْ بَلَغْتُ مِنَ ٱلْكِبَرِ عِتِيًّا",
+            "translation": "He wondered, “My Lord! How can I have a son when my wife is barren, and I have become extremely old?”",
+            "originals": [
+                "قَالَ",
+                "رَبِّ",
+                "أَنَّىٰ",
+                "يَكُونُ",
+                "لِى",
+                "غُلَـٰمٌۭ",
+                "وَكَانَتِ",
+                "ٱمْرَأَتِى",
+                "عَاقِرًۭا",
+                "وَقَدْ",
+                "بَلَغْتُ",
+                "مِنَ",
+                "ٱلْكِبَرِ",
+                "عِتِيًّۭا"
+            ],
+            "translations": [
+                "He said",
+                "My Lord",
+                "How",
+                "can",
+                "I have",
+                "a boy",
+                "while is",
+                "my wife",
+                "barren",
+                "and indeed",
+                "I have reached",
+                "of",
+                "the old age",
+                "extreme"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "قَالَ كَذَٰلِكَ قَالَ رَبُّكَ هُوَ عَلَىَّ هَيِّنٌ وَقَدْ خَلَقْتُكَ مِن قَبْلُ وَلَمْ تَكُ شَيْـًٔا",
+            "translation": "An angel replied, “So will it be! Your Lord says, ‘It is easy for Me, just as I created you before, when you were nothing!’”",
+            "originals": [
+                "قَالَ",
+                "كَذَٰلِكَ",
+                "قَالَ",
+                "رَبُّكَ",
+                "هُوَ",
+                "عَلَىَّ",
+                "هَيِّنٌۭ",
+                "وَقَدْ",
+                "خَلَقْتُكَ",
+                "مِن",
+                "قَبْلُ",
+                "وَلَمْ",
+                "تَكُ",
+                "شَيْـًۭٔا"
+            ],
+            "translations": [
+                "He said",
+                "Thus",
+                "said",
+                "your Lord",
+                "'It",
+                "(is) easy for Me",
+                "(is) easy for Me",
+                "and certainly",
+                "I (have) created you",
+                "before",
+                "before",
+                "while not",
+                "you were",
+                "anything.'"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "قَالَ رَبِّ ٱجْعَل لِّىٓ ءَايَةً ۚ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَـٰثَ لَيَالٍ سَوِيًّا",
+            "translation": "Zachariah said, “My Lord! Grant me a sign.” He responded, “Your sign is that you will not ˹be able to˺ speak to people for three nights, despite being healthy.”",
+            "originals": [
+                "قَالَ",
+                "رَبِّ",
+                "ٱجْعَل",
+                "لِّىٓ",
+                "ءَايَةًۭ ۚ",
+                "قَالَ",
+                "ءَايَتُكَ",
+                "أَلَّا",
+                "تُكَلِّمَ",
+                "ٱلنَّاسَ",
+                "ثَلَـٰثَ",
+                "لَيَالٍۢ",
+                "سَوِيًّۭا"
+            ],
+            "translations": [
+                "He said",
+                "My Lord",
+                "Make",
+                "for me",
+                "a sign",
+                "He said",
+                "Your sign",
+                "(is) that not",
+                "you will speak",
+                "(to) the people",
+                "(for) three",
+                "nights",
+                "sound"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ مِنَ ٱلْمِحْرَابِ فَأَوْحَىٰٓ إِلَيْهِمْ أَن سَبِّحُوا۟ بُكْرَةً وَعَشِيًّا",
+            "translation": "So he came out to his people from the sanctuary, signalling to them to glorify ˹Allah˺ morning and evening.",
+            "originals": [
+                "فَخَرَجَ",
+                "عَلَىٰ",
+                "قَوْمِهِۦ",
+                "مِنَ",
+                "ٱلْمِحْرَابِ",
+                "فَأَوْحَىٰٓ",
+                "إِلَيْهِمْ",
+                "أَن",
+                "سَبِّحُوا۟",
+                "بُكْرَةًۭ",
+                "وَعَشِيًّۭا"
+            ],
+            "translations": [
+                "Then he came out",
+                "to",
+                "his people",
+                "from",
+                "the prayer chamber",
+                "and he signaled",
+                "to them",
+                "to",
+                "glorify (Allah)",
+                "(in) the morning",
+                "and (in) the evening"
+            ]
+        }
+    ]
+}

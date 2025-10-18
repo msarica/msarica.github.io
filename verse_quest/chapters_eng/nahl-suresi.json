@@ -1,0 +1,176 @@
+{
+    "id": "nahl-suresi",
+    "name": "The Bee",
+    "description": "The Bee - 16",
+    "index": 16,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " أَتَىٰٓ أَمْرُ ٱللَّهِ فَلَا تَسْتَعْجِلُوهُ ۚ سُبْحَـٰنَهُۥ وَتَعَـٰلَىٰ عَمَّا يُشْرِكُونَ",
+            "translation": "The command of Allah is at hand, so do not hasten it. Glorified and Exalted is He above what they associate ˹with Him in worship˺!",
+            "originals": [
+                "أَتَىٰٓ",
+                "أَمْرُ",
+                "ٱللَّهِ",
+                "فَلَا",
+                "تَسْتَعْجِلُوهُ ۚ",
+                "سُبْحَـٰنَهُۥ",
+                "وَتَعَـٰلَىٰ",
+                "عَمَّا",
+                "يُشْرِكُونَ"
+            ],
+            "translations": [
+                "Will come",
+                "(the) command of Allah",
+                "(the) command of Allah",
+                "so (do) not",
+                "(be) impatient for it",
+                "Glorified is He",
+                "and Exalted (is) He",
+                "above what",
+                "they associate"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "يُنَزِّلُ ٱلْمَلَـٰٓئِكَةَ بِٱلرُّوحِ مِنْ أَمْرِهِۦ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦٓ أَنْ أَنذِرُوٓا۟ أَنَّهُۥ لَآ إِلَـٰهَ إِلَّآ أَنَا۠ فَٱتَّقُونِ",
+            "translation": "He sends down the angels with revelation by His command to whoever He wills of His servants, ˹stating:˺ “Warn ˹humanity˺ that there is no god ˹worthy of worship˺ except Me, so be mindful of Me ˹alone˺.”",
+            "originals": [
+                "يُنَزِّلُ",
+                "ٱلْمَلَـٰٓئِكَةَ",
+                "بِٱلرُّوحِ",
+                "مِنْ",
+                "أَمْرِهِۦ",
+                "عَلَىٰ",
+                "مَن",
+                "يَشَآءُ",
+                "مِنْ",
+                "عِبَادِهِۦٓ",
+                "أَنْ",
+                "أَنذِرُوٓا۟",
+                "أَنَّهُۥ",
+                "لَآ",
+                "إِلَـٰهَ",
+                "إِلَّآ",
+                "أَنَا۠",
+                "فَٱتَّقُونِ"
+            ],
+            "translations": [
+                "He sends down",
+                "the Angels",
+                "with the inspiration",
+                "of",
+                "His Command",
+                "upon",
+                "whom",
+                "He wills",
+                "of",
+                "His slaves",
+                "that",
+                "Warn",
+                "that [He]",
+                "(there is) no",
+                "god",
+                "except",
+                "Me",
+                "so fear Me"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ ۚ تَعَـٰلَىٰ عَمَّا يُشْرِكُونَ",
+            "translation": "He created the heavens and the earth for a purpose. Exalted is He above what they associate with Him ˹in worship˺!",
+            "originals": [
+                "خَلَقَ",
+                "ٱلسَّمَـٰوَٰتِ",
+                "وَٱلْأَرْضَ",
+                "بِٱلْحَقِّ ۚ",
+                "تَعَـٰلَىٰ",
+                "عَمَّا",
+                "يُشْرِكُونَ"
+            ],
+            "translations": [
+                "He created",
+                "the heavens",
+                "and the earth",
+                "in truth",
+                "Exalted is He",
+                "above what",
+                "they associate"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "خَلَقَ ٱلْإِنسَـٰنَ مِن نُّطْفَةٍ فَإِذَا هُوَ خَصِيمٌ مُّبِينٌ",
+            "translation": "He created humans from a sperm-drop, then—behold!—they openly challenge ˹Him˺.",
+            "originals": [
+                "خَلَقَ",
+                "ٱلْإِنسَـٰنَ",
+                "مِن",
+                "نُّطْفَةٍۢ",
+                "فَإِذَا",
+                "هُوَ",
+                "خَصِيمٌۭ",
+                "مُّبِينٌۭ"
+            ],
+            "translations": [
+                "He created",
+                "the human kind",
+                "from",
+                "a minute quantity of semen",
+                "then behold",
+                "he",
+                "(is) an opponent",
+                "clear"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "وَٱلْأَنْعَـٰمَ خَلَقَهَا ۗ لَكُمْ فِيهَا دِفْءٌ وَمَنَـٰفِعُ وَمِنْهَا تَأْكُلُونَ",
+            "translation": "And He created the cattle for you as a source of warmth, food, and ˹many other˺ benefits.",
+            "originals": [
+                "وَٱلْأَنْعَـٰمَ",
+                "خَلَقَهَا ۗ",
+                "لَكُمْ",
+                "فِيهَا",
+                "دِفْءٌۭ",
+                "وَمَنَـٰفِعُ",
+                "وَمِنْهَا",
+                "تَأْكُلُونَ"
+            ],
+            "translations": [
+                "And the cattle",
+                "He created them",
+                "for you",
+                "in them",
+                "(is) warmth",
+                "and benefits",
+                "and from them",
+                "you eat"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "وَلَكُمْ فِيهَا جَمَالٌ حِينَ تُرِيحُونَ وَحِينَ تَسْرَحُونَ",
+            "translation": "They are also pleasing to you when you bring them home and when you take them out to graze.",
+            "originals": [
+                "وَلَكُمْ",
+                "فِيهَا",
+                "جَمَالٌ",
+                "حِينَ",
+                "تُرِيحُونَ",
+                "وَحِينَ",
+                "تَسْرَحُونَ"
+            ],
+            "translations": [
+                "And for you",
+                "in them",
+                "(is) beauty",
+                "when",
+                "you bring them in",
+                "and when",
+                "you take them out"
+            ]
+        }
+    ]
+}

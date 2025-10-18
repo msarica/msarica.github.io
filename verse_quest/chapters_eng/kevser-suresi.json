@@ -1,0 +1,55 @@
+{
+    "id": "kevser-suresi",
+    "name": "The Abundance",
+    "description": "The Abundance - 108",
+    "index": 108,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " إِنَّآ أَعْطَيْنَـٰكَ ٱلْكَوْثَرَ",
+            "translation": "Indeed, We have granted you ˹O Prophet˺ abundant goodness.<sup foot_note=77642>1</sup>",
+            "originals": [
+                "إِنَّآ",
+                "أَعْطَيْنَـٰكَ",
+                "ٱلْكَوْثَرَ"
+            ],
+            "translations": [
+                "Indeed, We",
+                "We have given you",
+                "Al-Kauthar"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
+            "translation": "So pray and sacrifice to your Lord ˹alone˺.",
+            "originals": [
+                "فَصَلِّ",
+                "لِرَبِّكَ",
+                "وَٱنْحَرْ"
+            ],
+            "translations": [
+                "So pray",
+                "to your Lord",
+                "and sacrifice"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
+            "translation": "Only the one who hates you is truly cut off ˹from any goodness˺.",
+            "originals": [
+                "إِنَّ",
+                "شَانِئَكَ",
+                "هُوَ",
+                "ٱلْأَبْتَرُ"
+            ],
+            "translations": [
+                "Indeed",
+                "your enemy ",
+                "he (is)",
+                "the one cut off"
+            ]
+        }
+    ]
+}

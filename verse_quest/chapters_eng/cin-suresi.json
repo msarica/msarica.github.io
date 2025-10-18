@@ -1,0 +1,397 @@
+{
+    "id": "cin-suresi",
+    "name": "The Jinn",
+    "description": "The Jinn - 72",
+    "index": 72,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " قُلْ أُوحِىَ إِلَىَّ أَنَّهُ ٱسْتَمَعَ نَفَرٌ مِّنَ ٱلْجِنِّ فَقَالُوٓا۟ إِنَّا سَمِعْنَا قُرْءَانًا عَجَبًا",
+            "translation": "Say, ˹O Prophet,˺ “It has been revealed to me that a group of jinn listened ˹to the Quran,˺ and said ˹to their fellow jinn˺: ‘Indeed, we have heard a wondrous recitation.",
+            "originals": [
+                "قُلْ",
+                "أُوحِىَ",
+                "إِلَىَّ",
+                "أَنَّهُ",
+                "ٱسْتَمَعَ",
+                "نَفَرٌۭ",
+                "مِّنَ",
+                "ٱلْجِنِّ",
+                "فَقَالُوٓا۟",
+                "إِنَّا",
+                "سَمِعْنَا",
+                "قُرْءَانًا",
+                "عَجَبًۭا"
+            ],
+            "translations": [
+                "Say",
+                "It has been revealed",
+                "to me",
+                "that",
+                "listened",
+                "a group",
+                "of",
+                "the jinn",
+                "and they said",
+                "Indeed, we",
+                "heard",
+                "a Quran",
+                "amazing"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًا",
+            "translation": "It leads to Right Guidance so we believed in it, and we will never associate anyone with our Lord ˹in worship˺.",
+            "originals": [
+                "يَهْدِىٓ",
+                "إِلَى",
+                "ٱلرُّشْدِ",
+                "فَـَٔامَنَّا",
+                "بِهِۦ ۖ",
+                "وَلَن",
+                "نُّشْرِكَ",
+                "بِرَبِّنَآ",
+                "أَحَدًۭا"
+            ],
+            "translations": [
+                "It guides",
+                "to",
+                "the right way",
+                "so we believe",
+                "in it",
+                "and never",
+                "we will associate",
+                "with our Lord",
+                "anyone"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "وَأَنَّهُۥ تَعَـٰلَىٰ جَدُّ رَبِّنَا مَا ٱتَّخَذَ صَـٰحِبَةً وَلَا وَلَدًا",
+            "translation": "˹Now, we believe that˺ our Lord—Exalted is His Majesty—has neither taken a mate nor offspring,",
+            "originals": [
+                "وَأَنَّهُۥ",
+                "تَعَـٰلَىٰ",
+                "جَدُّ",
+                "رَبِّنَا",
+                "مَا",
+                "ٱتَّخَذَ",
+                "صَـٰحِبَةًۭ",
+                "وَلَا",
+                "وَلَدًۭا"
+            ],
+            "translations": [
+                "And that He ",
+                "Exalted is",
+                "(the) Majesty",
+                "(of) our Lord ",
+                "not",
+                "He has taken",
+                "a wife",
+                "and not",
+                "a son"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "وَأَنَّهُۥ كَانَ يَقُولُ سَفِيهُنَا عَلَى ٱللَّهِ شَطَطًا",
+            "translation": "and that the foolish of us used to utter ˹outrageous˺ falsehoods about Allah.<sup foot_note=77556>1</sup>",
+            "originals": [
+                "وَأَنَّهُۥ",
+                "كَانَ",
+                "يَقُولُ",
+                "سَفِيهُنَا",
+                "عَلَى",
+                "ٱللَّهِ",
+                "شَطَطًۭا"
+            ],
+            "translations": [
+                "And that he",
+                "used to",
+                "speak ",
+                "the foolish among us",
+                "against",
+                "Allah",
+                "an excessive transgression"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "وَأَنَّا ظَنَنَّآ أَن لَّن تَقُولَ ٱلْإِنسُ وَٱلْجِنُّ عَلَى ٱللَّهِ كَذِبًا",
+            "translation": "We certainly thought that humans and jinn would never speak lies about Allah.",
+            "originals": [
+                "وَأَنَّا",
+                "ظَنَنَّآ",
+                "أَن",
+                "لَّن",
+                "تَقُولَ",
+                "ٱلْإِنسُ",
+                "وَٱلْجِنُّ",
+                "عَلَى",
+                "ٱللَّهِ",
+                "كَذِبًۭا"
+            ],
+            "translations": [
+                "And that we",
+                "thought",
+                "that",
+                "never",
+                "will say",
+                "the men",
+                "and the jinn",
+                "against",
+                "Allah",
+                "any lie"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "وَأَنَّهُۥ كَانَ رِجَالٌ مِّنَ ٱلْإِنسِ يَعُوذُونَ بِرِجَالٍ مِّنَ ٱلْجِنِّ فَزَادُوهُمْ رَهَقًا",
+            "translation": "And some men used to seek refuge with some jinn—so they increased each other in wickedness.<sup foot_note=77557>1</sup>",
+            "originals": [
+                "وَأَنَّهُۥ",
+                "كَانَ",
+                "رِجَالٌۭ",
+                "مِّنَ",
+                "ٱلْإِنسِ",
+                "يَعُوذُونَ",
+                "بِرِجَالٍۢ",
+                "مِّنَ",
+                "ٱلْجِنِّ",
+                "فَزَادُوهُمْ",
+                "رَهَقًۭا"
+            ],
+            "translations": [
+                "And that",
+                "(there) were",
+                "men",
+                "among",
+                "mankind",
+                "who sought refuge",
+                "in (the) men",
+                "from",
+                "the jinn",
+                "so they increased them",
+                "(in) burden"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "وَأَنَّهُمْ ظَنُّوا۟ كَمَا ظَنَنتُمْ أَن لَّن يَبْعَثَ ٱللَّهُ أَحَدًا",
+            "translation": "And those ˹humans˺ thought, just like you ˹jinn˺, that Allah would not resurrect anyone ˹for judgment˺.",
+            "originals": [
+                "وَأَنَّهُمْ",
+                "ظَنُّوا۟",
+                "كَمَا",
+                "ظَنَنتُمْ",
+                "أَن",
+                "لَّن",
+                "يَبْعَثَ",
+                "ٱللَّهُ",
+                "أَحَدًۭا"
+            ],
+            "translations": [
+                "And that they",
+                "thought",
+                "as",
+                "you thought",
+                "that",
+                "never",
+                "will raise",
+                "Allah",
+                "anyone"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "وَأَنَّا لَمَسْنَا ٱلسَّمَآءَ فَوَجَدْنَـٰهَا مُلِئَتْ حَرَسًا شَدِيدًا وَشُهُبًا",
+            "translation": "˹Earlier˺ we tried to reach heaven ˹for news˺, only to find it filled with stern guards and shooting stars.<sup foot_note=77558>1</sup>",
+            "originals": [
+                "وَأَنَّا",
+                "لَمَسْنَا",
+                "ٱلسَّمَآءَ",
+                "فَوَجَدْنَـٰهَا",
+                "مُلِئَتْ",
+                "حَرَسًۭا",
+                "شَدِيدًۭا",
+                "وَشُهُبًۭا"
+            ],
+            "translations": [
+                "And that we",
+                "sought to touch",
+                "the heaven",
+                "but we found it",
+                "filled (with)",
+                "guards",
+                "severe",
+                "and flaming fires"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "وَأَنَّا كُنَّا نَقْعُدُ مِنْهَا مَقَـٰعِدَ لِلسَّمْعِ ۖ فَمَن يَسْتَمِعِ ٱلْـَٔانَ يَجِدْ لَهُۥ شِهَابًا رَّصَدًا",
+            "translation": "We used to take up positions there for eavesdropping, but whoever dares eavesdrop now will find a flare lying in wait for them.",
+            "originals": [
+                "وَأَنَّا",
+                "كُنَّا",
+                "نَقْعُدُ",
+                "مِنْهَا",
+                "مَقَـٰعِدَ",
+                "لِلسَّمْعِ ۖ",
+                "فَمَن",
+                "يَسْتَمِعِ",
+                "ٱلْـَٔانَ",
+                "يَجِدْ",
+                "لَهُۥ",
+                "شِهَابًۭا",
+                "رَّصَدًۭا"
+            ],
+            "translations": [
+                "And that we",
+                "used to",
+                "sit",
+                "there in",
+                "positions",
+                "for hearing",
+                "but (he) who",
+                "listens",
+                "now",
+                "will find",
+                "for him",
+                "a flaming fire",
+                "waiting"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "وَأَنَّا لَا نَدْرِىٓ أَشَرٌّ أُرِيدَ بِمَن فِى ٱلْأَرْضِ أَمْ أَرَادَ بِهِمْ رَبُّهُمْ رَشَدًا",
+            "translation": "Now, we have no clue whether evil is intended for those on earth, or their Lord intends for them what is right.",
+            "originals": [
+                "وَأَنَّا",
+                "لَا",
+                "نَدْرِىٓ",
+                "أَشَرٌّ",
+                "أُرِيدَ",
+                "بِمَن",
+                "فِى",
+                "ٱلْأَرْضِ",
+                "أَمْ",
+                "أَرَادَ",
+                "بِهِمْ",
+                "رَبُّهُمْ",
+                "رَشَدًۭا"
+            ],
+            "translations": [
+                "And that we ",
+                "not",
+                "we know",
+                "whether evil",
+                "is intended",
+                "for (those) who",
+                "(are) in",
+                "the earth",
+                "or",
+                "intends",
+                "for them",
+                "their Lord",
+                "a right path"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًا",
+            "translation": "Among us are those who are righteous and those who are less so. We have been of different factions.",
+            "originals": [
+                "وَأَنَّا",
+                "مِنَّا",
+                "ٱلصَّـٰلِحُونَ",
+                "وَمِنَّا",
+                "دُونَ",
+                "ذَٰلِكَ ۖ",
+                "كُنَّا",
+                "طَرَآئِقَ",
+                "قِدَدًۭا"
+            ],
+            "translations": [
+                "And that [we]",
+                "among us",
+                "(are) the righteous",
+                "and among us",
+                "(are) other than",
+                "that",
+                "We",
+                "(are on) ways",
+                "different"
+            ]
+        },
+        {
+            "id": "12",
+            "sentence": "وَأَنَّا ظَنَنَّآ أَن لَّن نُّعْجِزَ ٱللَّهَ فِى ٱلْأَرْضِ وَلَن نُّعْجِزَهُۥ هَرَبًا",
+            "translation": "˹Now,˺ we truly know that we cannot frustrate Allah on earth, nor can we escape from Him ˹into heaven˺.",
+            "originals": [
+                "وَأَنَّا",
+                "ظَنَنَّآ",
+                "أَن",
+                "لَّن",
+                "نُّعْجِزَ",
+                "ٱللَّهَ",
+                "فِى",
+                "ٱلْأَرْضِ",
+                "وَلَن",
+                "نُّعْجِزَهُۥ",
+                "هَرَبًۭا"
+            ],
+            "translations": [
+                "And that we",
+                "[we] have become certain",
+                "that",
+                "never",
+                "we will cause failure",
+                "(to) Allah",
+                "in",
+                "the earth",
+                "and never",
+                "we can escape Him",
+                "(by) flight"
+            ]
+        },
+        {
+            "id": "13",
+            "sentence": "وَأَنَّا لَمَّا سَمِعْنَا ٱلْهُدَىٰٓ ءَامَنَّا بِهِۦ ۖ فَمَن يُؤْمِنۢ بِرَبِّهِۦ فَلَا يَخَافُ بَخْسًا وَلَا رَهَقًا",
+            "translation": "When we heard the guidance ˹of the Quran˺, we ˹readily˺ believed in it. For whoever believes in their Lord will have no fear of being denied ˹a reward˺ or wronged.",
+            "originals": [
+                "وَأَنَّا",
+                "لَمَّا",
+                "سَمِعْنَا",
+                "ٱلْهُدَىٰٓ",
+                "ءَامَنَّا",
+                "بِهِۦ ۖ",
+                "فَمَن",
+                "يُؤْمِنۢ",
+                "بِرَبِّهِۦ",
+                "فَلَا",
+                "يَخَافُ",
+                "بَخْسًۭا",
+                "وَلَا",
+                "رَهَقًۭا"
+            ],
+            "translations": [
+                "And that [we]",
+                "when",
+                "we heard",
+                "the Guidance",
+                "we believed",
+                "in it",
+                "And whoever",
+                "believes",
+                "in his Lord",
+                "then not",
+                "he will fear",
+                "any loss",
+                "and not",
+                "any burden"
+            ]
+        }
+    ]
+}

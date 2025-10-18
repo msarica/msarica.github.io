@@ -1,0 +1,268 @@
+{
+    "id": "rahman-suresi",
+    "name": "The Beneficent",
+    "description": "The Beneficent - 55",
+    "index": 55,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " ٱلرَّحْمَـٰنُ",
+            "translation": "The Most Compassionate",
+            "originals": [
+                "ٱلرَّحْمَـٰنُ"
+            ],
+            "translations": [
+                "The Most Gracious"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "عَلَّمَ ٱلْقُرْءَانَ",
+            "translation": "taught the Quran,",
+            "originals": [
+                "عَلَّمَ",
+                "ٱلْقُرْءَانَ"
+            ],
+            "translations": [
+                "He taught",
+                "the Quran"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "خَلَقَ ٱلْإِنسَـٰنَ",
+            "translation": "created humanity,",
+            "originals": [
+                "خَلَقَ",
+                "ٱلْإِنسَـٰنَ"
+            ],
+            "translations": [
+                "He created",
+                "[the] man"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "عَلَّمَهُ ٱلْبَيَانَ",
+            "translation": "˹and˺ taught them speech.",
+            "originals": [
+                "عَلَّمَهُ",
+                "ٱلْبَيَانَ"
+            ],
+            "translations": [
+                "He taught him",
+                "[the] speech"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "ٱلشَّمْسُ وَٱلْقَمَرُ بِحُسْبَانٍ",
+            "translation": "The sun and the moon ˹travel˺ with precision.",
+            "originals": [
+                "ٱلشَّمْسُ",
+                "وَٱلْقَمَرُ",
+                "بِحُسْبَانٍۢ"
+            ],
+            "translations": [
+                "The sun",
+                "and the moon",
+                "by (precise) calculation"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ",
+            "translation": "The stars and the trees bow down ˹in submission˺.<sup foot_note=77469>1</sup>",
+            "originals": [
+                "وَٱلنَّجْمُ",
+                "وَٱلشَّجَرُ",
+                "يَسْجُدَانِ"
+            ],
+            "translations": [
+                "And the stars",
+                "and the trees",
+                "both prostrate"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلْمِيزَانَ",
+            "translation": "As for the sky, He raised it ˹high˺, and set the balance ˹of justice˺",
+            "originals": [
+                "وَٱلسَّمَآءَ",
+                "رَفَعَهَا",
+                "وَوَضَعَ",
+                "ٱلْمِيزَانَ"
+            ],
+            "translations": [
+                "And the heaven",
+                "He raised it",
+                "and He has set up",
+                "the balance"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "أَلَّا تَطْغَوْا۟ فِى ٱلْمِيزَانِ",
+            "translation": "so that you do not defraud the scales.",
+            "originals": [
+                "أَلَّا",
+                "تَطْغَوْا۟",
+                "فِى",
+                "ٱلْمِيزَانِ"
+            ],
+            "translations": [
+                "That not",
+                "you may transgress",
+                "in",
+                "the balance"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "وَأَقِيمُوا۟ ٱلْوَزْنَ بِٱلْقِسْطِ وَلَا تُخْسِرُوا۟ ٱلْمِيزَانَ",
+            "translation": "Weigh with justice, and do not give short measure.",
+            "originals": [
+                "وَأَقِيمُوا۟",
+                "ٱلْوَزْنَ",
+                "بِٱلْقِسْطِ",
+                "وَلَا",
+                "تُخْسِرُوا۟",
+                "ٱلْمِيزَانَ"
+            ],
+            "translations": [
+                "And establish",
+                "the weight",
+                "in justice",
+                "and (do) not",
+                "make deficient",
+                "the balance"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "وَٱلْأَرْضَ وَضَعَهَا لِلْأَنَامِ",
+            "translation": "He laid out the earth for all beings.",
+            "originals": [
+                "وَٱلْأَرْضَ",
+                "وَضَعَهَا",
+                "لِلْأَنَامِ"
+            ],
+            "translations": [
+                "And the earth",
+                "He laid it",
+                "for the creatures"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "فِيهَا فَـٰكِهَةٌ وَٱلنَّخْلُ ذَاتُ ٱلْأَكْمَامِ",
+            "translation": "In it are fruit, palm trees with date stalks,",
+            "originals": [
+                "فِيهَا",
+                "فَـٰكِهَةٌۭ",
+                "وَٱلنَّخْلُ",
+                "ذَاتُ",
+                "ٱلْأَكْمَامِ"
+            ],
+            "translations": [
+                "Therein",
+                "(is) fruit",
+                "and date-palms",
+                "having",
+                "sheaths"
+            ]
+        },
+        {
+            "id": "12",
+            "sentence": "وَٱلْحَبُّ ذُو ٱلْعَصْفِ وَٱلرَّيْحَانُ",
+            "translation": "and grain with husks, and aromatic plants.",
+            "originals": [
+                "وَٱلْحَبُّ",
+                "ذُو",
+                "ٱلْعَصْفِ",
+                "وَٱلرَّيْحَانُ"
+            ],
+            "translations": [
+                "And the grain",
+                "having",
+                "husk",
+                "and scented plants"
+            ]
+        },
+        {
+            "id": "13",
+            "sentence": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translation": "Then which of your Lord’s favours will you ˹humans and jinn˺ both deny?<sup foot_note=77470>1</sup> ",
+            "originals": [
+                "فَبِأَىِّ",
+                "ءَالَآءِ",
+                "رَبِّكُمَا",
+                "تُكَذِّبَانِ"
+            ],
+            "translations": [
+                "So which",
+                "(of the) favors",
+                "(of) your Lord",
+                "will you both deny"
+            ]
+        },
+        {
+            "id": "14",
+            "sentence": "خَلَقَ ٱلْإِنسَـٰنَ مِن صَلْصَـٰلٍ كَٱلْفَخَّارِ",
+            "translation": "He created humankind from ˹sounding˺ clay like pottery,",
+            "originals": [
+                "خَلَقَ",
+                "ٱلْإِنسَـٰنَ",
+                "مِن",
+                "صَلْصَـٰلٍۢ",
+                "كَٱلْفَخَّارِ"
+            ],
+            "translations": [
+                "He created",
+                "the man",
+                "from",
+                "clay",
+                "like the pottery"
+            ]
+        },
+        {
+            "id": "15",
+            "sentence": "وَخَلَقَ ٱلْجَآنَّ مِن مَّارِجٍ مِّن نَّارٍ",
+            "translation": "and created jinn from a ˹smokeless˺ flame of fire.",
+            "originals": [
+                "وَخَلَقَ",
+                "ٱلْجَآنَّ",
+                "مِن",
+                "مَّارِجٍۢ",
+                "مِّن",
+                "نَّارٍۢ"
+            ],
+            "translations": [
+                "And He created",
+                "the jinn",
+                "from",
+                "a smokeless flame",
+                "of",
+                "fire"
+            ]
+        },
+        {
+            "id": "16",
+            "sentence": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "translation": "Then which of your Lord’s favours will you both deny?",
+            "originals": [
+                "فَبِأَىِّ",
+                "ءَالَآءِ",
+                "رَبِّكُمَا",
+                "تُكَذِّبَانِ"
+            ],
+            "translations": [
+                "So which",
+                "(of the) favors",
+                "(of) your Lord",
+                "will you both deny"
+            ]
+        }
+    ]
+}

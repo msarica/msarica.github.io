@@ -1,0 +1,137 @@
+{
+    "id": "insan-suresi",
+    "name": "The Man",
+    "description": "The Man - 76",
+    "index": 76,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " هَلْ أَتَىٰ عَلَى ٱلْإِنسَـٰنِ حِينٌ مِّنَ ٱلدَّهْرِ لَمْ يَكُن شَيْـًٔا مَّذْكُورًا",
+            "translation": "Is there not a period of time when each human is nothing yet worth mentioning?<sup foot_note=77573>1</sup>",
+            "originals": [
+                "هَلْ",
+                "أَتَىٰ",
+                "عَلَى",
+                "ٱلْإِنسَـٰنِ",
+                "حِينٌۭ",
+                "مِّنَ",
+                "ٱلدَّهْرِ",
+                "لَمْ",
+                "يَكُن",
+                "شَيْـًۭٔا",
+                "مَّذْكُورًا"
+            ],
+            "translations": [
+                "Has",
+                "(there) come",
+                "upon",
+                "man",
+                "a period",
+                "of",
+                "time",
+                "not",
+                "he was",
+                "a thing",
+                "mentioned"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "إِنَّا خَلَقْنَا ٱلْإِنسَـٰنَ مِن نُّطْفَةٍ أَمْشَاجٍ نَّبْتَلِيهِ فَجَعَلْنَـٰهُ سَمِيعًۢا بَصِيرًا",
+            "translation": "˹For˺ indeed, We ˹alone˺ created humans from a drop of mixed fluids,<sup foot_note=77574>1</sup> ˹in order˺ to test them, so We made them hear and see.",
+            "originals": [
+                "إِنَّا",
+                "خَلَقْنَا",
+                "ٱلْإِنسَـٰنَ",
+                "مِن",
+                "نُّطْفَةٍ",
+                "أَمْشَاجٍۢ",
+                "نَّبْتَلِيهِ",
+                "فَجَعَلْنَـٰهُ",
+                "سَمِيعًۢا",
+                "بَصِيرًا"
+            ],
+            "translations": [
+                "Indeed, We",
+                "[We] created",
+                "man",
+                "from",
+                "a semen-drop",
+                "a mixture",
+                "(that) We test him",
+                "so We made (for) him",
+                "hearing",
+                "and sight"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "إِنَّا هَدَيْنَـٰهُ ٱلسَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا",
+            "translation": "We already showed them the Way, whether they ˹choose to˺ be grateful or ungrateful.",
+            "originals": [
+                "إِنَّا",
+                "هَدَيْنَـٰهُ",
+                "ٱلسَّبِيلَ",
+                "إِمَّا",
+                "شَاكِرًۭا",
+                "وَإِمَّا",
+                "كَفُورًا"
+            ],
+            "translations": [
+                "Indeed, We",
+                "guided him",
+                "(to) the way",
+                "whether",
+                "(he) be grateful",
+                "and whether",
+                "(he) be ungrateful"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "إِنَّآ أَعْتَدْنَا لِلْكَـٰفِرِينَ سَلَـٰسِلَا۟ وَأَغْلَـٰلًا وَسَعِيرًا",
+            "translation": "Indeed, We have prepared for the disbelievers chains, shackles, and a blazing Fire.",
+            "originals": [
+                "إِنَّآ",
+                "أَعْتَدْنَا",
+                "لِلْكَـٰفِرِينَ",
+                "سَلَـٰسِلَا۟",
+                "وَأَغْلَـٰلًۭا",
+                "وَسَعِيرًا"
+            ],
+            "translations": [
+                "Indeed, We",
+                "[We] have prepared",
+                "for the disbelievers",
+                "chains",
+                "and shackles",
+                "and a Blazing Fire"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "إِنَّ ٱلْأَبْرَارَ يَشْرَبُونَ مِن كَأْسٍ كَانَ مِزَاجُهَا كَافُورًا",
+            "translation": "Indeed, the virtuous will have a drink ˹of pure wine˺—flavoured with camphor—",
+            "originals": [
+                "إِنَّ",
+                "ٱلْأَبْرَارَ",
+                "يَشْرَبُونَ",
+                "مِن",
+                "كَأْسٍۢ",
+                "كَانَ",
+                "مِزَاجُهَا",
+                "كَافُورًا"
+            ],
+            "translations": [
+                "Indeed",
+                "the righteous",
+                "will drink",
+                "from",
+                "a cup",
+                "is",
+                "its mixture",
+                "(of) Kafur"
+            ]
+        }
+    ]
+}

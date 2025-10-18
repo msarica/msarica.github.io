@@ -1,0 +1,325 @@
+{
+    "id": "araf-suresi",
+    "name": "The Heights",
+    "description": "The Heights - 7",
+    "index": 7,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " الٓمٓصٓ",
+            "translation": "Alif-Lãm-Mĩm-Ṣãd.",
+            "originals": [
+                "الٓمٓصٓ"
+            ],
+            "translations": [
+                "Alif Laam Meem Saad"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "كِتَـٰبٌ أُنزِلَ إِلَيْكَ فَلَا يَكُن فِى صَدْرِكَ حَرَجٌ مِّنْهُ لِتُنذِرَ بِهِۦ وَذِكْرَىٰ لِلْمُؤْمِنِينَ",
+            "translation": "˹This is˺ a Book sent down to you ˹O Prophet˺—do not let anxiety into your heart regarding it—so with it you may warn ˹the disbelievers˺, and as a reminder to the believers.",
+            "originals": [
+                "كِتَـٰبٌ",
+                "أُنزِلَ",
+                "إِلَيْكَ",
+                "فَلَا",
+                "يَكُن",
+                "فِى",
+                "صَدْرِكَ",
+                "حَرَجٌۭ",
+                "مِّنْهُ",
+                "لِتُنذِرَ",
+                "بِهِۦ",
+                "وَذِكْرَىٰ",
+                "لِلْمُؤْمِنِينَ"
+            ],
+            "translations": [
+                "(This is) a Book",
+                "revealed",
+                "to you",
+                "so (let) not",
+                "be",
+                "in",
+                "your breast",
+                "any uneasiness",
+                "from it",
+                "that you warn",
+                "with it",
+                "and a reminder",
+                "for the believers"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "ٱتَّبِعُوا۟ مَآ أُنزِلَ إِلَيْكُم مِّن رَّبِّكُمْ وَلَا تَتَّبِعُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ ۗ قَلِيلًا مَّا تَذَكَّرُونَ",
+            "translation": "Follow what has been sent down to you from your Lord, and do not take others as guardians besides Him. How seldom are you mindful!",
+            "originals": [
+                "ٱتَّبِعُوا۟",
+                "مَآ",
+                "أُنزِلَ",
+                "إِلَيْكُم",
+                "مِّن",
+                "رَّبِّكُمْ",
+                "وَلَا",
+                "تَتَّبِعُوا۟",
+                "مِن",
+                "دُونِهِۦٓ",
+                "أَوْلِيَآءَ ۗ",
+                "قَلِيلًۭا",
+                "مَّا",
+                "تَذَكَّرُونَ"
+            ],
+            "translations": [
+                "Follow",
+                "what",
+                "has been revealed",
+                "to you",
+                "from",
+                "your Lord",
+                "and (do) not",
+                "follow",
+                "from",
+                "beside Him",
+                "any allies",
+                "Little",
+                "(is) what",
+                "you remember"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "وَكَم مِّن قَرْيَةٍ أَهْلَكْنَـٰهَا فَجَآءَهَا بَأْسُنَا بَيَـٰتًا أَوْ هُمْ قَآئِلُونَ",
+            "translation": "˹Imagine˺ how many societies We have destroyed! Our torment took them by surprise ˹while sleeping˺ at night or midday.",
+            "originals": [
+                "وَكَم",
+                "مِّن",
+                "قَرْيَةٍ",
+                "أَهْلَكْنَـٰهَا",
+                "فَجَآءَهَا",
+                "بَأْسُنَا",
+                "بَيَـٰتًا",
+                "أَوْ",
+                "هُمْ",
+                "قَآئِلُونَ"
+            ],
+            "translations": [
+                "And how many",
+                "of",
+                "a city",
+                "We destroyed it",
+                "and came to it",
+                "Our punishment",
+                "(at) night",
+                "or",
+                "(while) they",
+                "were sleeping at noon"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "فَمَا كَانَ دَعْوَىٰهُمْ إِذْ جَآءَهُم بَأْسُنَآ إِلَّآ أَن قَالُوٓا۟ إِنَّا كُنَّا ظَـٰلِمِينَ",
+            "translation": "Their only cry—when overwhelmed by Our torment—was, “We have indeed been wrongdoers.”",
+            "originals": [
+                "فَمَا",
+                "كَانَ",
+                "دَعْوَىٰهُمْ",
+                "إِذْ",
+                "جَآءَهُم",
+                "بَأْسُنَآ",
+                "إِلَّآ",
+                "أَن",
+                "قَالُوٓا۟",
+                "إِنَّا",
+                "كُنَّا",
+                "ظَـٰلِمِينَ"
+            ],
+            "translations": [
+                "Then not",
+                "was",
+                "their plea",
+                "when",
+                "came to them",
+                "Our punishment",
+                "except",
+                "that",
+                "they said",
+                "Indeed, we",
+                "were",
+                "wrongdoers"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "فَلَنَسْـَٔلَنَّ ٱلَّذِينَ أُرْسِلَ إِلَيْهِمْ وَلَنَسْـَٔلَنَّ ٱلْمُرْسَلِينَ",
+            "translation": "We will surely question those who received messengers and We will question the messengers ˹themselves˺.",
+            "originals": [
+                "فَلَنَسْـَٔلَنَّ",
+                "ٱلَّذِينَ",
+                "أُرْسِلَ",
+                "إِلَيْهِمْ",
+                "وَلَنَسْـَٔلَنَّ",
+                "ٱلْمُرْسَلِينَ"
+            ],
+            "translations": [
+                "Then surely We will question",
+                "those (to) whom",
+                "were sent",
+                "to them (Messengers)",
+                "and surely We will question",
+                "the Messengers"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "فَلَنَقُصَّنَّ عَلَيْهِم بِعِلْمٍ ۖ وَمَا كُنَّا غَآئِبِينَ",
+            "translation": "Then We will give them a full account with sure knowledge—for We were never absent.",
+            "originals": [
+                "فَلَنَقُصَّنَّ",
+                "عَلَيْهِم",
+                "بِعِلْمٍۢ ۖ",
+                "وَمَا",
+                "كُنَّا",
+                "غَآئِبِينَ"
+            ],
+            "translations": [
+                "Then surely We will narrate",
+                "to them",
+                "with knowledge",
+                "and not",
+                "were We",
+                "absent"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "وَٱلْوَزْنُ يَوْمَئِذٍ ٱلْحَقُّ ۚ فَمَن ثَقُلَتْ مَوَٰزِينُهُۥ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+            "translation": "The weighing on that Day will be just. As for those whose scale will be heavy ˹with good deeds˺, ˹only˺ they will be successful.",
+            "originals": [
+                "وَٱلْوَزْنُ",
+                "يَوْمَئِذٍ",
+                "ٱلْحَقُّ ۚ",
+                "فَمَن",
+                "ثَقُلَتْ",
+                "مَوَٰزِينُهُۥ",
+                "فَأُو۟لَـٰٓئِكَ",
+                "هُمُ",
+                "ٱلْمُفْلِحُونَ"
+            ],
+            "translations": [
+                "And the weighing",
+                "that day",
+                "(will be) the truth",
+                "So whose ",
+                "(will be) heavy",
+                "his scales",
+                "then those",
+                "[they]",
+                "(will be) the successful ones"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "وَمَنْ خَفَّتْ مَوَٰزِينُهُۥ فَأُو۟لَـٰٓئِكَ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُم بِمَا كَانُوا۟ بِـَٔايَـٰتِنَا يَظْلِمُونَ",
+            "translation": "But those whose scale is light, they have doomed themselves for wrongfully denying Our signs.",
+            "originals": [
+                "وَمَنْ",
+                "خَفَّتْ",
+                "مَوَٰزِينُهُۥ",
+                "فَأُو۟لَـٰٓئِكَ",
+                "ٱلَّذِينَ",
+                "خَسِرُوٓا۟",
+                "أَنفُسَهُم",
+                "بِمَا",
+                "كَانُوا۟",
+                "بِـَٔايَـٰتِنَا",
+                "يَظْلِمُونَ"
+            ],
+            "translations": [
+                "And (for) those",
+                "(will be) light",
+                "his scales",
+                "so those",
+                "(will be) the ones who",
+                "lost",
+                "themselves",
+                "because",
+                "they were",
+                "to Our Verses",
+                "(doing) injustice"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "وَلَقَدْ مَكَّنَّـٰكُمْ فِى ٱلْأَرْضِ وَجَعَلْنَا لَكُمْ فِيهَا مَعَـٰيِشَ ۗ قَلِيلًا مَّا تَشْكُرُونَ",
+            "translation": "We have indeed established you on earth and provided you with a means of livelihood. ˹Yet˺ you seldom give any thanks.",
+            "originals": [
+                "وَلَقَدْ",
+                "مَكَّنَّـٰكُمْ",
+                "فِى",
+                "ٱلْأَرْضِ",
+                "وَجَعَلْنَا",
+                "لَكُمْ",
+                "فِيهَا",
+                "مَعَـٰيِشَ ۗ",
+                "قَلِيلًۭا",
+                "مَّا",
+                "تَشْكُرُونَ"
+            ],
+            "translations": [
+                "And certainly",
+                "We established you",
+                "in",
+                "the earth",
+                "and We made",
+                "for you",
+                "in it",
+                "livelihood",
+                "Little",
+                "(is) what",
+                "you (are) grateful"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "وَلَقَدْ خَلَقْنَـٰكُمْ ثُمَّ صَوَّرْنَـٰكُمْ ثُمَّ قُلْنَا لِلْمَلَـٰٓئِكَةِ ٱسْجُدُوا۟ لِـَٔادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ لَمْ يَكُن مِّنَ ٱلسَّـٰجِدِينَ",
+            "translation": "Surely We created you,<sup foot_note=76659>1</sup> then shaped you, then said to the angels, “Prostrate before Adam,” so they all did—but not Iblîs,<sup foot_note=76660>2</sup> who refused to prostrate with the others.",
+            "originals": [
+                "وَلَقَدْ",
+                "خَلَقْنَـٰكُمْ",
+                "ثُمَّ",
+                "صَوَّرْنَـٰكُمْ",
+                "ثُمَّ",
+                "قُلْنَا",
+                "لِلْمَلَـٰٓئِكَةِ",
+                "ٱسْجُدُوا۟",
+                "لِـَٔادَمَ",
+                "فَسَجَدُوٓا۟",
+                "إِلَّآ",
+                "إِبْلِيسَ",
+                "لَمْ",
+                "يَكُن",
+                "مِّنَ",
+                "ٱلسَّـٰجِدِينَ"
+            ],
+            "translations": [
+                "And certainly",
+                "We created you",
+                "then",
+                "We fashioned you",
+                "Then",
+                "We said",
+                "to the Angels",
+                "Prostrate",
+                "to Adam",
+                "So they prostrated",
+                "except",
+                "Iblis",
+                "Not",
+                "he was",
+                "of",
+                "those who prostrated"
+            ]
+        }
+    ]
+}

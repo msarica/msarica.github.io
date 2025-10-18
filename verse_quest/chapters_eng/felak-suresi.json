@@ -1,0 +1,99 @@
+{
+    "id": "felak-suresi",
+    "name": "The Daybreak",
+    "description": "The Daybreak - 113",
+    "index": 113,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+            "translation": "Say, ˹O Prophet,˺ “I seek refuge in the Lord of the daybreak",
+            "originals": [
+                "قُلْ",
+                "أَعُوذُ",
+                "بِرَبِّ",
+                "ٱلْفَلَقِ"
+            ],
+            "translations": [
+                "Say",
+                "I seek refuge",
+                "in (the) Lord",
+                "(of) the dawn"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "مِن شَرِّ مَا خَلَقَ",
+            "translation": "from the evil of whatever He has created,",
+            "originals": [
+                "مِن",
+                "شَرِّ",
+                "مَا",
+                "خَلَقَ"
+            ],
+            "translations": [
+                "From",
+                "(the) evil",
+                "(of) what",
+                "He created"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+            "translation": "and from the evil of the night when it grows dark,",
+            "originals": [
+                "وَمِن",
+                "شَرِّ",
+                "غَاسِقٍ",
+                "إِذَا",
+                "وَقَبَ"
+            ],
+            "translations": [
+                "And from",
+                "(the) evil",
+                "(of) darkness",
+                "when",
+                "it spreads"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِى ٱلْعُقَدِ",
+            "translation": "and from the evil of those ˹witches casting spells by˺ blowing onto knots,",
+            "originals": [
+                "وَمِن",
+                "شَرِّ",
+                "ٱلنَّفَّـٰثَـٰتِ",
+                "فِى",
+                "ٱلْعُقَدِ"
+            ],
+            "translations": [
+                "And from",
+                "(the) evil",
+                "(of) the blowers",
+                "in",
+                "the knots"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+            "translation": "and from the evil of an envier when they envy.”",
+            "originals": [
+                "وَمِن",
+                "شَرِّ",
+                "حَاسِدٍ",
+                "إِذَا",
+                "حَسَدَ"
+            ],
+            "translations": [
+                "And from",
+                "(the) evil",
+                "(of) an envier",
+                "when",
+                "he envies"
+            ]
+        }
+    ]
+}

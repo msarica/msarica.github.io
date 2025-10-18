@@ -1,0 +1,121 @@
+{
+    "id": "maun-suresi",
+    "name": "The Small kindnesses",
+    "description": "The Small kindnesses - 107",
+    "index": 107,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ",
+            "translation": "Have you seen the one who denies the ˹final˺ Judgment?",
+            "originals": [
+                "أَرَءَيْتَ",
+                "ٱلَّذِى",
+                "يُكَذِّبُ",
+                "بِٱلدِّينِ"
+            ],
+            "translations": [
+                "Have you seen",
+                "the one who",
+                "denies",
+                "the Judgment"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ",
+            "translation": "That is the one who repulses the orphan,",
+            "originals": [
+                "فَذَٰلِكَ",
+                "ٱلَّذِى",
+                "يَدُعُّ",
+                "ٱلْيَتِيمَ"
+            ],
+            "translations": [
+                "Then that",
+                "(is) the one who",
+                "repulses",
+                "the orphan"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+            "translation": "and does not encourage the feeding of the poor.",
+            "originals": [
+                "وَلَا",
+                "يَحُضُّ",
+                "عَلَىٰ",
+                "طَعَامِ",
+                "ٱلْمِسْكِينِ"
+            ],
+            "translations": [
+                "And (does) not",
+                "feel the urge",
+                "to",
+                "feed",
+                "the poor"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "فَوَيْلٌ لِّلْمُصَلِّينَ",
+            "translation": "So woe to those ˹hypocrites˺ who pray",
+            "originals": [
+                "فَوَيْلٌۭ",
+                "لِّلْمُصَلِّينَ"
+            ],
+            "translations": [
+                "So woe",
+                "to those who pray"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "ٱلَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ",
+            "translation": "yet are unmindful of their prayers;",
+            "originals": [
+                "ٱلَّذِينَ",
+                "هُمْ",
+                "عَن",
+                "صَلَاتِهِمْ",
+                "سَاهُونَ"
+            ],
+            "translations": [
+                "Those who",
+                "[they]",
+                "about",
+                "their prayers",
+                "(are) neglectful"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "ٱلَّذِينَ هُمْ يُرَآءُونَ",
+            "translation": "those who ˹only˺ show off,",
+            "originals": [
+                "ٱلَّذِينَ",
+                "هُمْ",
+                "يُرَآءُونَ"
+            ],
+            "translations": [
+                "Those who",
+                "[they]",
+                "make show"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "وَيَمْنَعُونَ ٱلْمَاعُونَ",
+            "translation": "and refuse to give ˹even the simplest˺ aid.<sup foot_note=77641>1</sup> ",
+            "originals": [
+                "وَيَمْنَعُونَ",
+                "ٱلْمَاعُونَ"
+            ],
+            "translations": [
+                "And they deny",
+                "[the] small kindnesses"
+            ]
+        }
+    ]
+}

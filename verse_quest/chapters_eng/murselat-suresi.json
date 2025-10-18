@@ -1,0 +1,285 @@
+{
+    "id": "murselat-suresi",
+    "name": "The Emissaries",
+    "description": "The Emissaries - 77",
+    "index": 77,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " وَٱلْمُرْسَلَـٰتِ عُرْفًا",
+            "translation": "By those ˹winds˺ sent forth successively,",
+            "originals": [
+                "وَٱلْمُرْسَلَـٰتِ",
+                "عُرْفًۭا"
+            ],
+            "translations": [
+                "By the ones sent forth",
+                "one after another"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "فَٱلْعَـٰصِفَـٰتِ عَصْفًا",
+            "translation": "and those blowing violently,",
+            "originals": [
+                "فَٱلْعَـٰصِفَـٰتِ",
+                "عَصْفًۭا"
+            ],
+            "translations": [
+                "And the winds that blow",
+                "violently"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "وَٱلنَّـٰشِرَٰتِ نَشْرًا",
+            "translation": "and those scattering ˹rainclouds˺ widely!",
+            "originals": [
+                "وَٱلنَّـٰشِرَٰتِ",
+                "نَشْرًۭا"
+            ],
+            "translations": [
+                "And the ones that scatter",
+                "far and wide"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "فَٱلْفَـٰرِقَـٰتِ فَرْقًا",
+            "translation": "And ˹by˺ those ˹angels˺ fully distinguishing ˹truth from falsehood˺,",
+            "originals": [
+                "فَٱلْفَـٰرِقَـٰتِ",
+                "فَرْقًۭا"
+            ],
+            "translations": [
+                "And those who separate",
+                "(by the) Criterion"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "فَٱلْمُلْقِيَـٰتِ ذِكْرًا",
+            "translation": "and those delivering revelation,",
+            "originals": [
+                "فَٱلْمُلْقِيَـٰتِ",
+                "ذِكْرًا"
+            ],
+            "translations": [
+                "And those who bring down",
+                "(the) Reminder"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "عُذْرًا أَوْ نُذْرًا",
+            "translation": "ending excuses and giving warnings.",
+            "originals": [
+                "عُذْرًا",
+                "أَوْ",
+                "نُذْرًا"
+            ],
+            "translations": [
+                "(As) justification",
+                "or",
+                "warning"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "إِنَّمَا تُوعَدُونَ لَوَٰقِعٌ",
+            "translation": "Surely, what you are promised will come to pass.",
+            "originals": [
+                "إِنَّمَا",
+                "تُوعَدُونَ",
+                "لَوَٰقِعٌۭ"
+            ],
+            "translations": [
+                "Indeed, what",
+                "you are promised",
+                "will surely occur"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "فَإِذَا ٱلنُّجُومُ طُمِسَتْ",
+            "translation": "So when the stars are put out,",
+            "originals": [
+                "فَإِذَا",
+                "ٱلنُّجُومُ",
+                "طُمِسَتْ"
+            ],
+            "translations": [
+                "So when",
+                "the stars",
+                "are obliterated"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "وَإِذَا ٱلسَّمَآءُ فُرِجَتْ",
+            "translation": "and the sky is torn apart,",
+            "originals": [
+                "وَإِذَا",
+                "ٱلسَّمَآءُ",
+                "فُرِجَتْ"
+            ],
+            "translations": [
+                "And when",
+                "the heaven",
+                "is cleft asunder"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "وَإِذَا ٱلْجِبَالُ نُسِفَتْ",
+            "translation": "and the mountains are blown away,",
+            "originals": [
+                "وَإِذَا",
+                "ٱلْجِبَالُ",
+                "نُسِفَتْ"
+            ],
+            "translations": [
+                "And when",
+                "the mountains",
+                "are blown away"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "وَإِذَا ٱلرُّسُلُ أُقِّتَتْ",
+            "translation": "and the messengers’ time ˹to testify˺ comes up—",
+            "originals": [
+                "وَإِذَا",
+                "ٱلرُّسُلُ",
+                "أُقِّتَتْ"
+            ],
+            "translations": [
+                "And when",
+                "the Messengers",
+                "are gathered to their appointed time"
+            ]
+        },
+        {
+            "id": "12",
+            "sentence": "لِأَىِّ يَوْمٍ أُجِّلَتْ",
+            "translation": "for which Day has all this been set?",
+            "originals": [
+                "لِأَىِّ",
+                "يَوْمٍ",
+                "أُجِّلَتْ"
+            ],
+            "translations": [
+                "For what",
+                "Day",
+                "are (these) postponed"
+            ]
+        },
+        {
+            "id": "13",
+            "sentence": "لِيَوْمِ ٱلْفَصْلِ",
+            "translation": "For the Day of ˹Final˺ Decision!",
+            "originals": [
+                "لِيَوْمِ",
+                "ٱلْفَصْلِ"
+            ],
+            "translations": [
+                "For (the) Day",
+                "(of) Judgment"
+            ]
+        },
+        {
+            "id": "14",
+            "sentence": "وَمَآ أَدْرَىٰكَ مَا يَوْمُ ٱلْفَصْلِ",
+            "translation": "And what will make you realize what the Day of Decision is?",
+            "originals": [
+                "وَمَآ",
+                "أَدْرَىٰكَ",
+                "مَا",
+                "يَوْمُ",
+                "ٱلْفَصْلِ"
+            ],
+            "translations": [
+                "And what",
+                "will make you know",
+                "what",
+                "(is the) Day",
+                "(of) the Judgment"
+            ]
+        },
+        {
+            "id": "15",
+            "sentence": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+            "translation": "Woe on that Day to the deniers!",
+            "originals": [
+                "وَيْلٌۭ",
+                "يَوْمَئِذٍۢ",
+                "لِّلْمُكَذِّبِينَ"
+            ],
+            "translations": [
+                "Woe",
+                "that Day",
+                "to the deniers"
+            ]
+        },
+        {
+            "id": "16",
+            "sentence": "أَلَمْ نُهْلِكِ ٱلْأَوَّلِينَ",
+            "translation": "Did We not destroy earlier disbelievers?",
+            "originals": [
+                "أَلَمْ",
+                "نُهْلِكِ",
+                "ٱلْأَوَّلِينَ"
+            ],
+            "translations": [
+                "Did not",
+                "We destroy",
+                "the former (people)"
+            ]
+        },
+        {
+            "id": "17",
+            "sentence": "ثُمَّ نُتْبِعُهُمُ ٱلْـَٔاخِرِينَ",
+            "translation": "And We will make the later disbelievers follow them.",
+            "originals": [
+                "ثُمَّ",
+                "نُتْبِعُهُمُ",
+                "ٱلْـَٔاخِرِينَ"
+            ],
+            "translations": [
+                "Then",
+                "We follow them up",
+                "(with) the later ones"
+            ]
+        },
+        {
+            "id": "18",
+            "sentence": "كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ",
+            "translation": "This is how We deal with the wicked.",
+            "originals": [
+                "كَذَٰلِكَ",
+                "نَفْعَلُ",
+                "بِٱلْمُجْرِمِينَ"
+            ],
+            "translations": [
+                "Thus",
+                "We deal",
+                "with the criminals"
+            ]
+        },
+        {
+            "id": "19",
+            "sentence": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+            "translation": "Woe on that Day to the deniers!",
+            "originals": [
+                "وَيْلٌۭ",
+                "يَوْمَئِذٍۢ",
+                "لِّلْمُكَذِّبِينَ"
+            ],
+            "translations": [
+                "Woe",
+                "that Day",
+                "to the deniers"
+            ]
+        }
+    ]
+}

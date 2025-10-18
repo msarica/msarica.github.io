@@ -1,0 +1,182 @@
+{
+    "id": "mearic-suresi",
+    "name": "The Ascending Stairways",
+    "description": "The Ascending Stairways - 70",
+    "index": 70,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " سَأَلَ سَآئِلٌۢ بِعَذَابٍ وَاقِعٍ",
+            "translation": "A challenger<sup foot_note=77543>1</sup> has demanded a punishment bound to come",
+            "originals": [
+                "سَأَلَ",
+                "سَآئِلٌۢ",
+                "بِعَذَابٍۢ",
+                "وَاقِعٍۢ"
+            ],
+            "translations": [
+                "Asked",
+                "a questioner",
+                "about a punishment",
+                "bound to happen"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "لِّلْكَـٰفِرِينَ لَيْسَ لَهُۥ دَافِعٌ",
+            "translation": "for the disbelievers—to be averted by none—",
+            "originals": [
+                "لِّلْكَـٰفِرِينَ",
+                "لَيْسَ",
+                "لَهُۥ",
+                "دَافِعٌۭ"
+            ],
+            "translations": [
+                "To the disbelievers",
+                "not",
+                "of it",
+                "any preventer"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "مِّنَ ٱللَّهِ ذِى ٱلْمَعَارِجِ",
+            "translation": "from Allah, Lord of pathways of ˹heavenly˺ ascent,",
+            "originals": [
+                "مِّنَ",
+                "ٱللَّهِ",
+                "ذِى",
+                "ٱلْمَعَارِجِ"
+            ],
+            "translations": [
+                "From",
+                "Allah",
+                "Owner",
+                "(of) the ways of ascent"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "تَعْرُجُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ إِلَيْهِ فِى يَوْمٍ كَانَ مِقْدَارُهُۥ خَمْسِينَ أَلْفَ سَنَةٍ",
+            "translation": "˹through which˺ the angels and the ˹holy˺ spirit<sup foot_note=77544>1</sup> will ascend to Him on a Day fifty thousand years in length.<sup foot_note=77545>2</sup>",
+            "originals": [
+                "تَعْرُجُ",
+                "ٱلْمَلَـٰٓئِكَةُ",
+                "وَٱلرُّوحُ",
+                "إِلَيْهِ",
+                "فِى",
+                "يَوْمٍۢ",
+                "كَانَ",
+                "مِقْدَارُهُۥ",
+                "خَمْسِينَ",
+                "أَلْفَ",
+                "سَنَةٍۢ"
+            ],
+            "translations": [
+                "Ascend",
+                "the Angels",
+                "and the Spirit",
+                "to Him",
+                "in",
+                "a Day",
+                "[is]",
+                "its measure",
+                "(is) fifty",
+                "thousand",
+                "year(s)"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "فَٱصْبِرْ صَبْرًا جَمِيلًا",
+            "translation": "So endure ˹this denial, O  Prophet,˺ with beautiful patience.",
+            "originals": [
+                "فَٱصْبِر��",
+                "صَبْرًۭا",
+                "جَمِيلًا"
+            ],
+            "translations": [
+                "So be patient",
+                "a patience",
+                "good"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "إِنَّهُمْ يَرَوْنَهُۥ بَعِيدًا",
+            "translation": "They truly see this ˹Day˺ as impossible,",
+            "originals": [
+                "إِنَّهُمْ",
+                "يَرَوْنَهُۥ",
+                "بَعِيدًۭا"
+            ],
+            "translations": [
+                "Indeed, they",
+                "see it",
+                "(as) far off"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "وَنَرَىٰهُ قَرِيبًا",
+            "translation": "but We see it as inevitable.",
+            "originals": [
+                "وَنَرَىٰهُ",
+                "قَرِيبًۭا"
+            ],
+            "translations": [
+                "But We see it",
+                "near"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "يَوْمَ تَكُونُ ٱلسَّمَآءُ كَٱلْمُهْلِ",
+            "translation": "On that Day the sky will be like molten brass",
+            "originals": [
+                "يَوْمَ",
+                "تَكُونُ",
+                "ٱلسَّمَآءُ",
+                "كَٱلْمُهْلِ"
+            ],
+            "translations": [
+                "(The) Day ",
+                "will be",
+                "the sky",
+                "like molten copper"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ",
+            "translation": "and the mountains like ˹tufts of˺ wool.",
+            "originals": [
+                "وَتَكُونُ",
+                "ٱلْجِبَالُ",
+                "كَٱلْعِهْنِ"
+            ],
+            "translations": [
+                "And will be",
+                "the mountains",
+                "like wool"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "وَلَا يَسْـَٔلُ حَمِيمٌ حَمِيمًا",
+            "translation": "And no close friend will ask ˹about˺ their friends,",
+            "originals": [
+                "وَلَا",
+                "يَسْـَٔلُ",
+                "حَمِيمٌ",
+                "حَمِيمًۭا"
+            ],
+            "translations": [
+                "And not",
+                "will ask",
+                "a friend",
+                "(about) a friend"
+            ]
+        }
+    ]
+}

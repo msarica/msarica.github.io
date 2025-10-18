@@ -1,0 +1,411 @@
+{
+    "id": "casiye-suresi",
+    "name": "The Crouching",
+    "description": "The Crouching - 45",
+    "index": 45,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " حمٓ",
+            "translation": "Ḥâ-Mĩm.",
+            "originals": [
+                "حمٓ"
+            ],
+            "translations": [
+                "Ha Meem"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "تَنزِيلُ ٱلْكِتَـٰبِ مِنَ ٱللَّهِ ٱلْعَزِيزِ ٱلْحَكِيمِ",
+            "translation": "The revelation of this Book is from Allah—the Almighty, All-Wise.",
+            "originals": [
+                "تَنزِيلُ",
+                "ٱلْكِتَـٰبِ",
+                "مِنَ",
+                "ٱللَّهِ",
+                "ٱلْعَزِيزِ",
+                "ٱلْحَكِيمِ"
+            ],
+            "translations": [
+                "(The) revelation",
+                "(of) the Book",
+                "(is) from",
+                "Allah",
+                "the All-Mighty",
+                "the All-Wise"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "إِنَّ فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ لَـَٔايَـٰتٍ لِّلْمُؤْمِنِينَ",
+            "translation": "Surely in ˹the creation of˺ the heavens and the earth are signs for the believers.",
+            "originals": [
+                "إِنَّ",
+                "فِى",
+                "ٱلسَّمَـٰوَٰتِ",
+                "وَٱلْأَرْضِ",
+                "لَـَٔايَـٰتٍۢ",
+                "لِّلْمُؤْمِنِينَ"
+            ],
+            "translations": [
+                "Indeed",
+                "in",
+                "the heavens",
+                "and the earth",
+                "surely (are) Signs",
+                "for the believers"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "وَفِى خَلْقِكُمْ وَمَا يَبُثُّ مِن دَآبَّةٍ ءَايَـٰتٌ لِّقَوْمٍ يُوقِنُونَ",
+            "translation": "And in your own creation, and whatever living beings He dispersed, are signs for people of sure faith.",
+            "originals": [
+                "وَفِى",
+                "خَلْقِكُمْ",
+                "وَمَا",
+                "يَبُثُّ",
+                "مِن",
+                "دَآبَّةٍ",
+                "ءَايَـٰتٌۭ",
+                "لِّقَوْمٍۢ",
+                "يُوقِنُونَ"
+            ],
+            "translations": [
+                "And in",
+                "your creation",
+                "and what",
+                "He disperses",
+                "of",
+                "(the) moving creatures",
+                "(are) Signs",
+                "for a people",
+                "who are certain"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "وَٱخْتِلَـٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَمَآ أَنزَلَ ٱللَّهُ مِنَ ٱلسَّمَآءِ مِن رِّزْقٍ فَأَحْيَا بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا وَتَصْرِيفِ ٱلرِّيَـٰحِ ءَايَـٰتٌ لِّقَوْمٍ يَعْقِلُونَ",
+            "translation": "And ˹in˺ the alternation of the day and the night, the provision<sup foot_note=77353>1</sup> sent down from the skies by Allah—reviving the earth after its death—and the shifting of the winds, are signs for people of understanding.",
+            "originals": [
+                "وَٱخْتِلَـٰفِ",
+                "ٱلَّيْلِ",
+                "وَٱلنَّهَارِ",
+                "وَمَآ",
+                "أَنزَلَ",
+                "ٱللَّهُ",
+                "مِنَ",
+                "ٱلسَّمَآءِ",
+                "مِن",
+                "رِّزْقٍۢ",
+                "فَأَحْيَا",
+                "بِهِ",
+                "ٱلْأَرْضَ",
+                "بَعْدَ",
+                "مَوْتِهَا",
+                "وَتَصْرِيفِ",
+                "ٱلرِّيَـٰحِ",
+                "ءَايَـٰتٌۭ",
+                "لِّقَوْمٍۢ",
+                "يَعْقِلُونَ"
+            ],
+            "translations": [
+                "And (in the) alternation",
+                "(of) the night",
+                "and the day",
+                "and what",
+                "Allah sends down",
+                "Allah sends down",
+                "from",
+                "the sky",
+                "of",
+                "(the) provision",
+                "and gives life",
+                "thereby",
+                "(to) the earth",
+                "after",
+                "its death",
+                "and (in) directing",
+                "(the) winds",
+                "(are) Signs",
+                "for a people",
+                "who reason"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "تِلْكَ ءَايَـٰتُ ٱللَّهِ نَتْلُوهَا عَلَيْكَ بِٱلْحَقِّ ۖ فَبِأَىِّ حَدِيثٍۭ بَعْدَ ٱللَّهِ وَءَايَـٰتِهِۦ يُؤْمِنُونَ",
+            "translation": "These are Allah’s revelations which We recite to you ˹O Prophet˺ in truth. So what message will they believe in after ˹denying˺ Allah and His revelations?",
+            "originals": [
+                "تِلْكَ",
+                "ءَايَـٰتُ",
+                "ٱللَّهِ",
+                "نَتْلُوهَا",
+                "عَلَيْكَ",
+                "بِٱلْحَقِّ ۖ",
+                "فَبِأَىِّ",
+                "حَدِيثٍۭ",
+                "بَعْدَ",
+                "ٱللَّهِ",
+                "وَءَايَـٰتِهِۦ",
+                "يُؤْمِنُونَ"
+            ],
+            "translations": [
+                "These",
+                "(are the) Verses",
+                "(of) Allah",
+                "We recite them",
+                "to you",
+                "in truth",
+                "Then in what",
+                "statement",
+                "after",
+                "Allah",
+                "and His Verses",
+                "will they believe"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "وَيْلٌ لِّكُلِّ أَفَّاكٍ أَثِيمٍ",
+            "translation": "Woe to every sinful liar.",
+            "originals": [
+                "وَيْلٌۭ",
+                "لِّكُلِّ",
+                "أَفَّاكٍ",
+                "أَثِيمٍۢ"
+            ],
+            "translations": [
+                "Woe",
+                "to every",
+                "liar",
+                "sinful"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "يَسْمَعُ ءَايَـٰتِ ٱللَّهِ تُتْلَىٰ عَلَيْهِ ثُمَّ يُصِرُّ مُسْتَكْبِرًا كَأَن لَّمْ يَسْمَعْهَا ۖ فَبَشِّرْهُ بِعَذَابٍ أَلِيمٍ",
+            "translation": "They hear Allah’s revelations recited to them, then persist ˹in denial˺ arrogantly as if they did not hear them. So give them good news of a painful punishment.",
+            "originals": [
+                "يَسْمَعُ",
+                "ءَايَـٰتِ",
+                "ٱللَّهِ",
+                "تُتْلَىٰ",
+                "عَلَيْهِ",
+                "ثُمَّ",
+                "يُصِرُّ",
+                "مُسْتَكْبِرًۭا",
+                "كَأَن",
+                "لَّمْ",
+                "يَسْمَعْهَا ۖ",
+                "فَبَشِّرْهُ",
+                "بِعَذَابٍ",
+                "أَلِيمٍۢ"
+            ],
+            "translations": [
+                "Who hears",
+                "(the) Verses",
+                "(of) Allah",
+                "recited",
+                "to him",
+                "then",
+                "persists",
+                "arrogantly",
+                "as if",
+                "not",
+                "he heard them",
+                "So give him tidings",
+                "(of) a punishment",
+                "painful"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "وَإِذَا عَلِمَ مِنْ ءَايَـٰتِنَا شَيْـًٔا ٱتَّخَذَهَا هُزُوًا ۚ أُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌ مُّهِينٌ",
+            "translation": "And whenever they learn anything of Our revelations, they make a mockery of it. It is they who will suffer a humiliating punishment.",
+            "originals": [
+                "وَإِذَا",
+                "عَلِمَ",
+                "مِنْ",
+                "ءَايَـٰتِنَا",
+                "شَيْـًٔا",
+                "ٱتَّخَذَهَا",
+                "هُزُوًا ۚ",
+                "أُو۟لَـٰٓئِكَ",
+                "لَهُمْ",
+                "عَذَابٌۭ",
+                "مُّهِينٌۭ"
+            ],
+            "translations": [
+                "And when",
+                "he knows",
+                "of",
+                "Our Verses",
+                "anything",
+                "he takes them",
+                "(in) ridicule",
+                "Those ",
+                "for them",
+                "(is) a punishment",
+                "humiliating"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "مِّن وَرَآئِهِمْ جَهَنَّمُ ۖ وَلَا يُغْنِى عَنْهُم مَّا كَسَبُوا۟ شَيْـًٔا وَلَا مَا ٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ أَوْلِيَآءَ ۖ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+            "translation": "Awaiting them is Hell. Their ˹worldly˺ gains will not be of any benefit to them whatsoever, nor will those protectors they have taken besides Allah. And they will suffer a tremendous punishment.",
+            "originals": [
+                "مِّن",
+                "وَرَآئِهِمْ",
+                "جَهَنَّمُ ۖ",
+                "وَلَا",
+                "يُغْنِى",
+                "عَنْهُم",
+                "مَّا",
+                "كَسَبُوا۟",
+                "شَيْـًۭٔا",
+                "وَلَا",
+                "مَا",
+                "ٱتَّخَذُوا۟",
+                "مِن",
+                "دُونِ",
+                "ٱللَّهِ",
+                "أَوْلِيَآءَ ۖ",
+                "وَلَهُمْ",
+                "عَذَابٌ",
+                "عَظِيمٌ"
+            ],
+            "translations": [
+                "Before them",
+                "Before them",
+                "(is) Hell",
+                "and not",
+                "will avail",
+                "them",
+                "what",
+                "they had earned",
+                "anything",
+                "and not",
+                "what",
+                "they had taken",
+                "besides",
+                "besides",
+                "Allah",
+                "(as) protectors",
+                "And for them",
+                "(is) a punishment",
+                "great"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "هَـٰذَا هُدًى ۖ وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِ رَبِّهِمْ لَهُمْ عَذَابٌ مِّن رِّجْزٍ أَلِيمٌ",
+            "translation": "This ˹Quran˺ is ˹true˺ guidance. And those who deny their Lord’s revelations will suffer the ˹worst˺ torment of agonizing pain.",
+            "originals": [
+                "هَـٰذَا",
+                "هُدًۭى ۖ",
+                "وَٱلَّذِينَ",
+                "كَفَرُوا۟",
+                "بِـَٔايَـٰتِ",
+                "رَبِّهِمْ",
+                "لَهُمْ",
+                "عَذَابٌۭ",
+                "مِّن",
+                "رِّجْزٍ",
+                "أَلِيمٌ"
+            ],
+            "translations": [
+                "This",
+                "(is) guidance",
+                "And those who",
+                "disbelieve",
+                "in (the) Verses",
+                "(of) their Lord",
+                "for them",
+                "(is) a punishment",
+                "of",
+                "filth",
+                "painful"
+            ]
+        },
+        {
+            "id": "12",
+            "sentence": "۞ ٱللَّهُ ٱلَّذِى سَخَّرَ لَكُمُ ٱلْبَحْرَ لِتَجْرِىَ ٱلْفُلْكُ فِيهِ بِأَمْرِهِۦ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+            "translation": "Allah is the One Who has subjected the sea for you so that ships may sail upon it by His command, and that you may seek His bounty, and that perhaps you will be grateful.",
+            "originals": [
+                "۞ ٱللَّهُ",
+                "ٱلَّذِى",
+                "سَخَّرَ",
+                "لَكُمُ",
+                "ٱلْبَحْرَ",
+                "لِتَجْرِىَ",
+                "ٱلْفُلْكُ",
+                "فِيهِ",
+                "بِأَمْرِهِۦ",
+                "وَلِتَبْتَغُوا۟",
+                "مِن",
+                "فَضْلِهِۦ",
+                "وَلَعَلَّكُمْ",
+                "تَشْكُرُونَ"
+            ],
+            "translations": [
+                "Allah",
+                "(is) the One Who",
+                "subjected",
+                "to you",
+                "the sea",
+                "that may sail",
+                "the ships",
+                "therein",
+                "by His Command",
+                "and that you may seek",
+                "of",
+                "His Bounty",
+                "and that you may",
+                "give thanks"
+            ]
+        },
+        {
+            "id": "13",
+            "sentence": "وَسَخَّرَ لَكُم مَّا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ جَمِيعًا مِّنْهُ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ",
+            "translation": "He ˹also˺ subjected for you whatever is in the heavens and whatever is on the earth—all by His grace. Surely in this are signs for people who reflect.",
+            "originals": [
+                "وَسَخَّرَ",
+                "لَكُم",
+                "مَّا",
+                "فِى",
+                "ٱلسَّمَـٰوَٰتِ",
+                "وَمَا",
+                "فِى",
+                "ٱلْأَرْضِ",
+                "جَمِيعًۭا",
+                "مِّنْهُ ۚ",
+                "إِنَّ",
+                "فِى",
+                "ذَٰلِكَ",
+                "لَـَٔايَـٰتٍۢ",
+                "لِّقَوْمٍۢ",
+                "يَتَفَكَّرُونَ"
+            ],
+            "translations": [
+                "And He has subjected",
+                "to you",
+                "whatever",
+                "(is) in",
+                "the heavens",
+                "and whatever",
+                "(is) in",
+                "the earth ",
+                "all",
+                "from Him",
+                "Indeed",
+                "in",
+                "that",
+                "surely are Signs",
+                "for a people",
+                "who give thought"
+            ]
+        }
+    ]
+}

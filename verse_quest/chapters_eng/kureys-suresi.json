@@ -1,0 +1,78 @@
+{
+    "id": "kureys-suresi",
+    "name": "Quraysh",
+    "description": "Quraysh - 106",
+    "index": 106,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " لِإِيلَـٰفِ قُرَيْشٍ",
+            "translation": "˹At least˺ for ˹the favour of˺ making Quraysh habitually secure—",
+            "originals": [
+                "لِإِيلَـٰفِ",
+                "قُرَيْشٍ"
+            ],
+            "translations": [
+                "For (the) familiarity",
+                "(of the) Quraish"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "إِۦلَـٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ",
+            "translation": "secure in their trading caravan ˹to Yemen˺ in the winter and ˹Syria˺ in the summer—",
+            "originals": [
+                "إِۦلَـٰفِهِمْ",
+                "رِحْلَةَ",
+                "ٱلشِّتَآءِ",
+                "وَٱلصَّيْفِ"
+            ],
+            "translations": [
+                "Their familiarity",
+                "(with the) journey",
+                "(of) winter",
+                "and summer"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "فَلْيَعْبُدُوا۟ رَبَّ هَـٰذَا ٱلْبَيْتِ",
+            "translation": "let them worship the Lord of this ˹Sacred˺ House,",
+            "originals": [
+                "فَلْيَعْبُدُوا۟",
+                "رَبَّ",
+                "هَـٰذَا",
+                "ٱلْبَيْتِ"
+            ],
+            "translations": [
+                "So let them worship",
+                "(the) Lord",
+                "(of) this",
+                "House"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ",
+            "translation": "Who has fed them against hunger and made them secure against fear.<sup foot_note=77640>1</sup> ",
+            "originals": [
+                "ٱلَّذِىٓ",
+                "أَطْعَمَهُم",
+                "مِّن",
+                "جُوعٍۢ",
+                "وَءَامَنَهُم",
+                "مِّنْ",
+                "خَوْفٍۭ"
+            ],
+            "translations": [
+                "The One Who",
+                "feeds them",
+                "[from]",
+                "(against) hunger",
+                "and gives them security",
+                "from",
+                "fear"
+            ]
+        }
+    ]
+}

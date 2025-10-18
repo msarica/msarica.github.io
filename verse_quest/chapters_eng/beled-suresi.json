@@ -1,0 +1,352 @@
+{
+    "id": "beled-suresi",
+    "name": "The City",
+    "description": "The City - 90",
+    "index": 90,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " لَآ أُقْسِمُ بِهَـٰذَا ٱلْبَلَدِ",
+            "translation": "I do swear by this city ˹of Mecca˺—",
+            "originals": [
+                "لَآ",
+                "أُقْسِمُ",
+                "بِهَـٰذَا",
+                "ٱلْبَلَدِ"
+            ],
+            "translations": [
+                "Nay",
+                "I swear",
+                "by this",
+                "city"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "وَأَنتَ حِلٌّۢ بِهَـٰذَا ٱلْبَلَدِ",
+            "translation": "even though you ˹O Prophet˺ are subject to abuse in this city—",
+            "originals": [
+                "وَأَنتَ",
+                "حِلٌّۢ",
+                "بِهَـٰذَا",
+                "ٱلْبَلَدِ"
+            ],
+            "translations": [
+                "And you",
+                "(are) free (to dwell)",
+                "in this",
+                "city"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "وَوَالِدٍ وَمَا وَلَدَ",
+            "translation": "and by every parent and ˹their˺ child!",
+            "originals": [
+                "وَوَالِدٍۢ",
+                "وَمَا",
+                "وَلَدَ"
+            ],
+            "translations": [
+                "And the begetter",
+                "and what",
+                "he begot"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِى كَبَدٍ",
+            "translation": "Indeed, We have created humankind in ˹constant˺ struggle.",
+            "originals": [
+                "لَقَدْ",
+                "خَلَقْنَا",
+                "ٱلْإِنسَـٰنَ",
+                "فِى",
+                "كَبَدٍ"
+            ],
+            "translations": [
+                "Certainly",
+                "We have created",
+                "man",
+                "(to be) in",
+                "hardship"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ",
+            "translation": "Do they think that no one has power over them,",
+            "originals": [
+                "أَيَحْسَبُ",
+                "أَن",
+                "لَّن",
+                "يَقْدِرَ",
+                "عَلَيْهِ",
+                "أَحَدٌۭ"
+            ],
+            "translations": [
+                "Does he think",
+                "that",
+                "not",
+                "has power",
+                "over him",
+                "anyone"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "يَقُولُ أَهْلَكْتُ مَالًا لُّبَدًا",
+            "translation": "boasting, “I have wasted enormous wealth!”?",
+            "originals": [
+                "يَقُولُ",
+                "أَهْلَكْتُ",
+                "مَالًۭا",
+                "لُّبَدًا"
+            ],
+            "translations": [
+                "He will say",
+                "I have squandered",
+                "wealth",
+                "abundant"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "أَيَحْسَبُ أَن لَّمْ يَرَهُۥٓ أَحَدٌ",
+            "translation": "Do they think that no one sees them?",
+            "originals": [
+                "أَيَحْسَبُ",
+                "أَن",
+                "لَّمْ",
+                "يَرَهُۥٓ",
+                "أَحَدٌ"
+            ],
+            "translations": [
+                "Does he think",
+                "that",
+                "not",
+                "sees him",
+                "anyone"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "أَلَمْ نَجْعَل لَّهُۥ عَيْنَيْنِ",
+            "translation": "Have We not given them two eyes,",
+            "originals": [
+                "أَلَمْ",
+                "نَجْعَل",
+                "لَّهُۥ",
+                "عَيْنَيْنِ"
+            ],
+            "translations": [
+                "Have not",
+                "We made",
+                "for him",
+                "two eyes"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "وَلِسَانًا وَشَفَتَيْنِ",
+            "translation": "a tongue, and two lips;",
+            "originals": [
+                "وَلِسَانًۭا",
+                "وَشَفَتَيْنِ"
+            ],
+            "translations": [
+                "And a tongue",
+                "and two lips"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "وَهَدَيْنَـٰهُ ٱلنَّجْدَيْنِ",
+            "translation": "and shown them the two ways ˹of right and wrong˺?",
+            "originals": [
+                "وَهَدَيْنَـٰهُ",
+                "ٱلنَّجْدَيْنِ"
+            ],
+            "translations": [
+                "And shown him",
+                "the two ways"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "فَلَا ٱقْتَحَمَ ٱلْعَقَبَةَ",
+            "translation": "If only they had attempted the challenging path ˹of goodness instead˺!",
+            "originals": [
+                "فَلَا",
+                "ٱقْتَحَمَ",
+                "ٱلْعَقَبَةَ"
+            ],
+            "translations": [
+                "But not",
+                "he has attempted",
+                "the steep path"
+            ]
+        },
+        {
+            "id": "12",
+            "sentence": "وَمَآ أَدْرَىٰكَ مَا ٱلْعَقَبَةُ",
+            "translation": "And what will make you realize what ˹attempting˺ the challenging path is?",
+            "originals": [
+                "وَمَآ",
+                "أَدْرَىٰكَ",
+                "مَا",
+                "ٱلْعَقَبَةُ"
+            ],
+            "translations": [
+                "And what",
+                "can make you know",
+                "what",
+                "the steep path (is)"
+            ]
+        },
+        {
+            "id": "13",
+            "sentence": "فَكُّ رَقَبَةٍ",
+            "translation": "It is to free a slave,",
+            "originals": [
+                "فَكُّ",
+                "رَقَبَةٍ"
+            ],
+            "translations": [
+                "(It is) freeing",
+                "a neck"
+            ]
+        },
+        {
+            "id": "14",
+            "sentence": "أَوْ إِطْعَـٰمٌ فِى يَوْمٍ ذِى مَسْغَبَةٍ",
+            "translation": "or to give food in times of famine",
+            "originals": [
+                "أَوْ",
+                "إِطْعَـٰمٌۭ",
+                "فِى",
+                "يَوْمٍۢ",
+                "ذِى",
+                "مَسْغَبَةٍۢ"
+            ],
+            "translations": [
+                "Or",
+                "feeding",
+                "in",
+                "a day",
+                "of",
+                "severe hunger"
+            ]
+        },
+        {
+            "id": "15",
+            "sentence": "يَتِيمًا ذَا مَقْرَبَةٍ",
+            "translation": "to an orphaned relative",
+            "originals": [
+                "يَتِيمًۭا",
+                "ذَا",
+                "مَقْرَبَةٍ"
+            ],
+            "translations": [
+                "An orphan",
+                "of",
+                "near relationship"
+            ]
+        },
+        {
+            "id": "16",
+            "sentence": "أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ",
+            "translation": "or to a poor person in distress,",
+            "originals": [
+                "أَوْ",
+                "مِسْكِينًۭا",
+                "ذَا",
+                "مَتْرَبَةٍۢ"
+            ],
+            "translations": [
+                "Or",
+                "a needy person",
+                "in",
+                "misery"
+            ]
+        },
+        {
+            "id": "17",
+            "sentence": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَتَوَاصَوْا۟ بِٱلصَّبْرِ وَتَوَاصَوْا۟ بِٱلْمَرْحَمَةِ",
+            "translation": "and—above all—to be one of those who have faith and urge each other to perseverance and urge each other to compassion.",
+            "originals": [
+                "ثُمَّ",
+                "كَانَ",
+                "مِنَ",
+                "ٱلَّذِينَ",
+                "ءَامَنُوا۟",
+                "وَتَوَاصَوْا۟",
+                "بِٱلصَّبْرِ",
+                "وَتَوَاصَوْا۟",
+                "بِٱلْمَرْحَمَةِ"
+            ],
+            "translations": [
+                "Then",
+                "he is",
+                "of",
+                "those who",
+                "believe",
+                "and enjoin (each other)",
+                "to patience",
+                "and enjoin (each other)",
+                "to compassion"
+            ]
+        },
+        {
+            "id": "18",
+            "sentence": "أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْمَيْمَنَةِ",
+            "translation": "These are the people of the right.",
+            "originals": [
+                "أُو۟لَـٰٓئِكَ",
+                "أَصْحَـٰبُ",
+                "ٱلْمَيْمَنَةِ"
+            ],
+            "translations": [
+                "Those",
+                "(are the) companions",
+                "(of) the right (hand)"
+            ]
+        },
+        {
+            "id": "19",
+            "sentence": "وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِنَا هُمْ أَصْحَـٰبُ ٱلْمَشْـَٔمَةِ",
+            "translation": "As for those who deny Our signs, they are the people of the left.<sup foot_note=77622>1</sup>",
+            "originals": [
+                "وَٱلَّذِينَ",
+                "كَفَرُوا۟",
+                "بِـَٔايَـٰتِنَا",
+                "هُمْ",
+                "أَصْحَـٰبُ",
+                "ٱلْمَشْـَٔمَةِ"
+            ],
+            "translations": [
+                "But those who",
+                "disbelieve",
+                "in Our Verses",
+                "they",
+                "(are the) companions",
+                "(of) the left (hand)"
+            ]
+        },
+        {
+            "id": "20",
+            "sentence": "عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌۢ",
+            "translation": "The Fire will be sealed over them.",
+            "originals": [
+                "عَلَيْهِمْ",
+                "نَارٌۭ",
+                "مُّؤْصَدَةٌۢ"
+            ],
+            "translations": [
+                "Over them",
+                "(will be the) Fire",
+                "closed in"
+            ]
+        }
+    ]
+}

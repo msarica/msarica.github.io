@@ -1,0 +1,74 @@
+{
+    "id": "ihlas-suresi",
+    "name": "The Sincerity",
+    "description": "The Sincerity - 112",
+    "index": 112,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+            "translation": "Say, ˹O Prophet,˺ “He is Allah—One ˹and Indivisible˺;",
+            "originals": [
+                "قُلْ",
+                "هُوَ",
+                "ٱللَّهُ",
+                "أَحَدٌ"
+            ],
+            "translations": [
+                "Say",
+                "He",
+                "(is) Allah",
+                "the One"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "ٱللَّهُ ٱلصَّمَدُ",
+            "translation": "Allah—the Sustainer ˹needed by all˺.",
+            "originals": [
+                "ٱللَّهُ",
+                "ٱلصَّمَدُ"
+            ],
+            "translations": [
+                "Allah",
+                "the Eternal, the Absolute"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+            "translation": "He has never had offspring, nor was He born.",
+            "originals": [
+                "لَمْ",
+                "يَلِدْ",
+                "وَلَمْ",
+                "يُولَدْ"
+            ],
+            "translations": [
+                "Not",
+                "He begets",
+                "and not",
+                "He is begotten"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+            "translation": "And there is none comparable to Him.”<sup foot_note=77645>1</sup>",
+            "originals": [
+                "وَلَمْ",
+                "يَكُن",
+                "لَّهُۥ",
+                "كُفُوًا",
+                "أَحَدٌۢ"
+            ],
+            "translations": [
+                "And not",
+                "is",
+                "for Him",
+                "equivalent",
+                "any [one]"
+            ]
+        }
+    ]
+}

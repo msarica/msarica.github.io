@@ -1,0 +1,63 @@
+{
+    "id": "asr-suresi",
+    "name": "The Declining Day",
+    "description": "The Declining Day - 103",
+    "index": 103,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " وَٱلْعَصْرِ",
+            "translation": "By the ˹passage of˺ time!",
+            "originals": [
+                "وَٱلْعَصْرِ"
+            ],
+            "translations": [
+                "By the time"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "إِنَّ ٱلْإِنسَـٰنَ لَفِى خُسْرٍ",
+            "translation": "Surely humanity is in ˹grave˺ loss,",
+            "originals": [
+                "إِنَّ",
+                "ٱلْإِنسَـٰنَ",
+                "لَفِى",
+                "خُسْرٍ"
+            ],
+            "translations": [
+                "Indeed",
+                "mankind",
+                "(is) surely, in",
+                "loss"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+            "translation": "except those who have faith, do good, and urge each other to the truth, and urge each other to perseverance.",
+            "originals": [
+                "إِلَّا",
+                "ٱلَّذِينَ",
+                "ءَامَنُوا۟",
+                "وَعَمِلُوا۟",
+                "ٱلصَّـٰلِحَـٰتِ",
+                "وَتَوَاصَوْا۟",
+                "بِٱلْحَقِّ",
+                "وَتَوَاصَوْا۟",
+                "بِٱلصَّبْرِ"
+            ],
+            "translations": [
+                "Except",
+                "those who",
+                "believe",
+                "and do",
+                "righteous deeds",
+                "and enjoin (each other)",
+                "to the truth",
+                "and enjoin (each other)",
+                "to [the] patience"
+            ]
+        }
+    ]
+}

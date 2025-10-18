@@ -1,0 +1,143 @@
+{
+    "id": "kasas-suresi",
+    "name": "The Stories",
+    "description": "The Stories - 28",
+    "index": 28,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " طسٓمٓ",
+            "translation": "Ṭâ-Sĩn-Mĩm.",
+            "originals": [
+                "طسٓمٓ"
+            ],
+            "translations": [
+                "Ta Seem Meem"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ ٱلْمُبِينِ",
+            "translation": "These are the verses of the clear Book.",
+            "originals": [
+                "تِلْكَ",
+                "ءَايَـٰتُ",
+                "ٱلْكِتَـٰبِ",
+                "ٱلْمُبِينِ"
+            ],
+            "translations": [
+                "These",
+                "(are the) Verses",
+                "(of) the Book",
+                "the clear"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "نَتْلُوا۟ عَلَيْكَ مِن نَّبَإِ مُوسَىٰ وَفِرْعَوْنَ بِٱلْحَقِّ لِقَوْمٍ يُؤْمِنُونَ",
+            "translation": "We narrate to you ˹O Prophet˺ part of the story of Moses and Pharaoh in truth for people who believe.",
+            "originals": [
+                "نَتْلُوا۟",
+                "عَلَيْكَ",
+                "مِن",
+                "نَّبَإِ",
+                "مُوسَىٰ",
+                "وَفِرْعَوْنَ",
+                "بِٱلْحَقِّ",
+                "لِقَوْمٍۢ",
+                "يُؤْمِنُونَ"
+            ],
+            "translations": [
+                "We recite",
+                "to you",
+                "from",
+                "(the) news",
+                "(of) Musa",
+                "and Firaun",
+                "in truth",
+                "for a people",
+                "who believe"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "إِنَّ فِرْعَوْنَ عَلَا فِى ٱلْأَرْضِ وَجَعَلَ أَهْلَهَا شِيَعًا يَسْتَضْعِفُ طَآئِفَةً مِّنْهُمْ يُذَبِّحُ أَبْنَآءَهُمْ وَيَسْتَحْىِۦ نِسَآءَهُمْ ۚ إِنَّهُۥ كَانَ مِنَ ٱلْمُفْسِدِينَ",
+            "translation": "Indeed, Pharaoh ˹arrogantly˺ elevated himself in the land and divided its people into ˹subservient˺ groups, one of which he persecuted, slaughtering their sons and keeping their women. He was truly one of the corruptors.",
+            "originals": [
+                "إِنَّ",
+                "فِرْعَوْنَ",
+                "عَلَا",
+                "فِى",
+                "ٱلْأَرْضِ",
+                "وَجَعَلَ",
+                "أَهْلَهَا",
+                "شِيَعًۭا",
+                "يَسْتَضْعِفُ",
+                "طَآئِفَةًۭ",
+                "مِّنْهُمْ",
+                "يُذَبِّحُ",
+                "أَبْنَآءَهُمْ",
+                "وَيَسْتَحْىِۦ",
+                "نِسَآءَهُمْ ۚ",
+                "إِنَّهُۥ",
+                "كَانَ",
+                "مِنَ",
+                "ٱلْمُفْسِدِينَ"
+            ],
+            "translations": [
+                "Indeed",
+                "Firaun",
+                "exalted himself",
+                "in",
+                "the land",
+                "and made",
+                "its people",
+                "(into) sects",
+                "oppressing",
+                "a group",
+                "among them",
+                "slaughtering",
+                "their sons",
+                "and letting live",
+                "their women",
+                "Indeed, he",
+                "was",
+                "of",
+                "the corrupters"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "وَنُرِيدُ أَن نَّمُنَّ عَلَى ٱلَّذِينَ ٱسْتُضْعِفُوا۟ فِى ٱلْأَرْضِ وَنَجْعَلَهُمْ أَئِمَّةً وَنَجْعَلَهُمُ ٱلْوَٰرِثِينَ",
+            "translation": "But it was Our Will to favour those who were oppressed in the land, making them models ˹of faith˺ as well as successors;",
+            "originals": [
+                "وَنُرِيدُ",
+                "أَن",
+                "نَّمُنَّ",
+                "عَلَى",
+                "ٱلَّذِينَ",
+                "ٱسْتُضْعِفُوا۟",
+                "فِى",
+                "ٱلْأَرْضِ",
+                "وَنَجْعَلَهُمْ",
+                "أَئِمَّةًۭ",
+                "وَنَجْعَلَهُمُ",
+                "ٱلْوَٰرِثِينَ"
+            ],
+            "translations": [
+                "And We wanted",
+                "to",
+                "bestow a favor",
+                "upon",
+                "those who",
+                "were oppressed",
+                "in",
+                "the land",
+                "and make them",
+                "leaders",
+                "and make them",
+                "the inheritors"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,474 @@
+{
+    "id": "saffat-suresi",
+    "name": "Those who set the Ranks",
+    "description": "Those who set the Ranks - 37",
+    "index": 37,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " وَٱلصَّـٰٓفَّـٰتِ صَفًّا",
+            "translation": "By those ˹angels˺ lined up in ranks,",
+            "originals": [
+                "وَٱلصَّـٰٓفَّـٰتِ",
+                "صَفًّۭا"
+            ],
+            "translations": [
+                "By those lined",
+                "(in) rows"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "فَٱلزَّٰجِرَٰتِ زَجْرًا",
+            "translation": "and those who diligently drive ˹the clouds˺,",
+            "originals": [
+                "فَٱلزَّٰجِرَٰتِ",
+                "زَجْرًۭا"
+            ],
+            "translations": [
+                "And those who drive",
+                "strongly"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "فَٱلتَّـٰلِيَـٰتِ ذِكْرًا",
+            "translation": "and those who recite the Reminder!",
+            "originals": [
+                "فَٱلتَّـٰلِيَـٰتِ",
+                "ذِكْرًا"
+            ],
+            "translations": [
+                "And those who recite",
+                "(the) Message"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "إِنَّ إِلَـٰهَكُمْ لَوَٰحِدٌ",
+            "translation": "Surely your God is One!",
+            "originals": [
+                "إِنَّ",
+                "إِلَـٰهَكُمْ",
+                "لَوَٰحِدٌۭ"
+            ],
+            "translations": [
+                "Indeed",
+                "your Lord",
+                "(is) surely One"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "رَّبُّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا وَرَبُّ ٱلْمَشَـٰرِقِ",
+            "translation": "˹He is˺ the Lord of the heavens and the earth and everything in between, and the Lord of all points of sunrise.",
+            "originals": [
+                "رَّبُّ",
+                "ٱلسَّمَـٰوَٰتِ",
+                "وَٱلْأَرْضِ",
+                "وَمَا",
+                "بَيْنَهُمَا",
+                "وَرَبُّ",
+                "ٱلْمَشَـٰرِقِ"
+            ],
+            "translations": [
+                "Lord",
+                "(of) the heavens",
+                "and the earth",
+                "and what",
+                "(is) between both of them",
+                "and Lord",
+                "(of) each point of sunrise"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "إِنَّا زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِزِينَةٍ ٱلْكَوَاكِبِ",
+            "translation": "Indeed, We have adorned the lowest heaven with the stars for decoration",
+            "originals": [
+                "إِنَّا",
+                "زَيَّنَّا",
+                "ٱلسَّمَآءَ",
+                "ٱلدُّنْيَا",
+                "بِزِينَةٍ",
+                "ٱلْكَوَاكِبِ"
+            ],
+            "translations": [
+                "Indeed, We",
+                "[We] adorned",
+                "the sky",
+                "[the world]",
+                "with an adornment",
+                "(of) the stars"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "وَحِفْظًا مِّن كُلِّ شَيْطَـٰنٍ مَّارِدٍ",
+            "translation": "and ˹for˺ protection from every rebellious devil.",
+            "originals": [
+                "وَحِفْظًۭا",
+                "مِّن",
+                "كُلِّ",
+                "شَيْطَـٰنٍۢ",
+                "مَّارِدٍۢ"
+            ],
+            "translations": [
+                "And (to) guard",
+                "against",
+                "every",
+                "devil",
+                "rebellious"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "لَّا يَسَّمَّعُونَ إِلَى ٱلْمَلَإِ ٱلْأَعْلَىٰ وَيُقْذَفُونَ مِن كُلِّ جَانِبٍ",
+            "translation": "They cannot listen to the highest assembly ˹of angels˺ for they are pelted from every side,",
+            "originals": [
+                "لَّا",
+                "يَسَّمَّعُونَ",
+                "إِلَى",
+                "ٱلْمَلَإِ",
+                "ٱلْأَعْلَىٰ",
+                "وَيُقْذَفُونَ",
+                "مِن",
+                "كُلِّ",
+                "جَانِبٍۢ"
+            ],
+            "translations": [
+                "Not",
+                "they may listen",
+                "to",
+                "the assembly",
+                "[the] exalted",
+                "are pelted",
+                "from",
+                "every",
+                "side"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "دُحُورًا ۖ وَلَهُمْ عَذَابٌ وَاصِبٌ",
+            "translation": "˹fiercely˺ driven away. And they will suffer an everlasting torment.",
+            "originals": [
+                "دُحُورًۭا ۖ",
+                "وَلَهُمْ",
+                "عَذَابٌۭ",
+                "وَاصِبٌ"
+            ],
+            "translations": [
+                "Repelled",
+                "and for them",
+                "(is) a punishment",
+                "perpetual"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "إِلَّا مَنْ خَطِفَ ٱلْخَطْفَةَ فَأَتْبَعَهُۥ شِهَابٌ ثَاقِبٌ",
+            "translation": "But whoever manages to stealthily eavesdrop is ˹instantly˺ pursued by a piercing flare.",
+            "originals": [
+                "إِلَّا",
+                "مَنْ",
+                "خَطِفَ",
+                "ٱلْخَطْفَةَ",
+                "فَأَتْبَعَهُۥ",
+                "شِهَابٌۭ",
+                "ثَاقِبٌۭ"
+            ],
+            "translations": [
+                "Except",
+                "(him) who",
+                "snatches",
+                "(by) theft",
+                "but follows him",
+                "a burning flame",
+                "piercing"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "فَٱسْتَفْتِهِمْ أَهُمْ أَشَدُّ خَلْقًا أَم مَّنْ خَلَقْنَآ ۚ إِنَّا خَلَقْنَـٰهُم مِّن طِينٍ لَّازِبٍۭ",
+            "translation": "So ask them ˹O Prophet˺, which is harder to create: them or other marvels of Our creation?<sup foot_note=77239>1</sup> Indeed, We created them from a sticky clay.<sup foot_note=77240>2</sup>",
+            "originals": [
+                "فَٱسْتَفْتِهِمْ",
+                "أَهُمْ",
+                "أَشَدُّ",
+                "خَلْقًا",
+                "أَم",
+                "مَّنْ",
+                "خَلَقْنَآ ۚ",
+                "إِنَّا",
+                "خَلَقْنَـٰهُم",
+                "مِّن",
+                "طِينٍۢ",
+                "لَّازِبٍۭ"
+            ],
+            "translations": [
+                "Then ask them",
+                "Are they",
+                "a stronger",
+                "creation",
+                "or",
+                "(those) whom",
+                "We have created",
+                "Indeed, We",
+                "created them",
+                "from",
+                "a clay",
+                "sticky"
+            ]
+        },
+        {
+            "id": "12",
+            "sentence": "بَلْ عَجِبْتَ وَيَسْخَرُونَ",
+            "translation": "In fact, you are astonished ˹by their denial˺, while they ridicule ˹you˺.",
+            "originals": [
+                "بَلْ",
+                "عَجِبْتَ",
+                "وَيَسْخَرُونَ"
+            ],
+            "translations": [
+                "Nay",
+                "you wonder",
+                "while they mock"
+            ]
+        },
+        {
+            "id": "13",
+            "sentence": "وَإِذَا ذُكِّرُوا۟ لَا يَذْكُرُونَ",
+            "translation": "When they are reminded, they are never mindful.",
+            "originals": [
+                "وَإِذَا",
+                "ذُكِّرُوا۟",
+                "لَا",
+                "يَذْكُرُونَ"
+            ],
+            "translations": [
+                "And when",
+                "they are reminded",
+                "not",
+                "they receive admonition"
+            ]
+        },
+        {
+            "id": "14",
+            "sentence": "وَإِذَا رَأَوْا۟ ءَايَةً يَسْتَسْخِرُونَ",
+            "translation": "And whenever they see a sign, they make fun of it,",
+            "originals": [
+                "وَإِذَا",
+                "رَأَوْا۟",
+                "ءَايَةًۭ",
+                "يَسْتَسْخِرُونَ"
+            ],
+            "translations": [
+                "And when",
+                "they see",
+                "a Sign",
+                "they mock"
+            ]
+        },
+        {
+            "id": "15",
+            "sentence": "وَقَالُوٓا۟ إِنْ هَـٰذَآ إِلَّا سِحْرٌ مُّبِينٌ",
+            "translation": "saying, “This is nothing but pure magic.",
+            "originals": [
+                "وَقَالُوٓا۟",
+                "إِنْ",
+                "هَـٰذَآ",
+                "إِلَّا",
+                "سِحْرٌۭ",
+                "مُّبِينٌ"
+            ],
+            "translations": [
+                "And they say",
+                "Not",
+                "(is) this",
+                "except",
+                "a magic",
+                "clear"
+            ]
+        },
+        {
+            "id": "16",
+            "sentence": "أَءِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَـٰمًا أَءِنَّا لَمَبْعُوثُونَ",
+            "translation": "When we are dead and reduced to dust and bones, will we really be resurrected?",
+            "originals": [
+                "أَءِذَا",
+                "مِتْنَا",
+                "وَكُنَّا",
+                "تُرَابًۭا",
+                "وَعِظَـٰمًا",
+                "أَءِنَّا",
+                "لَمَبْعُوثُونَ"
+            ],
+            "translations": [
+                "Is it when",
+                "we are dead",
+                "and have become",
+                "dust",
+                "and bones",
+                "shall we then",
+                "be certainly resurrected"
+            ]
+        },
+        {
+            "id": "17",
+            "sentence": "أَوَءَابَآؤُنَا ٱلْأَوَّلُونَ",
+            "translation": "And our forefathers as well?”",
+            "originals": [
+                "أَوَءَابَآؤُنَا",
+                "ٱلْأَوَّلُونَ"
+            ],
+            "translations": [
+                "Or our fathers",
+                "former"
+            ]
+        },
+        {
+            "id": "18",
+            "sentence": "قُلْ نَعَمْ وَأَنتُمْ دَٰخِرُونَ",
+            "translation": "Say, “Yes! And you will be fully humbled.”",
+            "originals": [
+                "قُلْ",
+                "نَعَمْ",
+                "وَأَنتُمْ",
+                "دَٰخِرُونَ"
+            ],
+            "translations": [
+                "Say",
+                "Yes",
+                "and you",
+                "(will be) humiliated"
+            ]
+        },
+        {
+            "id": "19",
+            "sentence": "فَإِنَّمَا هِىَ زَجْرَةٌ وَٰحِدَةٌ فَإِذَا هُمْ يَنظُرُونَ",
+            "translation": "It will only take one Blast,<sup foot_note=77241>1</sup> then at once they will see ˹it all˺.",
+            "originals": [
+                "فَإِنَّمَا",
+                "هِىَ",
+                "زَجْرَةٌۭ",
+                "وَٰحِدَةٌۭ",
+                "فَإِذَا",
+                "هُمْ",
+                "يَنظُرُونَ"
+            ],
+            "translations": [
+                "Then only",
+                "it",
+                "(will be) a cry",
+                "single",
+                "then, behold",
+                "They",
+                "will see"
+            ]
+        },
+        {
+            "id": "20",
+            "sentence": "وَقَالُوا۟ يَـٰوَيْلَنَا هَـٰذَا يَوْمُ ٱلدِّينِ",
+            "translation": "They will cry, “Oh, woe to us! This is the Day of Judgment!”",
+            "originals": [
+                "وَقَالُوا۟",
+                "يَـٰوَيْلَنَا",
+                "هَـٰذَا",
+                "يَوْمُ",
+                "ٱلدِّينِ"
+            ],
+            "translations": [
+                "And they will say",
+                "O woe to us",
+                "This",
+                "(is the) Day",
+                "(of) the Recompense"
+            ]
+        },
+        {
+            "id": "21",
+            "sentence": "هَـٰذَا يَوْمُ ٱلْفَصْلِ ٱلَّذِى كُنتُم بِهِۦ تُكَذِّبُونَ",
+            "translation": "˹They will be told,˺ “This is the Day of ˹Final˺ Decision which you used to deny.”",
+            "originals": [
+                "هَـٰذَا",
+                "يَوْمُ",
+                "ٱلْفَصْلِ",
+                "ٱلَّذِى",
+                "كُنتُم",
+                "بِهِۦ",
+                "تُكَذِّبُونَ"
+            ],
+            "translations": [
+                "This",
+                "(is the) Day",
+                "(of) Judgment",
+                "which",
+                "you used to",
+                "[of it]",
+                "deny"
+            ]
+        },
+        {
+            "id": "22",
+            "sentence": "۞ ٱحْشُرُوا۟ ٱلَّذِينَ ظَلَمُوا۟ وَأَزْوَٰجَهُمْ وَمَا كَانُوا۟ يَعْبُدُونَ",
+            "translation": "˹Allah will say to the angels,˺ “Gather ˹all˺ the wrongdoers along with their peers, and whatever they used to worship",
+            "originals": [
+                "۞ ٱحْشُرُوا۟",
+                "ٱلَّذِينَ",
+                "ظَلَمُوا۟",
+                "وَأَزْوَٰجَهُمْ",
+                "وَمَا",
+                "كَانُوا۟",
+                "يَعْبُدُونَ"
+            ],
+            "translations": [
+                "Gather",
+                "those who",
+                "wronged",
+                "and their kinds",
+                "and what",
+                "they used (to)",
+                "worship"
+            ]
+        },
+        {
+            "id": "23",
+            "sentence": "مِن دُونِ ٱللَّهِ فَٱهْدُوهُمْ إِلَىٰ صِرَٰطِ ٱلْجَحِيمِ",
+            "translation": "instead of Allah, then lead them ˹all˺ to the path of Hell.",
+            "originals": [
+                "مِن",
+                "دُونِ",
+                "ٱللَّهِ",
+                "فَٱهْدُوهُمْ",
+                "إِلَىٰ",
+                "صِرَٰطِ",
+                "ٱلْجَحِيمِ"
+            ],
+            "translations": [
+                "Besides",
+                "Besides",
+                "Allah",
+                "then lead them",
+                "to",
+                "(the) Path",
+                "(of) the Hellfire"
+            ]
+        },
+        {
+            "id": "24",
+            "sentence": "وَقِفُوهُمْ ۖ إِنَّهُم مَّسْـُٔولُونَ",
+            "translation": "And detain them, for they must be questioned.”",
+            "originals": [
+                "وَقِفُوهُمْ ۖ",
+                "إِنَّهُم",
+                "مَّسْـُٔولُونَ"
+            ],
+            "translations": [
+                "And stop them",
+                "indeed, they",
+                "(are) to be questioned"
+            ]
+        }
+    ]
+}

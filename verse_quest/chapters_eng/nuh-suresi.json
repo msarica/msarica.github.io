@@ -1,0 +1,270 @@
+{
+    "id": "nuh-suresi",
+    "name": "Noah",
+    "description": "Noah - 71",
+    "index": 71,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " إِنَّآ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ أَنْ أَنذِرْ قَوْمَكَ مِن قَبْلِ أَن يَأْتِيَهُمْ عَذَابٌ أَلِيمٌ",
+            "translation": "Indeed, We sent Noah to his people ˹saying to him˺, “Warn your people before a painful punishment comes to them.”",
+            "originals": [
+                "إِنَّآ",
+                "أَرْسَلْنَا",
+                "نُوحًا",
+                "إِلَىٰ",
+                "قَوْمِهِۦٓ",
+                "أَنْ",
+                "أَنذِرْ",
+                "قَوْمَكَ",
+                "مِن",
+                "قَبْلِ",
+                "أَن",
+                "يَأْتِيَهُمْ",
+                "عَذَابٌ",
+                "أَلِيمٌۭ"
+            ],
+            "translations": [
+                "Indeed, We",
+                "[We] sent",
+                "Nuh",
+                "to",
+                "his people",
+                "that",
+                "Warn",
+                "your people",
+                "from",
+                "before",
+                "[that]",
+                "comes to them",
+                "a punishment",
+                "painful"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌ مُّبِينٌ",
+            "translation": "Noah proclaimed, “O my people! I am truly sent to you with a clear warning:",
+            "originals": [
+                "قَالَ",
+                "يَـٰقَوْمِ",
+                "إِنِّى",
+                "لَكُمْ",
+                "نَذِيرٌۭ",
+                "مُّبِينٌ"
+            ],
+            "translations": [
+                "He said",
+                "O my people",
+                "Indeed, I am",
+                "to you",
+                "a warner",
+                "clear"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "أَنِ ٱعْبُدُوا۟ ٱللَّهَ وَٱتَّقُوهُ وَأَطِيعُونِ",
+            "translation": "worship Allah ˹alone˺, fear Him, and obey me.",
+            "originals": [
+                "أَنِ",
+                "ٱعْبُدُوا۟",
+                "ٱللَّهَ",
+                "وَٱتَّقُوهُ",
+                "وَأَطِيعُونِ"
+            ],
+            "translations": [
+                "That",
+                "Worship",
+                "Allah",
+                "and fear Him",
+                "and obey me"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "يَغْفِرْ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرْكُمْ إِلَىٰٓ أَجَلٍ مُّسَمًّى ۚ إِنَّ أَجَلَ ٱللَّهِ إِذَا جَآءَ لَا يُؤَخَّرُ ۖ لَوْ كُنتُمْ تَعْلَمُونَ",
+            "translation": "He will forgive your sins, and delay your end until the appointed time.<sup foot_note=77552>1</sup> Indeed, when the time set by Allah comes, it cannot be delayed, if only you knew!”",
+            "originals": [
+                "يَغْفِرْ",
+                "لَكُم",
+                "مِّن",
+                "ذُنُوبِكُمْ",
+                "وَيُؤَخِّرْكُمْ",
+                "إِلَىٰٓ",
+                "أَجَلٍۢ",
+                "مُّسَمًّى ۚ",
+                "إِنَّ",
+                "أَجَلَ",
+                "ٱللَّهِ",
+                "إِذَا",
+                "جَآءَ",
+                "لَا",
+                "يُؤَخَّرُ ۖ",
+                "لَوْ",
+                "كُنتُمْ",
+                "تَعْلَمُونَ"
+            ],
+            "translations": [
+                "He will forgive",
+                "for you",
+                "[of]",
+                "your sins",
+                "and give you respite",
+                "for",
+                "a term",
+                "specified",
+                "Indeed",
+                "(the) term",
+                "(of) Allah",
+                "when",
+                "it comes",
+                "not",
+                "is delayed",
+                "if",
+                "you",
+                "know"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًا وَنَهَارًا",
+            "translation": "He cried, “My Lord! I have surely called my people day and night,",
+            "originals": [
+                "قَالَ",
+                "رَبِّ",
+                "إِنِّى",
+                "دَعَوْتُ",
+                "قَوْمِى",
+                "لَيْلًۭا",
+                "وَنَهَارًۭا"
+            ],
+            "translations": [
+                "He said",
+                "My Lord",
+                "Indeed, I",
+                "invited",
+                "my people",
+                "night",
+                "and day"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "فَلَمْ يَزِدْهُمْ دُعَآءِىٓ إِلَّا فِرَارًا",
+            "translation": "but my calls only made them run farther away.",
+            "originals": [
+                "فَلَمْ",
+                "يَزِدْهُمْ",
+                "دُعَآءِىٓ",
+                "إِلَّا",
+                "فِرَارًۭا"
+            ],
+            "translations": [
+                "But not",
+                "increased them",
+                "my invitation",
+                "except",
+                "(in) flight"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "وَإِنِّى كُلَّمَا دَعَوْتُهُمْ لِتَغْفِرَ لَهُمْ جَعَلُوٓا۟ أَصَـٰبِعَهُمْ فِىٓ ءَاذَانِهِمْ وَٱسْتَغْشَوْا۟ ثِيَابَهُمْ وَأَصَرُّوا۟ وَٱسْتَكْبَرُوا۟ ٱسْتِكْبَارًا",
+            "translation": "And whenever I invite them to be forgiven by You, they press their fingers into their ears, cover themselves with their clothes, persist ˹in denial˺, and act very arrogantly.",
+            "originals": [
+                "وَإِنِّى",
+                "كُلَّمَا",
+                "دَعَوْتُهُمْ",
+                "لِتَغْفِرَ",
+                "لَهُمْ",
+                "جَعَلُوٓا۟",
+                "أَصَـٰبِعَهُمْ",
+                "فِىٓ",
+                "ءَاذَانِهِمْ",
+                "وَٱسْتَغْشَوْا۟",
+                "ثِيَابَهُمْ",
+                "وَأَصَرُّوا۟",
+                "وَٱسْتَكْبَرُوا۟",
+                "ٱسْتِكْبَارًۭا"
+            ],
+            "translations": [
+                "And indeed, I",
+                "every time",
+                "I invited them",
+                "that You may forgive",
+                "them",
+                "they put",
+                "their fingers",
+                "in",
+                "their ears",
+                "and covered themselves",
+                "(with) their garments",
+                "and persisted",
+                "and were arrogant",
+                "(with) pride"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "ثُمَّ إِنِّى دَعَوْتُهُمْ جِهَارًا",
+            "translation": "Then I certainly called them openly,",
+            "originals": [
+                "ثُمَّ",
+                "إِنِّى",
+                "دَعَوْتُهُمْ",
+                "جِهَارًۭا"
+            ],
+            "translations": [
+                "Then",
+                "indeed, I",
+                "invited them",
+                "publicly"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "ثُمَّ إِنِّىٓ أَعْلَنتُ لَهُمْ وَأَسْرَرْتُ لَهُمْ إِسْرَارًا",
+            "translation": "then I surely preached to them publicly and privately,",
+            "originals": [
+                "ثُمَّ",
+                "إِنِّىٓ",
+                "أَعْلَنتُ",
+                "لَهُمْ",
+                "وَأَسْرَرْتُ",
+                "لَهُمْ",
+                "إِسْرَارًۭا"
+            ],
+            "translations": [
+                "Then",
+                "indeed, I",
+                "announced",
+                "to them",
+                "and I confided",
+                "to them",
+                "secretly"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "فَقُلْتُ ٱسْتَغْفِرُوا۟ رَبَّكُمْ إِنَّهُۥ كَانَ غَفَّارًا",
+            "translation": "saying, ‘Seek your Lord’s forgiveness, ˹for˺ He is truly Most Forgiving.",
+            "originals": [
+                "فَقُلْتُ",
+                "ٱسْتَغْفِرُوا۟",
+                "رَبَّكُمْ",
+                "إِنَّهُۥ",
+                "كَانَ",
+                "غَفَّارًۭا"
+            ],
+            "translations": [
+                "Then I said",
+                "Ask forgiveness",
+                "(from) your Lord",
+                "Indeed, He",
+                "is",
+                "Oft-Forgiving"
+            ]
+        }
+    ]
+}

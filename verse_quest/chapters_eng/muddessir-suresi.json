@@ -1,0 +1,263 @@
+{
+    "id": "muddessir-suresi",
+    "name": "The Cloaked One",
+    "description": "The Cloaked One - 74",
+    "index": 74,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " يَـٰٓأَيُّهَا ٱلْمُدَّثِّرُ",
+            "translation": "O you covered up ˹in your clothes˺!",
+            "originals": [
+                "يَـٰٓأَيُّهَا",
+                "ٱلْمُدَّثِّرُ"
+            ],
+            "translations": [
+                "O you",
+                "who covers himself"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "قُمْ فَأَنذِرْ",
+            "translation": "Arise and warn ˹all˺.",
+            "originals": [
+                "قُمْ",
+                "فَأَنذِرْ"
+            ],
+            "translations": [
+                "Stand up",
+                "and warn"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "وَرَبَّكَ فَكَبِّرْ",
+            "translation": "Revere your Lord ˹alone˺.",
+            "originals": [
+                "وَرَبَّكَ",
+                "فَكَبِّرْ"
+            ],
+            "translations": [
+                "And your Lord",
+                "magnify"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "وَثِيَابَكَ فَطَهِّرْ",
+            "translation": "Purify your garments.",
+            "originals": [
+                "وَثِيَابَكَ",
+                "فَطَهِّرْ"
+            ],
+            "translations": [
+                "And your clothing",
+                "purify"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "وَٱلرُّجْزَ فَٱهْجُرْ",
+            "translation": "˹Continue to˺ shun idols.",
+            "originals": [
+                "وَٱلرُّجْزَ",
+                "فَٱهْجُرْ"
+            ],
+            "translations": [
+                "And uncleanliness",
+                "avoid"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "وَلَا تَمْنُن تَسْتَكْثِرُ",
+            "translation": "Do not do a favour expecting more ˹in return˺.<sup foot_note=77564>1</sup>",
+            "originals": [
+                "وَلَا",
+                "تَمْنُن",
+                "تَسْتَكْثِرُ"
+            ],
+            "translations": [
+                "And (do) not",
+                "confer favor",
+                "(to) acquire more"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "وَلِرَبِّكَ فَٱصْبِرْ",
+            "translation": "And persevere for ˹the sake of˺ your Lord.",
+            "originals": [
+                "وَلِرَبِّكَ",
+                "فَٱصْبِرْ"
+            ],
+            "translations": [
+                "And for your Lord",
+                "be patient"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "فَإِذَا نُقِرَ فِى ٱلنَّاقُورِ",
+            "translation": "˹For˺ when the Trumpet will be sounded,<sup foot_note=77565>1</sup>",
+            "originals": [
+                "فَإِذَا",
+                "نُقِرَ",
+                "فِى",
+                "ٱلنَّاقُورِ"
+            ],
+            "translations": [
+                "Then when",
+                "is blown",
+                "in",
+                "the trumpet"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "فَذَٰلِكَ يَوْمَئِذٍ يَوْمٌ عَسِيرٌ",
+            "translation": "that will ˹truly˺ be a difficult Day—",
+            "originals": [
+                "فَذَٰلِكَ",
+                "يَوْمَئِذٍۢ",
+                "يَوْمٌ",
+                "عَسِيرٌ"
+            ],
+            "translations": [
+                "That",
+                "Day",
+                "(will be) a Day",
+                "difficult"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "عَلَى ٱلْكَـٰفِرِينَ غَيْرُ يَسِيرٍ",
+            "translation": "far from easy for the disbelievers.",
+            "originals": [
+                "عَلَى",
+                "ٱلْكَـٰفِرِينَ",
+                "غَيْرُ",
+                "يَسِيرٍۢ"
+            ],
+            "translations": [
+                "For",
+                "the disbelievers ",
+                "not",
+                "easy"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "ذَرْنِى وَمَنْ خَلَقْتُ وَحِيدًا",
+            "translation": "And leave to me ˹O Prophet˺ the one I created all by Myself,",
+            "originals": [
+                "ذَرْنِى",
+                "وَمَنْ",
+                "خَلَقْتُ",
+                "وَحِيدًۭا"
+            ],
+            "translations": [
+                "Leave Me",
+                "and whom",
+                "I created",
+                "alone"
+            ]
+        },
+        {
+            "id": "12",
+            "sentence": "وَجَعَلْتُ لَهُۥ مَالًا مَّمْدُودًا",
+            "translation": "and granted him abundant wealth,",
+            "originals": [
+                "وَجَعَلْتُ",
+                "لَهُۥ",
+                "مَالًۭا",
+                "مَّمْدُودًۭا"
+            ],
+            "translations": [
+                "And I granted",
+                "to him",
+                "wealth",
+                "extensive"
+            ]
+        },
+        {
+            "id": "13",
+            "sentence": "وَبَنِينَ شُهُودًا",
+            "translation": "and children always by his side,",
+            "originals": [
+                "وَبَنِينَ",
+                "شُهُودًۭا"
+            ],
+            "translations": [
+                "And children",
+                "present"
+            ]
+        },
+        {
+            "id": "14",
+            "sentence": "وَمَهَّدتُّ لَهُۥ تَمْهِيدًا",
+            "translation": "and made life very easy for him.",
+            "originals": [
+                "وَمَهَّدتُّ",
+                "لَهُۥ",
+                "تَمْهِيدًۭا"
+            ],
+            "translations": [
+                "And I spread",
+                "for him",
+                "ease"
+            ]
+        },
+        {
+            "id": "15",
+            "sentence": "ثُمَّ يَطْمَعُ أَنْ أَزِيدَ",
+            "translation": "Yet he is hungry for more.",
+            "originals": [
+                "ثُمَّ",
+                "يَطْمَعُ",
+                "أَنْ",
+                "أَزِيدَ"
+            ],
+            "translations": [
+                "Then",
+                "he desires",
+                "that",
+                "I (should) add more"
+            ]
+        },
+        {
+            "id": "16",
+            "sentence": "كَلَّآ ۖ إِنَّهُۥ كَانَ لِـَٔايَـٰتِنَا عَنِيدًا",
+            "translation": "But no! ˹For˺ he has been truly stubborn with Our revelations.",
+            "originals": [
+                "كَلَّآ ۖ",
+                "إِنَّهُۥ",
+                "كَانَ",
+                "لِـَٔايَـٰتِنَا",
+                "عَنِيدًۭا"
+            ],
+            "translations": [
+                "By no means",
+                "Indeed, he",
+                "has been",
+                "to Our Verses",
+                "stubborn"
+            ]
+        },
+        {
+            "id": "17",
+            "sentence": "سَأُرْهِقُهُۥ صَعُودًا",
+            "translation": "I will make his fate unbearable,",
+            "originals": [
+                "سَأُرْهِقُهُۥ",
+                "صَعُودًا"
+            ],
+            "translations": [
+                "Soon I will cover Him",
+                "(with) a laborious punishment"
+            ]
+        }
+    ]
+}

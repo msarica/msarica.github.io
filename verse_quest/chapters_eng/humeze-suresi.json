@@ -1,0 +1,155 @@
+{
+    "id": "humeze-suresi",
+    "name": "The Traducer",
+    "description": "The Traducer - 104",
+    "index": 104,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ",
+            "translation": "Woe to every backbiter, slanderer,",
+            "originals": [
+                "وَيْلٌۭ",
+                "لِّكُلِّ",
+                "هُمَزَةٍۢ",
+                "لُّمَزَةٍ"
+            ],
+            "translations": [
+                "Woe",
+                "to every",
+                "slanderer",
+                "backbiter"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥ",
+            "translation": "who amasses wealth ˹greedily˺ and counts it ˹repeatedly˺,",
+            "originals": [
+                "ٱلَّذِى",
+                "جَمَعَ",
+                "مَالًۭا",
+                "وَعَدَّدَهُۥ"
+            ],
+            "translations": [
+                "The one who",
+                "collects",
+                "wealth",
+                "and counts it"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ",
+            "translation": "thinking that their wealth will make them immortal!",
+            "originals": [
+                "يَحْسَبُ",
+                "أَنَّ",
+                "مَالَهُۥٓ",
+                "أَخْلَدَهُۥ"
+            ],
+            "translations": [
+                "Thinking",
+                "that",
+                "his wealth",
+                "will make him immortal"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "كَلَّا ۖ لَيُنۢبَذَنَّ فِى ٱلْحُطَمَةِ",
+            "translation": "Not at all! Such a person will certainly be tossed into the Crusher.",
+            "originals": [
+                "كَلَّا ۖ",
+                "لَيُنۢبَذَنَّ",
+                "فِى",
+                "ٱلْحُطَمَةِ"
+            ],
+            "translations": [
+                "Nay",
+                "Surely he will be thrown",
+                "in",
+                "the Crusher"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "وَمَآ أَدْرَىٰكَ مَا ٱلْحُطَمَةُ",
+            "translation": "And what will make you realize what the Crusher is?",
+            "originals": [
+                "وَمَآ",
+                "أَدْرَىٰكَ",
+                "مَا",
+                "ٱلْحُطَمَةُ"
+            ],
+            "translations": [
+                "And what",
+                "will make you know",
+                "what",
+                "the Crusher (is)"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "نَارُ ٱللَّهِ ٱلْمُوقَدَةُ",
+            "translation": "˹It is˺ Allah’s kindled Fire,",
+            "originals": [
+                "نَارُ",
+                "ٱللَّهِ",
+                "ٱلْمُوقَدَةُ"
+            ],
+            "translations": [
+                "A Fire",
+                "Allah",
+                "kindled"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "ٱلَّتِى تَطَّلِعُ عَلَى ٱلْأَفْـِٔدَةِ",
+            "translation": "which rages over the hearts.",
+            "originals": [
+                "ٱلَّتِى",
+                "تَطَّلِعُ",
+                "عَلَى",
+                "ٱلْأَفْـِٔدَةِ"
+            ],
+            "translations": [
+                "Which",
+                "mounts up",
+                "to",
+                "the hearts"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ",
+            "translation": "It will be sealed over them,",
+            "originals": [
+                "إِنَّهَا",
+                "عَلَيْهِم",
+                "مُّؤْصَدَةٌۭ"
+            ],
+            "translations": [
+                "Indeed, it",
+                "(will be) upon them",
+                "closed over"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "فِى عَمَدٍ مُّمَدَّدَةٍۭ",
+            "translation": "˹tightly secured˺ with long braces.<sup foot_note=77638>1</sup> ",
+            "originals": [
+                "فِى",
+                "عَمَدٍۢ",
+                "مُّمَدَّدَةٍۭ"
+            ],
+            "translations": [
+                "In",
+                "columns",
+                "extended"
+            ]
+        }
+    ]
+}

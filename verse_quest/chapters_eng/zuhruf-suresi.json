@@ -1,0 +1,230 @@
+{
+    "id": "zuhruf-suresi",
+    "name": "The Ornaments of Gold",
+    "description": "The Ornaments of Gold - 43",
+    "index": 43,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " حمٓ",
+            "translation": "Ḥâ-Mĩm.",
+            "originals": [
+                "حمٓ"
+            ],
+            "translations": [
+                "Ha Meem"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "وَٱلْكِتَـٰبِ ٱلْمُبِينِ",
+            "translation": "By the clear Book!",
+            "originals": [
+                "وَٱلْكِتَـٰبِ",
+                "ٱلْمُبِينِ"
+            ],
+            "translations": [
+                "By the Book",
+                "the clear"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "إِنَّا جَعَلْنَـٰهُ قُرْءَٰنًا عَرَبِيًّا لَّعَلَّكُمْ تَعْقِلُونَ",
+            "translation": "Certainly, We have made it a Quran in Arabic so perhaps you will understand.",
+            "originals": [
+                "إِنَّا",
+                "جَعَلْنَـٰهُ",
+                "قُرْءَٰنًا",
+                "عَرَبِيًّۭا",
+                "لَّعَلَّكُمْ",
+                "تَعْقِلُونَ"
+            ],
+            "translations": [
+                "Indeed, We",
+                "(have) made it",
+                "a Quran",
+                "(in) Arabic",
+                "so that you may",
+                "understand"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "وَإِنَّهُۥ فِىٓ أُمِّ ٱلْكِتَـٰبِ لَدَيْنَا لَعَلِىٌّ حَكِيمٌ",
+            "translation": "And indeed, it is—in the Master Record<sup foot_note=77328>1</sup> with Us—highly esteemed, rich in wisdom.",
+            "originals": [
+                "وَإِنَّهُۥ",
+                "فِىٓ",
+                "أُمِّ",
+                "ٱلْكِتَـٰبِ",
+                "لَدَيْنَا",
+                "لَعَلِىٌّ",
+                "حَكِيمٌ"
+            ],
+            "translations": [
+                "And indeed, it",
+                "(is) in",
+                "(the) Mother",
+                "(of) the Book",
+                "with Us",
+                "surely exalted",
+                "full of wisdom"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "أَفَنَضْرِبُ عَنكُمُ ٱلذِّكْرَ صَفْحًا أَن كُنتُمْ قَوْمًا مُّسْرِفِينَ",
+            "translation": "Should We then turn the ˹Quranic˺ Reminder away from you ˹simply˺ because you have been a transgressing people?",
+            "originals": [
+                "أَفَنَضْرِبُ",
+                "عَنكُمُ",
+                "ٱلذِّكْرَ",
+                "صَفْحًا",
+                "أَن",
+                "كُنتُمْ",
+                "قَوْمًۭا",
+                "مُّسْرِفِينَ"
+            ],
+            "translations": [
+                "Then should We take away",
+                "from you",
+                "the Reminder",
+                "disregarding (you)",
+                "because",
+                "you are",
+                "a people",
+                "transgressing"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "وَكَمْ أَرْسَلْنَا مِن نَّبِىٍّ فِى ٱلْأَوَّلِينَ",
+            "translation": "˹Imagine˺ how many prophets We sent to those ˹destroyed˺ before!",
+            "originals": [
+                "وَكَمْ",
+                "أَرْسَلْنَا",
+                "مِن",
+                "نَّبِىٍّۢ",
+                "فِى",
+                "ٱلْأَوَّلِينَ"
+            ],
+            "translations": [
+                "And how many",
+                "We sent",
+                "of",
+                "a Prophet",
+                "among",
+                "the former (people)"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+            "translation": "But no prophet ever came to them without being mocked.",
+            "originals": [
+                "وَمَا",
+                "يَأْتِيهِم",
+                "مِّن",
+                "نَّبِىٍّ",
+                "إِلَّا",
+                "كَانُوا۟",
+                "بِهِۦ",
+                "يَسْتَهْزِءُونَ"
+            ],
+            "translations": [
+                "And not",
+                "came to them",
+                "any Prophet",
+                "any Prophet",
+                "but",
+                "they used to",
+                "mock at him",
+                "mock at him"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "فَأَهْلَكْنَآ أَشَدَّ مِنْهُم بَطْشًا وَمَضَىٰ مَثَلُ ٱلْأَوَّلِينَ",
+            "translation": "So We destroyed those who were far mightier than these ˹Meccans˺. The examples of ˹their˺ predecessors have ˹already˺ been related.<sup foot_note=77329>1</sup> ",
+            "originals": [
+                "فَأَهْلَكْنَآ",
+                "أَشَدَّ",
+                "مِنْهُم",
+                "بَطْشًۭا",
+                "وَمَضَىٰ",
+                "مَثَلُ",
+                "ٱلْأَوَّلِينَ"
+            ],
+            "translations": [
+                "Then We destroyed",
+                "stronger",
+                "than them",
+                "(in) power",
+                "and has passed",
+                "(the) example",
+                "(of) the former (people)"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ لَيَقُولُنَّ خَلَقَهُنَّ ٱلْعَزِيزُ ٱلْعَلِيمُ",
+            "translation": "If you ask them ˹O Prophet˺ who created the heavens and the earth, they will certainly say, “The Almighty, All-Knowing did.”",
+            "originals": [
+                "وَلَئِن",
+                "سَأَلْتَهُم",
+                "مَّنْ",
+                "خَلَقَ",
+                "ٱلسَّمَـٰوَٰتِ",
+                "وَٱلْأَرْضَ",
+                "لَيَقُولُنَّ",
+                "خَلَقَهُنَّ",
+                "ٱلْعَزِيزُ",
+                "ٱلْعَلِيمُ"
+            ],
+            "translations": [
+                "And if",
+                "you ask them",
+                "Who",
+                "created",
+                "the heavens",
+                "and the earth",
+                "They will surely say",
+                "Created them",
+                "the All-Mighty",
+                "the All-Knower"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ مَهْدًا وَجَعَلَ لَكُمْ فِيهَا سُبُلًا لَّعَلَّكُمْ تَهْتَدُونَ",
+            "translation": "˹He is the One˺ Who has laid out the earth for you, and set in it pathways for you so that you may find your way.",
+            "originals": [
+                "ٱلَّذِى",
+                "جَعَلَ",
+                "لَكُمُ",
+                "ٱلْأَرْضَ",
+                "مَهْدًۭا",
+                "وَجَعَلَ",
+                "لَكُمْ",
+                "فِيهَا",
+                "سُبُلًۭا",
+                "لَّعَلَّكُمْ",
+                "تَهْتَدُونَ"
+            ],
+            "translations": [
+                "The One Who",
+                "made",
+                "for you",
+                "the earth",
+                "a bed",
+                "and made",
+                "for you",
+                "therein",
+                "roads",
+                "so that you may",
+                "(be) guided"
+            ]
+        }
+    ]
+}

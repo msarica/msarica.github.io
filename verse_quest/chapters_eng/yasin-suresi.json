@@ -1,0 +1,282 @@
+{
+    "id": "yasin-suresi",
+    "name": "Ya Sin",
+    "description": "Ya Sin - 36",
+    "index": 36,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " يسٓ",
+            "translation": "Yâ-Sĩn.",
+            "originals": [
+                "يسٓ"
+            ],
+            "translations": [
+                "Ya Seen"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "وَٱلْقُرْءَانِ ٱلْحَكِيمِ",
+            "translation": "By the Quran, rich in wisdom!",
+            "originals": [
+                "وَٱلْقُرْءَانِ",
+                "ٱلْحَكِيمِ"
+            ],
+            "translations": [
+                "By the Quran",
+                "the Wise"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "إِنَّكَ لَمِنَ ٱلْمُرْسَلِينَ",
+            "translation": "You ˹O Prophet˺ are truly one of the messengers",
+            "originals": [
+                "إِنَّكَ",
+                "لَمِنَ",
+                "ٱلْمُرْسَلِينَ"
+            ],
+            "translations": [
+                "Indeed, you",
+                "(are) among",
+                "the Messengers"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "عَلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+            "translation": "upon the Straight Path.",
+            "originals": [
+                "عَلَىٰ",
+                "صِرَٰطٍۢ",
+                "مُّسْتَقِيمٍۢ"
+            ],
+            "translations": [
+                "On",
+                "a Path",
+                "Straight"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "تَنزِيلَ ٱلْعَزِيزِ ٱلرَّحِيمِ",
+            "translation": "˹This is˺ a revelation from the Almighty, Most Merciful,",
+            "originals": [
+                "تَنزِيلَ",
+                "ٱلْعَزِيزِ",
+                "ٱلرَّحِيمِ"
+            ],
+            "translations": [
+                "A revelation",
+                "(of) the All-Mighty",
+                "the Most Merciful"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "لِتُنذِرَ قَوْمًا مَّآ أُنذِرَ ءَابَآؤُهُمْ فَهُمْ غَـٰفِلُونَ",
+            "translation": "so that you may warn a people whose forefathers were not warned, and so are heedless.",
+            "originals": [
+                "لِتُنذِرَ",
+                "قَوْمًۭا",
+                "مَّآ",
+                "أُنذِرَ",
+                "ءَابَآؤُهُمْ",
+                "فَهُمْ",
+                "غَـٰفِلُونَ"
+            ],
+            "translations": [
+                "That you may warn",
+                "a people",
+                "not",
+                "were warned",
+                "their forefathers",
+                "so they",
+                "(are) heedless"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "لَقَدْ حَقَّ ٱلْقَوْلُ عَلَىٰٓ أَكْثَرِهِمْ فَهُمْ لَا يُؤْمِنُونَ",
+            "translation": "The decree ˹of torment˺ has already been justified against most of them, for they will never believe.",
+            "originals": [
+                "لَقَدْ",
+                "حَقَّ",
+                "ٱلْقَوْلُ",
+                "عَلَىٰٓ",
+                "أَكْثَرِهِمْ",
+                "فَهُمْ",
+                "لَا",
+                "يُؤْمِنُونَ"
+            ],
+            "translations": [
+                "Certainly",
+                "(has) proved true",
+                "the word",
+                "upon",
+                "most of them",
+                "so they",
+                "(do) not",
+                "believe"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "إِنَّا جَعَلْنَا فِىٓ أَعْنَـٰقِهِمْ أَغْلَـٰلًا فَهِىَ إِلَى ٱلْأَذْقَانِ فَهُم مُّقْمَحُونَ",
+            "translation": "˹It is as if˺ We have put shackles around their necks up to their chins, so their heads are forced up,",
+            "originals": [
+                "إِنَّا",
+                "جَعَلْنَا",
+                "فِىٓ",
+                "أَعْنَـٰقِهِمْ",
+                "أَغْلَـٰلًۭا",
+                "فَهِىَ",
+                "إِلَى",
+                "ٱلْأَذْقَانِ",
+                "فَهُم",
+                "مُّقْمَحُونَ"
+            ],
+            "translations": [
+                "Indeed, We",
+                "[We] have placed",
+                "on",
+                "their necks",
+                "iron collars",
+                "and they",
+                "(are up) to",
+                "the chins",
+                "so they",
+                "(are with) heads raised up"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "وَجَعَلْنَا مِنۢ بَيْنِ أَيْدِيهِمْ سَدًّا وَمِنْ خَلْفِهِمْ سَدًّا فَأَغْشَيْنَـٰهُمْ فَهُمْ لَا يُبْصِرُونَ",
+            "translation": "and have placed a barrier before them and a barrier behind them and covered them ˹all˺ up, so they fail to see ˹the truth˺.",
+            "originals": [
+                "وَجَعَلْنَا",
+                "مِنۢ",
+                "بَيْنِ",
+                "أَيْدِيهِمْ",
+                "سَدًّۭا",
+                "وَمِنْ",
+                "خَلْفِهِمْ",
+                "سَدًّۭا",
+                "فَأَغْشَيْنَـٰهُمْ",
+                "فَهُمْ",
+                "لَا",
+                "يُبْصِرُونَ"
+            ],
+            "translations": [
+                "And We have made",
+                "from",
+                "before/between",
+                "their hands/their front",
+                "a barrier",
+                "and from",
+                "behind them",
+                "a barrier",
+                "and We covered them",
+                "so they",
+                "(do) not",
+                "see"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "وَسَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ",
+            "translation": "It is the same whether you warn them or not—they will never believe.",
+            "originals": [
+                "وَسَوَآءٌ",
+                "عَلَيْهِمْ",
+                "ءَأَنذَرْتَهُمْ",
+                "أَمْ",
+                "لَمْ",
+                "تُنذِرْهُمْ",
+                "لَا",
+                "يُؤْمِنُونَ"
+            ],
+            "translations": [
+                "And it (is) same",
+                "to them",
+                "whether you warn them",
+                "or",
+                "(do) not",
+                "warn them",
+                "not",
+                "they will believe"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "إِنَّمَا تُنذِرُ مَنِ ٱتَّبَعَ ٱلذِّكْرَ وَخَشِىَ ٱلرَّحْمَـٰنَ بِٱلْغَيْبِ ۖ فَبَشِّرْهُ بِمَغْفِرَةٍ وَأَجْرٍ كَرِيمٍ",
+            "translation": "You can only warn those who follow the Reminder<sup foot_note=77229>1</sup> and are in awe of the Most Compassionate without seeing Him.<sup foot_note=77230>2</sup> So give them good news of forgiveness and an honourable reward.",
+            "originals": [
+                "إِنَّمَا",
+                "تُنذِرُ",
+                "مَنِ",
+                "ٱتَّبَعَ",
+                "ٱلذِّكْرَ",
+                "وَخَشِىَ",
+                "ٱلرَّحْمَـٰنَ",
+                "بِٱلْغَيْبِ ۖ",
+                "فَبَشِّرْهُ",
+                "بِمَغْفِرَةٍۢ",
+                "وَأَجْرٍۢ",
+                "كَرِيمٍ"
+            ],
+            "translations": [
+                "Only",
+                "you (can) warn",
+                "(him) who",
+                "follows",
+                "the Reminder",
+                "and fears",
+                "the Most Gracious",
+                "in the unseen",
+                "So give him glad tidings",
+                "of forgiveness",
+                "and a reward",
+                "noble"
+            ]
+        },
+        {
+            "id": "12",
+            "sentence": "إِنَّا نَحْنُ نُحْىِ ٱلْمَوْتَىٰ وَنَكْتُبُ مَا قَدَّمُوا۟ وَءَاثَـٰرَهُمْ ۚ وَكُلَّ شَىْءٍ أَحْصَيْنَـٰهُ فِىٓ إِمَامٍ مُّبِينٍ",
+            "translation": "It is certainly We Who resurrect the dead, and write what they send forth and what they leave behind. Everything is listed by Us in a perfect Record.<sup foot_note=77231>1</sup> ",
+            "originals": [
+                "إِنَّا",
+                "نَحْنُ",
+                "نُحْىِ",
+                "ٱلْمَوْتَىٰ",
+                "وَنَكْتُبُ",
+                "مَا",
+                "قَدَّمُوا۟",
+                "وَءَاثَـٰرَهُمْ ۚ",
+                "وَكُلَّ",
+                "شَىْءٍ",
+                "أَحْصَيْنَـٰهُ",
+                "فِىٓ",
+                "إِمَامٍۢ",
+                "مُّبِينٍۢ"
+            ],
+            "translations": [
+                "Indeed, We",
+                "[We]",
+                "[We] give life",
+                "(to) the dead",
+                "and We record",
+                "what",
+                "they have sent before",
+                "and their footprints",
+                "and every",
+                "thing",
+                "We have enumerated it",
+                "in",
+                "a Register",
+                "clear"
+            ]
+        }
+    ]
+}

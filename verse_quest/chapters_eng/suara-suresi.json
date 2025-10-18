@@ -1,0 +1,445 @@
+{
+    "id": "suara-suresi",
+    "name": "The Poets",
+    "description": "The Poets - 26",
+    "index": 26,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " طسٓمٓ",
+            "translation": "Ṭâ-Sĩn-Mĩm.",
+            "originals": [
+                "طسٓمٓ"
+            ],
+            "translations": [
+                "Ta Seem Meem"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ ٱلْمُبِينِ",
+            "translation": "These are the verses of the clear Book.",
+            "originals": [
+                "تِلْكَ",
+                "ءَايَـٰتُ",
+                "ٱلْكِتَـٰبِ",
+                "ٱلْمُبِينِ"
+            ],
+            "translations": [
+                "These",
+                "(are the) Verses",
+                "(of) the Book",
+                "clear"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "لَعَلَّكَ بَـٰخِعٌ نَّفْسَكَ أَلَّا يَكُونُوا۟ مُؤْمِنِينَ",
+            "translation": "Perhaps you ˹O Prophet˺ will grieve yourself to death over their disbelief.",
+            "originals": [
+                "لَعَلَّكَ",
+                "بَـٰخِعٌۭ",
+                "نَّفْسَكَ",
+                "أَلَّا",
+                "يَكُونُوا۟",
+                "مُؤْمِنِينَ"
+            ],
+            "translations": [
+                "Perhaps you",
+                "(would) kill",
+                "yourself",
+                "that not",
+                "they become",
+                "believers"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "إِن نَّشَأْ نُنَزِّلْ عَلَيْهِم مِّنَ ٱلسَّمَآءِ ءَايَةً فَظَلَّتْ أَعْنَـٰقُهُمْ لَهَا خَـٰضِعِينَ",
+            "translation": "If We willed, We could send down upon them a ˹compelling˺ sign from the heavens, leaving their necks bent in ˹utter˺ submission to it.",
+            "originals": [
+                "إِن",
+                "نَّشَأْ",
+                "نُنَزِّلْ",
+                "عَلَيْهِم",
+                "مِّنَ",
+                "ٱلسَّمَآءِ",
+                "ءَايَةًۭ",
+                "فَظَلَّتْ",
+                "أَعْنَـٰقُهُمْ",
+                "لَهَا",
+                "خَـٰضِعِينَ"
+            ],
+            "translations": [
+                "If",
+                "We will",
+                "We can send down",
+                "to them",
+                "from",
+                "the sky",
+                "a Sign",
+                "so would bend",
+                "their necks",
+                "to it",
+                "(in) humility"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "وَمَا يَأْتِيهِم مِّن ذِكْرٍ مِّنَ ٱلرَّحْمَـٰنِ مُحْدَثٍ إِلَّا كَانُوا۟ عَنْهُ مُعْرِضِينَ",
+            "translation": "Whatever new reminder comes to them from the Most Compassionate, they always turn away from it.",
+            "originals": [
+                "وَمَا",
+                "يَأْتِيهِم",
+                "مِّن",
+                "ذِكْرٍۢ",
+                "مِّنَ",
+                "ٱلرَّحْمَـٰنِ",
+                "مُحْدَثٍ",
+                "إِلَّا",
+                "كَانُوا۟",
+                "عَنْهُ",
+                "مُعْرِضِينَ"
+            ],
+            "translations": [
+                "And (does) not",
+                "come to them",
+                "any",
+                "reminder",
+                "from",
+                "the Most Gracious",
+                "new",
+                "but",
+                "they",
+                "from it",
+                "turn away"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "فَقَدْ كَذَّبُوا۟ فَسَيَأْتِيهِمْ أَنۢبَـٰٓؤُا۟ مَا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+            "translation": "They have certainly denied ˹the truth˺, so they will soon face the consequences of their ridicule.",
+            "originals": [
+                "فَقَدْ",
+                "كَذَّبُوا۟",
+                "فَسَيَأْتِيهِمْ",
+                "أَنۢبَـٰٓؤُا۟",
+                "مَا",
+                "كَانُوا۟",
+                "بِهِۦ",
+                "يَسْتَهْزِءُونَ"
+            ],
+            "translations": [
+                "So verily",
+                "they have denied",
+                "then will come to them",
+                "the news",
+                "(of) what",
+                "they used",
+                "at it",
+                "(to) mock"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "أَوَلَمْ يَرَوْا۟ إِلَى ٱلْأَرْضِ كَمْ أَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍ كَرِيمٍ",
+            "translation": "Have they failed to look at the earth, ˹to see˺ how many types of fine plants We have caused to grow in it?",
+            "originals": [
+                "أَوَلَمْ",
+                "يَرَوْا۟",
+                "إِلَى",
+                "ٱلْأَرْضِ",
+                "كَمْ",
+                "أَنۢبَتْنَا",
+                "فِيهَا",
+                "مِن",
+                "كُلِّ",
+                "زَوْجٍۢ",
+                "كَرِيمٍ"
+            ],
+            "translations": [
+                "Do not",
+                "they see",
+                "at",
+                "the earth ",
+                "how many",
+                "We produced",
+                "in it",
+                "of",
+                "every",
+                "kind",
+                "noble"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "إِنَّ فِى ذَٰلِكَ لَـَٔايَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+            "translation": "Surely in this is a sign. Yet most of them would not believe.",
+            "originals": [
+                "إِنَّ",
+                "فِى",
+                "ذَٰلِكَ",
+                "لَـَٔايَةًۭ ۖ",
+                "وَمَا",
+                "كَانَ",
+                "أَكْثَرُهُم",
+                "مُّؤْمِنِينَ"
+            ],
+            "translations": [
+                "Indeed",
+                "in",
+                "that",
+                "surely (is) a sign",
+                "but not",
+                "are",
+                "most of them",
+                "believers"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ",
+            "translation": "And your Lord is certainly the Almighty, Most Merciful.",
+            "originals": [
+                "وَإِنَّ",
+                "رَبَّكَ",
+                "لَهُوَ",
+                "ٱلْعَزِيزُ",
+                "ٱلرَّحِيمُ"
+            ],
+            "translations": [
+                "And indeed",
+                "your Lord",
+                "surely, He",
+                "(is) the All-Mighty",
+                "the Most Merciful"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+            "translation": "˹Remember˺ when your Lord called out to Moses, “Go to the wrongdoing people—",
+            "originals": [
+                "وَإِذْ",
+                "نَادَىٰ",
+                "رَبُّكَ",
+                "مُوسَىٰٓ",
+                "أَنِ",
+                "ٱئْتِ",
+                "ٱلْقَوْمَ",
+                "ٱلظَّـٰلِمِينَ"
+            ],
+            "translations": [
+                "And when",
+                "your Lord called",
+                "your Lord called",
+                "Musa",
+                "[that]",
+                "Go",
+                "(to) the people",
+                "(who are) wrongdoers"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "قَوْمَ فِرْعَوْنَ ۚ أَلَا يَتَّقُونَ",
+            "translation": "the people of Pharaoh. Will they not fear ˹Allah˺?”",
+            "originals": [
+                "قَوْمَ",
+                "فِرْعَوْنَ ۚ",
+                "أَلَا",
+                "يَتَّقُونَ"
+            ],
+            "translations": [
+                "(The) people",
+                "(of) Firaun",
+                "Will not",
+                "they fear"
+            ]
+        },
+        {
+            "id": "12",
+            "sentence": "قَالَ رَبِّ إِنِّىٓ أَخَافُ أَن يُكَذِّبُونِ",
+            "translation": "He replied, “My Lord! I fear that they will reject me.",
+            "originals": [
+                "قَالَ",
+                "رَبِّ",
+                "إِنِّىٓ",
+                "أَخَافُ",
+                "أَن",
+                "يُكَذِّبُونِ"
+            ],
+            "translations": [
+                "He said",
+                "My Lord",
+                "Indeed, I",
+                "[I] fear",
+                "that",
+                "they will deny me"
+            ]
+        },
+        {
+            "id": "13",
+            "sentence": "وَيَضِيقُ صَدْرِى وَلَا يَنطَلِقُ لِسَانِى فَأَرْسِلْ إِلَىٰ هَـٰرُونَ",
+            "translation": "And ˹so˺ my heart will be broken and my tongue will be tied. So send Aaron along ˹as a messenger˺.",
+            "originals": [
+                "وَيَضِيقُ",
+                "صَدْرِى",
+                "وَلَا",
+                "يَنطَلِقُ",
+                "لِسَانِى",
+                "فَأَرْسِلْ",
+                "إِلَىٰ",
+                "هَـٰرُونَ"
+            ],
+            "translations": [
+                "And straitens",
+                "my breast",
+                "and not",
+                "expresses well",
+                "my tongue",
+                "so send",
+                "for",
+                "Harun"
+            ]
+        },
+        {
+            "id": "14",
+            "sentence": "وَلَهُمْ عَلَىَّ ذَنۢبٌ فَأَخَافُ أَن يَقْتُلُونِ",
+            "translation": "Also, they have a charge against me,<sup foot_note=77083>1</sup> so I fear they may kill me.”",
+            "originals": [
+                "وَلَهُمْ",
+                "عَلَىَّ",
+                "ذَنۢبٌۭ",
+                "فَأَخَافُ",
+                "أَن",
+                "يَقْتُلُونِ"
+            ],
+            "translations": [
+                "And they have",
+                "against me",
+                "a crime",
+                "so I fear",
+                "that",
+                "they will kill me"
+            ]
+        },
+        {
+            "id": "15",
+            "sentence": "قَالَ كَلَّا ۖ فَٱذْهَبَا بِـَٔايَـٰتِنَآ ۖ إِنَّا مَعَكُم مُّسْتَمِعُونَ",
+            "translation": "Allah responded, “Certainly not! So go, both of you, with Our signs. We will be with you, listening.",
+            "originals": [
+                "قَالَ",
+                "كَلَّا ۖ",
+                "فَٱذْهَبَا",
+                "بِـَٔايَـٰتِنَآ ۖ",
+                "إِنَّا",
+                "مَعَكُم",
+                "مُّسْتَمِعُونَ"
+            ],
+            "translations": [
+                "He said",
+                "Nay",
+                "go both of you",
+                "with Our Signs",
+                "Indeed, We",
+                "(are) with you",
+                "listening"
+            ]
+        },
+        {
+            "id": "16",
+            "sentence": "فَأْتِيَا فِرْعَوْنَ فَقُولَآ إِنَّا رَسُولُ رَبِّ ٱلْعَـٰلَمِينَ",
+            "translation": "Go to Pharaoh and say, ‘We are messengers from the Lord of all worlds,",
+            "originals": [
+                "فَأْتِيَا",
+                "فِرْعَوْنَ",
+                "فَقُولَآ",
+                "إِنَّا",
+                "رَسُولُ",
+                "رَبِّ",
+                "ٱلْعَـٰلَمِينَ"
+            ],
+            "translations": [
+                "So go both of you",
+                "(to) Firaun",
+                "and say",
+                "'Indeed, we",
+                "(are the) Messenger",
+                "(of the) Lord",
+                "(of) the worlds"
+            ]
+        },
+        {
+            "id": "17",
+            "sentence": "أَنْ أَرْسِلْ مَعَنَا بَنِىٓ إِسْرَٰٓءِيلَ",
+            "translation": "˹commanded to say:˺ ‘Let the Children of Israel go with us.’’”",
+            "originals": [
+                "أَنْ",
+                "أَرْسِلْ",
+                "مَعَنَا",
+                "بَنِىٓ",
+                "إِسْرَٰٓءِيلَ"
+            ],
+            "translations": [
+                "[That]",
+                "send",
+                "with us",
+                "(the) Children of Israel.'",
+                "(the) Children of Israel.'"
+            ]
+        },
+        {
+            "id": "18",
+            "sentence": "قَالَ أَلَمْ نُرَبِّكَ فِينَا وَلِيدًا وَلَبِثْتَ فِينَا مِنْ عُمُرِكَ سِنِينَ",
+            "translation": "Pharaoh protested, “Did we not raise you among us as a child, and you stayed several years of your life in our care?",
+            "originals": [
+                "قَالَ",
+                "أَلَمْ",
+                "نُرَبِّكَ",
+                "فِينَا",
+                "وَلِيدًۭا",
+                "وَلَبِثْتَ",
+                "فِينَا",
+                "مِنْ",
+                "عُمُرِكَ",
+                "سِنِينَ"
+            ],
+            "translations": [
+                "He said",
+                "Did not",
+                "we bring you up",
+                "among us",
+                "(as) a child",
+                "and you remained",
+                "among us",
+                "of",
+                "your life",
+                "years"
+            ]
+        },
+        {
+            "id": "19",
+            "sentence": "وَفَعَلْتَ فَعْلَتَكَ ٱلَّتِى فَعَلْتَ وَأَنتَ مِنَ ٱلْكَـٰفِرِينَ",
+            "translation": "Then you did what you did,<sup foot_note=77084>1</sup> being ˹utterly˺ ungrateful!”",
+            "originals": [
+                "وَفَعَلْتَ",
+                "فَعْلَتَكَ",
+                "ٱلَّتِى",
+                "فَعَلْتَ",
+                "وَأَنتَ",
+                "مِنَ",
+                "ٱلْكَـٰفِرِينَ"
+            ],
+            "translations": [
+                "And you did",
+                "your deed",
+                "which",
+                "you did",
+                "and you",
+                "(were) of",
+                "the ungrateful"
+            ]
+        }
+    ]
+}

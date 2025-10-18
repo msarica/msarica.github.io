@@ -1,0 +1,251 @@
+{
+    "id": "sems-suresi",
+    "name": "The Sun",
+    "description": "The Sun - 91",
+    "index": 91,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " وَٱلشَّمْسِ وَضُحَىٰهَا",
+            "translation": "By the sun and its brightness,",
+            "originals": [
+                "وَٱلشَّمْسِ",
+                "وَضُحَىٰهَا"
+            ],
+            "translations": [
+                "By the sun",
+                "and its brightness"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "وَٱلْقَمَرِ إِذَا تَلَىٰهَا",
+            "translation": "and the moon as it follows it,<sup foot_note=77623>1</sup>",
+            "originals": [
+                "وَٱلْقَمَرِ",
+                "إِذَا",
+                "تَلَىٰهَا"
+            ],
+            "translations": [
+                "And the moon",
+                "when",
+                "it follows it"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "وَٱلنَّهَارِ إِذَا جَلَّىٰهَا",
+            "translation": "and the day as it unveils it,",
+            "originals": [
+                "وَٱلنَّهَارِ",
+                "إِذَا",
+                "جَلَّىٰهَا"
+            ],
+            "translations": [
+                "And the day",
+                "when",
+                "it displays it"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "وَٱلَّيْلِ إِذَا يَغْشَىٰهَا",
+            "translation": "and the night as it conceals it!",
+            "originals": [
+                "وَٱلَّيْلِ",
+                "إِذَا",
+                "يَغْشَىٰهَا"
+            ],
+            "translations": [
+                "And the night",
+                "when",
+                "it covers it"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "وَٱلسَّمَآءِ وَمَا بَنَىٰهَا",
+            "translation": "And by heaven and ˹the One˺ Who built it,",
+            "originals": [
+                "وَٱلسَّمَآءِ",
+                "وَمَا",
+                "بَنَىٰهَا"
+            ],
+            "translations": [
+                "And the heaven",
+                "and (He) Who",
+                "constructed it"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "وَٱلْأَرْضِ وَمَا طَحَىٰهَا",
+            "translation": "and the earth and ˹the One˺ Who spread it!",
+            "originals": [
+                "وَٱلْأَرْضِ",
+                "وَمَا",
+                "طَحَىٰهَا"
+            ],
+            "translations": [
+                "And the earth",
+                "and by (He) Who",
+                "spread it"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "وَنَفْسٍ وَمَا سَوَّىٰهَا",
+            "translation": "And by the soul and ˹the One˺ Who fashioned it,",
+            "originals": [
+                "وَنَفْسٍۢ",
+                "وَمَا",
+                "سَوَّىٰهَا"
+            ],
+            "translations": [
+                "And (the) soul",
+                "and (He) Who",
+                "proportioned it"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَىٰهَا",
+            "translation": "then with ˹the knowledge of˺ right and wrong inspired it!",
+            "originals": [
+                "فَأَلْهَمَهَا",
+                "فُجُورَهَا",
+                "وَتَقْوَىٰهَا"
+            ],
+            "translations": [
+                "And He inspired it",
+                "(to distinguish) its wickedness",
+                "and its righteousness"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "قَدْ أَفْلَحَ مَن زَكَّىٰهَا",
+            "translation": "Successful indeed is the one who purifies their soul,",
+            "originals": [
+                "قَدْ",
+                "أَفْلَحَ",
+                "مَن",
+                "زَكَّىٰهَا"
+            ],
+            "translations": [
+                "Indeed",
+                "he succeeds",
+                "who",
+                "purifies it"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "وَقَدْ خَابَ مَن دَسَّىٰهَا",
+            "translation": "and doomed is the one who corrupts it!",
+            "originals": [
+                "وَقَدْ",
+                "خَابَ",
+                "مَن",
+                "دَسَّىٰهَا"
+            ],
+            "translations": [
+                "And indeed",
+                "he fails",
+                "who",
+                "buries it"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "كَذَّبَتْ ثَمُودُ بِطَغْوَىٰهَآ",
+            "translation": "Thamûd rejected ˹the truth˺ out of arrogance,",
+            "originals": [
+                "كَذَّبَتْ",
+                "ثَمُودُ",
+                "بِطَغْوَىٰهَآ"
+            ],
+            "translations": [
+                "Denied",
+                "Thamud",
+                "by their transgression"
+            ]
+        },
+        {
+            "id": "12",
+            "sentence": "إِذِ ٱنۢبَعَثَ أَشْقَىٰهَا",
+            "translation": "when the most wicked of them was roused ˹to kill the she-camel˺.",
+            "originals": [
+                "إِذِ",
+                "ٱنۢبَعَثَ",
+                "أَشْقَىٰهَا"
+            ],
+            "translations": [
+                "When",
+                "(was) sent forth",
+                "(the) most wicked of them"
+            ]
+        },
+        {
+            "id": "13",
+            "sentence": "فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَـٰهَا",
+            "translation": "But the messenger of Allah warned them, “˹Do not disturb˺ Allah’s camel and her ˹turn to˺ drink!”",
+            "originals": [
+                "فَقَالَ",
+                "لَهُمْ",
+                "رَسُولُ",
+                "ٱللَّهِ",
+                "نَاقَةَ",
+                "ٱللَّهِ",
+                "وَسُقْيَـٰهَا"
+            ],
+            "translations": [
+                "But said",
+                "to them",
+                "(the) Messenger",
+                "(of) Allah",
+                "(It is the) she-camel",
+                "(of) Allah",
+                "and her drink"
+            ]
+        },
+        {
+            "id": "14",
+            "sentence": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنۢبِهِمْ فَسَوَّىٰهَا",
+            "translation": "Still they defied him and slaughtered her. So their Lord crushed them for their crime, levelling all to the ground.<sup foot_note=77624>1</sup>",
+            "originals": [
+                "فَكَذَّبُوهُ",
+                "فَعَقَرُوهَا",
+                "فَدَمْدَمَ",
+                "عَلَيْهِمْ",
+                "رَبُّهُم",
+                "بِذَنۢبِهِمْ",
+                "فَسَوَّىٰهَا"
+            ],
+            "translations": [
+                "But they denied him",
+                "and they hamstrung her",
+                "So destroyed",
+                "them",
+                "their Lord",
+                "for their sin",
+                "and leveled them"
+            ]
+        },
+        {
+            "id": "15",
+            "sentence": "وَلَا يَخَافُ عُقْبَـٰهَا",
+            "translation": "He has no fear of consequences.",
+            "originals": [
+                "وَلَا",
+                "يَخَافُ",
+                "عُقْبَـٰهَا"
+            ],
+            "translations": [
+                "And not",
+                "He fears",
+                "its consequences"
+            ]
+        }
+    ]
+}

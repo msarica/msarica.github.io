@@ -1,0 +1,518 @@
+{
+    "id": "necm-suresi",
+    "name": "The Star",
+    "description": "The Star - 53",
+    "index": 53,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " وَٱلنَّجْمِ إِذَا هَوَىٰ",
+            "translation": "By the stars when they fade away!",
+            "originals": [
+                "وَٱلنَّجْمِ",
+                "إِذَا",
+                "هَوَىٰ"
+            ],
+            "translations": [
+                "By the star",
+                "when",
+                "it goes down"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَىٰ",
+            "translation": "Your fellow man<sup foot_note=77441>1</sup> is neither misguided nor astray.",
+            "originals": [
+                "مَا",
+                "ضَلَّ",
+                "صَاحِبُكُمْ",
+                "وَمَا",
+                "غَوَىٰ"
+            ],
+            "translations": [
+                "Not",
+                "has strayed",
+                "your companion",
+                "and not",
+                "has he erred"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "وَمَا يَنطِقُ عَنِ ٱلْهَوَىٰٓ",
+            "translation": "Nor does he speak of his own whims.",
+            "originals": [
+                "وَمَا",
+                "يَنطِقُ",
+                "عَنِ",
+                "ٱلْهَوَىٰٓ"
+            ],
+            "translations": [
+                "And not",
+                "he speaks",
+                "from",
+                "the desire"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "إِنْ هُوَ إِلَّا وَحْىٌ يُوحَىٰ",
+            "translation": "It is only a revelation sent down ˹to him˺.",
+            "originals": [
+                "إِنْ",
+                "هُوَ",
+                "إِلَّا",
+                "وَحْىٌۭ",
+                "يُوحَىٰ"
+            ],
+            "translations": [
+                "Not",
+                "it",
+                "(is) except",
+                "a revelation",
+                "revealed"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "عَلَّمَهُۥ شَدِيدُ ٱلْقُوَىٰ",
+            "translation": "He has been taught by one ˹angel˺ of mighty power<sup foot_note=77442>1</sup>",
+            "originals": [
+                "عَلَّمَهُۥ",
+                "شَدِيدُ",
+                "ٱلْقُوَىٰ"
+            ],
+            "translations": [
+                "Has taught him",
+                "the (one) mighty",
+                "(in) power"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "ذُو مِرَّةٍ فَٱسْتَوَىٰ",
+            "translation": "and great perfection, who once rose to ˹his˺ true form<sup foot_note=77443>1</sup>",
+            "originals": [
+                "ذُو",
+                "مِرَّةٍۢ",
+                "فَٱسْتَوَىٰ"
+            ],
+            "translations": [
+                "Possessor of soundness",
+                "Possessor of soundness",
+                "And he rose"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "وَهُوَ بِٱلْأُفُقِ ٱلْأَعْلَىٰ",
+            "translation": "while on the highest point above the horizon,",
+            "originals": [
+                "وَهُوَ",
+                "بِٱلْأُفُقِ",
+                "ٱلْأَعْلَىٰ"
+            ],
+            "translations": [
+                "While he",
+                "(was) in the horizon ",
+                "the highest"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "ثُمَّ دَنَا فَتَدَلَّىٰ",
+            "translation": "then he approached ˹the Prophet˺, coming so close",
+            "originals": [
+                "ثُمَّ",
+                "دَنَا",
+                "فَتَدَلَّىٰ"
+            ],
+            "translations": [
+                "Then",
+                "he approached",
+                "and came down"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَدْنَىٰ",
+            "translation": "that he was only two arms-lengths away or even less.<sup foot_note=77444>1</sup>",
+            "originals": [
+                "فَكَانَ",
+                "قَابَ",
+                "قَوْسَيْنِ",
+                "أَوْ",
+                "أَدْنَىٰ"
+            ],
+            "translations": [
+                "And was",
+                "(at) a distance",
+                "(of) two bow-(lengths)",
+                "or",
+                "nearer"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "فَأَوْحَىٰٓ إِلَىٰ عَبْدِهِۦ مَآ أَوْحَىٰ",
+            "translation": "Then Allah revealed to His servant what He revealed ˹through Gabriel˺.",
+            "originals": [
+                "فَأَوْحَىٰٓ",
+                "إِلَىٰ",
+                "عَبْدِهِۦ",
+                "مَآ",
+                "أَوْحَىٰ"
+            ],
+            "translations": [
+                "So he revealed",
+                "to",
+                "His slave",
+                "what",
+                "he revealed"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "مَا كَذَبَ ٱلْفُؤَادُ مَا رَأَىٰٓ",
+            "translation": "The ˹Prophet’s˺ heart did not doubt what he saw.",
+            "originals": [
+                "مَا",
+                "كَذَبَ",
+                "ٱلْفُؤَادُ",
+                "مَا",
+                "رَأَىٰٓ"
+            ],
+            "translations": [
+                "Not",
+                "lied",
+                "the heart",
+                "what",
+                "it saw"
+            ]
+        },
+        {
+            "id": "12",
+            "sentence": "أَفَتُمَـٰرُونَهُۥ عَلَىٰ مَا يَرَىٰ",
+            "translation": "How can you ˹O pagans˺ then dispute with him regarding what he saw?",
+            "originals": [
+                "أَفَتُمَـٰرُونَهُۥ",
+                "عَلَىٰ",
+                "مَا",
+                "يَرَىٰ"
+            ],
+            "translations": [
+                "Then will you dispute with him",
+                "about",
+                "what",
+                "he saw"
+            ]
+        },
+        {
+            "id": "13",
+            "sentence": "وَلَقَدْ رَءَاهُ نَزْلَةً أُخْرَىٰ",
+            "translation": "And he certainly saw that ˹angel descend˺ a second time",
+            "originals": [
+                "وَلَقَدْ",
+                "رَءَاهُ",
+                "نَزْلَةً",
+                "أُخْرَىٰ"
+            ],
+            "translations": [
+                "And certainly",
+                "he saw him",
+                "(in) descent",
+                "another"
+            ]
+        },
+        {
+            "id": "14",
+            "sentence": "عِندَ سِدْرَةِ ٱلْمُنتَهَىٰ",
+            "translation": "at the Lote Tree of the most extreme limit ˹in the seventh heaven˺—",
+            "originals": [
+                "عِندَ",
+                "سِدْرَةِ",
+                "ٱلْمُنتَهَىٰ"
+            ],
+            "translations": [
+                "Near",
+                "(the) Lote Tree",
+                "(of) the utmost boundary"
+            ]
+        },
+        {
+            "id": "15",
+            "sentence": "عِندَهَا جَنَّةُ ٱلْمَأْوَىٰٓ",
+            "translation": "near which is the Garden of ˹Eternal˺ Residence—",
+            "originals": [
+                "عِندَهَا",
+                "جَنَّةُ",
+                "ٱلْمَأْوَىٰٓ"
+            ],
+            "translations": [
+                "Near it",
+                "(is the) Garden",
+                "(of) Abode"
+            ]
+        },
+        {
+            "id": "16",
+            "sentence": "إِذْ يَغْشَى ٱلسِّدْرَةَ مَا يَغْشَىٰ",
+            "translation": "while the Lote Tree was overwhelmed with ˹heavenly˺ splendours!",
+            "originals": [
+                "إِذْ",
+                "يَغْشَى",
+                "ٱلسِّدْرَةَ",
+                "مَا",
+                "يَغْشَىٰ"
+            ],
+            "translations": [
+                "When",
+                "covered",
+                "the Lote Tree",
+                "what",
+                "covers"
+            ]
+        },
+        {
+            "id": "17",
+            "sentence": "مَا زَاغَ ٱلْبَصَرُ وَمَا طَغَىٰ",
+            "translation": "The ˹Prophet’s˺ sight never wandered, nor did it overreach.",
+            "originals": [
+                "مَا",
+                "زَاغَ",
+                "ٱلْبَصَرُ",
+                "وَمَا",
+                "طَغَىٰ"
+            ],
+            "translations": [
+                "Not",
+                "swerved",
+                "the sight",
+                "and not",
+                "it transgressed"
+            ]
+        },
+        {
+            "id": "18",
+            "sentence": "لَقَدْ رَأَىٰ مِنْ ءَايَـٰتِ رَبِّهِ ٱلْكُبْرَىٰٓ",
+            "translation": "He certainly saw some of his Lord’s greatest signs.<sup foot_note=77445>1</sup> ",
+            "originals": [
+                "لَقَدْ",
+                "رَأَىٰ",
+                "مِنْ",
+                "ءَايَـٰتِ",
+                "رَبِّهِ",
+                "ٱلْكُبْرَىٰٓ"
+            ],
+            "translations": [
+                "Certainly",
+                "he saw",
+                "of",
+                "(the) Signs",
+                "(of) his Lord",
+                "the Greatest"
+            ]
+        },
+        {
+            "id": "19",
+            "sentence": "أَفَرَءَيْتُمُ ٱللَّـٰتَ وَٱلْعُزَّىٰ",
+            "translation": "Now, have you considered ˹the idols of˺ Lât and ’Uzza,",
+            "originals": [
+                "أَفَرَءَيْتُمُ",
+                "ٱللَّـٰتَ",
+                "وَٱلْعُزَّىٰ"
+            ],
+            "translations": [
+                "So have you seen",
+                "the Lat",
+                "and the Uzza"
+            ]
+        },
+        {
+            "id": "20",
+            "sentence": "وَمَنَوٰةَ ٱلثَّالِثَةَ ٱلْأُخْرَىٰٓ",
+            "translation": "and the third one, Manât, as well?",
+            "originals": [
+                "وَمَنَوٰةَ",
+                "ٱلثَّالِثَةَ",
+                "ٱلْأُخْرَىٰٓ"
+            ],
+            "translations": [
+                "And Manat",
+                "the third",
+                "the other"
+            ]
+        },
+        {
+            "id": "21",
+            "sentence": "أَلَكُمُ ٱلذَّكَرُ وَلَهُ ٱلْأُنثَىٰ",
+            "translation": "Do you ˹prefer to˺ have sons while ˹you attribute˺ to Him daughters?<sup foot_note=77446>1</sup>",
+            "originals": [
+                "أَلَكُمُ",
+                "ٱلذَّكَرُ",
+                "وَلَهُ",
+                "ٱلْأُنثَىٰ"
+            ],
+            "translations": [
+                "Is for you",
+                "the male",
+                "and for Him",
+                "the female"
+            ]
+        },
+        {
+            "id": "22",
+            "sentence": "تِلْكَ إِذًا قِسْمَةٌ ضِيزَىٰٓ",
+            "translation": "Then this is ˹truly˺ a biased distribution!",
+            "originals": [
+                "تِلْكَ",
+                "إِذًۭا",
+                "قِسْمَةٌۭ",
+                "ضِيزَىٰٓ"
+            ],
+            "translations": [
+                "This",
+                "then",
+                "(is) a division",
+                "unfair"
+            ]
+        },
+        {
+            "id": "23",
+            "sentence": "إِنْ هِىَ إِلَّآ أَسْمَآءٌ سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلْطَـٰنٍ ۚ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَمَا تَهْوَى ٱلْأَنفُسُ ۖ وَلَقَدْ جَآءَهُم مِّن رَّبِّهِمُ ٱلْهُدَىٰٓ",
+            "translation": "These ˹idols˺ are mere names that you and your forefathers have made up<sup foot_note=77447>1</sup>—a practice Allah has never authorized. They follow nothing but ˹inherited˺ assumptions and whatever ˹their˺ souls desire, although ˹true˺ guidance has already come to them from their Lord.",
+            "originals": [
+                "إِنْ",
+                "هِىَ",
+                "إِلَّآ",
+                "أَسْمَآءٌۭ",
+                "سَمَّيْتُمُوهَآ",
+                "أَنتُمْ",
+                "وَءَابَآؤُكُم",
+                "مَّآ",
+                "أَنزَلَ",
+                "ٱللَّهُ",
+                "بِهَا",
+                "مِن",
+                "سُلْطَـٰنٍ ۚ",
+                "إِن",
+                "يَتَّبِعُونَ",
+                "إِلَّا",
+                "ٱلظَّنَّ",
+                "وَمَا",
+                "تَهْوَى",
+                "ٱلْأَنفُسُ ۖ",
+                "وَلَقَدْ",
+                "جَآءَهُم",
+                "مِّن",
+                "رَّبِّهِمُ",
+                "ٱلْهُدَىٰٓ"
+            ],
+            "translations": [
+                "Not",
+                "they",
+                "(are) except",
+                "names",
+                "you have named them",
+                "you",
+                "and your forefathers",
+                "not",
+                "has Allah sent down",
+                "has Allah sent down",
+                "for it",
+                "any",
+                "authority",
+                "Not",
+                "they follow",
+                "except",
+                "assumption",
+                "and what",
+                "desire",
+                "the(ir) souls",
+                "And certainly",
+                "has come to them",
+                "from",
+                "their Lord",
+                "the guidance"
+            ]
+        },
+        {
+            "id": "24",
+            "sentence": "أَمْ لِلْإِنسَـٰنِ مَا تَمَنَّىٰ",
+            "translation": "Or should every person ˹simply˺ have whatever ˹intercessors˺ they desire?<sup foot_note=77448>1</sup>",
+            "originals": [
+                "أَمْ",
+                "لِلْإِنسَـٰنِ",
+                "مَا",
+                "تَمَنَّىٰ"
+            ],
+            "translations": [
+                "Or",
+                "(is) for man",
+                "what",
+                "he wishes"
+            ]
+        },
+        {
+            "id": "25",
+            "sentence": "فَلِلَّهِ ٱلْـَٔاخِرَةُ وَٱلْأُولَىٰ",
+            "translation": "In fact, to Allah ˹alone˺ belongs this world and the next.",
+            "originals": [
+                "فَلِلَّهِ",
+                "ٱلْـَٔاخِرَةُ",
+                "وَٱلْأُولَىٰ"
+            ],
+            "translations": [
+                "But for Allah",
+                "(is) the last",
+                "and the first"
+            ]
+        },
+        {
+            "id": "26",
+            "sentence": "۞ وَكَم مِّن مَّلَكٍ فِى ٱلسَّمَـٰوَٰتِ لَا تُغْنِى شَفَـٰعَتُهُمْ شَيْـًٔا إِلَّا مِنۢ بَعْدِ أَن يَأْذَنَ ٱللَّهُ لِمَن يَشَآءُ وَيَرْضَىٰٓ",
+            "translation": "˹Imagine˺ how many ˹noble˺ angels are in the heavens! ˹Even˺ their intercession would be of no benefit whatsoever, until Allah gives permission to whoever He wills and ˹only for the people He˺ approves.",
+            "originals": [
+                "۞ وَكَم",
+                "مِّن",
+                "مَّلَكٍۢ",
+                "فِى",
+                "ٱلسَّمَـٰوَٰتِ",
+                "لَا",
+                "تُغْنِى",
+                "شَفَـٰعَتُهُمْ",
+                "شَيْـًٔا",
+                "إِلَّا",
+                "مِنۢ",
+                "بَعْدِ",
+                "أَن",
+                "يَأْذَنَ",
+                "ٱللَّهُ",
+                "لِمَن",
+                "يَشَآءُ",
+                "وَيَرْضَىٰٓ"
+            ],
+            "translations": [
+                "And how many",
+                "of",
+                "(the) Angels",
+                "in",
+                "the heavens",
+                "not",
+                "will avail",
+                "their intercession",
+                "anything",
+                "except",
+                "after",
+                "after",
+                "[that]",
+                "Allah has given permission",
+                "Allah has given permission",
+                "for whom",
+                "He wills",
+                "and approves"
+            ]
+        }
+    ]
+}

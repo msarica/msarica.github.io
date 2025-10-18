@@ -1,0 +1,339 @@
+{
+    "id": "kiyamet-suresi",
+    "name": "The Resurrection",
+    "description": "The Resurrection - 75",
+    "index": 75,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " لَآ أُقْسِمُ بِيَوْمِ ٱلْقِيَـٰمَةِ",
+            "translation": "I do swear by the Day of Judgment!",
+            "originals": [
+                "لَآ",
+                "أُقْسِمُ",
+                "بِيَوْمِ",
+                "ٱلْقِيَـٰمَةِ"
+            ],
+            "translations": [
+                "Nay",
+                "I swear",
+                "by (the) Day",
+                "(of) the Resurrection"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "وَلَآ أُقْسِمُ بِٱلنَّفْسِ ٱللَّوَّامَةِ",
+            "translation": "And I do swear by the self-reproaching soul!",
+            "originals": [
+                "وَلَآ",
+                "أُقْسِمُ",
+                "بِٱلنَّفْسِ",
+                "ٱللَّوَّامَةِ"
+            ],
+            "translations": [
+                "And nay",
+                "I swear",
+                "by the soul",
+                "self-accusing"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "أَيَحْسَبُ ٱلْإِنسَـٰنُ أَلَّن نَّجْمَعَ عِظَامَهُۥ",
+            "translation": "Do people think We cannot reassemble their bones?",
+            "originals": [
+                "أَيَحْسَبُ",
+                "ٱلْإِنسَـٰنُ",
+                "أَلَّن",
+                "نَّجْمَعَ",
+                "عِظَامَهُۥ"
+            ],
+            "translations": [
+                "Does think",
+                "[the] man",
+                "that not",
+                "We will assemble",
+                "his bones"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "بَلَىٰ قَـٰدِرِينَ عَلَىٰٓ أَن نُّسَوِّىَ بَنَانَهُۥ",
+            "translation": "Yes ˹indeed˺! We are ˹most˺ capable of restoring ˹even˺ their very fingertips.<sup foot_note=77569>1</sup>",
+            "originals": [
+                "بَلَىٰ",
+                "قَـٰدِرِينَ",
+                "عَلَىٰٓ",
+                "أَن",
+                "نُّسَوِّىَ",
+                "بَنَانَهُۥ"
+            ],
+            "translations": [
+                "Nay",
+                "(We are) Able",
+                "on",
+                "that",
+                "We can restore",
+                "his fingertips"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "بَلْ يُرِيدُ ٱلْإِنسَـٰنُ لِيَفْجُرَ أَمَامَهُۥ",
+            "translation": "Still people want to deny what is yet to come,",
+            "originals": [
+                "بَلْ",
+                "يُرِيدُ",
+                "ٱلْإِنسَـٰنُ",
+                "لِيَفْجُرَ",
+                "أَمَامَهُۥ"
+            ],
+            "translations": [
+                "Nay",
+                "Desires",
+                "[the] man",
+                "to give (the) lie",
+                "(to) what is before him"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "يَسْـَٔلُ أَيَّانَ يَوْمُ ٱلْقِيَـٰمَةِ",
+            "translation": "asking ˹mockingly˺, “When is this Day of Judgment?”",
+            "originals": [
+                "يَسْـَٔلُ",
+                "أَيَّانَ",
+                "يَوْمُ",
+                "ٱلْقِيَـٰمَةِ"
+            ],
+            "translations": [
+                "He asks",
+                "When",
+                "(is the) Day",
+                "(of) the Resurrection"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "فَإِذَا بَرِقَ ٱلْبَصَرُ",
+            "translation": "But when the sight is stunned,",
+            "originals": [
+                "فَإِذَا",
+                "بَرِقَ",
+                "ٱلْبَصَرُ"
+            ],
+            "translations": [
+                "So when",
+                "is dazzled",
+                "the vision"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "وَخَسَفَ ٱلْقَمَرُ",
+            "translation": "and the moon is dimmed,",
+            "originals": [
+                "وَخَسَفَ",
+                "ٱلْقَمَرُ"
+            ],
+            "translations": [
+                "And becomes dark",
+                "the moon"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "وَجُمِعَ ٱلشَّمْسُ وَٱلْقَمَرُ",
+            "translation": "and the sun and the moon are brought together,<sup foot_note=77570>1</sup>",
+            "originals": [
+                "وَجُمِعَ",
+                "ٱلشَّمْسُ",
+                "وَٱلْقَمَرُ"
+            ],
+            "translations": [
+                "And are joined",
+                "the sun",
+                "and the moon"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "يَقُولُ ٱلْإِنسَـٰنُ يَوْمَئِذٍ أَيْنَ ٱلْمَفَرُّ",
+            "translation": "on that Day one will cry, “Where is the escape?”",
+            "originals": [
+                "يَقُولُ",
+                "ٱلْإِنسَـٰنُ",
+                "يَوْمَئِذٍ",
+                "أَيْنَ",
+                "ٱلْمَفَرُّ"
+            ],
+            "translations": [
+                "Will say",
+                "[the] man",
+                "that Day",
+                "Where",
+                "(is) the escape"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "كَلَّا لَا وَزَرَ",
+            "translation": "But no! There will be no refuge.",
+            "originals": [
+                "كَلَّا",
+                "لَا",
+                "وَزَرَ"
+            ],
+            "translations": [
+                "By no means",
+                "(There is) no",
+                "refuge"
+            ]
+        },
+        {
+            "id": "12",
+            "sentence": "إِلَىٰ رَبِّكَ يَوْمَئِذٍ ٱلْمُسْتَقَرُّ",
+            "translation": "On that Day all will end up before your Lord.",
+            "originals": [
+                "إِلَىٰ",
+                "رَبِّكَ",
+                "يَوْمَئِذٍ",
+                "ٱلْمُسْتَقَرُّ"
+            ],
+            "translations": [
+                "To",
+                "your Lord",
+                "that Day",
+                "(is) the place of rest"
+            ]
+        },
+        {
+            "id": "13",
+            "sentence": "يُنَبَّؤُا۟ ٱلْإِنسَـٰنُ يَوْمَئِذٍۭ بِمَا قَدَّمَ وَأَخَّرَ",
+            "translation": "All will then be informed of what they have sent forth and left behind.",
+            "originals": [
+                "يُنَبَّؤُا۟",
+                "ٱلْإِنسَـٰنُ",
+                "يَوْمَئِذٍۭ",
+                "بِمَا",
+                "قَدَّمَ",
+                "وَأَخَّرَ"
+            ],
+            "translations": [
+                "Will be informed",
+                "[the] man",
+                "that Day",
+                "of what",
+                "he sent forth",
+                "and kept back"
+            ]
+        },
+        {
+            "id": "14",
+            "sentence": "بَلِ ٱلْإِنسَـٰنُ عَلَىٰ نَفْسِهِۦ بَصِيرَةٌ",
+            "translation": "In fact, people will testify against their own souls,<sup foot_note=77571>1</sup>",
+            "originals": [
+                "بَلِ",
+                "ٱلْإِنسَـٰنُ",
+                "عَلَىٰ",
+                "نَفْسِهِۦ",
+                "بَصِيرَةٌۭ"
+            ],
+            "translations": [
+                "Nay",
+                "[The] man",
+                "against",
+                "himself",
+                "(will be) a witness"
+            ]
+        },
+        {
+            "id": "15",
+            "sentence": "وَلَوْ أَلْقَىٰ مَعَاذِيرَهُۥ",
+            "translation": "despite the excuses they come up with.",
+            "originals": [
+                "وَلَوْ",
+                "أَلْقَىٰ",
+                "مَعَاذِيرَهُۥ"
+            ],
+            "translations": [
+                "Even if",
+                "he presents",
+                "his excuses"
+            ]
+        },
+        {
+            "id": "16",
+            "sentence": "لَا تُحَرِّكْ بِهِۦ لِسَانَكَ لِتَعْجَلَ بِهِۦٓ",
+            "translation": "Do not rush your tongue trying to memorize ˹a revelation of˺ the Quran.",
+            "originals": [
+                "لَا",
+                "تُحَرِّكْ",
+                "بِهِۦ",
+                "لِسَانَكَ",
+                "لِتَعْجَلَ",
+                "بِهِۦٓ"
+            ],
+            "translations": [
+                "Not",
+                "move",
+                "with it",
+                "your tongue",
+                "to hasten",
+                "with it"
+            ]
+        },
+        {
+            "id": "17",
+            "sentence": "إِنَّ عَلَيْنَا جَمْعَهُۥ وَقُرْءَانَهُۥ",
+            "translation": "It is certainly upon Us to ˹make you˺ memorize and recite it.",
+            "originals": [
+                "إِنَّ",
+                "عَلَيْنَا",
+                "جَمْعَهُۥ",
+                "وَقُرْءَانَهُۥ"
+            ],
+            "translations": [
+                "Indeed",
+                "upon Us",
+                "(is) its collection",
+                "and its recitation"
+            ]
+        },
+        {
+            "id": "18",
+            "sentence": "فَإِذَا قَرَأْنَـٰهُ فَٱتَّبِعْ قُرْءَانَهُۥ",
+            "translation": "So once We have recited a revelation ˹through Gabriel˺, follow its recitation ˹closely˺.",
+            "originals": [
+                "فَإِذَا",
+                "قَرَأْنَـٰهُ",
+                "فَٱتَّبِعْ",
+                "قُرْءَانَهُۥ"
+            ],
+            "translations": [
+                "And when",
+                "We have recited it",
+                "then follow",
+                "its recitation"
+            ]
+        },
+        {
+            "id": "19",
+            "sentence": "ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُۥ",
+            "translation": "Then it is surely upon Us to make it clear ˹to you˺.",
+            "originals": [
+                "ثُمَّ",
+                "إِنَّ",
+                "عَلَيْنَا",
+                "بَيَانَهُۥ"
+            ],
+            "translations": [
+                "Then",
+                "indeed",
+                "upon Us",
+                "(is) its explanation"
+            ]
+        }
+    ]
+}

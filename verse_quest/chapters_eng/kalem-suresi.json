@@ -1,0 +1,279 @@
+{
+    "id": "kalem-suresi",
+    "name": "The Pen",
+    "description": "The Pen - 68",
+    "index": 68,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " نٓ ۚ وَٱلْقَلَمِ وَمَا يَسْطُرُونَ",
+            "translation": "Nũn. By the pen and what everyone writes!",
+            "originals": [
+                "نٓ ۚ",
+                "وَٱلْقَلَمِ",
+                "وَمَا",
+                "يَسْطُرُونَ"
+            ],
+            "translations": [
+                "Nun",
+                "By the pen",
+                "and what",
+                "they write"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "مَآ أَنتَ بِنِعْمَةِ رَبِّكَ بِمَجْنُونٍ",
+            "translation": "By the grace of your Lord, you ˹O Prophet˺ are not insane.",
+            "originals": [
+                "مَآ",
+                "أَنتَ",
+                "بِنِعْمَةِ",
+                "رَبِّكَ",
+                "بِمَجْنُونٍۢ"
+            ],
+            "translations": [
+                "Not",
+                "you (are)",
+                "by (the) Grace",
+                "(of) your Lord",
+                "a madman"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "وَإِنَّ لَكَ لَأَجْرًا غَيْرَ مَمْنُونٍ",
+            "translation": "You will certainly have a never-ending reward.",
+            "originals": [
+                "وَإِنَّ",
+                "لَكَ",
+                "لَأَجْرًا",
+                "غَيْرَ",
+                "مَمْنُونٍۢ"
+            ],
+            "translations": [
+                "And indeed",
+                "for you",
+                "surely (is) a reward",
+                "without",
+                "end"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ",
+            "translation": "And you are truly ˹a man˺ of outstanding character.",
+            "originals": [
+                "وَإِنَّكَ",
+                "لَعَلَىٰ",
+                "خُلُقٍ",
+                "عَظِيمٍۢ"
+            ],
+            "translations": [
+                "And indeed, you",
+                "surely (are)",
+                "(of) a moral character",
+                "great"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "فَسَتُبْصِرُ وَيُبْصِرُونَ",
+            "translation": "Soon you and the pagans will see,",
+            "originals": [
+                "فَسَتُبْصِرُ",
+                "وَيُبْصِرُونَ"
+            ],
+            "translations": [
+                "So you will see",
+                "and they will see"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "بِأَييِّكُمُ ٱلْمَفْتُونُ",
+            "translation": "which of you is mad.",
+            "originals": [
+                "بِأَييِّكُمُ",
+                "ٱلْمَفْتُونُ"
+            ],
+            "translations": [
+                "Which of you",
+                "(is) the afflicted one"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ",
+            "translation": "Surely your Lord ˹alone˺ knows best who has strayed from His Way and who is ˹rightly˺ guided.",
+            "originals": [
+                "إِنَّ",
+                "رَبَّكَ",
+                "هُوَ",
+                "أَعْلَمُ",
+                "بِمَن",
+                "ضَلَّ",
+                "عَن",
+                "سَبِيلِهِۦ",
+                "وَهُوَ",
+                "أَعْلَمُ",
+                "بِٱلْمُهْتَدِينَ"
+            ],
+            "translations": [
+                "Indeed",
+                "your Lord",
+                "He",
+                "(is) most knowing",
+                "of (he) who",
+                "has strayed",
+                "from",
+                "His way",
+                "and He",
+                "(is) most knowing",
+                "of the guided ones"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "فَلَا تُطِعِ ٱلْمُكَذِّبِينَ",
+            "translation": "So do not give in to the deniers.",
+            "originals": [
+                "فَلَا",
+                "تُطِعِ",
+                "ٱلْمُكَذِّبِينَ"
+            ],
+            "translations": [
+                "So (do) not",
+                "obey",
+                "the deniers"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "وَدُّوا۟ لَوْ تُدْهِنُ فَيُدْهِنُونَ",
+            "translation": "They wish you would compromise so they would yield ˹to you˺.",
+            "originals": [
+                "وَدُّوا۟",
+                "لَوْ",
+                "تُدْهِنُ",
+                "فَيُدْهِنُونَ"
+            ],
+            "translations": [
+                "They wish",
+                "that",
+                "you should compromise",
+                "so they would compromise"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "وَلَا تُطِعْ كُلَّ حَلَّافٍ مَّهِينٍ",
+            "translation": "And do not obey the despicable, vain oath-taker,",
+            "originals": [
+                "وَلَا",
+                "تُطِعْ",
+                "كُلَّ",
+                "حَلَّافٍۢ",
+                "مَّهِينٍ"
+            ],
+            "translations": [
+                "And (do) not",
+                "obey",
+                "every",
+                "habitual swearer",
+                "worthless"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "هَمَّازٍ مَّشَّآءٍۭ بِنَمِيمٍ",
+            "translation": "slanderer, gossip-monger,",
+            "originals": [
+                "هَمَّازٍۢ",
+                "مَّشَّآءٍۭ",
+                "بِنَمِيمٍۢ"
+            ],
+            "translations": [
+                "Defamer",
+                "going about",
+                "with malicious gossip"
+            ]
+        },
+        {
+            "id": "12",
+            "sentence": "مَّنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ أَثِيمٍ",
+            "translation": "withholder of good, transgressor, evildoer,",
+            "originals": [
+                "مَّنَّاعٍۢ",
+                "لِّلْخَيْرِ",
+                "مُعْتَدٍ",
+                "أَثِيمٍ"
+            ],
+            "translations": [
+                "A preventer",
+                "of (the) good",
+                "transgressor",
+                "sinful"
+            ]
+        },
+        {
+            "id": "13",
+            "sentence": "عُتُلٍّۭ بَعْدَ ذَٰلِكَ زَنِيمٍ",
+            "translation": "brute, and—on top of all that—an illegitimate child.",
+            "originals": [
+                "عُتُلٍّۭ",
+                "بَعْدَ",
+                "ذَٰلِكَ",
+                "زَنِيمٍ"
+            ],
+            "translations": [
+                "Cruel",
+                "after",
+                "(all) that",
+                "utterly useless"
+            ]
+        },
+        {
+            "id": "14",
+            "sentence": "أَن كَانَ ذَا مَالٍ وَبَنِينَ",
+            "translation": "Now, ˹simply˺ because he has been blessed with ˹abundant˺ wealth and children,",
+            "originals": [
+                "أَن",
+                "كَانَ",
+                "ذَا",
+                "مَالٍۢ",
+                "وَبَنِينَ"
+            ],
+            "translations": [
+                "Because",
+                "(he) is",
+                "a possessor",
+                "(of) wealth",
+                "and children"
+            ]
+        },
+        {
+            "id": "15",
+            "sentence": "إِذَا تُتْلَىٰ عَلَيْهِ ءَايَـٰتُنَا قَالَ أَسَـٰطِيرُ ٱلْأَوَّلِينَ",
+            "translation": "whenever Our revelations are recited to him, he says, “Ancient fables!”",
+            "originals": [
+                "إِذَا",
+                "تُتْلَىٰ",
+                "عَلَيْهِ",
+                "ءَايَـٰتُنَا",
+                "قَالَ",
+                "أَسَـٰطِيرُ",
+                "ٱلْأَوَّلِينَ"
+            ],
+            "translations": [
+                "When",
+                "are recited",
+                "to him",
+                "Our Verses",
+                "he says",
+                "Stories",
+                "(of) the former (people)"
+            ]
+        }
+    ]
+}

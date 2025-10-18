@@ -1,0 +1,151 @@
+{
+    "id": "adiyat-suresi",
+    "name": "The Courser",
+    "description": "The Courser - 100",
+    "index": 100,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " وَٱلْعَـٰدِيَـٰتِ ضَبْحًا",
+            "translation": "’ By the galloping, panting horses,",
+            "originals": [
+                "وَٱلْعَـٰدِيَـٰتِ",
+                "ضَبْحًۭا"
+            ],
+            "translations": [
+                "By the racers",
+                "panting"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "فَٱلْمُورِيَـٰتِ قَدْحًا",
+            "translation": "striking sparks of fire ˹with their hoofs˺,",
+            "originals": [
+                "فَٱلْمُورِيَـٰتِ",
+                "قَدْحًۭا"
+            ],
+            "translations": [
+                "And the producers of sparks",
+                "striking"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "فَٱلْمُغِيرَٰتِ صُبْحًا",
+            "translation": "launching raids at dawn,",
+            "originals": [
+                "فَٱلْمُغِيرَٰتِ",
+                "صُبْحًۭا"
+            ],
+            "translations": [
+                "And the chargers",
+                "(at) dawn"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "فَأَثَرْنَ بِهِۦ نَقْعًا",
+            "translation": "stirring up ˹clouds of˺ dust,",
+            "originals": [
+                "فَأَثَرْنَ",
+                "بِهِۦ",
+                "نَقْعًۭا"
+            ],
+            "translations": [
+                "Then raise",
+                "thereby",
+                "dust"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "فَوَسَطْنَ بِهِۦ جَمْعًا",
+            "translation": "and penetrating into the heart of enemy lines!",
+            "originals": [
+                "فَوَسَطْنَ",
+                "بِهِۦ",
+                "جَمْعًا"
+            ],
+            "translations": [
+                "Then penetrate (in the) center",
+                "thereby",
+                "collectively"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "إِنَّ ٱلْإِنسَـٰنَ لِرَبِّهِۦ لَكَنُودٌ",
+            "translation": "Surely humankind is ungrateful to their Lord—",
+            "originals": [
+                "إِنَّ",
+                "ٱلْإِنسَـٰنَ",
+                "لِرَبِّهِۦ",
+                "لَكَنُودٌۭ"
+            ],
+            "translations": [
+                "Indeed",
+                "mankind",
+                "to his Lord",
+                "(is) surely ungrateful"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ",
+            "translation": "and they certainly attest to this—",
+            "originals": [
+                "وَإِنَّهُۥ",
+                "عَلَىٰ",
+                "ذَٰلِكَ",
+                "لَشَهِيدٌۭ"
+            ],
+            "translations": [
+                "And indeed, he",
+                "on",
+                "that",
+                "surely (is) a witness"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ",
+            "translation": "and they are truly extreme in their love of ˹worldly˺ gains.",
+            "originals": [
+                "وَإِنَّهُۥ",
+                "لِحُبِّ",
+                "ٱلْخَيْرِ",
+                "لَشَدِيدٌ"
+            ],
+            "translations": [
+                "And indeed he",
+                "in (the) love",
+                "(of) wealth",
+                "(is) surely intense"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "۞ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ",
+            "translation": "Do they not know that when the contents of the graves will be spilled out,",
+            "originals": [
+                "۞ أَفَلَا",
+                "يَعْلَمُ",
+                "إِذَا",
+                "بُعْثِرَ",
+                "مَا",
+                "فِى",
+                "ٱلْقُبُورِ"
+            ],
+            "translations": [
+                "But does not",
+                "he know",
+                "when",
+                "will be scattered",
+                "what",
+                "(is) in",
+                "the graves"
+            ]
+        }
+    ]
+}

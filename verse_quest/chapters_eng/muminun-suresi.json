@@ -1,0 +1,383 @@
+{
+    "id": "muminun-suresi",
+    "name": "The Believers",
+    "description": "The Believers - 23",
+    "index": 23,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " قَدْ أَفْلَحَ ٱلْمُؤْمِنُونَ",
+            "translation": "Successful indeed are the believers:",
+            "originals": [
+                "قَدْ",
+                "أَفْلَحَ",
+                "ٱلْمُؤْمِنُونَ"
+            ],
+            "translations": [
+                "Indeed",
+                "successful",
+                "(are) the believers"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "ٱلَّذِينَ هُمْ فِى صَلَاتِهِمْ خَـٰشِعُونَ",
+            "translation": "those who humble themselves in prayer;",
+            "originals": [
+                "ٱلَّذِينَ",
+                "هُمْ",
+                "فِى",
+                "صَلَاتِهِمْ",
+                "خَـٰشِعُونَ"
+            ],
+            "translations": [
+                "Those who",
+                "[they]",
+                "during",
+                "their prayers",
+                "(are) humbly submissive"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "وَٱلَّذِينَ هُمْ عَنِ ٱللَّغْوِ مُعْرِضُونَ",
+            "translation": "those who avoid idle talk;",
+            "originals": [
+                "وَٱلَّذِينَ",
+                "هُمْ",
+                "عَنِ",
+                "ٱللَّغْوِ",
+                "مُعْرِضُونَ"
+            ],
+            "translations": [
+                "Those who",
+                "[they]",
+                "from",
+                "the vain talk",
+                "turn away"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "وَٱلَّذِينَ هُمْ لِلزَّكَوٰةِ فَـٰعِلُونَ",
+            "translation": "those who pay alms-tax;<sup foot_note=77013>1</sup>",
+            "originals": [
+                "وَٱلَّذِينَ",
+                "هُمْ",
+                "لِلزَّكَوٰةِ",
+                "فَـٰعِلُونَ"
+            ],
+            "translations": [
+                "Those who",
+                "[they]",
+                "of purification works",
+                "(are) doers"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "وَٱلَّذِينَ هُمْ لِفُرُوجِهِمْ حَـٰفِظُونَ",
+            "translation": "those who guard their chastity<sup foot_note=77014>1</sup>",
+            "originals": [
+                "وَٱلَّذِينَ",
+                "هُمْ",
+                "لِفُرُوجِهِمْ",
+                "حَـٰفِظُونَ"
+            ],
+            "translations": [
+                "And those who",
+                "[they]",
+                "of their modesty",
+                "(are) guardians"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "إِلَّا عَلَىٰٓ أَزْوَٰجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَـٰنُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ",
+            "translation": "except with their wives or those ˹bondwomen˺ in their possession,<sup foot_note=77015>1</sup> for then they are free from blame,",
+            "originals": [
+                "إِلَّا",
+                "عَلَىٰٓ",
+                "أَزْوَٰجِهِمْ",
+                "أَوْ",
+                "مَا",
+                "مَلَكَتْ",
+                "أَيْمَـٰنُهُمْ",
+                "فَإِنَّهُمْ",
+                "غَيْرُ",
+                "مَلُومِينَ"
+            ],
+            "translations": [
+                "Except",
+                "from",
+                "their spouses",
+                "or",
+                "what",
+                "possess",
+                "their right hands",
+                "then indeed, they",
+                "(are) not",
+                "blameworthy"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "فَمَنِ ٱبْتَغَىٰ وَرَآءَ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْعَادُونَ",
+            "translation": "but whoever seeks beyond that are the transgressors;",
+            "originals": [
+                "فَمَنِ",
+                "ٱبْتَغَىٰ",
+                "وَرَآءَ",
+                "ذَٰلِكَ",
+                "فَأُو۟لَـٰٓئِكَ",
+                "هُمُ",
+                "ٱلْعَادُونَ"
+            ],
+            "translations": [
+                "Then whoever",
+                "seeks",
+                "beyond",
+                "that",
+                "then those",
+                "[they]",
+                "(are) the transgressors"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "وَٱلَّذِينَ هُمْ لِأَمَـٰنَـٰتِهِمْ وَعَهْدِهِمْ رَٰعُونَ",
+            "translation": "˹the believers are also˺ those who are true to their trusts and covenants;",
+            "originals": [
+                "وَٱلَّذِينَ",
+                "هُمْ",
+                "لِأَمَـٰنَـٰتِهِمْ",
+                "وَعَهْدِهِمْ",
+                "رَٰعُونَ"
+            ],
+            "translations": [
+                "And those who",
+                "[they]",
+                "of their trusts",
+                "and their promise(s)",
+                "(are) observers"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "وَٱلَّذِينَ هُمْ عَلَىٰ صَلَوَٰتِهِمْ يُحَافِظُونَ",
+            "translation": "and those who are ˹properly˺ observant of their prayers.",
+            "originals": [
+                "وَٱلَّذِينَ",
+                "هُمْ",
+                "عَلَىٰ",
+                "صَلَوَٰتِهِمْ",
+                "يُحَافِظُونَ"
+            ],
+            "translations": [
+                "And those who",
+                "[they]",
+                "over",
+                "their prayers",
+                "they guard"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "أُو۟لَـٰٓئِكَ هُمُ ٱلْوَٰرِثُونَ",
+            "translation": "These are the ones who will be awarded",
+            "originals": [
+                "أُو۟لَـٰٓئِكَ",
+                "هُمُ",
+                "ٱلْوَٰرِثُونَ"
+            ],
+            "translations": [
+                "Those",
+                "[they]",
+                "(are) the inheritors"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "ٱلَّذِينَ يَرِثُونَ ٱلْفِرْدَوْسَ هُمْ فِيهَا خَـٰلِدُونَ",
+            "translation": "Paradise as their own.<sup foot_note=77016>1</sup> They will be there forever.",
+            "originals": [
+                "ٱلَّذِينَ",
+                "يَرِثُونَ",
+                "ٱلْفِرْدَوْسَ",
+                "هُمْ",
+                "فِيهَا",
+                "خَـٰلِدُونَ"
+            ],
+            "translations": [
+                "Who",
+                "will inherit",
+                "the Paradise",
+                "They",
+                "therein",
+                "(will) abide forever"
+            ]
+        },
+        {
+            "id": "12",
+            "sentence": "وَلَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ مِن سُلَـٰلَةٍ مِّن طِينٍ",
+            "translation": "And indeed, We created humankind<sup foot_note=77017>1</sup> from an extract of clay,",
+            "originals": [
+                "وَلَقَدْ",
+                "خَلَقْنَا",
+                "ٱلْإِنسَـٰنَ",
+                "مِن",
+                "سُلَـٰلَةٍۢ",
+                "مِّن",
+                "طِينٍۢ"
+            ],
+            "translations": [
+                "And indeed",
+                "We created",
+                "the humankind",
+                "from",
+                "an essence",
+                "of",
+                "clay"
+            ]
+        },
+        {
+            "id": "13",
+            "sentence": "ثُمَّ جَعَلْنَـٰهُ نُطْفَةً فِى قَرَارٍ مَّكِينٍ",
+            "translation": "then placed each ˹human˺ as a sperm-drop<sup foot_note=77018>1</sup> in a secure place,",
+            "originals": [
+                "ثُمَّ",
+                "جَعَلْنَـٰهُ",
+                "نُطْفَةًۭ",
+                "فِى",
+                "قَرَارٍۢ",
+                "مَّكِينٍۢ"
+            ],
+            "translations": [
+                "Then",
+                "We placed him",
+                "(as) a semen-drop",
+                "in",
+                "a resting place",
+                "firm"
+            ]
+        },
+        {
+            "id": "14",
+            "sentence": "ثُمَّ خَلَقْنَا ٱلنُّطْفَةَ عَلَقَةً فَخَلَقْنَا ٱلْعَلَقَةَ مُضْغَةً فَخَلَقْنَا ٱلْمُضْغَةَ عِظَـٰمًا فَكَسَوْنَا ٱلْعِظَـٰمَ لَحْمًا ثُمَّ أَنشَأْنَـٰهُ خَلْقًا ءَاخَرَ ۚ فَتَبَارَكَ ٱللَّهُ أَحْسَنُ ٱلْخَـٰلِقِينَ",
+            "translation": "then We developed the drop into a clinging clot, then developed the clot into a lump ˹of flesh˺, then developed the lump into bones, then clothed the bones with flesh, then We brought it into being as a new creation.<sup foot_note=77019>1</sup> So Blessed is Allah, the Best of Creators.",
+            "originals": [
+                "ثُمَّ",
+                "خَلَقْنَا",
+                "ٱلنُّطْفَةَ",
+                "عَلَقَةًۭ",
+                "فَخَلَقْنَا",
+                "ٱلْعَلَقَةَ",
+                "مُضْغَةًۭ",
+                "فَخَلَقْنَا",
+                "ٱلْمُضْغَةَ",
+                "عِظَـٰمًۭا",
+                "فَكَسَوْنَا",
+                "ٱلْعِظَـٰمَ",
+                "لَحْمًۭا",
+                "ثُمَّ",
+                "أَنشَأْنَـٰهُ",
+                "خَلْقًا",
+                "ءَاخَرَ ۚ",
+                "فَتَبَارَكَ",
+                "ٱللَّهُ",
+                "أَحْسَنُ",
+                "ٱلْخَـٰلِقِينَ"
+            ],
+            "translations": [
+                "Then",
+                "We created",
+                "the semen-drop",
+                "(into) a clinging substance",
+                "then We created",
+                "the clinging substance",
+                "(into) an embryonic lump",
+                "then We created",
+                "the embryonic lump",
+                "(into) bones",
+                "then We clothed",
+                "the bones",
+                "(with) flesh",
+                "then",
+                "We produce it",
+                "(as) a creation",
+                "another",
+                "So blessed is",
+                "Allah",
+                "(the) Best",
+                "(of) the Creators"
+            ]
+        },
+        {
+            "id": "15",
+            "sentence": "ثُمَّ إِنَّكُم بَعْدَ ذَٰلِكَ لَمَيِّتُونَ",
+            "translation": "After that you will surely die,",
+            "originals": [
+                "ثُمَّ",
+                "إِنَّكُم",
+                "بَعْدَ",
+                "ذَٰلِكَ",
+                "لَمَيِّتُونَ"
+            ],
+            "translations": [
+                "Then",
+                "indeed, you",
+                "after",
+                "that",
+                "surely (will) die"
+            ]
+        },
+        {
+            "id": "16",
+            "sentence": "ثُمَّ إِنَّكُمْ يَوْمَ ٱلْقِيَـٰمَةِ تُبْعَثُونَ",
+            "translation": "then on the Day of Judgment you will be resurrected.",
+            "originals": [
+                "ثُمَّ",
+                "إِنَّكُمْ",
+                "يَوْمَ",
+                "ٱلْقِيَـٰمَةِ",
+                "تُبْعَثُونَ"
+            ],
+            "translations": [
+                "Then",
+                "indeed, you",
+                "(on the) Day",
+                "(of) the Resurrection",
+                "will be resurrected"
+            ]
+        },
+        {
+            "id": "17",
+            "sentence": "وَلَقَدْ خَلَقْنَا فَوْقَكُمْ سَبْعَ طَرَآئِقَ وَمَا كُنَّا عَنِ ٱلْخَلْقِ غَـٰفِلِينَ",
+            "translation": "And indeed, We created above you seven levels ˹of heaven˺. We are never unmindful of ˹Our˺ creation.",
+            "originals": [
+                "وَلَقَدْ",
+                "خَلَقْنَا",
+                "فَوْقَكُمْ",
+                "سَبْعَ",
+                "طَرَآئِقَ",
+                "وَمَا",
+                "كُنَّا",
+                "عَنِ",
+                "ٱلْخَلْقِ",
+                "غَـٰفِلِينَ"
+            ],
+            "translations": [
+                "And indeed",
+                "We (have) created",
+                "above you",
+                "seven",
+                "paths",
+                "and not",
+                "We are",
+                "of",
+                "the creation",
+                "unaware"
+            ]
+        }
+    ]
+}

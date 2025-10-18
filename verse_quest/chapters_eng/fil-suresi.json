@@ -1,0 +1,99 @@
+{
+    "id": "fil-suresi",
+    "name": "The Elephant",
+    "description": "The Elephant - 105",
+    "index": 105,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+            "translation": "Have you not seen ˹O Prophet˺ how your Lord dealt with the Army of the Elephant?",
+            "originals": [
+                "أَلَمْ",
+                "تَرَ",
+                "كَيْفَ",
+                "فَعَلَ",
+                "رَبُّكَ",
+                "بِأَصْحَـٰبِ",
+                "ٱلْفِيلِ"
+            ],
+            "translations": [
+                "Have not",
+                "you seen",
+                "how",
+                "dealt",
+                "your Lord",
+                "with (the) Companions",
+                "(of the) Elephant"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍ",
+            "translation": "Did He not frustrate their scheme?",
+            "originals": [
+                "أَلَمْ",
+                "يَجْعَلْ",
+                "كَيْدَهُمْ",
+                "فِى",
+                "تَضْلِيلٍۢ"
+            ],
+            "translations": [
+                "Did not",
+                "He make",
+                "their plan",
+                "go",
+                "astray"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+            "translation": "For He sent against them flocks of birds,",
+            "originals": [
+                "وَأَرْسَلَ",
+                "عَلَيْهِمْ",
+                "طَيْرًا",
+                "أَبَابِيلَ"
+            ],
+            "translations": [
+                "And He sent",
+                "against them",
+                "birds",
+                "(in) flocks"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
+            "translation": "that pelted them with stones of baked clay,",
+            "originals": [
+                "تَرْمِيهِم",
+                "بِحِجَارَةٍۢ",
+                "مِّن",
+                "سِجِّيلٍۢ"
+            ],
+            "translations": [
+                "Striking them",
+                "with stones",
+                "of",
+                "baked clay"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ",
+            "translation": "leaving them like chewed up straw.<sup foot_note=77639>1</sup> ",
+            "originals": [
+                "فَجَعَلَهُمْ",
+                "كَعَصْفٍۢ",
+                "مَّأْكُولٍۭ"
+            ],
+            "translations": [
+                "Then He made them",
+                "like straw",
+                "eaten up"
+            ]
+        }
+    ]
+}

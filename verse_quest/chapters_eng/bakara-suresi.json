@@ -1,0 +1,125 @@
+{
+    "id": "bakara-suresi",
+    "name": "The Cow",
+    "description": "The Cow - 2",
+    "index": 2,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " الٓمٓ",
+            "translation": "Alif-Lãm-Mĩm.<sup foot_note=76375>1</sup>",
+            "originals": [
+                "الٓمٓ"
+            ],
+            "translations": [
+                "Alif Laam Meem"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "ذَٰلِكَ ٱلْكِتَـٰبُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ",
+            "translation": "This is the Book! There is no doubt about it<sup foot_note=76376>1</sup>—a guide for those mindful ˹of Allah˺,<sup foot_note=76377>2</sup>",
+            "originals": [
+                "ذَٰلِكَ",
+                "ٱلْكِتَـٰبُ",
+                "لَا",
+                "رَيْبَ ۛ",
+                "فِيهِ ۛ",
+                "هُدًۭى",
+                "لِّلْمُتَّقِينَ"
+            ],
+            "translations": [
+                "That",
+                "(is) the book",
+                "no",
+                "doubt",
+                "in it",
+                "a Guidance",
+                "for the God-conscious"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "ٱلَّذِينَ يُؤْمِنُونَ بِٱلْغَيْبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ",
+            "translation": "who believe in the unseen,<sup foot_note=76378>1</sup> establish prayer, and donate from what We have provided for them,",
+            "originals": [
+                "ٱلَّذِينَ",
+                "يُؤْمِنُونَ",
+                "بِٱلْغَيْبِ",
+                "وَيُقِيمُونَ",
+                "ٱلصَّلَوٰةَ",
+                "وَمِمَّا",
+                "رَزَقْنَـٰهُمْ",
+                "يُنفِقُونَ"
+            ],
+            "translations": [
+                "Those who",
+                "believe",
+                "in the unseen",
+                "and establish",
+                "the prayer",
+                "and out of what",
+                "We have provided them",
+                "they spend"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "وَٱلَّذِينَ يُؤْمِنُونَ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ وَبِٱلْـَٔاخِرَةِ هُمْ يُوقِنُونَ",
+            "translation": "and who believe in what has been revealed to you ˹O Prophet˺<sup foot_note=76379>1</sup> and what was revealed before you, and have sure faith in the Hereafter.",
+            "originals": [
+                "وَٱلَّذِينَ",
+                "يُؤْمِنُونَ",
+                "بِمَآ",
+                "أُنزِلَ",
+                "إِلَيْكَ",
+                "وَمَآ",
+                "أُنزِلَ",
+                "مِن",
+                "قَبْلِكَ",
+                "وَبِٱلْـَٔاخِرَةِ",
+                "هُمْ",
+                "يُوقِنُونَ"
+            ],
+            "translations": [
+                "And those who",
+                "believe",
+                "in what",
+                "(is) sent down",
+                "to you",
+                "and what",
+                "was sent down",
+                "from",
+                "before you",
+                "and in the Hereafter",
+                "they",
+                "firmly believe"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "أُو۟لَـٰٓئِكَ عَلَىٰ هُدًى مِّن رَّبِّهِمْ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+            "translation": "It is they who are ˹truly˺ guided by their Lord, and it is they who will be successful.",
+            "originals": [
+                "أُو۟لَـٰٓئِكَ",
+                "عَلَىٰ",
+                "هُدًۭى",
+                "مِّن",
+                "رَّبِّهِمْ ۖ",
+                "وَأُو۟لَـٰٓئِكَ",
+                "هُمُ",
+                "ٱلْمُفْلِحُونَ"
+            ],
+            "translations": [
+                "Those",
+                "(are) on",
+                "Guidance",
+                "from",
+                "their Lord",
+                "and those ",
+                "they",
+                "(are) the successful ones"
+            ]
+        }
+    ]
+}

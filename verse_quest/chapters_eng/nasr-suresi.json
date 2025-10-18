@@ -1,0 +1,73 @@
+{
+    "id": "nasr-suresi",
+    "name": "The Divine Support",
+    "description": "The Divine Support - 110",
+    "index": 110,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ",
+            "translation": "When Allah’s ˹ultimate˺ help comes and the victory ˹over Mecca is achieved˺,",
+            "originals": [
+                "إِذَا",
+                "جَآءَ",
+                "نَصْرُ",
+                "ٱللَّهِ",
+                "وَٱلْفَتْحُ"
+            ],
+            "translations": [
+                "When",
+                "comes",
+                "(the) Help",
+                "(of) Allah",
+                "and the Victory"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًا",
+            "translation": "and you ˹O Prophet˺ see the people embracing Allah’s Way in crowds,",
+            "originals": [
+                "وَرَأَيْتَ",
+                "ٱلنَّاسَ",
+                "يَدْخُلُونَ",
+                "فِى",
+                "دِينِ",
+                "ٱللَّهِ",
+                "أَفْوَاجًۭا"
+            ],
+            "translations": [
+                "And you see",
+                "the people",
+                "entering",
+                "into",
+                "(the) religion",
+                "(of) Allah",
+                "(in) multitudes"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ ۚ إِنَّهُۥ كَانَ تَوَّابًۢا",
+            "translation": "then glorify the praises of your Lord and seek His forgiveness, for certainly He is ever Accepting of Repentance.",
+            "originals": [
+                "فَسَبِّحْ",
+                "بِحَمْدِ",
+                "رَبِّكَ",
+                "وَٱسْتَغْفِرْهُ ۚ",
+                "إِنَّهُۥ",
+                "كَانَ",
+                "تَوَّابًۢا"
+            ],
+            "translations": [
+                "Then glorify",
+                "with (the) praises",
+                "(of) your Lord",
+                "and ask His forgiveness",
+                "Indeed, He",
+                "is",
+                "Oft-Returning"
+            ]
+        }
+    ]
+}

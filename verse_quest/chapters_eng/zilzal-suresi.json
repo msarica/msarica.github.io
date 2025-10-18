@@ -1,0 +1,152 @@
+{
+    "id": "zilzal-suresi",
+    "name": "The Earthquake",
+    "description": "The Earthquake - 99",
+    "index": 99,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
+            "translation": "When the earth is shaken ˹in˺ its ultimate quaking,",
+            "originals": [
+                "إِذَا",
+                "زُلْزِلَتِ",
+                "ٱلْأَرْضُ",
+                "زِلْزَالَهَا"
+            ],
+            "translations": [
+                "When",
+                "is shaken",
+                "the earth",
+                "(with) its earthquake"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا",
+            "translation": "and when the earth throws out ˹all˺ its contents,<sup foot_note=77635>1</sup>",
+            "originals": [
+                "وَأَخْرَجَتِ",
+                "ٱلْأَرْضُ",
+                "أَثْقَالَهَا"
+            ],
+            "translations": [
+                "And brings forth",
+                "the earth",
+                "its burdens"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "وَقَالَ ٱلْإِنسَـٰنُ مَا لَهَا",
+            "translation": "and humanity cries, “What is wrong with it?”—",
+            "originals": [
+                "وَقَالَ",
+                "ٱلْإِنسَـٰنُ",
+                "مَا",
+                "لَهَا"
+            ],
+            "translations": [
+                "And says",
+                "man",
+                "What",
+                "(is) with it"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+            "translation": "on that Day the earth will recount everything,",
+            "originals": [
+                "يَوْمَئِذٍۢ",
+                "تُحَدِّثُ",
+                "أَخْبَارَهَا"
+            ],
+            "translations": [
+                "That Day",
+                "it will report",
+                "its news"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+            "translation": "having been inspired by your Lord ˹to do so˺.",
+            "originals": [
+                "بِأَنَّ",
+                "رَبَّكَ",
+                "أَوْحَىٰ",
+                "لَهَا"
+            ],
+            "translations": [
+                "Because",
+                "your Lord",
+                "inspired",
+                "[to] it"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَـٰلَهُمْ",
+            "translation": "On that Day people will proceed in separate groups<sup foot_note=77636>1</sup> to be shown ˹the consequences of˺ their deeds.",
+            "originals": [
+                "يَوْمَئِذٍۢ",
+                "يَصْدُرُ",
+                "ٱلنَّاسُ",
+                "أَشْتَاتًۭا",
+                "لِّيُرَوْا۟",
+                "أَعْمَـٰلَهُمْ"
+            ],
+            "translations": [
+                "That Day",
+                "will proceed",
+                "the mankind",
+                "(in) scattered groups",
+                "to be shown",
+                "their deeds"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ",
+            "translation": "So whoever does an atom’s weight of good will see it.",
+            "originals": [
+                "فَمَن",
+                "يَعْمَلْ",
+                "مِثْقَالَ",
+                "ذَرَّةٍ",
+                "خَيْرًۭا",
+                "يَرَهُۥ"
+            ],
+            "translations": [
+                "So whoever",
+                "does",
+                "(equal to the) weight",
+                "(of) an atom",
+                "good",
+                "will see it"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ",
+            "translation": "And whoever does an atom’s weight of evil will see it.",
+            "originals": [
+                "وَمَن",
+                "يَعْمَلْ",
+                "مِثْقَالَ",
+                "ذَرَّةٍۢ",
+                "شَرًّۭا",
+                "يَرَهُۥ"
+            ],
+            "translations": [
+                "And whoever",
+                "does",
+                "(equal to the) weight",
+                "(of) an atom",
+                "evil",
+                "will see it"
+            ]
+        }
+    ]
+}

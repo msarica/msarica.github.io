@@ -1,0 +1,228 @@
+{
+    "id": "tur-suresi",
+    "name": "The Mount",
+    "description": "The Mount - 52",
+    "index": 52,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " وَٱلطُّورِ",
+            "translation": "By Mount Ṭûr!<sup foot_note=77430>1</sup>",
+            "originals": [
+                "وَٱلطُّورِ"
+            ],
+            "translations": [
+                "By the Mount"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "وَكِتَـٰبٍ مَّسْطُورٍ",
+            "translation": "And by the Book written",
+            "originals": [
+                "وَكِتَـٰبٍۢ",
+                "مَّسْطُورٍۢ"
+            ],
+            "translations": [
+                "And by (the) Book",
+                "written"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "فِى رَقٍّ مَّنشُورٍ",
+            "translation": "on open pages ˹for all to read˺!<sup foot_note=77431>1</sup>",
+            "originals": [
+                "فِى",
+                "رَقٍّۢ",
+                "مَّنشُورٍۢ"
+            ],
+            "translations": [
+                "In",
+                "parchment",
+                "unrolled"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "وَٱلْبَيْتِ ٱلْمَعْمُورِ",
+            "translation": "And by the ˹Sacred˺ House frequently visited!<sup foot_note=77432>1</sup>",
+            "originals": [
+                "وَٱلْبَيْتِ",
+                "ٱلْمَعْمُورِ"
+            ],
+            "translations": [
+                "By the House",
+                "frequented"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "وَٱلسَّقْفِ ٱلْمَرْفُوعِ",
+            "translation": "And by the canopy raised ˹high˺!",
+            "originals": [
+                "وَٱلسَّقْفِ",
+                "ٱلْمَرْفُوعِ"
+            ],
+            "translations": [
+                "By the roof",
+                "raised high"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "وَٱلْبَحْرِ ٱلْمَسْجُورِ",
+            "translation": "And by the seas set on fire!<sup foot_note=77433>1</sup>",
+            "originals": [
+                "وَٱلْبَحْرِ",
+                "ٱلْمَسْجُورِ"
+            ],
+            "translations": [
+                "By the sea",
+                "filled"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "إِنَّ عَذَابَ رَبِّكَ لَوَٰقِعٌ",
+            "translation": "Indeed, the punishment of your Lord will come to pass—",
+            "originals": [
+                "إِنَّ",
+                "عَذَابَ",
+                "رَبِّكَ",
+                "لَوَٰقِعٌۭ"
+            ],
+            "translations": [
+                "Indeed",
+                "(the) punishment",
+                "(of) your Lord",
+                "(will) surely occur"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "مَّا لَهُۥ مِن دَافِعٍ",
+            "translation": "none will avert it—",
+            "originals": [
+                "مَّا",
+                "لَهُۥ",
+                "مِن",
+                "دَافِعٍۢ"
+            ],
+            "translations": [
+                "Not",
+                "for it",
+                "any",
+                "preventer"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "يَوْمَ تَمُورُ ٱلسَّمَآءُ مَوْرًا",
+            "translation": "on the Day the heavens will be shaken violently,",
+            "originals": [
+                "يَوْمَ",
+                "تَمُورُ",
+                "ٱلسَّمَآءُ",
+                "مَوْرًۭا"
+            ],
+            "translations": [
+                "(On the) Day",
+                "will shake",
+                "the heaven",
+                "(with violent) shake"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "وَتَسِيرُ ٱلْجِبَالُ سَيْرًا",
+            "translation": "and the mountains will be blown away entirely.",
+            "originals": [
+                "وَتَسِيرُ",
+                "ٱلْجِبَالُ",
+                "سَيْرًۭا"
+            ],
+            "translations": [
+                "And will move away",
+                "the mountains",
+                "(with an awful) movement"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "فَوَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+            "translation": "Then woe on that Day to the deniers—",
+            "originals": [
+                "فَوَيْلٌۭ",
+                "يَوْمَئِذٍۢ",
+                "لِّلْمُكَذِّبِينَ"
+            ],
+            "translations": [
+                "Then woe",
+                "that Day",
+                "to the deniers"
+            ]
+        },
+        {
+            "id": "12",
+            "sentence": "ٱلَّذِينَ هُمْ فِى خَوْضٍ يَلْعَبُونَ",
+            "translation": "those who amuse themselves with falsehood!",
+            "originals": [
+                "ٱلَّذِينَ",
+                "هُمْ",
+                "فِى",
+                "خَوْضٍۢ",
+                "يَلْعَبُونَ"
+            ],
+            "translations": [
+                "Who",
+                "[they]",
+                "in",
+                "(vain) discourse",
+                "are playing"
+            ]
+        },
+        {
+            "id": "13",
+            "sentence": "يَوْمَ يُدَعُّونَ إِلَىٰ نَارِ جَهَنَّمَ دَعًّا",
+            "translation": "˹It is˺ the Day they will be fiercely shoved into the Fire of Hell.",
+            "originals": [
+                "يَوْمَ",
+                "يُدَعُّونَ",
+                "إِلَىٰ",
+                "نَارِ",
+                "جَهَنَّمَ",
+                "دَعًّا"
+            ],
+            "translations": [
+                "(The) Day",
+                "they will be thrust",
+                "(in)to",
+                "(the) Fire",
+                "(of) Hell",
+                "(with) a thrust"
+            ]
+        },
+        {
+            "id": "14",
+            "sentence": "هَـٰذِهِ ٱلنَّارُ ٱلَّتِى كُنتُم بِهَا تُكَذِّبُونَ",
+            "translation": "˹They will be told,˺ “This is the Fire which you used to deny.",
+            "originals": [
+                "هَـٰذِهِ",
+                "ٱلنَّارُ",
+                "ٱلَّتِى",
+                "كُنتُم",
+                "بِهَا",
+                "تُكَذِّبُونَ"
+            ],
+            "translations": [
+                "This",
+                "(is) the Fire",
+                "which",
+                "you used to",
+                "[of it]",
+                "deny"
+            ]
+        }
+    ]
+}

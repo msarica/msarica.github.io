@@ -1,0 +1,114 @@
+{
+    "id": "kehf-suresi",
+    "name": "The Cave",
+    "description": "The Cave - 18",
+    "index": 18,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " ٱلْحَمْدُ لِلَّهِ ٱلَّذِىٓ أَنزَلَ عَلَىٰ عَبْدِهِ ٱلْكِتَـٰبَ وَلَمْ يَجْعَل لَّهُۥ عِوَجَا ۜ",
+            "translation": "All praise is for Allah Who has revealed the Book to His servant,<sup foot_note=76886>1</sup> allowing no crookedness in it,",
+            "originals": [
+                "ٱلْحَمْدُ",
+                "لِلَّهِ",
+                "ٱلَّذِىٓ",
+                "أَنزَلَ",
+                "عَلَىٰ",
+                "عَبْدِهِ",
+                "ٱلْكِتَـٰبَ",
+                "وَلَمْ",
+                "يَجْعَل",
+                "لَّهُۥ",
+                "عِوَجَاۜ"
+            ],
+            "translations": [
+                "All Praise",
+                "(is) for Allah",
+                "the One Who",
+                "(has) revealed",
+                "to",
+                "His slave",
+                "the Book",
+                "and not",
+                "(has) made",
+                "in it",
+                "any crookedness"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "قَيِّمًا لِّيُنذِرَ بَأْسًا شَدِيدًا مِّن لَّدُنْهُ وَيُبَشِّرَ ٱلْمُؤْمِنِينَ ٱلَّذِينَ يَعْمَلُونَ ٱلصَّـٰلِحَـٰتِ أَنَّ لَهُمْ أَجْرًا حَسَنًا",
+            "translation": "˹making it˺ perfectly upright, to warn ˹the disbelievers˺ of a severe torment from Him; to give good news to the believers—who do good—that they will have a fine reward,",
+            "originals": [
+                "قَيِّمًۭا",
+                "لِّيُنذِرَ",
+                "بَأْسًۭا",
+                "شَدِيدًۭا",
+                "مِّن",
+                "لَّدُنْهُ",
+                "وَيُبَشِّرَ",
+                "ٱلْمُؤْمِنِينَ",
+                "ٱلَّذِينَ",
+                "يَعْمَلُونَ",
+                "ٱلصَّـٰلِحَـٰتِ",
+                "أَنَّ",
+                "لَهُمْ",
+                "أَجْرًا",
+                "حَسَنًۭا"
+            ],
+            "translations": [
+                "Straight",
+                "to warn",
+                "(of) a punishment",
+                "severe",
+                "from",
+                "near Him",
+                "and give glad tidings",
+                "(to) the believers",
+                "those who",
+                "do",
+                "righteous deeds",
+                "that",
+                "for them",
+                "(is) a good reward",
+                "(is) a good reward"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "مَّـٰكِثِينَ فِيهِ أَبَدًا",
+            "translation": "in which they will remain forever;",
+            "originals": [
+                "مَّـٰكِثِينَ",
+                "فِيهِ",
+                "أَبَدًۭا"
+            ],
+            "translations": [
+                "(They will) abide",
+                "in it",
+                "forever"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "وَيُنذِرَ ٱلَّذِينَ قَالُوا۟ ٱتَّخَذَ ٱللَّهُ وَلَدًا",
+            "translation": "and to warn those who claim, “Allah has offspring.”<sup foot_note=76887>1</sup>",
+            "originals": [
+                "وَيُنذِرَ",
+                "ٱلَّذِينَ",
+                "قَالُوا۟",
+                "ٱتَّخَذَ",
+                "ٱللَّهُ",
+                "وَلَدًۭا"
+            ],
+            "translations": [
+                "And to warn",
+                "those who",
+                "say",
+                "Allah has taken",
+                "Allah has taken",
+                "a son"
+            ]
+        }
+    ]
+}

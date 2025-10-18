@@ -1,0 +1,252 @@
+{
+    "id": "vakia-suresi",
+    "name": "The Inevitable",
+    "description": "The Inevitable - 56",
+    "index": 56,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " إِذَا وَقَعَتِ ٱلْوَاقِعَةُ",
+            "translation": "When the Inevitable Event takes place,",
+            "originals": [
+                "إِذَا",
+                "وَقَعَتِ",
+                "ٱلْوَاقِعَةُ"
+            ],
+            "translations": [
+                "When",
+                "occurs",
+                "the Event"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "لَيْسَ لِوَقْعَتِهَا كَاذِبَةٌ",
+            "translation": "then no one can deny it has come.",
+            "originals": [
+                "لَيْسَ",
+                "لِوَقْعَتِهَا",
+                "كَاذِبَةٌ"
+            ],
+            "translations": [
+                "Not",
+                "at its occurrence",
+                "a denial"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "خَافِضَةٌ رَّافِعَةٌ",
+            "translation": "It will debase ˹some˺ and elevate ˹others˺.<sup foot_note=77479>1</sup>",
+            "originals": [
+                "خَافِضَةٌۭ",
+                "رَّافِعَةٌ"
+            ],
+            "translations": [
+                "Bringing down",
+                "raising up"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "إِذَا رُجَّتِ ٱلْأَرْضُ رَجًّا",
+            "translation": "When the earth will be violently shaken,",
+            "originals": [
+                "إِذَا",
+                "رُجَّتِ",
+                "ٱلْأَرْضُ",
+                "رَجًّۭا"
+            ],
+            "translations": [
+                "When",
+                "will be shaken",
+                "the earth",
+                "(with) a shaking"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "وَبُسَّتِ ٱلْجِبَالُ بَسًّا",
+            "translation": "and the mountains will be crushed to pieces,",
+            "originals": [
+                "وَبُسَّتِ",
+                "ٱلْجِبَالُ",
+                "بَسًّۭا"
+            ],
+            "translations": [
+                "And will be crumbled",
+                "the mountains",
+                "(with awful) crumbling"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "فَكَانَتْ هَبَآءً مُّنۢبَثًّا",
+            "translation": "becoming scattered ˹particles of˺ dust,",
+            "originals": [
+                "فَكَانَتْ",
+                "هَبَآءًۭ",
+                "مُّنۢبَثًّۭا"
+            ],
+            "translations": [
+                "So they become",
+                "dust particles",
+                "dispersing"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "وَكُنتُمْ أَزْوَٰجًا ثَلَـٰثَةً",
+            "translation": "you will ˹all˺ be ˹divided into˺ three groups:",
+            "originals": [
+                "وَكُنتُمْ",
+                "أَزْوَٰجًۭا",
+                "ثَلَـٰثَةًۭ"
+            ],
+            "translations": [
+                "And you will become",
+                "kinds",
+                "three"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "فَأَصْحَـٰبُ ٱلْمَيْمَنَةِ مَآ أَصْحَـٰبُ ٱلْمَيْمَنَةِ",
+            "translation": "the people of the right, how ˹blessed˺ will they be;",
+            "originals": [
+                "فَأَصْحَـٰبُ",
+                "ٱلْمَيْمَنَةِ",
+                "مَآ",
+                "أَصْحَـٰبُ",
+                "ٱلْمَيْمَنَةِ"
+            ],
+            "translations": [
+                "Then (the) companions",
+                "(of) the right",
+                "what",
+                "(are the) companions",
+                "(of) the right"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "وَأَصْحَـٰبُ ٱلْمَشْـَٔمَةِ مَآ أَصْحَـٰبُ ٱلْمَشْـَٔمَةِ",
+            "translation": "the people of the left, how ˹miserable˺ will they be;",
+            "originals": [
+                "وَأَصْحَـٰبُ",
+                "ٱلْمَشْـَٔمَةِ",
+                "مَآ",
+                "أَصْحَـٰبُ",
+                "ٱلْمَشْـَٔمَةِ"
+            ],
+            "translations": [
+                "And (the) companions",
+                "(of) the left",
+                "what",
+                "(are the) companions",
+                "(of) the left"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "وَٱلسَّـٰبِقُونَ ٱلسَّـٰبِقُونَ",
+            "translation": "and the foremost ˹in faith˺ will be the foremost ˹in Paradise˺.",
+            "originals": [
+                "وَٱلسَّـٰبِقُونَ",
+                "ٱلسَّـٰبِقُونَ"
+            ],
+            "translations": [
+                "And the foremost",
+                "(are) the foremost"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "أُو۟لَـٰٓئِكَ ٱلْمُقَرَّبُونَ",
+            "translation": "They are the ones nearest ˹to Allah˺,",
+            "originals": [
+                "أُو۟لَـٰٓئِكَ",
+                "ٱلْمُقَرَّبُونَ"
+            ],
+            "translations": [
+                "Those",
+                "(are) the nearest ones"
+            ]
+        },
+        {
+            "id": "12",
+            "sentence": "فِى جَنَّـٰتِ ٱلنَّعِيمِ",
+            "translation": "in the Gardens of Bliss.",
+            "originals": [
+                "فِى",
+                "جَنَّـٰتِ",
+                "ٱلنَّعِيمِ"
+            ],
+            "translations": [
+                "In",
+                "Gardens",
+                "(of) Pleasure"
+            ]
+        },
+        {
+            "id": "13",
+            "sentence": "ثُلَّةٌ مِّنَ ٱلْأَوَّلِينَ",
+            "translation": "˹They will be˺ a multitude from earlier generations",
+            "originals": [
+                "ثُلَّةٌۭ",
+                "مِّنَ",
+                "ٱلْأَوَّلِينَ"
+            ],
+            "translations": [
+                "A company",
+                "of",
+                "the former (people)"
+            ]
+        },
+        {
+            "id": "14",
+            "sentence": "وَقَلِيلٌ مِّنَ ٱلْـَٔاخِرِينَ",
+            "translation": "and a few from later generations.",
+            "originals": [
+                "وَقَلِيلٌۭ",
+                "مِّنَ",
+                "ٱلْـَٔاخِرِينَ"
+            ],
+            "translations": [
+                "And a few",
+                "of",
+                "the later (people)"
+            ]
+        },
+        {
+            "id": "15",
+            "sentence": "عَلَىٰ سُرُرٍ مَّوْضُونَةٍ",
+            "translation": "˹All will be˺ on jewelled thrones,",
+            "originals": [
+                "عَلَىٰ",
+                "سُرُرٍۢ",
+                "مَّوْضُونَةٍۢ"
+            ],
+            "translations": [
+                "On",
+                "thrones",
+                "decorated"
+            ]
+        },
+        {
+            "id": "16",
+            "sentence": "مُّتَّكِـِٔينَ عَلَيْهَا مُتَقَـٰبِلِينَ",
+            "translation": "reclining face to face.",
+            "originals": [
+                "مُّتَّكِـِٔينَ",
+                "عَلَيْهَا",
+                "مُتَقَـٰبِلِينَ"
+            ],
+            "translations": [
+                "Reclining",
+                "on them",
+                "facing each other"
+            ]
+        }
+    ]
+}

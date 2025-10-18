@@ -1,0 +1,378 @@
+{
+    "id": "mulk-suresi",
+    "name": "The Sovereignty",
+    "description": "The Sovereignty - 67",
+    "index": 67,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " تَبَـٰرَكَ ٱلَّذِى بِيَدِهِ ٱلْمُلْكُ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+            "translation": "Blessed is the One in Whose Hands rests all authority. And He is Most Capable of everything.",
+            "originals": [
+                "تَبَـٰرَكَ",
+                "ٱلَّذِى",
+                "بِيَدِهِ",
+                "ٱلْمُلْكُ",
+                "وَهُوَ",
+                "عَلَىٰ",
+                "كُلِّ",
+                "شَىْءٍۢ",
+                "قَدِيرٌ"
+            ],
+            "translations": [
+                "Blessed is",
+                "He",
+                "in Whose Hand",
+                "(is) the Dominion",
+                "and He",
+                "(is) over",
+                "every",
+                "thing",
+                "All-Powerful"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "ٱلَّذِى خَلَقَ ٱلْمَوْتَ وَٱلْحَيَوٰةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا ۚ وَهُوَ ٱلْعَزِيزُ ٱلْغَفُورُ",
+            "translation": "˹He is the One˺ Who created death and life in order to test which of you is best in deeds. And He is the Almighty, All-Forgiving.",
+            "originals": [
+                "ٱلَّذِى",
+                "خَلَقَ",
+                "ٱلْمَوْتَ",
+                "وَٱلْحَيَوٰةَ",
+                "لِيَبْلُوَكُمْ",
+                "أَيُّكُمْ",
+                "أَحْسَنُ",
+                "عَمَلًۭا ۚ",
+                "وَهُوَ",
+                "ٱلْعَزِيزُ",
+                "ٱلْغَفُورُ"
+            ],
+            "translations": [
+                "The One Who",
+                "created",
+                "death",
+                "and life",
+                "that He may test you",
+                "which of you",
+                "(is) best",
+                "(in) deed",
+                "And He",
+                "(is) the All-Mighty",
+                "the Oft-Forgiving"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "ٱلَّذِى خَلَقَ سَبْعَ سَمَـٰوَٰتٍ طِبَاقًا ۖ مَّا تَرَىٰ فِى خَلْقِ ٱلرَّحْمَـٰنِ مِن تَفَـٰوُتٍ ۖ فَٱرْجِعِ ٱلْبَصَرَ هَلْ تَرَىٰ مِن فُطُورٍ",
+            "translation": "˹He is the One˺ Who created seven heavens, one above the other. You will never see any imperfection in the creation of the Most Compassionate.<sup foot_note=77529>1</sup> So look again: do you see any flaws?",
+            "originals": [
+                "ٱلَّذِى",
+                "خَلَقَ",
+                "سَبْعَ",
+                "سَمَـٰوَٰتٍۢ",
+                "طِبَاقًۭا ۖ",
+                "مَّا",
+                "تَرَىٰ",
+                "فِى",
+                "خَلْقِ",
+                "ٱلرَّحْمَـٰنِ",
+                "مِن",
+                "تَفَـٰوُتٍۢ ۖ",
+                "فَٱرْجِعِ",
+                "ٱلْبَصَرَ",
+                "هَلْ",
+                "تَرَىٰ",
+                "مِن",
+                "فُطُورٍۢ"
+            ],
+            "translations": [
+                "The One Who",
+                "created",
+                "seven",
+                "heavens",
+                "one above another",
+                "Not",
+                "you see",
+                "in",
+                "(the) creation",
+                "(of) the Most Gracious",
+                "any",
+                "fault",
+                "So return",
+                "the vision",
+                "can",
+                "you see",
+                "any",
+                "flaw"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "ثُمَّ ٱرْجِعِ ٱلْبَصَرَ كَرَّتَيْنِ يَنقَلِبْ إِلَيْكَ ٱلْبَصَرُ خَاسِئًا وَهُوَ حَسِيرٌ",
+            "translation": "Then look again and again—your sight will return frustrated and weary.",
+            "originals": [
+                "ثُمَّ",
+                "ٱرْجِعِ",
+                "ٱلْبَصَرَ",
+                "كَرَّتَيْنِ",
+                "يَنقَلِبْ",
+                "إِلَيْكَ",
+                "ٱلْبَصَرُ",
+                "خَاسِئًۭا",
+                "وَهُوَ",
+                "حَسِيرٌۭ"
+            ],
+            "translations": [
+                "Then",
+                "return",
+                "the vision",
+                "twice (again)",
+                "Will return",
+                "to you",
+                "the vision",
+                "humbled",
+                "while it",
+                "(is) fatigued"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "وَلَقَدْ زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَـٰبِيحَ وَجَعَلْنَـٰهَا رُجُومًا لِّلشَّيَـٰطِينِ ۖ وَأَعْتَدْنَا لَهُمْ عَذَابَ ٱلسَّعِيرِ",
+            "translation": "And indeed, We adorned the lowest heaven with ˹stars like˺ lamps, and made them ˹as missiles˺ for stoning ˹eavesdropping˺ devils, for whom We have also prepared the torment of the Blaze.<sup foot_note=77530>1</sup> ",
+            "originals": [
+                "وَلَقَدْ",
+                "زَيَّنَّا",
+                "ٱلسَّمَآءَ",
+                "ٱلدُّنْيَا",
+                "بِمَصَـٰبِيحَ",
+                "وَجَعَلْنَـٰهَا",
+                "رُجُومًۭا",
+                "لِّلشَّيَـٰطِينِ ۖ",
+                "وَأَعْتَدْنَا",
+                "لَهُمْ",
+                "عَذَابَ",
+                "ٱلسَّعِيرِ"
+            ],
+            "translations": [
+                "And certainly",
+                "We have beautified",
+                "the heaven",
+                "nearest",
+                "with lamps",
+                "and We have made them",
+                "(as) missiles",
+                "for the devils",
+                "and We have prepared",
+                "for them",
+                "punishment",
+                "(of) the Blaze"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "وَلِلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ عَذَابُ جَهَنَّمَ ۖ وَبِئْسَ ٱلْمَصِيرُ",
+            "translation": "Those who disbelieve in their Lord will suffer the punishment of Hell. What an evil destination!",
+            "originals": [
+                "وَلِلَّذِينَ",
+                "كَفَرُوا۟",
+                "بِرَبِّهِمْ",
+                "عَذَابُ",
+                "جَهَنَّمَ ۖ",
+                "وَبِئْسَ",
+                "ٱلْمَصِيرُ"
+            ],
+            "translations": [
+                "And for those who",
+                "disbelieved",
+                "in their Lord",
+                "(is the) punishment",
+                "(of) Hell",
+                "and wretched is",
+                "the destination"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "إِذَآ أُلْقُوا۟ فِيهَا سَمِعُوا۟ لَهَا شَهِيقًا وَهِىَ تَفُورُ",
+            "translation": "When they are tossed into it, they will hear its roaring as it boils over,",
+            "originals": [
+                "إِذَآ",
+                "أُلْقُوا۟",
+                "فِيهَا",
+                "سَمِعُوا۟",
+                "لَهَا",
+                "شَهِيقًۭا",
+                "وَهِىَ",
+                "تَفُورُ"
+            ],
+            "translations": [
+                "When",
+                "they are thrown",
+                "therein",
+                "they will hear",
+                "from it",
+                "an inhaling",
+                "while it",
+                "boils up"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "تَكَادُ تَمَيَّزُ مِنَ ٱلْغَيْظِ ۖ كُلَّمَآ أُلْقِىَ فِيهَا فَوْجٌ سَأَلَهُمْ خَزَنَتُهَآ أَلَمْ يَأْتِكُمْ نَذِيرٌ",
+            "translation": "almost bursting in fury. Every time a group is cast into it, its keepers will ask them, “Did a warner not come to you?”",
+            "originals": [
+                "تَكَادُ",
+                "تَمَيَّزُ",
+                "مِنَ",
+                "ٱلْغَيْظِ ۖ",
+                "كُلَّمَآ",
+                "أُلْقِىَ",
+                "فِيهَا",
+                "فَوْجٌۭ",
+                "سَأَلَهُمْ",
+                "خَزَنَتُهَآ",
+                "أَلَمْ",
+                "يَأْتِكُمْ",
+                "نَذِيرٌۭ"
+            ],
+            "translations": [
+                "It almost",
+                "bursts",
+                "from",
+                "rage",
+                "Every time",
+                "is thrown",
+                "therein",
+                "a group",
+                "(will) ask them",
+                "its keepers",
+                "Did not",
+                "come to you",
+                "a warner"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "قَالُوا۟ بَلَىٰ قَدْ جَآءَنَا نَذِيرٌ فَكَذَّبْنَا وَقُلْنَا مَا نَزَّلَ ٱللَّهُ مِن شَىْءٍ إِنْ أَنتُمْ إِلَّا فِى ضَلَـٰلٍ كَبِيرٍ",
+            "translation": "They will reply, “Yes, a warner did come to us, but we denied and said, ‘Allah has revealed nothing. You are extremely astray.’”",
+            "originals": [
+                "قَالُوا۟",
+                "بَلَىٰ",
+                "قَدْ",
+                "جَآءَنَا",
+                "نَذِيرٌۭ",
+                "فَكَذَّبْنَا",
+                "وَقُلْنَا",
+                "مَا",
+                "نَزَّلَ",
+                "ٱللَّهُ",
+                "مِن",
+                "شَىْءٍ",
+                "إِنْ",
+                "أَنتُمْ",
+                "إِلَّا",
+                "فِى",
+                "ضَلَـٰلٍۢ",
+                "كَبِيرٍۢ"
+            ],
+            "translations": [
+                "They will say",
+                "Yes",
+                "indeed",
+                "came to us",
+                "a warner",
+                "but we denied",
+                "and we said",
+                "Not",
+                "has sent down",
+                "Allah",
+                "any",
+                "thing",
+                "Not",
+                "you (are)",
+                "but",
+                "in",
+                "error",
+                "great"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "وَقَالُوا۟ لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِىٓ أَصْحَـٰبِ ٱلسَّعِيرِ",
+            "translation": "And they will lament, “If only we had listened and reasoned, we would not be among the residents of the Blaze!”",
+            "originals": [
+                "وَقَالُوا۟",
+                "لَوْ",
+                "كُنَّا",
+                "نَسْمَعُ",
+                "أَوْ",
+                "نَعْقِلُ",
+                "مَا",
+                "كُنَّا",
+                "فِىٓ",
+                "أَصْحَـٰبِ",
+                "ٱلسَّعِيرِ"
+            ],
+            "translations": [
+                "And they will say",
+                "If",
+                "we had",
+                "listened",
+                "or",
+                "reasoned",
+                "not",
+                "we (would) have been",
+                "among",
+                "(the) companions",
+                "(of) the Blaze"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "فَٱعْتَرَفُوا۟ بِذَنۢبِهِمْ فَسُحْقًا لِّأَصْحَـٰبِ ٱلسَّعِيرِ",
+            "translation": "And so they will confess their sins. So away with the residents of the Blaze!",
+            "originals": [
+                "فَٱعْتَرَفُوا۟",
+                "بِذَنۢبِهِمْ",
+                "فَسُحْقًۭا",
+                "لِّأَصْحَـٰبِ",
+                "ٱلسَّعِيرِ"
+            ],
+            "translations": [
+                "Then they (will) confess",
+                "their sins",
+                "so away with",
+                "(the) companions",
+                "(of) the Blaze"
+            ]
+        },
+        {
+            "id": "12",
+            "sentence": "إِنَّ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ لَهُم مَّغْفِرَةٌ وَأَجْرٌ كَبِيرٌ",
+            "translation": "Indeed, those in awe of their Lord without seeing Him<sup foot_note=77531>1</sup> will have forgiveness and a mighty reward.",
+            "originals": [
+                "إِنَّ",
+                "ٱلَّذِينَ",
+                "يَخْشَوْنَ",
+                "رَبَّهُم",
+                "بِٱلْغَيْبِ",
+                "لَهُم",
+                "مَّغْفِرَةٌۭ",
+                "وَأَجْرٌۭ",
+                "كَبِيرٌۭ"
+            ],
+            "translations": [
+                "Indeed",
+                "those who",
+                "fear",
+                "their Lord",
+                "unseen",
+                "for them",
+                "(is) forgiveness",
+                "and a reward",
+                "great"
+            ]
+        }
+    ]
+}

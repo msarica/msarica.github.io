@@ -1,0 +1,335 @@
+{
+    "id": "fussilet-suresi",
+    "name": "Explained in Detail",
+    "description": "Explained in Detail - 41",
+    "index": 41,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " حمٓ",
+            "translation": "Ḥâ-Mĩm.",
+            "originals": [
+                "حمٓ"
+            ],
+            "translations": [
+                "Ha Meem"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "تَنزِيلٌ مِّنَ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+            "translation": "˹This is˺ a revelation from the Most Compassionate, Most Merciful.",
+            "originals": [
+                "تَنزِيلٌۭ",
+                "مِّنَ",
+                "ٱلرَّحْمَـٰنِ",
+                "ٱلرَّحِيمِ"
+            ],
+            "translations": [
+                "A revelation",
+                "from",
+                "the Most Gracious",
+                "the Most Merciful"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "كِتَـٰبٌ فُصِّلَتْ ءَايَـٰتُهُۥ قُرْءَانًا عَرَبِيًّا لِّقَوْمٍ يَعْلَمُونَ",
+            "translation": "˹It is˺ a Book whose verses are perfectly explained—a Quran in Arabic for people who know,",
+            "originals": [
+                "كِتَـٰبٌۭ",
+                "فُصِّلَتْ",
+                "ءَايَـٰتُهُۥ",
+                "قُرْءَانًا",
+                "عَرَبِيًّۭا",
+                "لِّقَوْمٍۢ",
+                "يَعْلَمُونَ"
+            ],
+            "translations": [
+                "A Book",
+                "are detailed",
+                "its Verses",
+                "a Quran",
+                "(in) Arabic",
+                "for a people",
+                "(who) know"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "بَشِيرًا وَنَذِيرًا فَأَعْرَضَ أَكْثَرُهُمْ فَهُمْ لَا يَسْمَعُونَ",
+            "translation": "delivering good news and warning. Yet most of them turn away, so they do not hear.",
+            "originals": [
+                "بَشِيرًۭا",
+                "وَنَذِيرًۭا",
+                "فَأَعْرَضَ",
+                "أَكْثَرُهُمْ",
+                "فَهُمْ",
+                "لَا",
+                "يَسْمَعُونَ"
+            ],
+            "translations": [
+                "A giver of glad tidings",
+                "and a warner",
+                "but turn away",
+                "most of them",
+                "so they",
+                "(do) not",
+                "hear"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "وَقَالُوا۟ قُلُوبُنَا فِىٓ أَكِنَّةٍ مِّمَّا تَدْعُونَآ إِلَيْهِ وَفِىٓ ءَاذَانِنَا وَقْرٌ وَمِنۢ بَيْنِنَا وَبَيْنِكَ حِجَابٌ فَٱعْمَلْ إِنَّنَا عَـٰمِلُونَ",
+            "translation": "They say, “Our hearts are veiled against what you are calling us to, there is deafness in our ears, and there is a barrier between us and you. So do ˹whatever you want˺ and so shall we!”",
+            "originals": [
+                "وَقَالُوا۟",
+                "قُلُوبُنَا",
+                "فِىٓ",
+                "أَكِنَّةٍۢ",
+                "مِّمَّا",
+                "تَدْعُونَآ",
+                "إِلَيْهِ",
+                "وَفِىٓ",
+                "ءَاذَانِنَا",
+                "وَقْرٌۭ",
+                "وَمِنۢ",
+                "بَيْنِنَا",
+                "وَبَيْنِكَ",
+                "حِجَابٌۭ",
+                "فَٱعْمَلْ",
+                "إِنَّنَا",
+                "عَـٰمِلُونَ"
+            ],
+            "translations": [
+                "And they say",
+                "Our hearts",
+                "(are) in",
+                "coverings",
+                "from what",
+                "you call us",
+                "to it",
+                "and in",
+                "our ears",
+                "(is) deafness",
+                "and between us",
+                "and between us",
+                "and between you",
+                "(is) a screen",
+                "So work",
+                "indeed, we",
+                "(are) working"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "قُلْ إِنَّمَآ أَنَا۠ بَشَرٌ مِّثْلُكُمْ يُوحَىٰٓ إِلَىَّ أَنَّمَآ إِلَـٰهُكُمْ إِلَـٰهٌ وَٰحِدٌ فَٱسْتَقِيمُوٓا۟ إِلَيْهِ وَٱسْتَغْفِرُوهُ ۗ وَوَيْلٌ لِّلْمُشْرِكِينَ",
+            "translation": "Say, ˹O Prophet,˺ “I am only a man like you, ˹but˺ it has been revealed to me that your God is only One God. So take the Straight Way towards Him, and seek His forgiveness. And woe to the polytheists—",
+            "originals": [
+                "قُلْ",
+                "إِنَّمَآ",
+                "أَنَا۠",
+                "بَشَرٌۭ",
+                "مِّثْلُكُمْ",
+                "يُوحَىٰٓ",
+                "إِلَىَّ",
+                "أَنَّمَآ",
+                "إِلَـٰهُكُمْ",
+                "إِلَـٰهٌۭ",
+                "وَٰحِدٌۭ",
+                "فَٱسْتَقِيمُوٓا۟",
+                "إِلَيْهِ",
+                "وَٱسْتَغْفِرُوهُ ۗ",
+                "وَوَيْلٌۭ",
+                "لِّلْمُشْرِكِينَ"
+            ],
+            "translations": [
+                "Say",
+                "Only",
+                "I am",
+                "a man",
+                "like you",
+                "it is revealed",
+                "to me",
+                "that",
+                "your god",
+                "(is) God",
+                "One",
+                "so take a Straight Path",
+                "to Him",
+                "and ask His forgiveness",
+                "And woe",
+                "to the polytheists"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "ٱلَّذِينَ لَا يُؤْتُونَ ٱلزَّكَوٰةَ وَهُم بِٱلْـَٔاخِرَةِ هُمْ كَـٰفِرُونَ",
+            "translation": "those who do not pay alms-tax and are in denial of the Hereafter.",
+            "originals": [
+                "ٱلَّذِينَ",
+                "لَا",
+                "يُؤْتُونَ",
+                "ٱلزَّكَوٰةَ",
+                "وَهُم",
+                "بِٱلْـَٔاخِرَةِ",
+                "هُمْ",
+                "كَـٰفِرُونَ"
+            ],
+            "translations": [
+                "Those who",
+                "(do) not",
+                "give",
+                "the zakah",
+                "and they",
+                "in the Hereafter",
+                "they",
+                "(are) disbelievers"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
+            "translation": "˹But˺ those who believe and do good will certainly have a never-ending reward.",
+            "originals": [
+                "إِنَّ",
+                "ٱلَّذِينَ",
+                "ءَامَنُوا۟",
+                "وَعَمِلُوا۟",
+                "ٱلصَّـٰلِحَـٰتِ",
+                "لَهُمْ",
+                "أَجْرٌ",
+                "غَيْرُ",
+                "مَمْنُونٍۢ"
+            ],
+            "translations": [
+                "Indeed",
+                "those who",
+                "believe",
+                "and do",
+                "righteous deeds",
+                "for them",
+                "(is) a reward",
+                "never ending",
+                "never ending"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "۞ قُلْ أَئِنَّكُمْ لَتَكْفُرُونَ بِٱلَّذِى خَلَقَ ٱلْأَرْضَ فِى يَوْمَيْنِ وَتَجْعَلُونَ لَهُۥٓ أَندَادًا ۚ ذَٰلِكَ رَبُّ ٱلْعَـٰلَمِينَ",
+            "translation": "Ask ˹them, O  Prophet˺, “How can you disbelieve in the One Who created the earth in two Days? And how can you set up equals with Him? That is the Lord of all worlds.",
+            "originals": [
+                "۞ قُلْ",
+                "أَئِنَّكُمْ",
+                "لَتَكْفُرُونَ",
+                "بِٱلَّذِى",
+                "خَلَقَ",
+                "ٱلْأَرْضَ",
+                "فِى",
+                "يَوْمَيْنِ",
+                "وَتَجْعَلُونَ",
+                "لَهُۥٓ",
+                "أَندَادًۭا ۚ",
+                "ذَٰلِكَ",
+                "رَبُّ",
+                "ٱلْعَـٰلَمِينَ"
+            ],
+            "translations": [
+                "Say",
+                "Do you indeed",
+                "[surely] disbelieve",
+                "in the One Who",
+                "created",
+                "the earth",
+                "in",
+                "two periods",
+                "and you set up",
+                "with Him",
+                "rivals",
+                "That",
+                "(is the) Lord",
+                "(of) the worlds"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "وَجَعَلَ فِيهَا رَوَٰسِىَ مِن فَوْقِهَا وَبَـٰرَكَ فِيهَا وَقَدَّرَ فِيهَآ أَقْوَٰتَهَا فِىٓ أَرْبَعَةِ أَيَّامٍ سَوَآءً لِّلسَّآئِلِينَ",
+            "translation": "He placed on the earth firm mountains, standing high, showered His blessings upon it, and ordained ˹all˺ its means of sustenance—totaling four Days exactly<sup foot_note=77309>1</sup>—for all who ask.",
+            "originals": [
+                "وَجَعَلَ",
+                "فِيهَا",
+                "رَوَٰسِىَ",
+                "مِن",
+                "فَوْقِهَا",
+                "وَبَـٰرَكَ",
+                "فِيهَا",
+                "وَقَدَّرَ",
+                "فِيهَآ",
+                "أَقْوَٰتَهَا",
+                "فِىٓ",
+                "أَرْبَعَةِ",
+                "أَيَّامٍۢ",
+                "سَوَآءًۭ",
+                "لِّلسَّآئِلِينَ"
+            ],
+            "translations": [
+                "And He placed",
+                "therein",
+                "firmly-set mountains",
+                "above it",
+                "above it",
+                "and He blessed",
+                "therein",
+                "and determined",
+                "therein",
+                "its sustenance",
+                "in",
+                "four",
+                "periods",
+                "equal",
+                "for those who ask"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "ثُمَّ ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ وَهِىَ دُخَانٌ فَقَالَ لَهَا وَلِلْأَرْضِ ٱئْتِيَا طَوْعًا أَوْ كَرْهًا قَالَتَآ أَتَيْنَا طَآئِعِينَ",
+            "translation": "Then He turned towards the heaven when it was ˹still like˺ smoke, saying to it and to the earth, ‘Submit, willingly or unwillingly.’ They both responded, ‘We submit willingly.’",
+            "originals": [
+                "ثُمَّ",
+                "ٱسْتَوَىٰٓ",
+                "إِلَى",
+                "ٱلسَّمَآءِ",
+                "وَهِىَ",
+                "دُخَانٌۭ",
+                "فَقَالَ",
+                "لَهَا",
+                "وَلِلْأَرْضِ",
+                "ٱئْتِيَا",
+                "طَوْعًا",
+                "أَوْ",
+                "كَرْهًۭا",
+                "قَالَتَآ",
+                "أَتَيْنَا",
+                "طَآئِعِينَ"
+            ],
+            "translations": [
+                "Then",
+                "He directed (Himself)",
+                "towards",
+                "the heaven",
+                "while it (was)",
+                "smoke",
+                "and He said",
+                "to it",
+                "and to the earth",
+                "Come both of you",
+                "willingly",
+                "or",
+                "unwillingly",
+                "They both said",
+                "We come",
+                "willingly"
+            ]
+        }
+    ]
+}

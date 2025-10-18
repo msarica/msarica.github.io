@@ -1,0 +1,428 @@
+{
+    "id": "sad-suresi",
+    "name": "The Letter \"Saad\"",
+    "description": "The Letter \"Saad\" - 38",
+    "index": 38,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " صٓ ۚ وَٱلْقُرْءَانِ ذِى ٱلذِّكْرِ",
+            "translation": "Ṣãd. By the Quran, full of reminders!",
+            "originals": [
+                "صٓ ۚ",
+                "وَٱلْقُرْءَانِ",
+                "ذِى",
+                "ٱلذِّكْرِ"
+            ],
+            "translations": [
+                "Saad",
+                "By the Quran",
+                "full (of) reminder",
+                "full (of) reminder"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "بَلِ ٱلَّذِينَ كَفَرُوا۟ فِى عِزَّةٍ وَشِقَاقٍ",
+            "translation": "˹This is the truth,˺ yet the disbelievers are ˹entrenched˺ in arrogance and opposition.",
+            "originals": [
+                "بَلِ",
+                "ٱلَّذِينَ",
+                "كَفَرُوا۟",
+                "فِى",
+                "عِزَّةٍۢ",
+                "وَشِقَاقٍۢ"
+            ],
+            "translations": [
+                "Nay",
+                "those who",
+                "disbelieve",
+                "(are) in",
+                "self-glory",
+                "and opposition"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّن قَرْنٍ فَنَادَوا۟ وَّلَاتَ حِينَ مَنَاصٍ",
+            "translation": "˹Imagine˺ how many peoples We destroyed before them, and they cried out when it was too late to escape.",
+            "originals": [
+                "كَمْ",
+                "أَهْلَكْنَا",
+                "مِن",
+                "قَبْلِهِم",
+                "مِّن",
+                "قَرْنٍۢ",
+                "فَنَادَوا۟",
+                "وَّلَاتَ",
+                "حِينَ",
+                "مَنَاصٍۢ"
+            ],
+            "translations": [
+                "How many",
+                "We destroyed",
+                "before them",
+                "before them",
+                "of",
+                "a generation",
+                "then they called out",
+                "when there (was) no longer",
+                "time",
+                "(for) escape"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "وَعَجِبُوٓا۟ أَن جَآءَهُم مُّنذِرٌ مِّنْهُمْ ۖ وَقَالَ ٱلْكَـٰفِرُونَ هَـٰذَا سَـٰحِرٌ كَذَّابٌ",
+            "translation": "Now, the pagans are astonished that a warner has come to them from among themselves.<sup foot_note=77265>1</sup> And the disbelievers say, “This is a magician, a total liar!",
+            "originals": [
+                "وَعَجِبُوٓا۟",
+                "أَن",
+                "جَآءَهُم",
+                "مُّنذِرٌۭ",
+                "مِّنْهُمْ ۖ",
+                "وَقَالَ",
+                "ٱلْكَـٰفِرُونَ",
+                "هَـٰذَا",
+                "سَـٰحِرٌۭ",
+                "كَذَّابٌ"
+            ],
+            "translations": [
+                "And they wonder",
+                "that",
+                "has come to them",
+                "a warner",
+                "from themselves",
+                "And said",
+                "the disbelievers",
+                "This",
+                "(is) a magician",
+                "a liar"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "أَجَعَلَ ٱلْـَٔالِهَةَ إِلَـٰهًا وَٰحِدًا ۖ إِنَّ هَـٰذَا لَشَىْءٌ عُجَابٌ",
+            "translation": "Has he reduced ˹all˺ the gods to One God? Indeed, this is something totally astonishing.”",
+            "originals": [
+                "أَجَعَلَ",
+                "ٱلْـَٔالِهَةَ",
+                "إِلَـٰهًۭا",
+                "وَٰحِدًا ۖ",
+                "إِنَّ",
+                "هَـٰذَا",
+                "لَشَىْءٌ",
+                "عُجَابٌۭ"
+            ],
+            "translations": [
+                "Has he made",
+                "the gods",
+                "(into) one god",
+                "(into) one god",
+                "Indeed",
+                "this",
+                "(is) certainly a thing",
+                "curious"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "وَٱنطَلَقَ ٱلْمَلَأُ مِنْهُمْ أَنِ ٱمْشُوا۟ وَٱصْبِرُوا۟ عَلَىٰٓ ءَالِهَتِكُمْ ۖ إِنَّ هَـٰذَا لَشَىْءٌ يُرَادُ",
+            "translation": "The chiefs among them went forth saying, “Carry on, and stand firm in devotion to your gods. Certainly this is just a scheme ˹for power˺.<sup foot_note=77266>1</sup>",
+            "originals": [
+                "وَٱنطَلَقَ",
+                "ٱلْمَلَأُ",
+                "مِنْهُمْ",
+                "أَنِ",
+                "ٱمْشُوا۟",
+                "وَٱصْبِرُوا۟",
+                "عَلَىٰٓ",
+                "ءَالِهَتِكُمْ ۖ",
+                "إِنَّ",
+                "هَـٰذَا",
+                "لَشَىْءٌۭ",
+                "يُرَادُ"
+            ],
+            "translations": [
+                "And went forth",
+                "the chiefs",
+                "among them",
+                "that",
+                "Continue",
+                "and be patient",
+                "over",
+                "your gods",
+                "Indeed",
+                "this",
+                "(is) certainly a thing",
+                "intended"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "مَا سَمِعْنَا بِهَـٰذَا فِى ٱلْمِلَّةِ ٱلْـَٔاخِرَةِ إِنْ هَـٰذَآ إِلَّا ٱخْتِلَـٰقٌ",
+            "translation": "We have never heard of this in the previous faith.<sup foot_note=77267>1</sup> This is nothing but a fabrication.",
+            "originals": [
+                "مَا",
+                "سَمِعْنَا",
+                "بِهَـٰذَا",
+                "فِى",
+                "ٱلْمِلَّةِ",
+                "ٱلْـَٔاخِرَةِ",
+                "إِنْ",
+                "هَـٰذَآ",
+                "إِلَّا",
+                "ٱخْتِلَـٰقٌ"
+            ],
+            "translations": [
+                "Not",
+                "we heard",
+                "of this",
+                "in",
+                "the religion",
+                "the last",
+                "Not",
+                "(is) this",
+                "but",
+                "a fabrication"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "أَءُنزِلَ عَلَيْهِ ٱلذِّكْرُ مِنۢ بَيْنِنَا ۚ بَلْ هُمْ فِى شَكٍّ مِّن ذِكْرِى ۖ بَل لَّمَّا يَذُوقُوا۟ عَذَابِ",
+            "translation": "Has the Reminder been revealed ˹only˺ to him out of ˹all of˺ us?” In fact, they are ˹only˺ in doubt of My ˹revealed˺ Reminder.<sup foot_note=77268>1</sup> In fact, ˹they do so because˺ they have not yet tasted My punishment.",
+            "originals": [
+                "أَءُنزِلَ",
+                "عَلَيْهِ",
+                "ٱلذِّكْرُ",
+                "مِنۢ",
+                "بَيْنِنَا ۚ",
+                "بَلْ",
+                "هُمْ",
+                "فِى",
+                "شَكٍّۢ",
+                "مِّن",
+                "ذِكْرِى ۖ",
+                "بَل",
+                "لَّمَّا",
+                "يَذُوقُوا۟",
+                "عَذَابِ"
+            ],
+            "translations": [
+                "Has been revealed",
+                "to him",
+                "the Message",
+                "from",
+                "among us",
+                "Nay",
+                "They",
+                "(are) in",
+                "doubt",
+                "about",
+                "My Message",
+                "Nay",
+                "not yet",
+                "they have tasted",
+                "My punishment"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "أَمْ عِندَهُمْ خَزَآئِنُ رَحْمَةِ رَبِّكَ ٱلْعَزِيزِ ٱلْوَهَّابِ",
+            "translation": "Or ˹is it because˺ they possess the treasuries of the mercy of your Lord—the Almighty, the Giver ˹of all bounties˺.",
+            "originals": [
+                "أَمْ",
+                "عِندَهُمْ",
+                "خَزَآئِنُ",
+                "رَحْمَةِ",
+                "رَبِّكَ",
+                "ٱلْعَزِيزِ",
+                "ٱلْوَهَّابِ"
+            ],
+            "translations": [
+                "Or",
+                "have they",
+                "(the) treasures",
+                "(of the) Mercy",
+                "(of) your Lord",
+                "the All-Mighty",
+                "the Bestower"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "أَمْ لَهُم مُّلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ۖ فَلْيَرْتَقُوا۟ فِى ٱلْأَسْبَـٰبِ",
+            "translation": "Or ˹is it because˺ the kingdom of the heavens and the earth and everything in between belongs to them? Let them then climb their way ˹to heaven, if their claim is true˺.",
+            "originals": [
+                "أَمْ",
+                "لَهُم",
+                "مُّلْكُ",
+                "ٱلسَّمَـٰوَٰتِ",
+                "وَٱلْأَرْضِ",
+                "وَمَا",
+                "بَيْنَهُمَا ۖ",
+                "فَلْيَرْتَقُوا۟",
+                "فِى",
+                "ٱلْأَسْبَـٰبِ"
+            ],
+            "translations": [
+                "Or",
+                "for them",
+                "(is the) dominion",
+                "(of) the heavens",
+                "and the earth",
+                "and whatever",
+                "(is) between them",
+                "Then let them ascend",
+                "by",
+                "the means"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "جُندٌ مَّا هُنَالِكَ مَهْزُومٌ مِّنَ ٱلْأَحْزَابِ",
+            "translation": "This is just another ˹enemy˺ force bound for defeat out there.<sup foot_note=77269>1</sup>",
+            "originals": [
+                "جُندٌۭ",
+                "مَّا",
+                "هُنَالِكَ",
+                "مَهْزُومٌۭ",
+                "مِّنَ",
+                "ٱلْأَحْزَابِ"
+            ],
+            "translations": [
+                "Soldiers ",
+                "there",
+                "there",
+                "(they will be) defeated",
+                "among",
+                "the companies"
+            ]
+        },
+        {
+            "id": "12",
+            "sentence": "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَعَادٌ وَفِرْعَوْنُ ذُو ٱلْأَوْتَادِ",
+            "translation": "Before them, the people of Noah denied ˹the truth˺, as did ’Âd, Pharaoh of the mighty structures,<sup foot_note=77270>1</sup>",
+            "originals": [
+                "كَذَّبَتْ",
+                "قَبْلَهُمْ",
+                "قَوْمُ",
+                "نُوحٍۢ",
+                "وَعَادٌۭ",
+                "وَفِرْعَوْنُ",
+                "ذُو",
+                "ٱلْأَوْتَادِ"
+            ],
+            "translations": [
+                "Denied",
+                "before them",
+                "(the) people",
+                "(of) Nuh",
+                "and Aad",
+                "and Firaun",
+                "(the) owner",
+                "(of) the stakes"
+            ]
+        },
+        {
+            "id": "13",
+            "sentence": "وَثَمُودُ وَقَوْمُ لُوطٍ وَأَصْحَـٰبُ لْـَٔيْكَةِ ۚ أُو۟لَـٰٓئِكَ ٱلْأَحْزَابُ",
+            "translation": "Thamûd, the people of Lot, and the residents of the Forest.<sup foot_note=77271>1</sup> These were ˹all˺ enemy forces.",
+            "originals": [
+                "وَثَمُودُ",
+                "وَقَوْمُ",
+                "لُوطٍۢ",
+                "وَأَصْحَـٰبُ",
+                "لْـَٔيْكَةِ ۚ",
+                "أُو۟لَـٰٓئِكَ",
+                "ٱلْأَحْزَابُ"
+            ],
+            "translations": [
+                "And Thamud",
+                "and (the) people",
+                "(of) Lut",
+                "and (the) companions",
+                "(of) the wood",
+                "Those",
+                "(were) the companies"
+            ]
+        },
+        {
+            "id": "14",
+            "sentence": "إِن كُلٌّ إِلَّا كَذَّبَ ٱلرُّسُلَ فَحَقَّ عِقَابِ",
+            "translation": "Each rejected their messenger, so My punishment was justified.",
+            "originals": [
+                "إِن",
+                "كُلٌّ",
+                "إِلَّا",
+                "كَذَّبَ",
+                "ٱلرُّسُلَ",
+                "فَحَقَّ",
+                "عِقَابِ"
+            ],
+            "translations": [
+                "Not",
+                "all (of them)",
+                "but",
+                "denied",
+                "the Messengers",
+                "so (was) just",
+                "My penalty"
+            ]
+        },
+        {
+            "id": "15",
+            "sentence": "وَمَا يَنظُرُ هَـٰٓؤُلَآءِ إِلَّا صَيْحَةً وَٰحِدَةً مَّا لَهَا مِن فَوَاقٍ",
+            "translation": "These ˹pagans˺ are awaiting nothing but a single Blast that cannot be stopped.",
+            "originals": [
+                "وَمَا",
+                "يَنظُرُ",
+                "هَـٰٓؤُلَآءِ",
+                "إِلَّا",
+                "صَيْحَةًۭ",
+                "وَٰحِدَةًۭ",
+                "مَّا",
+                "لَهَا",
+                "مِن",
+                "فَوَاقٍۢ"
+            ],
+            "translations": [
+                "And not",
+                "await",
+                "these",
+                "but",
+                "a shout",
+                "one",
+                "not",
+                "for it",
+                "any",
+                "delay"
+            ]
+        },
+        {
+            "id": "16",
+            "sentence": "وَقَالُوا۟ رَبَّنَا عَجِّل لَّنَا قِطَّنَا قَبْلَ يَوْمِ ٱلْحِسَابِ",
+            "translation": "They say ˹mockingly˺, “Our Lord! Hasten for us our share ˹of the punishment˺ before the Day of Reckoning.”",
+            "originals": [
+                "وَقَالُوا۟",
+                "رَبَّنَا",
+                "عَجِّل",
+                "لَّنَا",
+                "قِطَّنَا",
+                "قَبْلَ",
+                "يَوْمِ",
+                "ٱلْحِسَابِ"
+            ],
+            "translations": [
+                "And they say",
+                "Our Lord",
+                "Hasten",
+                "for us",
+                "our share",
+                "before",
+                "(the) Day",
+                "(of) the Account"
+            ]
+        }
+    ]
+}

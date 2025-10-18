@@ -1,0 +1,115 @@
+{
+    "id": "rum-suresi",
+    "name": "The Romans",
+    "description": "The Romans - 30",
+    "index": 30,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " الٓمٓ",
+            "translation": "Alif-Lãm-Mĩm.",
+            "originals": [
+                "الٓمٓ"
+            ],
+            "translations": [
+                "Alif Lam Meem"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "غُلِبَتِ ٱلرُّومُ",
+            "translation": "The Romans have been defeated",
+            "originals": [
+                "غُلِبَتِ",
+                "ٱلرُّومُ"
+            ],
+            "translations": [
+                "Have been defeated",
+                "the Romans"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "فِىٓ أَدْنَى ٱلْأَرْضِ وَهُم مِّنۢ بَعْدِ غَلَبِهِمْ سَيَغْلِبُونَ",
+            "translation": "in a nearby land.<sup foot_note=77155>1</sup> Yet following their defeat, they will triumph",
+            "originals": [
+                "فِىٓ",
+                "أَدْنَى",
+                "ٱلْأَرْضِ",
+                "وَهُم",
+                "مِّنۢ",
+                "بَعْدِ",
+                "غَلَبِهِمْ",
+                "سَيَغْلِبُونَ"
+            ],
+            "translations": [
+                "In",
+                "(the) nearest",
+                "land",
+                "But they",
+                "after",
+                "after",
+                "their defeat",
+                "will overcome"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "فِى بِضْعِ سِنِينَ ۗ لِلَّهِ ٱلْأَمْرُ مِن قَبْلُ وَمِنۢ بَعْدُ ۚ وَيَوْمَئِذٍ يَفْرَحُ ٱلْمُؤْمِنُونَ",
+            "translation": "within three to nine years.<sup foot_note=77156>1</sup> The ˹whole˺ matter rests with Allah before and after ˹victory˺. And on that day the believers will rejoice",
+            "originals": [
+                "فِى",
+                "بِضْعِ",
+                "سِنِينَ ۗ",
+                "لِلَّهِ",
+                "ٱلْأَمْرُ",
+                "مِن",
+                "قَبْلُ",
+                "وَمِنۢ",
+                "بَعْدُ ۚ",
+                "وَيَوْمَئِذٍۢ",
+                "يَفْرَحُ",
+                "ٱلْمُؤْمِنُونَ"
+            ],
+            "translations": [
+                "Within",
+                "a few",
+                "years",
+                "For Allah",
+                "(is) the command",
+                "before",
+                "before",
+                "and after",
+                "and after",
+                "And that day",
+                "will rejoice",
+                "the believers"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "بِنَصْرِ ٱللَّهِ ۚ يَنصُرُ مَن يَشَآءُ ۖ وَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ",
+            "translation": "at the victory willed by Allah. He gives victory to whoever He wills. For He is the Almighty, Most Merciful.",
+            "originals": [
+                "بِنَصْرِ",
+                "ٱللَّهِ ۚ",
+                "يَنصُرُ",
+                "مَن",
+                "يَشَآءُ ۖ",
+                "وَهُوَ",
+                "ٱلْعَزِيزُ",
+                "ٱلرَّحِيمُ"
+            ],
+            "translations": [
+                "With (the) help",
+                "(of) Allah",
+                "He helps",
+                "whom",
+                "He wills",
+                "And He",
+                "(is) the All-Mighty",
+                "the Most Merciful"
+            ]
+        }
+    ]
+}

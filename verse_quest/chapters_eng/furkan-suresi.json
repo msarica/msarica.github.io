@@ -1,0 +1,82 @@
+{
+    "id": "furkan-suresi",
+    "name": "The Criterion",
+    "description": "The Criterion - 25",
+    "index": 25,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " تَبَارَكَ ٱلَّذِى نَزَّلَ ٱلْفُرْقَانَ عَلَىٰ عَبْدِهِۦ لِيَكُونَ لِلْعَـٰلَمِينَ نَذِيرًا",
+            "translation": "Blessed is the One Who sent down the Decisive Authority<sup foot_note=77060>1</sup> to His servant,<sup foot_note=77061>2</sup> so that he may be a warner to the whole world.<sup foot_note=77062>3</sup>",
+            "originals": [
+                "تَبَارَكَ",
+                "ٱلَّذِى",
+                "نَزَّلَ",
+                "ٱلْفُرْقَانَ",
+                "عَلَىٰ",
+                "عَبْدِهِۦ",
+                "لِيَكُونَ",
+                "لِلْعَـٰلَمِينَ",
+                "نَذِيرًا"
+            ],
+            "translations": [
+                "Blessed is He",
+                "Who",
+                "sent down",
+                "the Criterion",
+                "upon",
+                "His slave",
+                "that he may be",
+                "to the worlds",
+                "a warner "
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُن لَّهُۥ شَرِيكٌ فِى ٱلْمُلْكِ وَخَلَقَ كُلَّ شَىْءٍ فَقَدَّرَهُۥ تَقْدِيرًا",
+            "translation": "˹Allah is˺ the One to Whom belongs the kingdom of the heavens and the earth, Who has never had ˹any˺ offspring, nor does He have a partner in ˹governing˺ the kingdom. He has created everything, ordaining it precisely.",
+            "originals": [
+                "ٱلَّذِى",
+                "لَهُۥ",
+                "مُلْكُ",
+                "ٱلسَّمَـٰوَٰتِ",
+                "وَٱلْأَرْضِ",
+                "وَلَمْ",
+                "يَتَّخِذْ",
+                "وَلَدًۭا",
+                "وَلَمْ",
+                "يَكُن",
+                "لَّهُۥ",
+                "شَرِيكٌۭ",
+                "فِى",
+                "ٱلْمُلْكِ",
+                "وَخَلَقَ",
+                "كُلَّ",
+                "شَىْءٍۢ",
+                "فَقَدَّرَهُۥ",
+                "تَقْدِيرًۭا"
+            ],
+            "translations": [
+                "The One Who ",
+                "to Him (belongs)",
+                "(the) dominion",
+                "(of) the heavens",
+                "and the earth",
+                "and not",
+                "He has taken",
+                "a son",
+                "and not",
+                "He has",
+                "for Him",
+                "a partner",
+                "in",
+                "the dominion",
+                "and He (has) created",
+                "every",
+                "thing",
+                "and determined it",
+                "(with) determination"
+            ]
+        }
+    ]
+}

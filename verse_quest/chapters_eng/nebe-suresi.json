@@ -1,0 +1,488 @@
+{
+    "id": "nebe-suresi",
+    "name": "The Tidings",
+    "description": "The Tidings - 78",
+    "index": 78,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " عَمَّ يَتَسَآءَلُونَ",
+            "translation": "What are they asking one another about?",
+            "originals": [
+                "عَمَّ",
+                "يَتَسَآءَلُونَ"
+            ],
+            "translations": [
+                "About what",
+                "are they asking one another"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "عَنِ ٱلنَّبَإِ ٱلْعَظِيمِ",
+            "translation": "About the momentous news,",
+            "originals": [
+                "عَنِ",
+                "ٱلنَّبَإِ",
+                "ٱلْعَظِيمِ"
+            ],
+            "translations": [
+                "About",
+                "the News",
+                "the Great"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "ٱلَّذِى هُمْ فِيهِ مُخْتَلِفُونَ",
+            "translation": "over which they disagree.<sup foot_note=77581>1</sup>",
+            "originals": [
+                "ٱلَّذِى",
+                "هُمْ",
+                "فِيهِ",
+                "مُخْتَلِفُونَ"
+            ],
+            "translations": [
+                "(About) which",
+                "they",
+                "(are) concerning it",
+                "(in) disagreement"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "كَلَّا سَيَعْلَمُونَ",
+            "translation": "But no! They will come to know.",
+            "originals": [
+                "كَلَّا",
+                "سَيَعْلَمُونَ"
+            ],
+            "translations": [
+                "Nay",
+                "(soon) they will know"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "ثُمَّ كَلَّا سَيَعْلَمُونَ",
+            "translation": "Again, no! They will come to know.",
+            "originals": [
+                "ثُمَّ",
+                "كَلَّا",
+                "سَيَعْلَمُونَ"
+            ],
+            "translations": [
+                "Then",
+                "Nay",
+                "(soon) they will know"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "أَلَمْ نَجْعَلِ ٱلْأَرْضَ مِهَـٰدًا",
+            "translation": "Have We not smoothed out the earth ˹like a bed˺,",
+            "originals": [
+                "أَلَمْ",
+                "نَجْعَلِ",
+                "ٱلْأَرْضَ",
+                "مِهَـٰدًۭا"
+            ],
+            "translations": [
+                "Have not",
+                "We made",
+                "the earth",
+                "a resting place"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "وَٱلْجِبَالَ أَوْتَادًا",
+            "translation": "and ˹made˺ the mountains as ˹its˺ pegs,<sup foot_note=77582>1</sup>",
+            "originals": [
+                "وَٱلْجِبَالَ",
+                "أَوْتَادًۭا"
+            ],
+            "translations": [
+                "And the mountains",
+                "(as) pegs"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "وَخَلَقْنَـٰكُمْ أَزْوَٰجًا",
+            "translation": "and created you in pairs,",
+            "originals": [
+                "وَخَلَقْنَـٰكُمْ",
+                "أَزْوَٰجًۭا"
+            ],
+            "translations": [
+                "And We created you",
+                "(in) pairs"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا",
+            "translation": "and made your sleep for rest,",
+            "originals": [
+                "وَجَعَلْنَا",
+                "نَوْمَكُمْ",
+                "سُبَاتًۭا"
+            ],
+            "translations": [
+                "And We made",
+                "your sleep",
+                "(for) rest"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "وَجَعَلْنَا ٱلَّيْلَ لِبَاسًا",
+            "translation": "and made the night as a cover,",
+            "originals": [
+                "وَجَعَلْنَا",
+                "ٱلَّيْلَ",
+                "لِبَاسًۭا"
+            ],
+            "translations": [
+                "And We made",
+                "the night",
+                "(as) covering"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "وَجَعَلْنَا ٱلنَّهَارَ مَعَاشًا",
+            "translation": "and made the day for livelihood,",
+            "originals": [
+                "وَجَعَلْنَا",
+                "ٱلنَّهَارَ",
+                "مَعَاشًۭا"
+            ],
+            "translations": [
+                "And We made",
+                "the day",
+                "(for) livelihood"
+            ]
+        },
+        {
+            "id": "12",
+            "sentence": "وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا",
+            "translation": "and built above you seven mighty ˹heavens˺,",
+            "originals": [
+                "وَبَنَيْنَا",
+                "فَوْقَكُمْ",
+                "سَبْعًۭا",
+                "شِدَادًۭا"
+            ],
+            "translations": [
+                "And We constructed",
+                "over you",
+                "seven",
+                "strong"
+            ]
+        },
+        {
+            "id": "13",
+            "sentence": "وَجَعَلْنَا سِرَاجًا وَهَّاجًا",
+            "translation": "and placed ˹in them˺ a shining lamp,",
+            "originals": [
+                "وَجَعَلْنَا",
+                "سِرَاجًۭا",
+                "وَهَّاجًۭا"
+            ],
+            "translations": [
+                "And We placed",
+                "a lamp",
+                "burning"
+            ]
+        },
+        {
+            "id": "14",
+            "sentence": "وَأَنزَلْنَا مِنَ ٱلْمُعْصِرَٰتِ مَآءً ثَجَّاجًا",
+            "translation": "and sent down from rainclouds pouring water,",
+            "originals": [
+                "وَأَنزَلْنَا",
+                "مِنَ",
+                "ٱلْمُعْصِرَٰتِ",
+                "مَآءًۭ",
+                "ثَجَّاجًۭا"
+            ],
+            "translations": [
+                "And We sent down",
+                "from",
+                "the rain clouds",
+                "water",
+                "pouring abundantly"
+            ]
+        },
+        {
+            "id": "15",
+            "sentence": "لِّنُخْرِجَ بِهِۦ حَبًّا وَنَبَاتًا",
+            "translation": "producing by it grain and ˹various˺ plants,",
+            "originals": [
+                "لِّنُخْرِجَ",
+                "بِهِۦ",
+                "حَبًّۭا",
+                "وَنَبَاتًۭا"
+            ],
+            "translations": [
+                "That We may bring forth",
+                "thereby",
+                "grain",
+                "and vegetation"
+            ]
+        },
+        {
+            "id": "16",
+            "sentence": "وَجَنَّـٰتٍ أَلْفَافًا",
+            "translation": "and dense orchards?",
+            "originals": [
+                "وَجَنَّـٰتٍ",
+                "أَلْفَافًا"
+            ],
+            "translations": [
+                "And gardens",
+                "(of) thick foliage"
+            ]
+        },
+        {
+            "id": "17",
+            "sentence": "إِنَّ يَوْمَ ٱلْفَصْلِ كَانَ مِيقَـٰتًا",
+            "translation": "Indeed, the Day of ˹Final˺ Decision is an appointed time—",
+            "originals": [
+                "إِنَّ",
+                "يَوْمَ",
+                "ٱلْفَصْلِ",
+                "كَانَ",
+                "مِيقَـٰتًۭا"
+            ],
+            "translations": [
+                "Indeed",
+                "(the) Day",
+                "(of) the Judgment",
+                "is",
+                "an appointed time"
+            ]
+        },
+        {
+            "id": "18",
+            "sentence": "يَوْمَ يُنفَخُ فِى ٱلصُّورِ فَتَأْتُونَ أَفْوَاجًا",
+            "translation": "˹it is˺ the Day the Trumpet will be blown, and you will ˹all˺ come forth in crowds.",
+            "originals": [
+                "يَوْمَ",
+                "يُنفَخُ",
+                "فِى",
+                "ٱلصُّورِ",
+                "فَتَأْتُونَ",
+                "أَفْوَاجًۭا"
+            ],
+            "translations": [
+                "(The) Day",
+                "(in which) shall be blown",
+                "in",
+                "the trumpet",
+                "and you will come forth",
+                "(in) crowds"
+            ]
+        },
+        {
+            "id": "19",
+            "sentence": "وَفُتِحَتِ ٱلسَّمَآءُ فَكَانَتْ أَبْوَٰبًا",
+            "translation": "The sky will be ˹split˺ open, becoming ˹many˺ gates,",
+            "originals": [
+                "وَفُتِحَتِ",
+                "ٱلسَّمَآءُ",
+                "فَكَانَتْ",
+                "أَبْوَٰبًۭا"
+            ],
+            "translations": [
+                "And is opened",
+                "the heaven",
+                "and becomes",
+                "gateways"
+            ]
+        },
+        {
+            "id": "20",
+            "sentence": "وَسُيِّرَتِ ٱلْجِبَالُ فَكَانَتْ سَرَابًا",
+            "translation": "and the mountains will be blown away, becoming ˹like˺ a mirage.",
+            "originals": [
+                "وَسُيِّرَتِ",
+                "ٱلْجِبَالُ",
+                "فَكَانَتْ",
+                "سَرَابًا"
+            ],
+            "translations": [
+                "And are moved",
+                "the mountains",
+                "and become",
+                "a mirage"
+            ]
+        },
+        {
+            "id": "21",
+            "sentence": "إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا",
+            "translation": "Indeed, Hell is lying in ambush",
+            "originals": [
+                "إِنَّ",
+                "جَهَنَّمَ",
+                "كَانَتْ",
+                "مِرْصَادًۭا"
+            ],
+            "translations": [
+                "Indeed",
+                "Hell",
+                "is",
+                "lying in wait"
+            ]
+        },
+        {
+            "id": "22",
+            "sentence": "لِّلطَّـٰغِينَ مَـَٔابًا",
+            "translation": "as a home for the transgressors,",
+            "originals": [
+                "لِّلطَّـٰغِينَ",
+                "مَـَٔابًۭا"
+            ],
+            "translations": [
+                "For the transgressors",
+                "a place of return"
+            ]
+        },
+        {
+            "id": "23",
+            "sentence": "لَّـٰبِثِينَ فِيهَآ أَحْقَابًا",
+            "translation": "where they will remain for ˹endless˺ ages.",
+            "originals": [
+                "لَّـٰبِثِينَ",
+                "فِيهَآ",
+                "أَحْقَابًۭا"
+            ],
+            "translations": [
+                "(They will) be remaining",
+                "therein",
+                "(for) ages"
+            ]
+        },
+        {
+            "id": "24",
+            "sentence": "لَّا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا",
+            "translation": "There they will not taste any coolness or drink,",
+            "originals": [
+                "لَّا",
+                "يَذُوقُونَ",
+                "فِيهَا",
+                "بَرْدًۭا",
+                "وَلَا",
+                "شَرَابًا"
+            ],
+            "translations": [
+                "Not",
+                "they will taste",
+                "therein",
+                "coolness",
+                "and not",
+                "any drink"
+            ]
+        },
+        {
+            "id": "25",
+            "sentence": "إِلَّا حَمِيمًا وَغَسَّاقًا",
+            "translation": "except boiling water and ˹oozing˺ pus—",
+            "originals": [
+                "إِلَّا",
+                "حَمِيمًۭا",
+                "وَغَسَّاقًۭا"
+            ],
+            "translations": [
+                "Except",
+                "scalding water",
+                "and purulence"
+            ]
+        },
+        {
+            "id": "26",
+            "sentence": "جَزَآءً وِفَاقًا",
+            "translation": "a fitting reward.",
+            "originals": [
+                "جَزَآءًۭ",
+                "وِفَاقًا"
+            ],
+            "translations": [
+                "A recompense",
+                "appropriate"
+            ]
+        },
+        {
+            "id": "27",
+            "sentence": "إِنَّهُمْ كَانُوا۟ لَا يَرْجُونَ حِسَابًا",
+            "translation": "For they never expected any reckoning,",
+            "originals": [
+                "إِنَّهُمْ",
+                "كَانُوا۟",
+                "لَا",
+                "يَرْجُونَ",
+                "حِسَابًۭا"
+            ],
+            "translations": [
+                "Indeed, they",
+                "were",
+                "not",
+                "expecting",
+                "an account"
+            ]
+        },
+        {
+            "id": "28",
+            "sentence": "وَكَذَّبُوا۟ بِـَٔايَـٰتِنَا كِذَّابًا",
+            "translation": "and totally rejected Our signs.",
+            "originals": [
+                "وَكَذَّبُوا۟",
+                "بِـَٔايَـٰتِنَا",
+                "كِذَّابًۭا"
+            ],
+            "translations": [
+                "And they denied",
+                "Our Signs",
+                "(with) denial"
+            ]
+        },
+        {
+            "id": "29",
+            "sentence": "وَكُلَّ شَىْءٍ أَحْصَيْنَـٰهُ كِتَـٰبًا",
+            "translation": "And We have everything recorded precisely.",
+            "originals": [
+                "وَكُلَّ",
+                "شَىْءٍ",
+                "أَحْصَيْنَـٰهُ",
+                "كِتَـٰبًۭا"
+            ],
+            "translations": [
+                "And every",
+                "thing",
+                "We have enumerated it",
+                "(in) a Book"
+            ]
+        },
+        {
+            "id": "30",
+            "sentence": "فَذُوقُوا۟ فَلَن نَّزِيدَكُمْ إِلَّا عَذَابًا",
+            "translation": "˹So the deniers will be told,˺ “Taste ˹the punishment˺, for all you will get from Us is more torment.”",
+            "originals": [
+                "فَذُوقُوا۟",
+                "فَلَن",
+                "نَّزِيدَكُمْ",
+                "إِلَّا",
+                "عَذَابًا"
+            ],
+            "translations": [
+                "So taste",
+                "and never",
+                "We will increase you",
+                "except",
+                "(in) punishment"
+            ]
+        }
+    ]
+}

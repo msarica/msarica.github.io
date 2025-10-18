@@ -1,0 +1,113 @@
+{
+    "id": "kadir-suresi",
+    "name": "The Power",
+    "description": "The Power - 97",
+    "index": 97,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": "إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+            "translation": "Indeed, ˹it is˺ We ˹Who˺ sent this ˹Quran˺ down on the Night of Glory.<sup foot_note=77633>1</sup>",
+            "originals": [
+                "إِنَّآ",
+                "أَنزَلْنَـٰهُ",
+                "فِى",
+                "لَيْلَةِ",
+                "ٱلْقَدْرِ"
+            ],
+            "translations": [
+                "Indeed, We",
+                "revealed it",
+                "in",
+                "(the) Night",
+                "(of) Power"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ",
+            "translation": "And what will make you realize what the Night of Glory is?",
+            "originals": [
+                "وَمَآ",
+                "أَدْرَىٰكَ",
+                "مَا",
+                "لَيْلَةُ",
+                "ٱلْقَدْرِ"
+            ],
+            "translations": [
+                "And what",
+                "can make you know",
+                "what",
+                "(the) Night",
+                "(of) Power (is)"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "لَيْلَةُ ٱلْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ",
+            "translation": "The Night of Glory is better than a thousand months.",
+            "originals": [
+                "لَيْلَةُ",
+                "ٱلْقَدْرِ",
+                "خَيْرٌۭ",
+                "مِّنْ",
+                "أَلْفِ",
+                "شَهْرٍۢ"
+            ],
+            "translations": [
+                "(The) Night",
+                "(of) Power",
+                "(is) better",
+                "than",
+                "a thousand",
+                "month(s)"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "تَنَزَّلُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ",
+            "translation": "That night the angels and the ˹holy˺ spirit<sup foot_note=77634>1</sup> descend, by the permission of their Lord, for every ˹decreed˺ matter.",
+            "originals": [
+                "تَنَزَّلُ",
+                "ٱلْمَلَـٰٓئِكَةُ",
+                "وَٱلرُّوحُ",
+                "فِيهَا",
+                "بِإِذْنِ",
+                "رَبِّهِم",
+                "مِّن",
+                "كُلِّ",
+                "أَمْرٍۢ"
+            ],
+            "translations": [
+                "Descend",
+                "the Angels",
+                "and the Spirit",
+                "therein",
+                "by (the) permission",
+                "(of) their Lord",
+                "for",
+                "every",
+                "affair"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "سَلَـٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ",
+            "translation": "It is all peace until the break of dawn.",
+            "originals": [
+                "سَلَـٰمٌ",
+                "هِىَ",
+                "حَتَّىٰ",
+                "مَطْلَعِ",
+                "ٱلْفَجْرِ"
+            ],
+            "translations": [
+                "Peace",
+                "it (is)",
+                "until",
+                "(the) emergence",
+                "(of) the dawn"
+            ]
+        }
+    ]
+}

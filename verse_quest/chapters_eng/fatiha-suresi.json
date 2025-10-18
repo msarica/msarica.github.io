@@ -1,0 +1,129 @@
+{
+    "id": "fatiha-suresi",
+    "name": "The Opener",
+    "description": "The Opener - 1",
+    "index": 1,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+            "translation": "In the Name of Allah—the Most Compassionate, Most Merciful.",
+            "originals": [
+                "بِسْمِ",
+                "ٱللَّهِ",
+                "ٱلرَّحْمَـٰنِ",
+                "ٱلرَّحِيمِ"
+            ],
+            "translations": [
+                "In (the) name",
+                "(of) Allah",
+                "the Most Gracious",
+                "the Most Merciful"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+            "translation": "All praise is for Allah—Lord of all worlds,<sup foot_note=76373>1</sup>",
+            "originals": [
+                "ٱلْحَمْدُ",
+                "لِلَّهِ",
+                "رَبِّ",
+                "ٱلْعَـٰلَمِينَ"
+            ],
+            "translations": [
+                "All praises and thanks",
+                "(be) to Allah",
+                "the Lord",
+                "of the universe"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+            "translation": "the Most Compassionate, Most Merciful,",
+            "originals": [
+                "ٱلرَّحْمَـٰنِ",
+                "ٱلرَّحِيمِ"
+            ],
+            "translations": [
+                "The Most Gracious",
+                "the Most Merciful"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "مَـٰلِكِ يَوْمِ ٱلدِّينِ",
+            "translation": "Master of the Day of Judgment.",
+            "originals": [
+                "مَـٰلِكِ",
+                "يَوْمِ",
+                "ٱلدِّينِ"
+            ],
+            "translations": [
+                "(The) Master",
+                "(of the) Day",
+                "(of the) Judgment"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+            "translation": "You ˹alone˺ we worship and You ˹alone˺ we ask for help.",
+            "originals": [
+                "إِيَّاكَ",
+                "نَعْبُدُ",
+                "وَإِيَّاكَ",
+                "نَسْتَعِينُ"
+            ],
+            "translations": [
+                "You Alone",
+                "we worship",
+                "and You Alone",
+                "we ask for help"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+            "translation": "Guide us along the Straight Path,",
+            "originals": [
+                "ٱهْدِنَا",
+                "ٱلصِّرَٰطَ",
+                "ٱلْمُسْتَقِيمَ"
+            ],
+            "translations": [
+                "Guide us",
+                "(to) the path",
+                "the straight"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ",
+            "translation": "the Path of those You have blessed—not those You are displeased with, or those who are astray.<sup foot_note=76374>1</sup> ",
+            "originals": [
+                "صِرَٰطَ",
+                "ٱلَّذِينَ",
+                "أَنْعَمْتَ",
+                "عَلَيْهِمْ",
+                "غَيْرِ",
+                "ٱلْمَغْضُوبِ",
+                "عَلَيْهِمْ",
+                "وَلَا",
+                "ٱلضَّآلِّينَ"
+            ],
+            "translations": [
+                "(The) path",
+                "(of) those",
+                "You have bestowed (Your) Favors",
+                "on them",
+                "not (of)",
+                "those who earned (Your) wrath",
+                "on themselves",
+                "and not",
+                "(of) those who go astray"
+            ]
+        }
+    ]
+}

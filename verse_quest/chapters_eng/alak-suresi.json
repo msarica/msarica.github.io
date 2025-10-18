@@ -1,0 +1,323 @@
+{
+    "id": "alak-suresi",
+    "name": "The Clot",
+    "description": "The Clot - 96",
+    "index": 96,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ",
+            "translation": "Read, ˹O Prophet,˺ in the Name of your Lord Who created—",
+            "originals": [
+                "ٱقْرَأْ",
+                "بِٱسْمِ",
+                "رَبِّكَ",
+                "ٱلَّذِى",
+                "خَلَقَ"
+            ],
+            "translations": [
+                "Read",
+                "in (the) name",
+                "(of) your Lord",
+                "the One Who",
+                "created "
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "خَلَقَ ٱلْإِنسَـٰنَ مِنْ عَلَقٍ",
+            "translation": "created humans from a clinging clot.<sup foot_note=77629>1</sup>",
+            "originals": [
+                "خَلَقَ",
+                "ٱلْإِنسَـٰنَ",
+                "مِنْ",
+                "عَلَقٍ"
+            ],
+            "translations": [
+                "He created",
+                "man",
+                "from",
+                "a clinging substance"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ",
+            "translation": "Read! And your Lord is the Most Generous,",
+            "originals": [
+                "ٱقْرَأْ",
+                "وَرَبُّكَ",
+                "ٱلْأَكْرَمُ"
+            ],
+            "translations": [
+                "Read",
+                "and your Lord",
+                "(is) the Most Generous"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "ٱلَّذِى عَلَّمَ بِٱلْقَلَمِ",
+            "translation": "Who taught by the pen—",
+            "originals": [
+                "ٱلَّذِى",
+                "عَلَّمَ",
+                "بِٱلْقَلَمِ"
+            ],
+            "translations": [
+                "The One Who",
+                "taught",
+                "by the pen"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "عَلَّمَ ٱلْإِنسَـٰنَ مَا لَمْ يَعْلَمْ",
+            "translation": "taught humanity what they knew not.<sup foot_note=77630>1</sup> ",
+            "originals": [
+                "عَلَّمَ",
+                "ٱلْإِنسَـٰنَ",
+                "مَا",
+                "لَمْ",
+                "يَعْلَمْ"
+            ],
+            "translations": [
+                "Taught",
+                "man",
+                "what",
+                "not",
+                "he knew"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "كَلَّآ إِنَّ ٱلْإِنسَـٰنَ لَيَطْغَىٰٓ",
+            "translation": "Most certainly, one exceeds all bounds",
+            "originals": [
+                "كَلَّآ",
+                "إِنَّ",
+                "ٱلْإِنسَـٰنَ",
+                "لَيَطْغَىٰٓ"
+            ],
+            "translations": [
+                "Nay",
+                "Indeed",
+                "man",
+                "surely transgresses"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "أَن رَّءَاهُ ٱسْتَغْنَىٰٓ",
+            "translation": "once they think they are self-sufficient.",
+            "originals": [
+                "أَن",
+                "رَّءَاهُ",
+                "ٱسْتَغْنَىٰٓ"
+            ],
+            "translations": [
+                "That",
+                "he sees himself",
+                "self-sufficient"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجْعَىٰٓ",
+            "translation": "˹But˺ surely to your Lord is the return ˹of all˺.",
+            "originals": [
+                "إِنَّ",
+                "إِلَىٰ",
+                "رَبِّكَ",
+                "ٱلرُّجْعَىٰٓ"
+            ],
+            "translations": [
+                "Indeed",
+                "to",
+                "your Lord",
+                "(is) the return"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+            "translation": "Have you seen the man who prevents",
+            "originals": [
+                "أَرَءَيْتَ",
+                "ٱلَّذِى",
+                "يَنْهَىٰ"
+            ],
+            "translations": [
+                "Have you seen",
+                "the one who",
+                "forbids"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "عَبْدًا إِذَا صَلَّىٰٓ",
+            "translation": "a servant ˹of Ours˺ from praying?<sup foot_note=77631>1</sup>",
+            "originals": [
+                "عَبْدًا",
+                "إِذَا",
+                "صَلَّىٰٓ"
+            ],
+            "translations": [
+                "A slave",
+                "when",
+                "he prays"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "أَرَءَيْتَ إِن كَانَ عَلَى ٱلْهُدَىٰٓ",
+            "translation": "What if this ˹servant˺ is ˹rightly˺ guided,",
+            "originals": [
+                "أَرَءَيْتَ",
+                "إِن",
+                "كَانَ",
+                "عَلَى",
+                "ٱلْهُدَىٰٓ"
+            ],
+            "translations": [
+                "Have you seen",
+                "if",
+                "he is",
+                "upon",
+                "[the] guidance"
+            ]
+        },
+        {
+            "id": "12",
+            "sentence": "أَوْ أَمَرَ بِٱلتَّقْوَىٰٓ",
+            "translation": "or encourages righteousness?",
+            "originals": [
+                "أَوْ",
+                "أَمَرَ",
+                "بِٱلتَّقْوَىٰٓ"
+            ],
+            "translations": [
+                "Or",
+                "he enjoins",
+                "[of the] righteousness"
+            ]
+        },
+        {
+            "id": "13",
+            "sentence": "أَرَءَيْتَ إِن كَذَّبَ وَتَوَلَّىٰٓ",
+            "translation": "What if that ˹man˺ persists in denial and turns away?",
+            "originals": [
+                "أَرَءَيْتَ",
+                "إِن",
+                "كَذَّبَ",
+                "وَتَوَلَّىٰٓ"
+            ],
+            "translations": [
+                "Have you seen",
+                "if",
+                "he denies",
+                "and turns away"
+            ]
+        },
+        {
+            "id": "14",
+            "sentence": "أَلَمْ يَعْلَم بِأَنَّ ٱللَّهَ يَرَىٰ",
+            "translation": "Does he not know that Allah sees ˹all˺?",
+            "originals": [
+                "أَلَمْ",
+                "يَعْلَم",
+                "بِأَنَّ",
+                "ٱللَّهَ",
+                "يَرَىٰ"
+            ],
+            "translations": [
+                "Does not",
+                "he know",
+                "that",
+                "Allah",
+                "sees"
+            ]
+        },
+        {
+            "id": "15",
+            "sentence": "كَلَّا لَئِن لَّمْ يَنتَهِ لَنَسْفَعًۢا بِٱلنَّاصِيَةِ",
+            "translation": "But no! If he does not desist, We will certainly drag him by the forelock—",
+            "originals": [
+                "كَلَّا",
+                "لَئِن",
+                "لَّمْ",
+                "يَنتَهِ",
+                "لَنَسْفَعًۢا",
+                "بِٱلنَّاصِيَةِ"
+            ],
+            "translations": [
+                "Nay",
+                "If",
+                "not",
+                "he desists",
+                "surely We will drag him",
+                "by the forelock"
+            ]
+        },
+        {
+            "id": "16",
+            "sentence": "نَاصِيَةٍ كَـٰذِبَةٍ خَاطِئَةٍ",
+            "translation": "a lying, sinful forelock.<sup foot_note=77632>1</sup>",
+            "originals": [
+                "نَاصِيَةٍۢ",
+                "كَـٰذِبَةٍ",
+                "خَاطِئَةٍۢ"
+            ],
+            "translations": [
+                "A forelock",
+                "lying",
+                "sinful"
+            ]
+        },
+        {
+            "id": "17",
+            "sentence": "فَلْيَدْعُ نَادِيَهُۥ",
+            "translation": "So let him call his associates.",
+            "originals": [
+                "فَلْيَدْعُ",
+                "نَادِيَهُۥ"
+            ],
+            "translations": [
+                "Then let him call",
+                "his associates"
+            ]
+        },
+        {
+            "id": "18",
+            "sentence": "سَنَدْعُ ٱلزَّبَانِيَةَ",
+            "translation": "We will call the wardens of Hell.",
+            "originals": [
+                "سَنَدْعُ",
+                "ٱلزَّبَانِيَةَ"
+            ],
+            "translations": [
+                "We will call",
+                "the Angels of Hell"
+            ]
+        },
+        {
+            "id": "19",
+            "sentence": "كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩",
+            "translation": "Again, no! Never obey him ˹O Prophet˺! Rather, ˹continue to˺ prostrate and draw near ˹to Allah˺.",
+            "originals": [
+                "كَلَّا",
+                "لَا",
+                "تُطِعْهُ",
+                "وَٱسْجُدْ",
+                "وَٱقْتَرِب ۩"
+            ],
+            "translations": [
+                "Nay",
+                "(Do) not",
+                "obey him",
+                "But prostrate",
+                "and draw near (to Allah)"
+            ]
+        }
+    ]
+}

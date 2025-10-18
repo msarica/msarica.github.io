@@ -1,0 +1,170 @@
+{
+    "id": "ankebut-suresi",
+    "name": "The Spider",
+    "description": "The Spider - 29",
+    "index": 29,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " الٓمٓ",
+            "translation": "Alif-Lãm-Mĩm.",
+            "originals": [
+                "الٓمٓ"
+            ],
+            "translations": [
+                "Alif Laam Meem"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "أَحَسِبَ ٱلنَّاسُ أَن يُتْرَكُوٓا۟ أَن يَقُولُوٓا۟ ءَامَنَّا وَهُمْ لَا يُفْتَنُونَ",
+            "translation": "Do people think once they say, “We believe,” that they will be left without being put to the test?",
+            "originals": [
+                "أَحَسِبَ",
+                "ٱلنَّاسُ",
+                "أَن",
+                "يُتْرَكُوٓا۟",
+                "أَن",
+                "يَقُولُوٓا۟",
+                "ءَامَنَّا",
+                "وَهُمْ",
+                "لَا",
+                "يُفْتَنُونَ"
+            ],
+            "translations": [
+                "Do think",
+                "the people",
+                "that",
+                "they will be left",
+                "because",
+                "they say",
+                "We believe",
+                "and they",
+                "will not be tested",
+                "will not be tested"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "وَلَقَدْ فَتَنَّا ٱلَّذِينَ مِن قَبْلِهِمْ ۖ فَلَيَعْلَمَنَّ ٱللَّهُ ٱلَّذِينَ صَدَقُوا۟ وَلَيَعْلَمَنَّ ٱلْكَـٰذِبِينَ",
+            "translation": "We certainly tested those before them. And ˹in this way˺ Allah will clearly distinguish between those who are truthful and those who are liars.",
+            "originals": [
+                "وَلَقَدْ",
+                "فَتَنَّا",
+                "ٱلَّذِينَ",
+                "مِن",
+                "قَبْلِهِمْ ۖ",
+                "فَلَيَعْلَمَنَّ",
+                "ٱللَّهُ",
+                "ٱلَّذِينَ",
+                "صَدَقُوا۟",
+                "وَلَيَعْلَمَنَّ",
+                "ٱلْكَـٰذِبِينَ"
+            ],
+            "translations": [
+                "And indeed",
+                "We tested",
+                "those who",
+                "(were) before them",
+                "(were) before them",
+                "And Allah will surely make evident",
+                "And Allah will surely make evident",
+                "those who",
+                "(are) truthful",
+                "and He will surely make evident",
+                "the liars"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "أَمْ حَسِبَ ٱلَّذِينَ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ أَن يَسْبِقُونَا ۚ سَآءَ مَا يَحْكُمُونَ",
+            "translation": "Or do the evildoers ˹simply˺ think that they will escape Us? How wrong is their judgment!",
+            "originals": [
+                "أَمْ",
+                "حَسِبَ",
+                "ٱلَّذِينَ",
+                "يَعْمَلُونَ",
+                "ٱلسَّيِّـَٔاتِ",
+                "أَن",
+                "يَسْبِقُونَا ۚ",
+                "سَآءَ",
+                "مَا",
+                "يَحْكُمُونَ"
+            ],
+            "translations": [
+                "Or",
+                "think",
+                "those who",
+                "do",
+                "evil deeds",
+                "that",
+                "they can outrun Us",
+                "Evil is",
+                "what",
+                "they judge"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "مَن كَانَ يَرْجُوا۟ لِقَآءَ ٱللَّهِ فَإِنَّ أَجَلَ ٱللَّهِ لَـَٔاتٍ ۚ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+            "translation": "Whoever hopes for the meeting with Allah, ˹let them know that˺ Allah’s appointed time is sure to come. He is the All-Hearing, All-Knowing.",
+            "originals": [
+                "مَن",
+                "كَانَ",
+                "يَرْجُوا۟",
+                "لِقَآءَ",
+                "ٱللَّهِ",
+                "فَإِنَّ",
+                "أَجَلَ",
+                "ٱللَّهِ",
+                "لَـَٔاتٍۢ ۚ",
+                "وَهُوَ",
+                "ٱلسَّمِيعُ",
+                "ٱلْعَلِيمُ"
+            ],
+            "translations": [
+                "Whoever",
+                "[is]",
+                "hopes",
+                "(for the) meeting",
+                "(with) Allah",
+                "then indeed",
+                "(the) Term",
+                "(of) Allah",
+                "(is) surely coming",
+                "And He",
+                "(is) the All-Hearer",
+                "the All-Knower"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "وَمَن جَـٰهَدَ فَإِنَّمَا يُجَـٰهِدُ لِنَفْسِهِۦٓ ۚ إِنَّ ٱللَّهَ لَغَنِىٌّ عَنِ ٱلْعَـٰلَمِينَ",
+            "translation": "And whoever strives ˹in Allah’s cause˺, only does so for their own good. Surely Allah is not in need of ˹any of˺ His creation.",
+            "originals": [
+                "وَمَن",
+                "جَـٰهَدَ",
+                "فَإِنَّمَا",
+                "يُجَـٰهِدُ",
+                "لِنَفْسِهِۦٓ ۚ",
+                "إِنَّ",
+                "ٱللَّهَ",
+                "لَغَنِىٌّ",
+                "عَنِ",
+                "ٱلْعَـٰلَمِينَ"
+            ],
+            "translations": [
+                "And whoever",
+                "strives",
+                "then only",
+                "he strives",
+                "for himself",
+                "Indeed",
+                "Allah",
+                "(is) Free from need",
+                "of",
+                "the worlds"
+            ]
+        }
+    ]
+}

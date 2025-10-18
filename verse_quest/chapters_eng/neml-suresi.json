@@ -1,0 +1,401 @@
+{
+    "id": "neml-suresi",
+    "name": "The Ant",
+    "description": "The Ant - 27",
+    "index": 27,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " طسٓ ۚ تِلْكَ ءَايَـٰتُ ٱلْقُرْءَانِ وَكِتَابٍ مُّبِينٍ",
+            "translation": "Ṭâ-Sĩn. These are the verses of the Quran; the clear Book.",
+            "originals": [
+                "طسٓ ۚ",
+                "تِلْكَ",
+                "ءَايَـٰتُ",
+                "ٱلْقُرْءَانِ",
+                "وَكِتَابٍۢ",
+                "مُّبِينٍ"
+            ],
+            "translations": [
+                "Ta Seen",
+                "These",
+                "(are the) Verses",
+                "(of) the Quran",
+                "and a Book",
+                "clear"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "هُدًى وَبُشْرَىٰ لِلْمُؤْمِنِينَ",
+            "translation": "˹It is˺ a guide and good news for the believers:",
+            "originals": [
+                "هُدًۭى",
+                "وَبُشْرَىٰ",
+                "لِلْمُؤْمِنِينَ"
+            ],
+            "translations": [
+                "A guidance",
+                "and glad tidings",
+                "for the believers"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَهُم بِٱلْـَٔاخِرَةِ هُمْ يُوقِنُونَ",
+            "translation": "˹those˺ who establish prayer, pay alms-tax, and have sure faith in the Hereafter.",
+            "originals": [
+                "ٱلَّذِينَ",
+                "يُقِيمُونَ",
+                "ٱلصَّلَوٰةَ",
+                "وَيُؤْتُونَ",
+                "ٱلزَّكَوٰةَ",
+                "وَهُم",
+                "بِٱلْـَٔاخِرَةِ",
+                "هُمْ",
+                "يُوقِنُونَ"
+            ],
+            "translations": [
+                "Those who",
+                "establish",
+                "the prayer",
+                "and give",
+                "zakah",
+                "and they",
+                "in the Hereafter",
+                "[they]",
+                "believe with certainty"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "إِنَّ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ زَيَّنَّا لَهُمْ أَعْمَـٰلَهُمْ فَهُمْ يَعْمَهُونَ",
+            "translation": "As for those who do not believe in the Hereafter, We have certainly made their ˹evil˺ deeds appealing to them, so they wander blindly.",
+            "originals": [
+                "إِنَّ",
+                "ٱلَّذِينَ",
+                "لَا",
+                "يُؤْمِنُونَ",
+                "بِٱلْـَٔاخِرَةِ",
+                "زَيَّنَّا",
+                "لَهُمْ",
+                "أَعْمَـٰلَهُمْ",
+                "فَهُمْ",
+                "يَعْمَهُونَ"
+            ],
+            "translations": [
+                "Indeed",
+                "those who",
+                "(do) not",
+                "believe",
+                "in the Hereafter",
+                "We have made fair-seeming",
+                "to them",
+                "their deeds",
+                "so they",
+                "wander blindly"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ لَهُمْ سُوٓءُ ٱلْعَذَابِ وَهُمْ فِى ٱلْـَٔاخِرَةِ هُمُ ٱلْأَخْسَرُونَ",
+            "translation": "It is they who will suffer a dreadful torment, and in the Hereafter they will ˹truly˺ be the greatest losers.",
+            "originals": [
+                "أُو۟لَـٰٓئِكَ",
+                "ٱلَّذِينَ",
+                "لَهُمْ",
+                "سُوٓءُ",
+                "ٱلْعَذَابِ",
+                "وَهُمْ",
+                "فِى",
+                "ٱلْـَٔاخِرَةِ",
+                "هُمُ",
+                "ٱلْأَخْسَرُونَ"
+            ],
+            "translations": [
+                "Those",
+                "(are) the ones",
+                "for them",
+                "(is) an evil",
+                "[the] punishment",
+                "and they",
+                "in",
+                "the Hereafter",
+                "[they]",
+                "(will be) the greatest losers"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "وَإِنَّكَ لَتُلَقَّى ٱلْقُرْءَانَ مِن لَّدُنْ حَكِيمٍ عَلِيمٍ",
+            "translation": "And indeed, you ˹O Prophet˺ are receiving the Quran from the One ˹Who is˺ All-Wise, All-Knowing.",
+            "originals": [
+                "وَإِنَّكَ",
+                "لَتُلَقَّى",
+                "ٱلْقُرْءَانَ",
+                "مِن",
+                "لَّدُنْ",
+                "حَكِيمٍ",
+                "عَلِيمٍ"
+            ],
+            "translations": [
+                "And indeed, you",
+                "surely, receive",
+                "the Quran",
+                "from [near]",
+                "from [near]",
+                "the All-Wise",
+                "the All-Knower"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "إِذْ قَالَ مُوسَىٰ لِأَهْلِهِۦٓ إِنِّىٓ ءَانَسْتُ نَارًا سَـَٔاتِيكُم مِّنْهَا بِخَبَرٍ أَوْ ءَاتِيكُم بِشِهَابٍ قَبَسٍ لَّعَلَّكُمْ تَصْطَلُونَ",
+            "translation": "˹Remember˺ when Moses said to his family, “I have spotted a fire. I will either bring you some directions<sup foot_note=77100>1</sup> from there, or a burning torch so you may warm yourselves.”",
+            "originals": [
+                "إِذْ",
+                "قَالَ",
+                "مُوسَىٰ",
+                "لِأَهْلِهِۦٓ",
+                "إِنِّىٓ",
+                "ءَانَسْتُ",
+                "نَارًۭا",
+                "سَـَٔاتِيكُم",
+                "مّ��نْهَا",
+                "بِخَبَرٍ",
+                "أَوْ",
+                "ءَاتِيكُم",
+                "بِشِهَابٍۢ",
+                "قَبَسٍۢ",
+                "لَّعَلَّكُمْ",
+                "تَصْطَلُونَ"
+            ],
+            "translations": [
+                "When",
+                "said",
+                "Musa",
+                "to his family",
+                "Indeed, I",
+                "perceive",
+                "a fire",
+                "I will bring you",
+                "from it",
+                "some information",
+                "or",
+                "I will bring you",
+                "a torch",
+                "burning",
+                "so that you may",
+                "warm yourselves"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "فَلَمَّا جَآءَهَا نُودِىَ أَنۢ بُورِكَ مَن فِى ٱلنَّارِ وَمَنْ حَوْلَهَا وَسُبْحَـٰنَ ٱللَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+            "translation": "But when he came to it, he was called ˹by Allah˺, “Blessed is the one at the fire, and whoever is around it!<sup foot_note=77101>1</sup> Glory be to Allah, the Lord of all worlds.",
+            "originals": [
+                "فَلَمَّا",
+                "جَآءَهَا",
+                "نُودِىَ",
+                "أَنۢ",
+                "بُورِكَ",
+                "مَن",
+                "فِى",
+                "ٱلنَّارِ",
+                "وَمَنْ",
+                "حَوْلَهَا",
+                "وَسُبْحَـٰنَ",
+                "ٱللَّهِ",
+                "رَبِّ",
+                "ٱلْعَـٰلَمِينَ"
+            ],
+            "translations": [
+                "But when",
+                "he came to it",
+                "he was called",
+                "[that]",
+                "Blessed is",
+                "who",
+                "(is) at",
+                "the fire",
+                "and whoever",
+                "(is) around it",
+                "And glory be",
+                "(to) Allah",
+                "(the) Lord",
+                "(of) the worlds"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "يَـٰمُوسَىٰٓ إِنَّهُۥٓ أَنَا ٱللَّهُ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+            "translation": "O  Moses! It is truly I. I am Allah—the Almighty, All-Wise.",
+            "originals": [
+                "يَـٰمُوسَىٰٓ",
+                "إِنَّهُۥٓ",
+                "أَنَا",
+                "ٱللَّهُ",
+                "ٱلْعَزِيزُ",
+                "ٱلْحَكِيمُ"
+            ],
+            "translations": [
+                "O Musa",
+                "Indeed",
+                "I Am",
+                "Allah",
+                "the All-Mighty",
+                "the All-Wise"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "وَأَلْقِ عَصَاكَ ۚ فَلَمَّا رَءَاهَا تَهْتَزُّ كَأَنَّهَا جَآنٌّ وَلَّىٰ مُدْبِرًا وَلَمْ يُعَقِّبْ ۚ يَـٰمُوسَىٰ لَا تَخَفْ إِنِّى لَا يَخَافُ لَدَىَّ ٱلْمُرْسَلُونَ",
+            "translation": "Now, throw down your staff!” But when he saw it slithering like a snake, he ran away without looking back. ˹Allah reassured him,˺ “O Moses! Do not be afraid! Messengers should have no fear in My presence.",
+            "originals": [
+                "وَأَلْقِ",
+                "عَصَاكَ ۚ",
+                "فَلَمَّا",
+                "رَءَاهَا",
+                "تَهْتَزُّ",
+                "كَأَنَّهَا",
+                "جَآنٌّۭ",
+                "وَلَّىٰ",
+                "مُدْبِرًۭا",
+                "وَلَمْ",
+                "يُعَقِّبْ ۚ",
+                "يَـٰمُوسَىٰ",
+                "لَا",
+                "تَخَفْ",
+                "إِنِّى",
+                "لَا",
+                "يَخَافُ",
+                "لَدَىَّ",
+                "ٱلْمُرْسَلُونَ"
+            ],
+            "translations": [
+                "And, \"Throw",
+                "your staff",
+                "But when",
+                "he saw it",
+                "moving",
+                "as if it",
+                "(were) a snake",
+                "he turned back",
+                "(in) flight",
+                "and (did) not",
+                "look back",
+                "O Musa",
+                "(Do) not",
+                "fear",
+                "Indeed, [I]",
+                "(do) not",
+                "fear",
+                "(in) My presence",
+                "the Messengers"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "إِلَّا مَن ظَلَمَ ثُمَّ بَدَّلَ حُسْنًۢا بَعْدَ سُوٓءٍ فَإِنِّى غَفُورٌ رَّحِيمٌ",
+            "translation": "˹Fear is˺ only for those who do wrong. But if they later mend ˹their˺ evil ˹ways˺ with good, then I am certainly All-Forgiving, Most Merciful.",
+            "originals": [
+                "إِلَّا",
+                "مَن",
+                "ظَلَمَ",
+                "ثُمَّ",
+                "بَدَّلَ",
+                "حُسْنًۢا",
+                "بَعْدَ",
+                "سُوٓءٍۢ",
+                "فَإِنِّى",
+                "غَفُورٌۭ",
+                "رَّحِيمٌۭ"
+            ],
+            "translations": [
+                "Except",
+                "who",
+                "wrongs",
+                "then",
+                "substitutes",
+                "good",
+                "after",
+                "evil",
+                "then indeed, I Am",
+                "Oft-Forgiving",
+                "Most Merciful"
+            ]
+        },
+        {
+            "id": "12",
+            "sentence": "وَأَدْخِلْ يَدَكَ فِى جَيْبِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوٓءٍ ۖ فِى تِسْعِ ءَايَـٰتٍ إِلَىٰ فِرْعَوْنَ وَقَوْمِهِۦٓ ۚ إِنَّهُمْ كَانُوا۟ قَوْمًا فَـٰسِقِينَ",
+            "translation": "Now put your hand through ˹the opening of˺ your collar, it will come out ˹shining˺ white, unblemished.<sup foot_note=77102>1</sup> ˹These are two˺ of nine signs for Pharaoh and his people.<sup foot_note=77103>2</sup> They have truly been a rebellious people.”",
+            "originals": [
+                "وَأَدْخِلْ",
+                "يَدَكَ",
+                "فِى",
+                "جَيْبِكَ",
+                "تَخْرُجْ",
+                "بَيْضَآءَ",
+                "مِنْ",
+                "غَيْرِ",
+                "سُوٓءٍۢ ۖ",
+                "فِى",
+                "تِسْعِ",
+                "ءَايَـٰتٍ",
+                "إِلَىٰ",
+                "فِرْعَوْنَ",
+                "وَقَوْمِهِۦٓ ۚ",
+                "إِنَّهُمْ",
+                "كَانُوا۟",
+                "قَوْمًۭا",
+                "فَـٰسِقِينَ"
+            ],
+            "translations": [
+                "And enter",
+                "your hand",
+                "into",
+                "your bosom",
+                "it will come forth",
+                "white",
+                "without",
+                "without",
+                "harm",
+                "(These are) among",
+                "nine",
+                "signs",
+                "to",
+                "Firaun",
+                "and his people",
+                "Indeed, they",
+                "are",
+                "a people",
+                "defiantly disobedient"
+            ]
+        },
+        {
+            "id": "13",
+            "sentence": "فَلَمَّا جَآءَتْهُمْ ءَايَـٰتُنَا مُبْصِرَةً قَالُوا۟ هَـٰذَا سِحْرٌ مُّبِينٌ",
+            "translation": "But when Our enlightening signs came to them, they said, “This is pure magic.”",
+            "originals": [
+                "فَلَمَّا",
+                "جَآءَتْهُمْ",
+                "ءَايَـٰتُنَا",
+                "مُبْصِرَةًۭ",
+                "قَالُوا۟",
+                "هَـٰذَا",
+                "سِحْرٌۭ",
+                "مُّبِينٌۭ"
+            ],
+            "translations": [
+                "But when",
+                "came to them",
+                "Our Signs",
+                "visible",
+                "they said",
+                "This",
+                "(is) a magic",
+                "manifest"
+            ]
+        }
+    ]
+}

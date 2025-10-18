@@ -1,0 +1,134 @@
+{
+    "id": "insirah-suresi",
+    "name": "The Relief",
+    "description": "The Relief - 94",
+    "index": 94,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+            "translation": "Have We not uplifted your heart for you ˹O Prophet˺,",
+            "originals": [
+                "أَلَمْ",
+                "نَشْرَحْ",
+                "لَكَ",
+                "صَدْرَكَ"
+            ],
+            "translations": [
+                "Have not",
+                "We expanded",
+                "for you",
+                "your breast"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+            "translation": "relieved you of the burden",
+            "originals": [
+                "وَوَضَعْنَا",
+                "عَنكَ",
+                "وِزْرَكَ"
+            ],
+            "translations": [
+                "And We removed",
+                "from you",
+                "your burden"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ",
+            "translation": "which weighed so heavily on your back,",
+            "originals": [
+                "ٱلَّذِىٓ",
+                "أَنقَضَ",
+                "ظَهْرَكَ"
+            ],
+            "translations": [
+                "Which",
+                "weighed upon",
+                "your back"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+            "translation": "and elevated your renown for you?<sup foot_note=77626>1</sup>",
+            "originals": [
+                "وَرَفَعْنَا",
+                "لَكَ",
+                "ذِكْرَكَ"
+            ],
+            "translations": [
+                "And We raised high",
+                "for you",
+                "your reputation"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+            "translation": "So, surely with hardship comes ease.",
+            "originals": [
+                "فَإِنَّ",
+                "مَعَ",
+                "ٱلْعُسْرِ",
+                "يُسْرًا"
+            ],
+            "translations": [
+                "So indeed",
+                "with",
+                "the hardship",
+                "(is) ease"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+            "translation": "Surely with ˹that˺ hardship comes ˹more˺ ease.<sup foot_note=77627>1</sup>",
+            "originals": [
+                "إِنَّ",
+                "مَعَ",
+                "ٱلْعُسْرِ",
+                "يُسْرًۭا"
+            ],
+            "translations": [
+                "Indeed",
+                "with",
+                "the hardship",
+                "(is) ease"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "فَإِذَا فَرَغْتَ فَٱنصَبْ",
+            "translation": "So once you have fulfilled ˹your duty˺, strive ˹in devotion˺,",
+            "originals": [
+                "فَإِذَا",
+                "فَرَغْتَ",
+                "فَٱنصَبْ"
+            ],
+            "translations": [
+                "So when",
+                "you have finished",
+                "then labor hard"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "وَإِلَىٰ رَبِّكَ فَٱرْغَب",
+            "translation": "turning to your Lord ˹alone˺ with hope.",
+            "originals": [
+                "وَإِلَىٰ",
+                "رَبِّكَ",
+                "فَٱرْغَب"
+            ],
+            "translations": [
+                "And to",
+                "your Lord",
+                "turn your attention"
+            ]
+        }
+    ]
+}

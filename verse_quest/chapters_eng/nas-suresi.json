@@ -1,0 +1,102 @@
+{
+    "id": "nas-suresi",
+    "name": "Mankind",
+    "description": "Mankind - 114",
+    "index": 114,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+            "translation": "Say, ˹O Prophet,˺ “I seek refuge in the Lord of humankind,",
+            "originals": [
+                "قُلْ",
+                "أَعُوذُ",
+                "بِرَبِّ",
+                "ٱلنَّاسِ"
+            ],
+            "translations": [
+                "Say",
+                "I seek refuge",
+                "in (the) Lord",
+                "(of) mankind"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "مَلِكِ ٱلنَّاسِ",
+            "translation": "the Master of humankind,",
+            "originals": [
+                "مَلِكِ",
+                "ٱلنَّاسِ"
+            ],
+            "translations": [
+                "(The) King",
+                "(of) mankind"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "إِلَـٰهِ ٱلنَّاسِ",
+            "translation": "the God of humankind,",
+            "originals": [
+                "إِلَـٰهِ",
+                "ٱلنَّاسِ"
+            ],
+            "translations": [
+                "(The) God",
+                "(of) mankind"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+            "translation": "from the evil of the lurking whisperer—",
+            "originals": [
+                "مِن",
+                "شَرِّ",
+                "ٱلْوَسْوَاسِ",
+                "ٱلْخَنَّاسِ"
+            ],
+            "translations": [
+                "From",
+                "(the) evil",
+                "(of) the whisperer",
+                "the one who withdraws"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
+            "translation": "who whispers into the hearts of humankind—",
+            "originals": [
+                "ٱلَّذِى",
+                "يُوَسْوِسُ",
+                "فِى",
+                "صُدُورِ",
+                "ٱلنَّاسِ"
+            ],
+            "translations": [
+                "The one who",
+                "whispers",
+                "in",
+                "(the) breasts",
+                "(of) mankind"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+            "translation": "from among jinn and humankind.”",
+            "originals": [
+                "مِنَ",
+                "ٱلْجِنَّةِ",
+                "وَٱلنَّاسِ"
+            ],
+            "translations": [
+                "From",
+                "the jinn",
+                "and men"
+            ]
+        }
+    ]
+}

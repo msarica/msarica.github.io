@@ -1,0 +1,365 @@
+{
+    "id": "hicr-suresi",
+    "name": "The Rocky Tract",
+    "description": "The Rocky Tract - 15",
+    "index": 15,
+    "sentences": [
+        {
+            "id": "1",
+            "sentence": " الٓر ۚ تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ وَقُرْءَانٍ مُّبِينٍ",
+            "translation": "Alif-Lãm-Ra. These are the verses of the Book; the clear Quran.",
+            "originals": [
+                "الٓر ۚ",
+                "تِلْكَ",
+                "ءَايَـٰتُ",
+                "ٱلْكِتَـٰبِ",
+                "وَقُرْءَانٍۢ",
+                "مُّبِينٍۢ"
+            ],
+            "translations": [
+                "Alif Laam Ra",
+                "These",
+                "(are) the Verses",
+                "(of) the Book",
+                "and Quran",
+                "clear"
+            ]
+        },
+        {
+            "id": "2",
+            "sentence": "رُّبَمَا يَوَدُّ ٱلَّذِينَ كَفَرُوا۟ لَوْ كَانُوا۟ مُسْلِمِينَ",
+            "translation": "˹The day will come when˺ the disbelievers will certainly wish they had submitted ˹to Allah˺.<sup foot_note=76826>1</sup>",
+            "originals": [
+                "رُّبَمَا",
+                "يَوَدُّ",
+                "ٱلَّذِينَ",
+                "كَفَرُوا۟",
+                "لَوْ",
+                "كَانُوا۟",
+                "مُسْلِمِينَ"
+            ],
+            "translations": [
+                "Perhaps",
+                "will wish",
+                "those who",
+                "disbelieved",
+                "if",
+                "they had been",
+                "Muslims"
+            ]
+        },
+        {
+            "id": "3",
+            "sentence": "ذَرْهُمْ يَأْكُلُوا۟ وَيَتَمَتَّعُوا۟ وَيُلْهِهِمُ ٱلْأَمَلُ ۖ فَسَوْفَ يَعْلَمُونَ",
+            "translation": "˹So˺ let them eat and enjoy themselves and be diverted by ˹false˺ hope, for they will soon know.",
+            "originals": [
+                "ذَرْهُمْ",
+                "يَأْكُلُوا۟",
+                "وَيَتَمَتَّعُوا۟",
+                "وَيُلْهِهِمُ",
+                "ٱلْأَمَلُ ۖ",
+                "فَسَوْفَ",
+                "يَعْلَمُونَ"
+            ],
+            "translations": [
+                "Leave them",
+                "(to) eat",
+                "and enjoy",
+                "and diverted them",
+                "the hope",
+                "then soon",
+                "they will come to know"
+            ]
+        },
+        {
+            "id": "4",
+            "sentence": "وَمَآ أَهْلَكْنَا مِن قَرْيَةٍ إِلَّا وَلَهَا كِتَابٌ مَّعْلُومٌ",
+            "translation": "We have never destroyed a society without a destined term.",
+            "originals": [
+                "وَمَآ",
+                "أَهْلَكْنَا",
+                "مِن",
+                "قَرْيَةٍ",
+                "إِلَّا",
+                "وَلَهَا",
+                "كِتَابٌۭ",
+                "مَّعْلُومٌۭ"
+            ],
+            "translations": [
+                "And not",
+                "We destroyed",
+                "any",
+                "town",
+                "but",
+                "(there was) for it",
+                "a decree",
+                "known"
+            ]
+        },
+        {
+            "id": "5",
+            "sentence": "مَّا تَسْبِقُ مِنْ أُمَّةٍ أَجَلَهَا وَمَا يَسْتَـْٔخِرُونَ",
+            "translation": "No people can advance their doom, nor can they delay it.",
+            "originals": [
+                "مَّا",
+                "تَسْبِقُ",
+                "مِنْ",
+                "أُمَّةٍ",
+                "أَجَلَهَا",
+                "وَمَا",
+                "يَسْتَـْٔخِرُونَ"
+            ],
+            "translations": [
+                "Not",
+                "(can) advance",
+                "any",
+                "nation",
+                "its term",
+                "and not",
+                "(can) delay it"
+            ]
+        },
+        {
+            "id": "6",
+            "sentence": "وَقَالُوا۟ يَـٰٓأَيُّهَا ٱلَّذِى نُزِّلَ عَلَيْهِ ٱلذِّكْرُ إِنَّكَ لَمَجْنُونٌ",
+            "translation": "They say, “O you to whom the Reminder<sup foot_note=76827>1</sup> is revealed! You must be insane!",
+            "originals": [
+                "وَقَالُوا۟",
+                "يَـٰٓأَيُّهَا",
+                "ٱلَّذِى",
+                "نُزِّلَ",
+                "عَلَيْهِ",
+                "ٱلذِّكْرُ",
+                "إِنَّكَ",
+                "لَمَجْنُونٌۭ"
+            ],
+            "translations": [
+                "And they say",
+                "O you",
+                "(to) whom",
+                "has been sent down",
+                "[on him]",
+                "the Reminder",
+                "indeed, you",
+                "(are) surely mad"
+            ]
+        },
+        {
+            "id": "7",
+            "sentence": "لَّوْ مَا تَأْتِينَا بِٱلْمَلَـٰٓئِكَةِ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+            "translation": "Why do you not bring us the angels, if what you say is true?”",
+            "originals": [
+                "لَّوْ",
+                "مَا",
+                "تَأْتِينَا",
+                "بِٱلْمَلَـٰٓئِكَةِ",
+                "إِن",
+                "كُنتَ",
+                "مِنَ",
+                "ٱلصَّـٰدِقِينَ"
+            ],
+            "translations": [
+                "Why",
+                "not",
+                "you bring to us",
+                "the Angels",
+                "if",
+                "you are",
+                "of",
+                "the truthful"
+            ]
+        },
+        {
+            "id": "8",
+            "sentence": "مَا نُنَزِّلُ ٱلْمَلَـٰٓئِكَةَ إِلَّا بِٱلْحَقِّ وَمَا كَانُوٓا۟ إِذًا مُّنظَرِينَ",
+            "translation": "We do not send the angels down except for a just cause, and then ˹the end of˺ the disbelievers will not be delayed.",
+            "originals": [
+                "مَا",
+                "نُنَزِّلُ",
+                "ٱلْمَلَـٰٓئِكَةَ",
+                "إِلَّا",
+                "بِٱلْحَقِّ",
+                "وَمَا",
+                "كَانُوٓا۟",
+                "إِذًۭا",
+                "مُّنظَرِينَ"
+            ],
+            "translations": [
+                "Not",
+                "We send down",
+                "the Angels",
+                "except",
+                "with the truth",
+                "and not",
+                "they would be",
+                "then",
+                "given respite"
+            ]
+        },
+        {
+            "id": "9",
+            "sentence": "إِنَّا نَحْنُ نَزَّلْنَا ٱلذِّكْرَ وَإِنَّا لَهُۥ لَحَـٰفِظُونَ",
+            "translation": "It is certainly We Who have revealed the Reminder, and it is certainly We Who will preserve it.",
+            "originals": [
+                "إِنَّا",
+                "نَحْنُ",
+                "نَزَّلْنَا",
+                "ٱلذِّكْرَ",
+                "وَإِنَّا",
+                "لَهُۥ",
+                "لَحَـٰفِظُونَ"
+            ],
+            "translations": [
+                "Indeed, We",
+                "We",
+                "have sent down",
+                "the Reminder",
+                "and indeed, We",
+                "of it",
+                "(are) surely Guardians"
+            ]
+        },
+        {
+            "id": "10",
+            "sentence": "وَلَقَدْ أَرْسَلْنَا مِن قَبْلِكَ فِى شِيَعِ ٱلْأَوَّلِينَ",
+            "translation": "Indeed, We sent messengers before you ˹O Prophet˺ among the groups of early peoples,",
+            "originals": [
+                "وَلَقَدْ",
+                "أَرْسَلْنَا",
+                "مِن",
+                "قَبْلِكَ",
+                "فِى",
+                "شِيَعِ",
+                "ٱلْأَوَّلِينَ"
+            ],
+            "translations": [
+                "And certainly",
+                "We (had) sent",
+                "before you",
+                "before you",
+                "in",
+                "the sects",
+                "(of) the former (people)"
+            ]
+        },
+        {
+            "id": "11",
+            "sentence": "وَمَا يَأْتِيهِم مِّن رَّسُولٍ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+            "translation": "but no messenger ever came to them without being mocked.",
+            "originals": [
+                "وَمَا",
+                "يَأْتِيهِم",
+                "مِّن",
+                "رَّسُولٍ",
+                "إِلَّا",
+                "كَانُوا۟",
+                "بِهِۦ",
+                "يَسْتَهْزِءُونَ"
+            ],
+            "translations": [
+                "And not",
+                "came to them",
+                "any",
+                "Messenger",
+                "but",
+                "they did",
+                "at him",
+                "mock"
+            ]
+        },
+        {
+            "id": "12",
+            "sentence": "كَذَٰلِكَ نَسْلُكُهُۥ فِى قُلُوبِ ٱلْمُجْرِمِينَ",
+            "translation": "This is how We allow disbelief ˹to steep˺ into the hearts of the wicked.",
+            "originals": [
+                "كَذَٰلِكَ",
+                "نَسْلُكُهُۥ",
+                "فِى",
+                "قُلُوبِ",
+                "ٱلْمُجْرِمِينَ"
+            ],
+            "translations": [
+                "Thus",
+                "We let it enter",
+                "in",
+                "(the) hearts",
+                "(of) the criminals"
+            ]
+        },
+        {
+            "id": "13",
+            "sentence": "لَا يُؤْمِنُونَ بِهِۦ ۖ وَقَدْ خَلَتْ سُنَّةُ ٱلْأَوَّلِينَ",
+            "translation": "They would not believe in this ˹Quran˺ despite the ˹many˺ examples of those ˹destroyed˺ before.",
+            "originals": [
+                "لَا",
+                "يُؤْمِنُونَ",
+                "بِهِۦ ۖ",
+                "وَقَدْ",
+                "خَلَتْ",
+                "سُنَّةُ",
+                "ٱلْأَوَّلِينَ"
+            ],
+            "translations": [
+                "Not",
+                "they believe",
+                "in it",
+                "and verily",
+                "have passed",
+                "the way(s)",
+                "(of) the former (people)"
+            ]
+        },
+        {
+            "id": "14",
+            "sentence": "وَلَوْ فَتَحْنَا عَلَيْهِم بَابًا مِّنَ ٱلسَّمَآءِ فَظَلُّوا۟ فِيهِ يَعْرُجُونَ",
+            "translation": "And even if We opened for them a gate to heaven, through which they continued to ascend,",
+            "originals": [
+                "وَلَوْ",
+                "فَتَحْنَا",
+                "عَلَيْهِم",
+                "بَابًۭا",
+                "مِّنَ",
+                "ٱلسَّمَآءِ",
+                "فَظَلُّوا۟",
+                "فِيهِ",
+                "يَعْرُجُونَ"
+            ],
+            "translations": [
+                "And (even) if",
+                "We opened",
+                "to them",
+                "a gate",
+                "from",
+                "the heaven",
+                "and they were to continue",
+                "therein",
+                "(to) ascend"
+            ]
+        },
+        {
+            "id": "15",
+            "sentence": "لَقَالُوٓا۟ إِنَّمَا سُكِّرَتْ أَبْصَـٰرُنَا بَلْ نَحْنُ قَوْمٌ مَّسْحُورُونَ",
+            "translation": "still they would say, “Our eyes have truly been dazzled! In fact, we must have been bewitched.”",
+            "originals": [
+                "لَقَالُوٓا۟",
+                "إِنَّمَا",
+                "سُكِّرَتْ",
+                "أَبْصَـٰرُنَا",
+                "بَلْ",
+                "نَحْنُ",
+                "قَوْمٌۭ",
+                "مَّسْحُورُونَ"
+            ],
+            "translations": [
+                "They would surely say",
+                "Only",
+                "have been dazzled",
+                "our eyes",
+                "Nay",
+                "we",
+                "(are) a people",
+                "bewitched"
+            ]
+        }
+    ]
+}
